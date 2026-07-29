@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2016114280933040339",
+    "created_at": "2026-01-27T11:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T12:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016114280933040339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1550358687062994946",
+          "start": 3,
+          "username": "wenqing18973238"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016114280933040339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 287
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015739933676425247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wenqing18973238: 我们不说卧轨，我们说生命奔向呼啸。\n我们不说服毒，我们说生命吻别甘醇。\n我们不说割脉，我们说生命漫过掌纹。\n我们不说自焚，我们说生命燃成霞光。\n我们不说绝食，我们说生命归于清寂。\n我们不说跳楼，我们说生命掷地有声。\n我们不说跳河，我们说…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2016114280933040339",
+        "created_at": "2026-01-27T11:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016114280933040339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1550358687062994946",
+              "start": 3,
+              "username": "wenqing18973238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016114280933040339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 287
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015739933676425247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wenqing18973238: 我们不说卧轨，我们说生命奔向呼啸。\n我们不说服毒，我们说生命吻别甘醇。\n我们不说割脉，我们说生命漫过掌纹。\n我们不说自焚，我们说生命燃成霞光。\n我们不说绝食，我们说生命归于清寂。\n我们不说跳楼，我们说生命掷地有声。\n我们不说跳河，我们说…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550358687062994946",
+        "conversation_id": "2015739933676425247",
+        "created_at": "2026-01-26T10:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015739933676425247"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015739933676425247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 242,
+          "impression_count": 64326,
+          "like_count": 1937,
+          "quote_count": 9,
+          "reply_count": 17,
+          "retweet_count": 287
+        },
+        "reply_settings": "everyone",
+        "text": "我们不说卧轨，我们说生命奔向呼啸。\n我们不说服毒，我们说生命吻别甘醇。\n我们不说割脉，我们说生命漫过掌纹。\n我们不说自焚，我们说生命燃成霞光。\n我们不说绝食，我们说生命归于清寂。\n我们不说跳楼，我们说生命掷地有声。\n我们不说跳河，我们说生命随波逐流。\n我们不说上吊，我们说生命随风而动。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 77,
+          "like_count": 1268,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 241
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T05:55:01.000Z",
+        "description": "新世界並不很新，舊世界並不很旧。20歲/法學在讀",
+        "id": "1550358687062994946",
+        "name": "Naka（埃迪卡拉紀水母幽靈）",
+        "pinned_tweet_id": "2011117064002683113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973425672623468544/i_bHcaYY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 2410,
+          "like_count": 15943,
+          "listed_count": 5,
+          "media_count": 185,
+          "tweet_count": 2771
+        },
+        "username": "wenqing18973238",
+        "verified": false
+      }
+    ]
+  }
+}

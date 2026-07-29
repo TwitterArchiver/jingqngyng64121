@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2032760985946370438",
+    "created_at": "2026-03-15T00:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T01:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032979574683029565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1786228870276165632",
+          "start": 0,
+          "username": "cxk1527789"
+        },
+        {
+          "end": 26,
+          "id": "1916824571128287232",
+          "start": 12,
+          "username": "fayoubaike666"
+        },
+        {
+          "end": 37,
+          "id": "1228546301572173825",
+          "start": 27,
+          "username": "AAAAAMTxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032979574683029565",
+    "in_reply_to_user_id": "1786228870276165632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032977406898876701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxk1527789 @fayoubaike666 @AAAAAMTxT 我上次买了20盒没被晶 这次应该也不会吧（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2032760985946370438",
+        "created_at": "2026-03-15T00:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T01:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032979574683029565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1786228870276165632",
+              "start": 0,
+              "username": "cxk1527789"
+            },
+            {
+              "end": 26,
+              "id": "1916824571128287232",
+              "start": 12,
+              "username": "fayoubaike666"
+            },
+            {
+              "end": 37,
+              "id": "1228546301572173825",
+              "start": 27,
+              "username": "AAAAAMTxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032979574683029565",
+        "in_reply_to_user_id": "1786228870276165632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032977406898876701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxk1527789 @fayoubaike666 @AAAAAMTxT 我上次买了20盒没被晶 这次应该也不会吧（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786228870276165632",
+        "conversation_id": "2032760985946370438",
+        "created_at": "2026-03-15T00:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T01:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032977406898876701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1992506703678705664",
+              "start": 0,
+              "username": "jingqngyng64121"
+            },
+            {
+              "end": 31,
+              "id": "1916824571128287232",
+              "start": 17,
+              "username": "fayoubaike666"
+            },
+            {
+              "end": 42,
+              "id": "1228546301572173825",
+              "start": 32,
+              "username": "AAAAAMTxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032977406898876701",
+        "in_reply_to_user_id": "1992506703678705664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032812984226164925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingqngyng64121 @fayoubaike666 @AAAAAMTxT 不会被晶吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 232,
+          "like_count": 4447,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 697
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T02:59:35.000Z",
+        "description": "我是大傻比/抽象  大号@trevor8731",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "trevor8731"
+              }
+            ]
+          }
+        },
+        "id": "1786228870276165632",
+        "name": "音频缩混_菜虚鲲887(2)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802745577190633472/-NTL_e-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 133,
+          "like_count": 4495,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 582
+        },
+        "username": "cxk1527789",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "由法友百科Sakura与meng运营\n个人博客：https://t.co/N5OWFEYlEo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pr80.bid",
+                "end": 47,
+                "expanded_url": "https://pr80.bid/",
+                "start": 24,
+                "url": "https://t.co/N5OWFEYlEo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.bid",
+                "end": 23,
+                "expanded_url": "https://pr80.bid/",
+                "start": 0,
+                "url": "https://t.co/N5OWFEYlEo"
+              }
+            ]
+          }
+        },
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "法友百科#物质研究",
+        "pinned_tweet_id": "2031291592368337051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031290772440641536/QNkKbty9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 323,
+          "like_count": 143,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 298
+        },
+        "url": "https://t.co/N5OWFEYlEo",
+        "username": "fayoubaike666",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-15T05:07:27.000Z",
+        "description": "这里*****，可以叫我星星星星星/坐标厦门/非二元性别生理双性/重度恋痛/嗑药od自残/会互fo一些同属性的宝宝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaaaamtxt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaaaamtxt",
+                "start": 0,
+                "url": "https://t.co/WjhB4pS4f2"
+              }
+            ]
+          }
+        },
+        "id": "1228546301572173825",
+        "name": "*****🍥（混沌邪恶少女）",
+        "pinned_tweet_id": "2031380325709103481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597279516568625152/vnOBUIVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 745,
+          "like_count": 27130,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 5414
+        },
+        "url": "https://t.co/WjhB4pS4f2",
+        "username": "AAAAAMTxT",
+        "verified": false
+      }
+    ]
+  }
+}

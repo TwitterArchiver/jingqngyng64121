@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1780938761024786432"
+      ],
+      "media_source_tweet_id": [
+        "1780938834760602104"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2032442931056128108",
+    "created_at": "2026-03-13T13:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T14:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032442931056128108"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "音無彩名",
+          "probability": 0.8855,
+          "start": 19,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 24,
+          "tag": "素晴らしき日々"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1498094001039163395",
+          "start": 3,
+          "username": "postmodernhip"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JHHcGm14AE",
+          "end": 56,
+          "expanded_url": "https://x.com/postmodernhip/status/1780938834760602104/photo/1",
+          "media_key": "16_1780938761024786432",
+          "start": 33,
+          "url": "https://t.co/JHHcGm14AE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032442931056128108",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1780938834760602104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @postmodernhip: 音無彩名\n#素晴らしき日々 https://t.co/JHHcGm14AE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "16_1780938761024786432",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GLcqXgmbUAAqRhq.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GLcqXgmbUAAqRhq.mp4"
+          }
+        ],
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1780938761024786432"
+          ],
+          "media_source_tweet_id": [
+            "1780938834760602104"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2032442931056128108",
+        "created_at": "2026-03-13T13:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032442931056128108"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "音無彩名",
+              "probability": 0.8855,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 24,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1498094001039163395",
+              "start": 3,
+              "username": "postmodernhip"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JHHcGm14AE",
+              "end": 56,
+              "expanded_url": "https://x.com/postmodernhip/status/1780938834760602104/photo/1",
+              "media_key": "16_1780938761024786432",
+              "start": 33,
+              "url": "https://t.co/JHHcGm14AE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032442931056128108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1780938834760602104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @postmodernhip: 音無彩名\n#素晴らしき日々 https://t.co/JHHcGm14AE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1780938761024786432"
+          ]
+        },
+        "author_id": "1498094001039163395",
+        "conversation_id": "1780938834760602104",
+        "created_at": "2024-04-18T12:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-18T13:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1780938834760602104"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "音無彩名",
+              "probability": 0.9202,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 5,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JHHcGm14AE",
+              "end": 37,
+              "expanded_url": "https://x.com/postmodernhip/status/1780938834760602104/photo/1",
+              "media_key": "16_1780938761024786432",
+              "start": 14,
+              "url": "https://t.co/JHHcGm14AE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1780938834760602104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1695,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "音無彩名\n#素晴らしき日々 https://t.co/JHHcGm14AE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 221,
+          "like_count": 4176,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 666
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-28T00:33:52.000Z",
+        "description": "postmodernhippie(たまにbedroom angel)という名義で作品をリリースしておりマス\nhttps://t.co/aEGhvGk7pT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "songwhip.com/postmodernhipp…",
+                "end": 77,
+                "expanded_url": "https://songwhip.com/postmodernhippie",
+                "start": 54,
+                "url": "https://t.co/aEGhvGk7pT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@postmodernxixi",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@postmodernxixi",
+                "start": 0,
+                "url": "https://t.co/rs6gfPLJQ7"
+              }
+            ]
+          }
+        },
+        "id": "1498094001039163395",
+        "location": "うろうろ形而上世界遊泳",
+        "name": "希希 (シシ)",
+        "pinned_tweet_id": "1950863232337633482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018152297390579712/iGVIHUr__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2101,
+          "following_count": 2660,
+          "like_count": 78714,
+          "listed_count": 21,
+          "media_count": 1674,
+          "tweet_count": 12300
+        },
+        "url": "https://t.co/rs6gfPLJQ7",
+        "username": "postmodernhip",
+        "verified": false
+      }
+    ]
+  }
+}

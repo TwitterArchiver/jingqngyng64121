@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2067504097738256661",
+    "created_at": "2026-06-18T07:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067504097738256661"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 107,
+          "start": 103,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 113,
+          "start": 108,
+          "tag": "线下dd"
+        },
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "原味"
+        },
+        {
+          "end": 121,
+          "start": 118,
+          "tag": "反差"
+        },
+        {
+          "end": 130,
+          "start": 122,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2062190597423923200",
+          "start": 3,
+          "username": "xuanxuan17443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067504097738256661",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065278880752296051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuanxuan17443: 是轩轩哒 刚回归 转世重生\n支持各种举牌验证！\n我很可爱也很缺钱*\n喜欢我请给我打钱吧\n出原味出图包线上约调陪玩\n欢迎可爱小女孩们互转互fo 转贴 评论 抽不等红包的！＃门槛妹 ＃线下dd #原味 #反差 #cosplay https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2065278864830652416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlYL2xaYAAiCD0.jpg",
+        "width": 1024
+      },
+      {
+        "height": 590,
+        "media_key": "3_2065278864591589376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlYL14akAAqAeD.jpg",
+        "width": 1180
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2065278864574816256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlYL10aoAAZLMg.jpg",
+        "width": 766
+      },
+      {
+        "height": 770,
+        "media_key": "3_2065278864595750913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlYL15aEAE9F8u.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2067504097738256661",
+        "created_at": "2026-06-18T07:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067504097738256661"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 103,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 113,
+              "start": 108,
+              "tag": "线下dd"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "原味"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "反差"
+            },
+            {
+              "end": 130,
+              "start": 122,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2062190597423923200",
+              "start": 3,
+              "username": "xuanxuan17443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067504097738256661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065278880752296051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuanxuan17443: 是轩轩哒 刚回归 转世重生\n支持各种举牌验证！\n我很可爱也很缺钱*\n喜欢我请给我打钱吧\n出原味出图包线上约调陪玩\n欢迎可爱小女孩们互转互fo 转贴 评论 抽不等红包的！＃门槛妹 ＃线下dd #原味 #反差 #cosplay https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065278864830652416",
+            "3_2065278864591589376",
+            "3_2065278864574816256",
+            "3_2065278864595750913"
+          ]
+        },
+        "author_id": "2062190597423923200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2065278880752296051",
+        "created_at": "2026-06-12T03:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065278880752296051"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "线下dd"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "原味"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "反差"
+            },
+            {
+              "end": 111,
+              "start": 103,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7aMhT6wog4",
+              "end": 135,
+              "expanded_url": "https://x.com/xuanxuan17443/status/2065278880752296051/photo/1",
+              "media_key": "3_2065278864830652416",
+              "start": 112,
+              "url": "https://t.co/7aMhT6wog4"
+            },
+            {
+              "display_url": "pic.x.com/7aMhT6wog4",
+              "end": 135,
+              "expanded_url": "https://x.com/xuanxuan17443/status/2065278880752296051/photo/1",
+              "media_key": "3_2065278864591589376",
+              "start": 112,
+              "url": "https://t.co/7aMhT6wog4"
+            },
+            {
+              "display_url": "pic.x.com/7aMhT6wog4",
+              "end": 135,
+              "expanded_url": "https://x.com/xuanxuan17443/status/2065278880752296051/photo/1",
+              "media_key": "3_2065278864574816256",
+              "start": 112,
+              "url": "https://t.co/7aMhT6wog4"
+            },
+            {
+              "display_url": "pic.x.com/7aMhT6wog4",
+              "end": 135,
+              "expanded_url": "https://x.com/xuanxuan17443/status/2065278880752296051/photo/1",
+              "media_key": "3_2065278864595750913",
+              "start": 112,
+              "url": "https://t.co/7aMhT6wog4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065278880752296051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8268,
+          "like_count": 315,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "是轩轩哒 刚回归 转世重生\n支持各种举牌验证！\n我很可爱也很缺钱*\n喜欢我请给我打钱吧\n出原味出图包线上约调陪玩\n欢迎可爱小女孩们互转互fo 转贴 评论 抽不等红包的！＃门槛妹 ＃线下dd #原味 #反差 #cosplay https://t.co/7aMhT6wog4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 412,
+          "like_count": 7758,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1607
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T15:12:16.000Z",
+        "description": "@这里是轩轩 喜欢我请过门叭ww 支持口令和赞赏码@请多多爱我吧 我超会提供情绪价值哒* 🚪168/288/520/1314/2888/5200",
+        "id": "2062190597423923200",
+        "location": "距离你2.33km",
+        "name": "轩轩sama",
+        "pinned_tweet_id": "2065278880752296051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064543255732293632/9j9qHL1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 5,
+          "like_count": 4,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "xuanxuan17443",
+        "verified": true
+      }
+    ]
+  }
+}

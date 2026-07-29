@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2018291845210718583",
+    "created_at": "2026-02-02T12:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T13:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018307438563467329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1956544219751063552",
+          "start": 0,
+          "username": "wu_si42846"
+        },
+        {
+          "end": 23,
+          "id": "1887076618969182208",
+          "start": 12,
+          "username": "Chufeinyax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018307438563467329",
+    "in_reply_to_user_id": "1956544219751063552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018293904446206417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wu_si42846 @Chufeinyax 学校牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2018291845210718583",
+        "created_at": "2026-02-02T12:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T13:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018307438563467329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956544219751063552",
+              "start": 0,
+              "username": "wu_si42846"
+            },
+            {
+              "end": 23,
+              "id": "1887076618969182208",
+              "start": 12,
+              "username": "Chufeinyax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018307438563467329",
+        "in_reply_to_user_id": "1956544219751063552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018293904446206417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu_si42846 @Chufeinyax 学校牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956544219751063552",
+        "conversation_id": "2018291845210718583",
+        "created_at": "2026-02-02T12:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T13:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018293904446206417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1887076618969182208",
+              "start": 0,
+              "username": "Chufeinyax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018293904446206417",
+        "in_reply_to_user_id": "1887076618969182208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018293778604531993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chufeinyax 学校牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 113,
+          "like_count": 1802,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 330
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T02:31:25.000Z",
+        "description": "我就是那位看着你的佛🔪_\n- ✰*🎀 ੈ✩🐰✰*💗 ੈ✩-\n@overreach_026 最傻逼的学姐\n_高度活跃互联网！想交朋友！互fo捏_\n_（我是低齡憂鬱糖人大傻福，實在抱歉！）_\n（如果看到我连续发了很多条帖子请立马叫我去学习！）_\n很多不良嗜好 -12现役初中生_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "overreach_026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iRin19196",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iRin19196",
+                "start": 0,
+                "url": "https://t.co/uWp3iQGWKL"
+              }
+            ]
+          }
+        },
+        "id": "1956544219751063552",
+        "location": "你看看你身后呢",
+        "name": "霖（完全病娇邪恶中2）",
+        "pinned_tweet_id": "2012134116444295316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011083699753000960/YuM05dcu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 176,
+          "like_count": 4960,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1129
+        },
+        "url": "https://t.co/uWp3iQGWKL",
+        "username": "wu_si42846",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T09:51:52.000Z",
+        "description": "散播暴论 | em chuyển/lesbian | 连夜梦觉 Liên Dạ Mộng Giác | 我那未曾谋面的姐姐因我逝，我要替她活下去😖 | @Chufeinya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "Chufeinya"
+              }
+            ]
+          }
+        },
+        "id": "1887076618969182208",
+        "location": "Lăng Nha",
+        "name": "Sơ Phi🇻🇳",
+        "pinned_tweet_id": "2011074984731640090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001324143204290560/MkZeQFNh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 90,
+          "like_count": 447,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 103
+        },
+        "username": "Chufeinyax",
+        "verified": false
+      }
+    ]
+  }
+}

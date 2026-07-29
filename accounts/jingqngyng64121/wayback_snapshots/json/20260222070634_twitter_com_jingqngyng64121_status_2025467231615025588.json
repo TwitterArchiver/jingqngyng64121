@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025467218897895429"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2025467231615025588",
+    "created_at": "2026-02-22T07:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T08:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025467231615025588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jZj6T63bWR",
+          "end": 37,
+          "expanded_url": "https://x.com/jingqngyng64121/status/2025467231615025588/photo/1",
+          "media_key": "3_2025467218897895429",
+          "start": 14,
+          "url": "https://t.co/jZj6T63bWR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025467231615025588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个20盒真的不会被京吗😨 https://t.co/jZj6T63bWR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2025467231615025588].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2025467231615025588",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2025467231615025588"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2025467218897895429",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvntEabgAUKZjb.jpg",
+        "width": 1170
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 182,
+          "like_count": 3347,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 522
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      }
+    ]
+  }
+}

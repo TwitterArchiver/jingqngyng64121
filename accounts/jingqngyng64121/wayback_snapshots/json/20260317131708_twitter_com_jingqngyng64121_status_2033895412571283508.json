@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2033895412571283508",
+    "created_at": "2026-03-17T13:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T14:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033895412571283508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "622036546",
+          "start": 3,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033895412571283508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033836157235245128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose_six: 大学生宿舍常备药品：\n\n普瑞巴林 愈美片 金刚烷胺 美金刚 苯海拉明 复方甘草片 白兔Bron 苯乙胺 司来吉兰 昂丹司琼 甲氧氯普胺 阿普唑仑 氯硝西泮 唑吡坦 相思树皮 骆驼蓬子 DPT LSD 无菌生理盐水 医用酒精 一次性医用针筒 棉…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2033895412571283508",
+        "created_at": "2026-03-17T13:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033895412571283508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "622036546",
+              "start": 3,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033895412571283508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033836157235245128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose_six: 大学生宿舍常备药品：\n\n普瑞巴林 愈美片 金刚烷胺 美金刚 苯海拉明 复方甘草片 白兔Bron 苯乙胺 司来吉兰 昂丹司琼 甲氧氯普胺 阿普唑仑 氯硝西泮 唑吡坦 相思树皮 骆驼蓬子 DPT LSD 无菌生理盐水 医用酒精 一次性医用针筒 棉…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "2033836157235245128",
+        "created_at": "2026-03-17T09:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T10:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033836157235245128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033836157235245128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 3059,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "大学生宿舍常备药品：\n\n普瑞巴林 愈美片 金刚烷胺 美金刚 苯海拉明 复方甘草片 白兔Bron 苯乙胺 司来吉兰 昂丹司琼 甲氧氯普胺 阿普唑仑 氯硝西泮 唑吡坦 相思树皮 骆驼蓬子 DPT LSD 无菌生理盐水 医用酒精 一次性医用针筒 棉签等"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 255,
+          "like_count": 4604,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 723
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "官网：https://t.co/Wxb5OnS7cE | 提问箱：https://t.co/b5c8bbntR6 | 里账号:@fuck_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fayou.sbs",
+                "end": 26,
+                "expanded_url": "http://fayou.sbs",
+                "start": 3,
+                "url": "https://t.co/Wxb5OnS7cE"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 56,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 33,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名#心宿二",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2844,
+          "following_count": 95,
+          "like_count": 11340,
+          "listed_count": 9,
+          "media_count": 664,
+          "tweet_count": 3977
+        },
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

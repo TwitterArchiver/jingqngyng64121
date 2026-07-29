@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021953065461731328",
+        "3_2021953065478500354"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2021953081685217788",
+    "created_at": "2026-02-12T14:22:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T15:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021953081685217788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1722890177696468992",
+          "start": 6,
+          "username": "ustuYukichan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tGfp1I8VOy",
+          "end": 43,
+          "expanded_url": "https://x.com/jingqngyng64121/status/2021953081685217788/photo/1",
+          "media_key": "3_2021953065461731328",
+          "start": 20,
+          "url": "https://t.co/tGfp1I8VOy"
+        },
+        {
+          "display_url": "pic.x.com/tGfp1I8VOy",
+          "end": 43,
+          "expanded_url": "https://x.com/jingqngyng64121/status/2021953081685217788/photo/1",
+          "media_key": "3_2021953065478500354",
+          "start": 20,
+          "url": "https://t.co/tGfp1I8VOy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021953081685217788",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日份幸福和@ustuYukichan https://t.co/tGfp1I8VOy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2021953081685217788].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2021953081685217788",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2021953081685217788"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2021953065461731328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9rmatb0AA7iVl.jpg",
+        "width": 3024
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2021953065478500354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9rmaxbsAIcdxu.jpg",
+        "width": 1170
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 139,
+          "like_count": 2615,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 405
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T08:13:34.000Z",
+        "description": "冬天的第一场雪｜病み垢｜リスカ｜od｜shutwt｜drugtwt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/utsuyukichan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/utsuyukichan",
+                "start": 0,
+                "url": "https://t.co/aIBR6RGUsi"
+              }
+            ]
+          }
+        },
+        "id": "1722890177696468992",
+        "location": "地獄",
+        "name": "有害天使",
+        "pinned_tweet_id": "2017060419937194182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950984901202944000/dCpmdRLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 418,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1211
+        },
+        "url": "https://t.co/aIBR6RGUsi",
+        "username": "ustuYukichan",
+        "verified": false
+      }
+    ]
+  }
+}

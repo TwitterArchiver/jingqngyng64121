@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041902502954905600"
+      ],
+      "media_source_tweet_id": [
+        "2041902510529786291"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2042467235789488325",
+    "created_at": "2026-04-10T04:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042467235789488325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1843344883983216640",
+          "start": 3,
+          "username": "rzf97"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1FygYgqNvk",
+          "end": 45,
+          "expanded_url": "https://x.com/rzf97/status/2041902510529786291/photo/1",
+          "media_key": "3_2041902502954905600",
+          "start": 22,
+          "url": "https://t.co/1FygYgqNvk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042467235789488325",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 137
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041902510529786291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rzf97: 音無彩名  ここ好き https://t.co/1FygYgqNvk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2041902502954905600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZLggqbsAA5TO1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041902502954905600"
+          ],
+          "media_source_tweet_id": [
+            "2041902510529786291"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2042467235789488325",
+        "created_at": "2026-04-10T04:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042467235789488325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1843344883983216640",
+              "start": 3,
+              "username": "rzf97"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1FygYgqNvk",
+              "end": 45,
+              "expanded_url": "https://x.com/rzf97/status/2041902510529786291/photo/1",
+              "media_key": "3_2041902502954905600",
+              "start": 22,
+              "url": "https://t.co/1FygYgqNvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042467235789488325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 137
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041902510529786291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rzf97: 音無彩名  ここ好き https://t.co/1FygYgqNvk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041902502954905600"
+          ]
+        },
+        "author_id": "1843344883983216640",
+        "conversation_id": "2041902510529786291",
+        "created_at": "2026-04-08T15:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041902510529786291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1FygYgqNvk",
+              "end": 34,
+              "expanded_url": "https://x.com/rzf97/status/2041902510529786291/photo/1",
+              "media_key": "3_2041902502954905600",
+              "start": 11,
+              "url": "https://t.co/1FygYgqNvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041902510529786291",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 6499,
+          "like_count": 679,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "音無彩名  ここ好き https://t.co/1FygYgqNvk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 324,
+          "like_count": 5625,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1004
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T17:37:35.000Z",
+        "description": "社畜期間でほぼログアウトしてます/BLゲーム・美少女ゲーム好き/大穢(大新)/自我垢▶︎@8Ww322",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 44,
+                "username": "8Ww322"
+              }
+            ]
+          }
+        },
+        "id": "1843344883983216640",
+        "name": "もぶもち",
+        "pinned_tweet_id": "1996174752663343175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021288385516900352/k4CTAgU0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 71,
+          "like_count": 4696,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 2529
+        },
+        "username": "rzf97",
+        "verified": false
+      }
+    ]
+  }
+}

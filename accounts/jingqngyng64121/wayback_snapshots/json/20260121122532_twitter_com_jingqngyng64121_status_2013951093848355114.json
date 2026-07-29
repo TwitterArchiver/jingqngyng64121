@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013694788093054976"
+      ],
+      "media_source_tweet_id": [
+        "2013694839272144903"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2013951093848355114",
+    "created_at": "2026-01-21T12:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T13:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013951093848355114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1730458100703064064",
+          "start": 3,
+          "username": "AngffaBang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0L8fmKb3T1",
+          "end": 55,
+          "expanded_url": "https://x.com/AngffaBang/status/2013694839272144903/photo/1",
+          "media_key": "3_2013694788093054976",
+          "start": 32,
+          "url": "https://t.co/0L8fmKb3T1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013951093848355114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013694839272144903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngffaBang: 什么时候我也能吃这个抗抑郁药😋 https://t.co/0L8fmKb3T1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_2013694788093054976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_IUvaJXkAAFeaE.jpg",
+        "width": 430
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013694788093054976"
+          ],
+          "media_source_tweet_id": [
+            "2013694839272144903"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2013951093848355114",
+        "created_at": "2026-01-21T12:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T13:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013951093848355114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1730458100703064064",
+              "start": 3,
+              "username": "AngffaBang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0L8fmKb3T1",
+              "end": 55,
+              "expanded_url": "https://x.com/AngffaBang/status/2013694839272144903/photo/1",
+              "media_key": "3_2013694788093054976",
+              "start": 32,
+              "url": "https://t.co/0L8fmKb3T1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013951093848355114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013694839272144903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AngffaBang: 什么时候我也能吃这个抗抑郁药😋 https://t.co/0L8fmKb3T1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013694788093054976"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "2013694839272144903",
+        "created_at": "2026-01-20T19:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T20:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013694839272144903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0L8fmKb3T1",
+              "end": 39,
+              "expanded_url": "https://x.com/AngffaBang/status/2013694839272144903/photo/1",
+              "media_key": "3_2013694788093054976",
+              "start": 16,
+              "url": "https://t.co/0L8fmKb3T1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013694839272144903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4251,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候我也能吃这个抗抑郁药😋 https://t.co/0L8fmKb3T1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 18,
+          "like_count": 828,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 125
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7141,
+          "following_count": 601,
+          "like_count": 6111,
+          "listed_count": 5,
+          "media_count": 442,
+          "tweet_count": 2655
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

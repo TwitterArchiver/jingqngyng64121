@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2022302302040907903",
+    "created_at": "2026-02-13T13:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T14:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022302302040907903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1775833048493240320",
+          "start": 3,
+          "username": "kainnox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022302302040907903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 161
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020896129442050204",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kainnox: 🎁 kuuki的抽奖\n\n奖品 （选一个）\n1. 4️⃣盒 pr 【150mg*32t 】\n2.两盒国补\n3. 50块 【微信】或者【支付宝】转你\n\n参与方式：\n1️⃣ fo我（会回）\n2️⃣ 转发本推\n中奖者 ：3人\n\n🎯 截止：500 fo\n如果提前…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2022302302040907903",
+        "created_at": "2026-02-13T13:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T14:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022302302040907903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1775833048493240320",
+              "start": 3,
+              "username": "kainnox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022302302040907903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 161
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020896129442050204",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kainnox: 🎁 kuuki的抽奖\n\n奖品 （选一个）\n1. 4️⃣盒 pr 【150mg*32t 】\n2.两盒国补\n3. 50块 【微信】或者【支付宝】转你\n\n参与方式：\n1️⃣ fo我（会回）\n2️⃣ 转发本推\n中奖者 ：3人\n\n🎯 截止：500 fo\n如果提前…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775833048493240320",
+        "conversation_id": "2020896129442050204",
+        "created_at": "2026-02-09T16:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T17:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020896129442050204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020896129442050204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 14374,
+          "like_count": 158,
+          "quote_count": 1,
+          "reply_count": 97,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "🎁 kuuki的抽奖\n\n奖品 （选一个）\n1. 4️⃣盒 pr 【150mg*32t 】\n2.两盒国补\n3. 50块 【微信】或者【支付宝】转你\n\n参与方式：\n1️⃣ fo我（会回）\n2️⃣ 转发本推\n中奖者 ：3人\n\n🎯 截止：500 fo\n如果提前达到，提前开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 142,
+          "like_count": 2715,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 420
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T10:29:48.000Z",
+        "description": "💊 2010transgender 🏳️‍⚧️ 🖤 overdose lover 🩸非主流 🤚 ❤️ rebzyyx ,kets4eki,clover,snor..scenecore 💉 都来互fo😋😋 | 里推 @nozomi_1314 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "nozomi_1314"
+              }
+            ]
+          }
+        },
+        "id": "1775833048493240320",
+        "location": "kuuki小黒屋",
+        "name": "🍥空気ちゃん🏳️‍⚧️",
+        "pinned_tweet_id": "2020896129442050204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998044038981877760/Qb8G_aQ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 464,
+          "like_count": 23126,
+          "listed_count": 1,
+          "media_count": 329,
+          "tweet_count": 1130
+        },
+        "username": "kainnox",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004897251919839232"
+      ],
+      "media_source_tweet_id": [
+        "2004897254142775726"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2005238753066135974",
+    "created_at": "2025-12-28T11:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T12:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005238753066135974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1482395647697424392",
+          "start": 3,
+          "username": "_Enachan376"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3du3hvZsw9",
+          "end": 72,
+          "expanded_url": "https://x.com/_Enachan376/status/2004897254142775726/photo/1",
+          "media_key": "3_2004897251919839232",
+          "start": 49,
+          "url": "https://t.co/3du3hvZsw9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005238753066135974",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7273
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004897254142775726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Enachan376: I don't wanna live another year https://t.co/3du3hvZsw9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 827,
+        "media_key": "3_2004897251919839232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9LTbZ_WwAAyFq6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004897251919839232"
+          ],
+          "media_source_tweet_id": [
+            "2004897254142775726"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2005238753066135974",
+        "created_at": "2025-12-28T11:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T12:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005238753066135974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1482395647697424392",
+              "start": 3,
+              "username": "_Enachan376"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3du3hvZsw9",
+              "end": 72,
+              "expanded_url": "https://x.com/_Enachan376/status/2004897254142775726/photo/1",
+              "media_key": "3_2004897251919839232",
+              "start": 49,
+              "url": "https://t.co/3du3hvZsw9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005238753066135974",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7273
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004897254142775726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Enachan376: I don't wanna live another year https://t.co/3du3hvZsw9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004897251919839232"
+          ]
+        },
+        "author_id": "1482395647697424392",
+        "conversation_id": "2004897254142775726",
+        "created_at": "2025-12-27T12:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T13:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004897254142775726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3du3hvZsw9",
+              "end": 55,
+              "expanded_url": "https://x.com/_Enachan376/status/2004897254142775726/photo/1",
+              "media_key": "3_2004897251919839232",
+              "start": 32,
+              "url": "https://t.co/3du3hvZsw9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004897254142775726",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2003,
+          "impression_count": 211286,
+          "like_count": 32630,
+          "quote_count": 67,
+          "reply_count": 103,
+          "retweet_count": 7273
+        },
+        "reply_settings": "everyone",
+        "text": "I don't wanna live another year https://t.co/3du3hvZsw9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001251658462867457/SV9w9q-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 49
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T16:54:42.000Z",
+        "description": "visual diary",
+        "id": "1482395647697424392",
+        "name": "Ena",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986945225915326464/Wo7ADfml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8620,
+          "following_count": 33,
+          "like_count": 37979,
+          "listed_count": 28,
+          "media_count": 523,
+          "tweet_count": 2627
+        },
+        "username": "_Enachan376",
+        "verified": false
+      }
+    ]
+  }
+}

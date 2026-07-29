@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021031609680658432"
+      ],
+      "media_source_tweet_id": [
+        "2021031616504864978"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2021165027298848794",
+    "created_at": "2026-02-10T10:11:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T11:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021165027298848794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1517113519522873344",
+          "start": 3,
+          "username": "xxNYAS_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SmELQVzAYb",
+          "end": 56,
+          "expanded_url": "https://x.com/xxNYAS_/status/2021031616504864978/photo/1",
+          "media_key": "3_2021031609680658432",
+          "start": 33,
+          "url": "https://t.co/SmELQVzAYb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021165027298848794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021031616504864978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxNYAS_: 誰陪我找\n美工刀 醫用酒精 緩釋止痛片 https://t.co/SmELQVzAYb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2021031609680658432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAwliobaAAAa-c6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021031609680658432"
+          ],
+          "media_source_tweet_id": [
+            "2021031616504864978"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021165027298848794",
+        "created_at": "2026-02-10T10:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T11:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021165027298848794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1517113519522873344",
+              "start": 3,
+              "username": "xxNYAS_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SmELQVzAYb",
+              "end": 56,
+              "expanded_url": "https://x.com/xxNYAS_/status/2021031616504864978/photo/1",
+              "media_key": "3_2021031609680658432",
+              "start": 33,
+              "url": "https://t.co/SmELQVzAYb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021165027298848794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021031616504864978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxNYAS_: 誰陪我找\n美工刀 醫用酒精 緩釋止痛片 https://t.co/SmELQVzAYb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021031609680658432"
+          ]
+        },
+        "author_id": "1517113519522873344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021031616504864978",
+        "created_at": "2026-02-10T01:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T02:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021031616504864978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SmELQVzAYb",
+              "end": 43,
+              "expanded_url": "https://x.com/xxNYAS_/status/2021031616504864978/photo/1",
+              "media_key": "3_2021031609680658432",
+              "start": 20,
+              "url": "https://t.co/SmELQVzAYb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021031616504864978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3951,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "誰陪我找\n美工刀 醫用酒精 緩釋止痛片 https://t.co/SmELQVzAYb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 134,
+          "like_count": 2426,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 382
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T12:10:42.000Z",
+        "description": "💉にゃんぱいあスキ/♀/AB型/うお座.雙魚/🧊🩹🩶⛓️🌧️❄️🥛🤍",
+        "id": "1517113519522873344",
+        "location": "ダンボール",
+        "name": "やすいなら.",
+        "pinned_tweet_id": "1864162686642344133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002762730193723392/3dQSwBek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2119,
+          "following_count": 1114,
+          "like_count": 18948,
+          "listed_count": 8,
+          "media_count": 497,
+          "tweet_count": 3971
+        },
+        "username": "xxNYAS_",
+        "verified": false
+      }
+    ]
+  }
+}

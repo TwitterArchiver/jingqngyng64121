@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2025926936900616314",
+    "created_at": "2026-02-23T13:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T14:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025929789518012527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912471464093110272",
+          "start": 0,
+          "username": "sheshe230926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025929789518012527",
+    "in_reply_to_user_id": "1912471464093110272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025926936900616314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sheshe230926 这个太漂亮了..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025926921012621312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2JzQPbsAA3X7N.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2025926936900616314",
+        "created_at": "2026-02-23T13:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025929789518012527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912471464093110272",
+              "start": 0,
+              "username": "sheshe230926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025929789518012527",
+        "in_reply_to_user_id": "1912471464093110272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025926936900616314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sheshe230926 这个太漂亮了..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025926921012621312"
+          ]
+        },
+        "author_id": "1912471464093110272",
+        "conversation_id": "2025926936900616314",
+        "created_at": "2026-02-23T13:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025926936900616314"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "shtwt"
+            },
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "自伤"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "自傷"
+            },
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "自傷行為"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RDEOXEaWEr",
+              "end": 44,
+              "expanded_url": "https://x.com/sheshe230926/status/2025926936900616314/photo/1",
+              "media_key": "3_2025926921012621312",
+              "start": 21,
+              "url": "https://t.co/RDEOXEaWEr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025926936900616314",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#shtwt #自伤 #自傷 #自傷行為 https://t.co/RDEOXEaWEr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 188,
+          "like_count": 3466,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 554
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T11:42:10.000Z",
+        "description": "08｜🚺｜ip广州｜自傷｜ed｜od｜病み垢｜男性❌｜DM⭕️｜求老婆们和我互fo 我想交朋友｜男的加我🚪88",
+        "id": "1912471464093110272",
+        "name": "石頭蛇",
+        "pinned_tweet_id": "2025106958911697356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025102994296217600/3HSYGElH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 403,
+          "like_count": 1763,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 189
+        },
+        "username": "sheshe230926",
+        "verified": false
+      }
+    ]
+  }
+}

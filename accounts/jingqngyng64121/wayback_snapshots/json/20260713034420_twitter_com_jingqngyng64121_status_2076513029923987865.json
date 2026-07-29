@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076245818894659584"
+      ],
+      "media_source_tweet_id": [
+        "2076245957789077562"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2076513029923987865",
+    "created_at": "2026-07-13T03:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T04:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076513029923987865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1641968587102621696",
+          "start": 3,
+          "username": "0voki33Me"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I7Jwptd23U",
+          "end": 47,
+          "expanded_url": "https://x.com/0voki33Me/status/2076245957789077562/video/1",
+          "media_key": "13_2076245818894659584",
+          "start": 24,
+          "url": "https://t.co/I7Jwptd23U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076513029923987865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076245957789077562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0voki33Me: 制作一些磕大视频 https://t.co/I7Jwptd23U"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20780,
+        "height": 720,
+        "media_key": "13_2076245818894659584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076245818894659584/img/ZK2vV63actWcOLGE.jpg",
+        "public_metrics": {
+          "view_count": 78
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076245818894659584/vid/avc1/402x270/1QyD2B2pwpbNVrcJ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076245818894659584/vid/avc1/536x360/FswyfXnzg_VpG9Nd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076245818894659584/vid/avc1/1074x720/4DuOODxVZaESab6X.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076245818894659584/pl/6AhkSapgw6GZ1uri.m3u8"
+          }
+        ],
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076245818894659584"
+          ],
+          "media_source_tweet_id": [
+            "2076245957789077562"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2076513029923987865",
+        "created_at": "2026-07-13T03:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076513029923987865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1641968587102621696",
+              "start": 3,
+              "username": "0voki33Me"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7Jwptd23U",
+              "end": 47,
+              "expanded_url": "https://x.com/0voki33Me/status/2076245957789077562/video/1",
+              "media_key": "13_2076245818894659584",
+              "start": 24,
+              "url": "https://t.co/I7Jwptd23U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076513029923987865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076245957789077562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0voki33Me: 制作一些磕大视频 https://t.co/I7Jwptd23U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076245818894659584"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2076245957789077562",
+        "created_at": "2026-07-12T10:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076245957789077562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7Jwptd23U",
+              "end": 32,
+              "expanded_url": "https://x.com/0voki33Me/status/2076245957789077562/video/1",
+              "media_key": "13_2076245818894659584",
+              "start": 9,
+              "url": "https://t.co/I7Jwptd23U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076245957789077562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "制作一些磕大视频 https://t.co/I7Jwptd23U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 419,
+          "like_count": 8062,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1670
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 1139,
+          "like_count": 6977,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 7172
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

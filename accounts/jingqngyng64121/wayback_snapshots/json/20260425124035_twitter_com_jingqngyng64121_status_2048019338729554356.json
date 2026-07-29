@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047987834880184320",
+        "3_2047987834880204800"
+      ],
+      "media_source_tweet_id": [
+        "2047987850545922330",
+        "2047987850545922330"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2048019338729554356",
+    "created_at": "2026-04-25T12:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048019338729554356"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "门槛"
+        },
+        {
+          "end": 58,
+          "start": 54,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "非绿"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "线下"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "巨乳"
+        },
+        {
+          "end": 76,
+          "start": 71,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 81,
+          "start": 77,
+          "tag": "求包养"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "女大"
+        },
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "反差"
+        },
+        {
+          "end": 94,
+          "start": 90,
+          "tag": "求入门"
+        },
+        {
+          "end": 100,
+          "start": 95,
+          "tag": "电子女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1947554695104626689",
+          "start": 3,
+          "username": "huandanbaobao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s9ZVReFLrA",
+          "end": 124,
+          "expanded_url": "https://x.com/huandanbaobao/status/2047987850545922330/photo/1",
+          "media_key": "3_2047987834880184320",
+          "start": 101,
+          "url": "https://t.co/s9ZVReFLrA"
+        },
+        {
+          "display_url": "pic.x.com/s9ZVReFLrA",
+          "end": 124,
+          "expanded_url": "https://x.com/huandanbaobao/status/2047987850545922330/photo/1",
+          "media_key": "3_2047987834880204800",
+          "start": 101,
+          "url": "https://t.co/s9ZVReFLrA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048019338729554356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047987850545922330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huandanbaobao: 过门的哥哥可以看置顶哟\n很详细的说！\n欢迎宝贝互转互fo ～\n#门槛 #门槛妹 #非绿 #线下 #巨乳 #金主爸爸 #求包养 #女大 #反差 #求入门 #电子女友 https://t.co/s9ZVReFLrA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2048019338729554356].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2048019338729554356",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2048019338729554356"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1712,
+        "media_key": "3_2047987834880184320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvqFcpa0AA7L17.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047987834880204800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvqFcpbIAAfmrV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047987834880184320",
+            "3_2047987834880204800"
+          ]
+        },
+        "author_id": "1947554695104626689",
+        "conversation_id": "2047987850545922330",
+        "created_at": "2026-04-25T10:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047987850545922330"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "门槛"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "非绿"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "线下"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "巨乳"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "求包养"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "女大"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "反差"
+            },
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "求入门"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "电子女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s9ZVReFLrA",
+              "end": 105,
+              "expanded_url": "https://x.com/huandanbaobao/status/2047987850545922330/photo/1",
+              "media_key": "3_2047987834880184320",
+              "start": 82,
+              "url": "https://t.co/s9ZVReFLrA"
+            },
+            {
+              "display_url": "pic.x.com/s9ZVReFLrA",
+              "end": 105,
+              "expanded_url": "https://x.com/huandanbaobao/status/2047987850545922330/photo/1",
+              "media_key": "3_2047987834880204800",
+              "start": 82,
+              "url": "https://t.co/s9ZVReFLrA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047987850545922330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "过门的哥哥可以看置顶哟\n很详细的说！\n欢迎宝贝互转互fo ～\n#门槛 #门槛妹 #非绿 #线下 #巨乳 #金主爸爸 #求包养 #女大 #反差 #求入门 #电子女友 https://t.co/s9ZVReFLrA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 419,
+          "like_count": 6977,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1361
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T07:10:04.000Z",
+        "description": "03 女大 反差 坐标20r 欢迎互推互fo ～",
+        "id": "1947554695104626689",
+        "name": "野心坏蛋5.0",
+        "pinned_tweet_id": "2047987850545922330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947555614005334020/X7D5KJ2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 200,
+          "like_count": 206,
+          "listed_count": 6,
+          "media_count": 24,
+          "tweet_count": 781
+        },
+        "username": "huandanbaobao",
+        "verified": false
+      }
+    ]
+  }
+}

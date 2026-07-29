@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2027503274207969458",
+    "created_at": "2026-02-28T17:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T18:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027792688020693280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1687566770763071489",
+          "start": 0,
+          "username": "Olebe179131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027792688020693280",
+    "in_reply_to_user_id": "1687566770763071489",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027503274207969458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Olebe179131 推友牛逼！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 392,
+        "media_key": "16_2027503123263299585",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCMjWTMaoAEc1-H.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCMjWTMaoAEc1-H.mp4"
+          }
+        ],
+        "width": 484
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2027503274207969458",
+        "created_at": "2026-02-28T17:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T18:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027792688020693280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687566770763071489",
+              "start": 0,
+              "username": "Olebe179131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027792688020693280",
+        "in_reply_to_user_id": "1687566770763071489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027503274207969458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olebe179131 推友牛逼！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2027503123263299585"
+          ]
+        },
+        "author_id": "1687566770763071489",
+        "conversation_id": "2027503274207969458",
+        "created_at": "2026-02-27T21:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T22:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027503274207969458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fhQIIGRxNF",
+              "end": 68,
+              "expanded_url": "https://x.com/Olebe179131/status/2027503274207969458/photo/1",
+              "media_key": "16_2027503123263299585",
+              "start": 45,
+              "url": "https://t.co/fhQIIGRxNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027503274207969458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 479,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又醒了，梦到自杀被推友救下来了，有点想哭，不死了不死了！还有天使托梦救我了，牛逼克拉丝！ https://t.co/fhQIIGRxNF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 202,
+          "like_count": 3584,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 591
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "04医学生/od/赛博精神病/百合厨/二次元\n欢迎互关",
+        "id": "1687566770763071489",
+        "name": "多柔比星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012345874899513344/DajrQh8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 269,
+          "like_count": 10092,
+          "listed_count": 0,
+          "media_count": 352,
+          "tweet_count": 1061
+        },
+        "username": "Olebe179131",
+        "verified": false
+      }
+    ]
+  }
+}

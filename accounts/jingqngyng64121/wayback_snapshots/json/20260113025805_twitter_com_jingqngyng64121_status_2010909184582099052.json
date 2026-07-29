@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2010909184582099052",
+    "created_at": "2026-01-13T02:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T03:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010909184582099052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1852390818390450176",
+          "start": 3,
+          "username": "Lrmc4e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010909184582099052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010253292652380636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lrmc4e: 小澈的结局大快人心啊，一边装扮成女性还要用辱女词骂女人，还要穿着女装上街搔首弄姿搏流量，败坏女人名声。就这种的ts男粉丝受众还百分之80女性呢，可笑至极，一群廉价货"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2010909184582099052",
+        "created_at": "2026-01-13T02:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T03:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010909184582099052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1852390818390450176",
+              "start": 3,
+              "username": "Lrmc4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010909184582099052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010253292652380636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lrmc4e: 小澈的结局大快人心啊，一边装扮成女性还要用辱女词骂女人，还要穿着女装上街搔首弄姿搏流量，败坏女人名声。就这种的ts男粉丝受众还百分之80女性呢，可笑至极，一群廉价货"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852390818390450176",
+        "conversation_id": "2010253292652380636",
+        "created_at": "2026-01-11T07:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T08:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010253292652380636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010253292652380636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 249984,
+          "like_count": 3123,
+          "quote_count": 5,
+          "reply_count": 75,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "小澈的结局大快人心啊，一边装扮成女性还要用辱女词骂女人，还要穿着女装上街搔首弄姿搏流量，败坏女人名声。就这种的ts男粉丝受众还百分之80女性呢，可笑至极，一群廉价货"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 94
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T16:42:50.000Z",
+        "description": "@ditchn2c 小号｜玩x只是满足自己的分享欲｜ig: lrmc4e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ditchn2c"
+              }
+            ]
+          }
+        },
+        "id": "1852390818390450176",
+        "name": "Looe",
+        "pinned_tweet_id": "2003482005892399608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852391001618612224/yosj9UJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13630,
+          "following_count": 97,
+          "like_count": 18005,
+          "listed_count": 29,
+          "media_count": 216,
+          "tweet_count": 4910
+        },
+        "username": "Lrmc4e",
+        "verified": false
+      }
+    ]
+  }
+}

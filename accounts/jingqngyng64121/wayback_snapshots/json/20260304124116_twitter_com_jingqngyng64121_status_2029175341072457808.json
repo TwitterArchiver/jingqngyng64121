@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2029086856135266726",
+    "created_at": "2026-03-04T12:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T13:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029175341072457808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1956044419549007872",
+          "start": 0,
+          "username": "qitide"
+        },
+        {
+          "end": 17,
+          "id": "1529399719876669440",
+          "start": 8,
+          "username": "plasma70"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029175341072457808",
+    "in_reply_to_user_id": "1956044419549007872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029086856135266726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qitide @plasma70 晚安rip"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2029086856135266726",
+        "created_at": "2026-03-04T12:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029175341072457808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1956044419549007872",
+              "start": 0,
+              "username": "qitide"
+            },
+            {
+              "end": 17,
+              "id": "1529399719876669440",
+              "start": 8,
+              "username": "plasma70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029175341072457808",
+        "in_reply_to_user_id": "1956044419549007872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029086856135266726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qitide @plasma70 晚安rip"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956044419549007872",
+        "conversation_id": "2029086856135266726",
+        "created_at": "2026-03-04T06:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T07:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029086856135266726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1529399719876669440",
+              "start": 3,
+              "username": "plasma70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029086856135266726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 241,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讣告 @plasma70 已于昨天深夜因药物过量离世，其生母于使用她的手机于今日中午传达此讯息。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 208,
+          "like_count": 3723,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 609
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T17:25:43.000Z",
+        "description": "苦与甜的一体二面。未来的人类顶流。杭州/南京/上海/青岛/泰州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/QitidesArticle",
+                "end": 23,
+                "expanded_url": "https://t.me/QitidesArticle",
+                "start": 0,
+                "url": "https://t.co/wCQtUY5n7f"
+              }
+            ]
+          }
+        },
+        "id": "1956044419549007872",
+        "location": "@ggd2xiaojie",
+        "name": "亓月",
+        "pinned_tweet_id": "2004752878200914130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974392217184976896/Zw0EL69a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 61,
+          "like_count": 2626,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/wCQtUY5n7f",
+        "username": "qitide",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T09:51:56.000Z",
+        "description": "奇怪抽动症十年老兵\nQueer\n正在成长为一个合格的内容发布者\n出生于 2009/10/10",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "neospeaking.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://neospeaking.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/NhYfL9DqS7"
+              }
+            ]
+          }
+        },
+        "id": "1529399719876669440",
+        "location": "Zhengzhou, CN",
+        "name": "Plasma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752374301226110976/cT9rgyLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 30,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/NhYfL9DqS7",
+        "username": "plasma70",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2058529251272622484",
+    "created_at": "2026-05-24T12:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058529251272622484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1722890177696468992",
+          "start": 0,
+          "username": "ustuYukichan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058529251272622484",
+    "in_reply_to_user_id": "1722890177696468992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@ustuYukichan 别走 我离不开你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2058529251272622484",
+        "created_at": "2026-05-24T12:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058529251272622484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1722890177696468992",
+              "start": 0,
+              "username": "ustuYukichan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058529251272622484",
+        "in_reply_to_user_id": "1722890177696468992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@ustuYukichan 别走 我离不开你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 401,
+          "like_count": 7539,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1533
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T08:13:34.000Z",
+        "description": "あたしは生涯 あたしであってそれだけだろう",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/utsuyukichan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/utsuyukichan",
+                "start": 0,
+                "url": "https://t.co/aIBR6RGUsi"
+              }
+            ]
+          }
+        },
+        "id": "1722890177696468992",
+        "location": "地獄",
+        "name": "有害天使",
+        "pinned_tweet_id": "2017060419937194182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056036488597635072/OyPdqcKS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 574,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1340
+        },
+        "url": "https://t.co/aIBR6RGUsi",
+        "username": "ustuYukichan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017434944029724672",
+        "3_2017434944033959936"
+      ],
+      "media_source_tweet_id": [
+        "2017434962614751343",
+        "2017434962614751343"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2017557693494616488",
+    "created_at": "2026-01-31T11:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T12:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017557693494616488"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "むつさき"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1161885448555229184",
+          "start": 3,
+          "username": "tri_naud"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z9E4CzT0AF",
+          "end": 115,
+          "expanded_url": "https://x.com/tri_naud/status/2017434962614751343/photo/1",
+          "media_key": "3_2017434944029724672",
+          "start": 92,
+          "url": "https://t.co/z9E4CzT0AF"
+        },
+        {
+          "display_url": "pic.x.com/z9E4CzT0AF",
+          "end": 115,
+          "expanded_url": "https://x.com/tri_naud/status/2017434962614751343/photo/1",
+          "media_key": "3_2017434944033959936",
+          "start": 92,
+          "url": "https://t.co/z9E4CzT0AF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017557693494616488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017434962614751343",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tri_naud: #むつさき\n还能说啥，家产已隐婚！\n\n原来，咱们看不到的时候，她俩偷偷各种约会旅行度蜜月，已在正剧以外的地方已经过上了和和美美的小日子啊，哎呀，真是的…… https://t.co/z9E4CzT0AF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 299,
+        "media_key": "3_2017434944029724672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_9eZIxaEAAJpXB.png",
+        "width": 260
+      },
+      {
+        "height": 749,
+        "media_key": "3_2017434944033959936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_9eZIyasAA48zM.png",
+        "width": 801
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017434944029724672",
+            "3_2017434944033959936"
+          ],
+          "media_source_tweet_id": [
+            "2017434962614751343",
+            "2017434962614751343"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017557693494616488",
+        "created_at": "2026-01-31T11:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T12:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017557693494616488"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "むつさき"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1161885448555229184",
+              "start": 3,
+              "username": "tri_naud"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z9E4CzT0AF",
+              "end": 115,
+              "expanded_url": "https://x.com/tri_naud/status/2017434962614751343/photo/1",
+              "media_key": "3_2017434944029724672",
+              "start": 92,
+              "url": "https://t.co/z9E4CzT0AF"
+            },
+            {
+              "display_url": "pic.x.com/z9E4CzT0AF",
+              "end": 115,
+              "expanded_url": "https://x.com/tri_naud/status/2017434962614751343/photo/1",
+              "media_key": "3_2017434944033959936",
+              "start": 92,
+              "url": "https://t.co/z9E4CzT0AF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017557693494616488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017434962614751343",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tri_naud: #むつさき\n还能说啥，家产已隐婚！\n\n原来，咱们看不到的时候，她俩偷偷各种约会旅行度蜜月，已在正剧以外的地方已经过上了和和美美的小日子啊，哎呀，真是的…… https://t.co/z9E4CzT0AF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017434944029724672",
+            "3_2017434944033959936"
+          ]
+        },
+        "author_id": "1161885448555229184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017434962614751343",
+        "created_at": "2026-01-31T03:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T04:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017434962614751343"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "むつさき"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z9E4CzT0AF",
+              "end": 101,
+              "expanded_url": "https://x.com/tri_naud/status/2017434962614751343/photo/1",
+              "media_key": "3_2017434944029724672",
+              "start": 78,
+              "url": "https://t.co/z9E4CzT0AF"
+            },
+            {
+              "display_url": "pic.x.com/z9E4CzT0AF",
+              "end": 101,
+              "expanded_url": "https://x.com/tri_naud/status/2017434962614751343/photo/1",
+              "media_key": "3_2017434944033959936",
+              "start": 78,
+              "url": "https://t.co/z9E4CzT0AF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017434962614751343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 23080,
+          "like_count": 402,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "#むつさき\n还能说啥，家产已隐婚！\n\n原来，咱们看不到的时候，她俩偷偷各种约会旅行度蜜月，已在正剧以外的地方已经过上了和和美美的小日子啊，哎呀，真是的…… https://t.co/z9E4CzT0AF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 98,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 299
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-15T06:20:52.000Z",
+        "description": "= 三角(Tri)\n▷ 睦祥同人文作者 & 译者 (MTSK Fanfic Writer & Translator)💚💙\n▷ 睦祥521接力主办 (Host of #むつさき521)💚💙\n▷ 中/英文 (CN or EN)👌\n我和我的产出仅代表我自己，我自己也仅由我和我的产出代表。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 82,
+                "tag": "むつさき521"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/46534516",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/46534516",
+                "start": 0,
+                "url": "https://t.co/sIrybJ3mmf"
+              }
+            ]
+          }
+        },
+        "id": "1161885448555229184",
+        "location": "社畜大世界",
+        "name": "Tri",
+        "pinned_tweet_id": "1950914807839982008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967149479393742848/7XS47q6L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 195,
+          "like_count": 1366,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 936
+        },
+        "url": "https://t.co/sIrybJ3mmf",
+        "username": "tri_naud",
+        "verified": false
+      }
+    ]
+  }
+}

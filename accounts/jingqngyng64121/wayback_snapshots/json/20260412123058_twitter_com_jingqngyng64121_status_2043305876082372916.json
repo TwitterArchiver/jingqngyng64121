@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2043305876082372916",
+    "created_at": "2026-04-12T12:30:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:30:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043305876082372916"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miao_otvto_/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/miao_otvto_/status/2043249393110020605",
+          "start": 2,
+          "url": "https://t.co/hAfIOHhecm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043305876082372916",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043249393110020605",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦 https://t.co/hAfIOHhecm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2043305876082372916",
+        "created_at": "2026-04-12T12:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043305876082372916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miao_otvto_/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/miao_otvto_/status/2043249393110020605",
+              "start": 2,
+              "url": "https://t.co/hAfIOHhecm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043305876082372916",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043249393110020605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦 https://t.co/hAfIOHhecm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841741161884504064",
+        "conversation_id": "2043249393110020605",
+        "created_at": "2026-04-12T08:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043249393110020605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043249393110020605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8795,
+          "like_count": 134,
+          "quote_count": 5,
+          "reply_count": 56,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "脑子没病吧你 妄想在推上找纯爱吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 374,
+          "like_count": 6012,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1103
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T07:24:54.000Z",
+        "description": "祝我天天开心 睡个好觉\n匿名问答https://t.co/83lyR4WmfT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miao29318",
+                "end": 39,
+                "expanded_url": "https://ngl.link/miao29318",
+                "start": 16,
+                "url": "https://t.co/83lyR4WmfT"
+              }
+            ]
+          }
+        },
+        "id": "1841741161884504064",
+        "name": "泪池",
+        "pinned_tweet_id": "1896495494068846672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905216333316493312/VOLSQj_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10787,
+          "following_count": 114,
+          "like_count": 14661,
+          "listed_count": 21,
+          "media_count": 490,
+          "tweet_count": 8137
+        },
+        "username": "Miao_oTvTo_",
+        "verified": false
+      }
+    ]
+  }
+}

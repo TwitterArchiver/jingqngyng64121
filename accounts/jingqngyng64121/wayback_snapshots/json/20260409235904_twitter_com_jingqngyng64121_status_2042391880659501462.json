@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2042011047994044708",
+    "created_at": "2026-04-09T23:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T00:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042391880659501462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013209398395752448",
+          "start": 0,
+          "username": "DesireLovet1qi"
+        },
+        {
+          "end": 25,
+          "id": "2039052178791514112",
+          "start": 16,
+          "username": "Dodoeqiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042391880659501462",
+    "in_reply_to_user_id": "2013209398395752448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042011047994044708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DesireLovet1qi @Dodoeqiu 请求🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1804,
+        "media_key": "3_2042011035767558144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFauN85aUAAyW5x.jpg",
+        "width": 1388
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042011035776032768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFauN87boAAFgWG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1308,
+        "media_key": "3_2042011035901792256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFauN9ZakAAtQdc.jpg",
+        "width": 1744
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042011035771793409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFauN86a8AETAPS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2042011047994044708",
+        "created_at": "2026-04-09T23:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T00:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042391880659501462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            },
+            {
+              "end": 25,
+              "id": "2039052178791514112",
+              "start": 16,
+              "username": "Dodoeqiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042391880659501462",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042011047994044708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi @Dodoeqiu 请求🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042011035767558144",
+            "3_2042011035776032768",
+            "3_2042011035901792256",
+            "3_2042011035771793409"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042011047994044708",
+        "created_at": "2026-04-08T22:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T23:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042011047994044708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YO7vqNcoA4",
+              "end": 67,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2042011047994044708/photo/1",
+              "media_key": "3_2042011035767558144",
+              "start": 44,
+              "url": "https://t.co/YO7vqNcoA4"
+            },
+            {
+              "display_url": "pic.x.com/YO7vqNcoA4",
+              "end": 67,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2042011047994044708/photo/1",
+              "media_key": "3_2042011035776032768",
+              "start": 44,
+              "url": "https://t.co/YO7vqNcoA4"
+            },
+            {
+              "display_url": "pic.x.com/YO7vqNcoA4",
+              "end": 67,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2042011047994044708/photo/1",
+              "media_key": "3_2042011035901792256",
+              "start": 44,
+              "url": "https://t.co/YO7vqNcoA4"
+            },
+            {
+              "display_url": "pic.x.com/YO7vqNcoA4",
+              "end": 67,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2042011047994044708/photo/1",
+              "media_key": "3_2042011035771793409",
+              "start": 44,
+              "url": "https://t.co/YO7vqNcoA4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042011047994044708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1012,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "咲/09/od/割/我想互fo交朋友 求互关帮转转QwQ\n更新od多一点..友好一切！ https://t.co/YO7vqNcoA4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 322,
+          "like_count": 5468,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 962
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/喜欢交朋友 互fo 来找我玩！想到啥发啥非常喜欢评论 提问箱：https://t.co/1k4V17YOY0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 65,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 42,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "pinned_tweet_id": "2042011047994044708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 126,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 272
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T18:49:19.000Z",
+        "description": "欢迎fo！许愿同类 \n小酸｜自伤烟o｜不互纯三男 、健全\n无所事事网蛆 上网娱乐不擦边 🫣 https://t.co/mR3FqUdsn2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bhxj1",
+                "end": 69,
+                "expanded_url": "https://ngl.link/bhxj1",
+                "start": 46,
+                "url": "https://t.co/mR3FqUdsn2"
+              }
+            ]
+          }
+        },
+        "id": "2039052178791514112",
+        "name": "骄奢淫逸暴劣合体代名词（餐券互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040562202382618624/-GjJAhPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 231,
+          "like_count": 626,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 437
+        },
+        "username": "Dodoeqiu",
+        "verified": false
+      }
+    ]
+  }
+}

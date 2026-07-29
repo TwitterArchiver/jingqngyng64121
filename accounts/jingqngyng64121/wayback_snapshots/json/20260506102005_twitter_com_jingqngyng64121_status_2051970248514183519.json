@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960312049571135488"
+      ],
+      "media_source_tweet_id": [
+        "1960312056030298586"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2051970248514183519",
+    "created_at": "2026-05-06T10:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T11:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051970248514183519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1569966034035134464",
+          "start": 3,
+          "username": "sukixi_ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9YLaFodJAY",
+          "end": 43,
+          "expanded_url": "https://x.com/sukixi_ovo/status/1960312056030298586/photo/1",
+          "media_key": "3_1960312049571135488",
+          "start": 20,
+          "url": "https://t.co/9YLaFodJAY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051970248514183519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2140
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960312056030298586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sukixi_ovo: 愛は何 https://t.co/9YLaFodJAY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051970248514183519].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051970248514183519",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051970248514183519"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1960312049571135488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRtbEObAAAoo6U.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960312049571135488"
+          ]
+        },
+        "author_id": "1569966034035134464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1960312056030298586",
+        "created_at": "2025-08-26T12:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T12:39:56.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960306213423563194",
+          "1960306739183784037",
+          "1960311304381718791",
+          "1960312056030298586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9YLaFodJAY",
+              "end": 27,
+              "expanded_url": "https://x.com/sukixi_ovo/status/1960312056030298586/photo/1",
+              "media_key": "3_1960312049571135488",
+              "start": 4,
+              "url": "https://t.co/9YLaFodJAY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960312056030298586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1147,
+          "impression_count": 162005,
+          "like_count": 9377,
+          "quote_count": 78,
+          "reply_count": 49,
+          "retweet_count": 2140
+        },
+        "reply_settings": "everyone",
+        "text": "愛は何 https://t.co/9YLaFodJAY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 442,
+          "like_count": 7368,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1464
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T08:27:37.000Z",
+        "description": "小惜/セキ丨東京丨病み垢丨承認欲求｜shtwt丨我只想變成透明消失在這個世界和所有人的視線裡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/70514062Sd9aZ",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/70514062Sd9aZ",
+                "start": 0,
+                "url": "https://t.co/W6VG0bHf1j"
+              }
+            ]
+          }
+        },
+        "id": "1569966034035134464",
+        "location": "地獄の靈魂擺渡人",
+        "name": "可塑性人格",
+        "pinned_tweet_id": "1951721325242024277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024145896255156224/xHJ5RTev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10127,
+          "following_count": 164,
+          "like_count": 1226,
+          "listed_count": 11,
+          "media_count": 186,
+          "tweet_count": 933
+        },
+        "url": "https://t.co/W6VG0bHf1j",
+        "username": "sukixi_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

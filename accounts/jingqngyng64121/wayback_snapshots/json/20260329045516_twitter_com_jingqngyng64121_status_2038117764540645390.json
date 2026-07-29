@@ -1,0 +1,519 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2038117764540645390",
+    "created_at": "2026-03-29T04:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T05:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038117764540645390"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "门槛"
+        },
+        {
+          "end": 81,
+          "start": 77,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 86,
+          "start": 82,
+          "tag": "cos"
+        },
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "女大"
+        },
+        {
+          "end": 94,
+          "start": 91,
+          "tag": "反差"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "非绿"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "线下"
+        },
+        {
+          "end": 108,
+          "start": 103,
+          "tag": "电子女友"
+        },
+        {
+          "end": 113,
+          "start": 109,
+          "tag": "求入门"
+        },
+        {
+          "end": 119,
+          "start": 114,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 124,
+          "start": 120,
+          "tag": "求包养"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "710538155",
+          "start": 3,
+          "username": "rasteriashamas1"
+        }
+      ],
+      "urls": [
+        {
+          "description": "SoundCloud RAPPER STARTING FROM THE BOTTOM",
+          "display_url": "x.com/kyledoherty",
+          "end": 139,
+          "expanded_url": "https://x.com/kyledoherty",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/2026293615610441728/t1VHkBRd?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2026293615610441728/t1VHkBRd?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 125,
+          "status": 200,
+          "title": "Kyle Doherty (@KyleDoherty) on X",
+          "unwound_url": "https://twitter.com/kyledoherty",
+          "url": "https://t.co/k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038117764540645390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034929626242588757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rasteriashamas1: 汐尔🔝\n拒绝无意义骚扰！\n真的太无聊了 还穷🥺\n欢迎喜欢汐尔的哥哥入门哟 \n欢迎女宝找我互转互fo ～\n#门槛 #门槛妹 #cos #女大 #反差 #非绿 #线下 #电子女友 #求入门 #金主爸爸 #求包养 https://t.co/k…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1041,
+        "media_key": "3_2034929564192055302",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2FqDiboAYEKss.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1563,
+        "media_key": "3_2034929564192055300",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2FqDiboAQ7DNY.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1477,
+        "media_key": "3_2034929564204531712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2FqDlaAAAb3Sz.jpg",
+        "width": 1284
+      },
+      {
+        "duration_ms": 5123,
+        "height": 1280,
+        "media_key": "13_2034929564200443911",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034929564200443911/img/76EcNQakHndyZlb8.jpg",
+        "public_metrics": {
+          "view_count": 1974
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034929564200443911/vid/avc1/320x568/LDmUJkBQOqDGnJkK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034929564200443911/vid/avc1/480x852/t5fcuE3JualqywO5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034929564200443911/vid/avc1/720x1280/vG-OGlQ_7MW3b78n.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034929564200443911/pl/bcncjQ7xYb4_xsL1.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2038117764540645390",
+        "created_at": "2026-03-29T04:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T05:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038117764540645390"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "门槛"
+            },
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "cos"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "女大"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "反差"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "非绿"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "线下"
+            },
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "电子女友"
+            },
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "求入门"
+            },
+            {
+              "end": 119,
+              "start": 114,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "求包养"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "710538155",
+              "start": 3,
+              "username": "rasteriashamas1"
+            }
+          ],
+          "urls": [
+            {
+              "description": "SoundCloud RAPPER STARTING FROM THE BOTTOM",
+              "display_url": "x.com/kyledoherty",
+              "end": 139,
+              "expanded_url": "https://x.com/kyledoherty",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2026293615610441728/t1VHkBRd?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2026293615610441728/t1VHkBRd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 125,
+              "status": 200,
+              "title": "Kyle Doherty (@KyleDoherty) on X",
+              "unwound_url": "https://twitter.com/kyledoherty",
+              "url": "https://t.co/k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038117764540645390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034929626242588757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rasteriashamas1: 汐尔🔝\n拒绝无意义骚扰！\n真的太无聊了 还穷🥺\n欢迎喜欢汐尔的哥哥入门哟 \n欢迎女宝找我互转互fo ～\n#门槛 #门槛妹 #cos #女大 #反差 #非绿 #线下 #电子女友 #求入门 #金主爸爸 #求包养 https://t.co/k…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034929564192055302",
+            "3_2034929564192055300",
+            "3_2034929564204531712",
+            "13_2034929564200443911"
+          ]
+        },
+        "author_id": "710538155",
+        "conversation_id": "2034929626242588757",
+        "created_at": "2026-03-20T09:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T10:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034929626242588757"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "门槛"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "cos"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "女大"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "反差"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "非绿"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "线下"
+            },
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "电子女友"
+            },
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "求入门"
+            },
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "求包养"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kYlS9NA2hB",
+              "end": 127,
+              "expanded_url": "https://x.com/rasteriashamas1/status/2034929626242588757/video/1",
+              "media_key": "3_2034929564192055302",
+              "start": 104,
+              "url": "https://t.co/kYlS9NA2hB"
+            },
+            {
+              "display_url": "pic.x.com/kYlS9NA2hB",
+              "end": 127,
+              "expanded_url": "https://x.com/rasteriashamas1/status/2034929626242588757/video/1",
+              "media_key": "3_2034929564192055300",
+              "start": 104,
+              "url": "https://t.co/kYlS9NA2hB"
+            },
+            {
+              "display_url": "pic.x.com/kYlS9NA2hB",
+              "end": 127,
+              "expanded_url": "https://x.com/rasteriashamas1/status/2034929626242588757/video/1",
+              "media_key": "3_2034929564204531712",
+              "start": 104,
+              "url": "https://t.co/kYlS9NA2hB"
+            },
+            {
+              "display_url": "pic.x.com/kYlS9NA2hB",
+              "end": 127,
+              "expanded_url": "https://x.com/rasteriashamas1/status/2034929626242588757/video/1",
+              "media_key": "13_2034929564200443911",
+              "start": 104,
+              "url": "https://t.co/kYlS9NA2hB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034929626242588757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 7876,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "汐尔🔝\n拒绝无意义骚扰！\n真的太无聊了 还穷🥺\n欢迎喜欢汐尔的哥哥入门哟 \n欢迎女宝找我互转互fo ～\n#门槛 #门槛妹 #cos #女大 #反差 #非绿 #线下 #电子女友 #求入门 #金主爸爸 #求包养 https://t.co/kYlS9NA2hB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 294,
+          "like_count": 4992,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 809
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-12T07:16:22.000Z",
+        "description": "05 重生啦 相信自己会越来越好的 坐标20r 私信看到都会回的 欢迎宝贝找我互转互fo ～",
+        "id": "710538155",
+        "name": "汐尔（超级无敌话痨版）",
+        "pinned_tweet_id": "2034929626242588757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009314053513261056/GFDGFLzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 69,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 265
+        },
+        "username": "rasteriashamas1",
+        "verified": false
+      }
+    ]
+  }
+}

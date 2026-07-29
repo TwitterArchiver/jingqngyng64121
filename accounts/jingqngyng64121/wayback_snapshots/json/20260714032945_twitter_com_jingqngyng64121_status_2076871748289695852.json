@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2076702758263304196",
+    "created_at": "2026-07-14T03:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076871748289695852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1828103801867300866",
+          "start": 0,
+          "username": "mylove0255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076871748289695852",
+    "in_reply_to_user_id": "1828103801867300866",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076702758263304196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mylove0255 好萌"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2076702758263304196].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2076702758263304196",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2076702758263304196"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2076702758263304196",
+        "created_at": "2026-07-14T03:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076871748289695852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1828103801867300866",
+              "start": 0,
+              "username": "mylove0255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076871748289695852",
+        "in_reply_to_user_id": "1828103801867300866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076702758263304196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mylove0255 好萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 419,
+          "like_count": 8105,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1677
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T16:14:54.000Z",
+        "description": "互fo\n  认识我\n🚪52",
+        "id": "1828103801867300866",
+        "location": "如果你觉得我是什么就是什么吧",
+        "name": "米梨子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074004641109757954/xRvBcGHn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 160,
+          "like_count": 2704,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1381
+        },
+        "url": "",
+        "username": "mylove0255",
+        "verified": false
+      }
+    ]
+  }
+}

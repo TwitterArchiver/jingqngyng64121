@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2037058704684748821",
+    "created_at": "2026-03-31T15:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T16:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039007164589846617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2020573457734664192",
+          "start": 0,
+          "username": "szeto28469"
+        },
+        {
+          "end": 20,
+          "id": "2037057773419323392",
+          "start": 12,
+          "username": "Liu2nel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039007164589846617",
+    "in_reply_to_user_id": "2020573457734664192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038152235885224105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@szeto28469 @Liu2nel 你好你买了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2037058704684748821",
+        "created_at": "2026-03-31T15:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039007164589846617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2020573457734664192",
+              "start": 0,
+              "username": "szeto28469"
+            },
+            {
+              "end": 20,
+              "id": "2037057773419323392",
+              "start": 12,
+              "username": "Liu2nel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039007164589846617",
+        "in_reply_to_user_id": "2020573457734664192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038152235885224105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szeto28469 @Liu2nel 你好你买了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020573457734664192",
+        "conversation_id": "2037058704684748821",
+        "created_at": "2026-03-29T07:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038152235885224105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2037057773419323392",
+              "start": 0,
+              "username": "Liu2nel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038152235885224105",
+        "in_reply_to_user_id": "2037057773419323392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037058704684748821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liu2nel 如何買"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 307,
+          "like_count": 5095,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 852
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-08T19:00:47.000Z",
+        "description": "",
+        "id": "2020573457734664192",
+        "name": "Chi man Szeto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020573543881469952/GBp5S74l_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "szeto28469",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T06:43:44.000Z",
+        "description": "喜欢交朋友ovo",
+        "id": "2037057773419323392",
+        "name": "Liu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037059050354204677/vfE96cW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 130,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 95
+        },
+        "username": "Liu2nel",
+        "verified": false
+      }
+    ]
+  }
+}

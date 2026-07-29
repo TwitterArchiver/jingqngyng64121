@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2017453726487974305",
+    "created_at": "2026-01-31T04:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T05:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017453726487974305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2001998644673994752",
+          "start": 3,
+          "username": "morganofliberal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017453726487974305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017225311176573115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @morganofliberal: 您的期末成绩出来了\n辱华+150\n辱女+150\n辱男+150\n地域歧视+100\n嫌贫爱富+100\n崇洋媚外+100\n总分750\n恭喜您考入我的英雄学院"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2017453726487974305",
+        "created_at": "2026-01-31T04:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T05:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017453726487974305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2001998644673994752",
+              "start": 3,
+              "username": "morganofliberal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017453726487974305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017225311176573115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @morganofliberal: 您的期末成绩出来了\n辱华+150\n辱女+150\n辱男+150\n地域歧视+100\n嫌贫爱富+100\n崇洋媚外+100\n总分750\n恭喜您考入我的英雄学院"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001998644673994752",
+        "conversation_id": "2017225311176573115",
+        "created_at": "2026-01-30T13:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T14:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017225311176573115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017225311176573115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 25822,
+          "like_count": 563,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "您的期末成绩出来了\n辱华+150\n辱女+150\n辱男+150\n地域歧视+100\n嫌贫爱富+100\n崇洋媚外+100\n总分750\n恭喜您考入我的英雄学院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 93,
+          "like_count": 1522,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 288
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T12:51:01.000Z",
+        "description": "穷则独善其身，达则兼济天下",
+        "id": "2001998644673994752",
+        "location": "Shinagawa-ku, Tokyo",
+        "name": "Morgan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001999389523623937/zyBvgTZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 253,
+          "like_count": 1942,
+          "listed_count": 5,
+          "media_count": 145,
+          "tweet_count": 1267
+        },
+        "username": "morganofliberal",
+        "verified": false
+      }
+    ]
+  }
+}

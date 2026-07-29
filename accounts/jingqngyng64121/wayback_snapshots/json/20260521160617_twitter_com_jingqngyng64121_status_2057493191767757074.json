@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057422389584199680",
+        "3_2057422387822592000",
+        "3_2057422389659697152"
+      ],
+      "media_source_tweet_id": [
+        "2057422396618158207",
+        "2057422396618158207",
+        "2057422396618158207"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2057493191767757074",
+    "created_at": "2026-05-21T16:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T17:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057493191767757074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1933114395854610432",
+          "start": 3,
+          "username": "eweisi32"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qi8ytGs4Dc",
+          "end": 49,
+          "expanded_url": "https://x.com/eweisi32/status/2057422396618158207/photo/1",
+          "media_key": "3_2057422389584199680",
+          "start": 26,
+          "url": "https://t.co/Qi8ytGs4Dc"
+        },
+        {
+          "display_url": "pic.x.com/Qi8ytGs4Dc",
+          "end": 49,
+          "expanded_url": "https://x.com/eweisi32/status/2057422396618158207/photo/1",
+          "media_key": "3_2057422387822592000",
+          "start": 26,
+          "url": "https://t.co/Qi8ytGs4Dc"
+        },
+        {
+          "display_url": "pic.x.com/Qi8ytGs4Dc",
+          "end": 49,
+          "expanded_url": "https://x.com/eweisi32/status/2057422396618158207/photo/1",
+          "media_key": "3_2057422389659697152",
+          "start": 26,
+          "url": "https://t.co/Qi8ytGs4Dc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057493191767757074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057422396618158207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eweisi32: 互fo互转欢迎呀orz https://t.co/Qi8ytGs4Dc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1473,
+        "media_key": "3_2057422389584199680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1uwzwaAAA3RUH.jpg",
+        "width": 1076
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2057422387822592000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1uwtMaAAAG_fc.jpg",
+        "width": 1037
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2057422389659697152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1uw0CaAAAWQSx.jpg",
+        "width": 683
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057422389584199680",
+            "3_2057422387822592000",
+            "3_2057422389659697152"
+          ],
+          "media_source_tweet_id": [
+            "2057422396618158207",
+            "2057422396618158207",
+            "2057422396618158207"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2057493191767757074",
+        "created_at": "2026-05-21T16:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057493191767757074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1933114395854610432",
+              "start": 3,
+              "username": "eweisi32"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qi8ytGs4Dc",
+              "end": 49,
+              "expanded_url": "https://x.com/eweisi32/status/2057422396618158207/photo/1",
+              "media_key": "3_2057422389584199680",
+              "start": 26,
+              "url": "https://t.co/Qi8ytGs4Dc"
+            },
+            {
+              "display_url": "pic.x.com/Qi8ytGs4Dc",
+              "end": 49,
+              "expanded_url": "https://x.com/eweisi32/status/2057422396618158207/photo/1",
+              "media_key": "3_2057422387822592000",
+              "start": 26,
+              "url": "https://t.co/Qi8ytGs4Dc"
+            },
+            {
+              "display_url": "pic.x.com/Qi8ytGs4Dc",
+              "end": 49,
+              "expanded_url": "https://x.com/eweisi32/status/2057422396618158207/photo/1",
+              "media_key": "3_2057422389659697152",
+              "start": 26,
+              "url": "https://t.co/Qi8ytGs4Dc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057493191767757074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057422396618158207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eweisi32: 互fo互转欢迎呀orz https://t.co/Qi8ytGs4Dc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057422389584199680",
+            "3_2057422387822592000",
+            "3_2057422389659697152"
+          ]
+        },
+        "author_id": "1933114395854610432",
+        "conversation_id": "2057422396618158207",
+        "created_at": "2026-05-21T11:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057422396618158207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qi8ytGs4Dc",
+              "end": 35,
+              "expanded_url": "https://x.com/eweisi32/status/2057422396618158207/photo/1",
+              "media_key": "3_2057422389584199680",
+              "start": 12,
+              "url": "https://t.co/Qi8ytGs4Dc"
+            },
+            {
+              "display_url": "pic.x.com/Qi8ytGs4Dc",
+              "end": 35,
+              "expanded_url": "https://x.com/eweisi32/status/2057422396618158207/photo/1",
+              "media_key": "3_2057422387822592000",
+              "start": 12,
+              "url": "https://t.co/Qi8ytGs4Dc"
+            },
+            {
+              "display_url": "pic.x.com/Qi8ytGs4Dc",
+              "end": 35,
+              "expanded_url": "https://x.com/eweisi32/status/2057422396618158207/photo/1",
+              "media_key": "3_2057422389659697152",
+              "start": 12,
+              "url": "https://t.co/Qi8ytGs4Dc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057422396618158207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 428,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "互fo互转欢迎呀orz https://t.co/Qi8ytGs4Dc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 406,
+          "like_count": 7529,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1522
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T10:49:36.000Z",
+        "description": "这里是一个乐子，一个oder，一个餐劵逼，一个神经病。互fo私信 接塔罗/雷诺曼占卜\n我闺蜜@Xxkg3g",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 46,
+                "username": "Xxkg3g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eweisi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/eweisi",
+                "start": 0,
+                "url": "https://t.co/lrRktEWrfO"
+              }
+            ]
+          }
+        },
+        "id": "1933114395854610432",
+        "location": "想我打钱。",
+        "name": "蚀蛊",
+        "pinned_tweet_id": "2057422396618158207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056431426002644992/PRiFvwm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 518,
+          "like_count": 1619,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 710
+        },
+        "url": "https://t.co/lrRktEWrfO",
+        "username": "eweisi32",
+        "verified": false
+      }
+    ]
+  }
+}

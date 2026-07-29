@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042199784409432066"
+      ],
+      "media_source_tweet_id": [
+        "2042199786900910495"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2042497458044092762",
+    "created_at": "2026-04-10T06:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042497458044092762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2029854517685284864",
+          "start": 3,
+          "username": "d0llface_shioko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iYoMhtpDNN",
+          "end": 106,
+          "expanded_url": "https://x.com/d0llface_shioko/status/2042199786900910495/photo/1",
+          "media_key": "3_2042199784409432066",
+          "start": 83,
+          "url": "https://t.co/iYoMhtpDNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042497458044092762",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042199786900910495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @d0llface_shioko: What a broke person looks like when they want to dress jirai: https://t.co/iYoMhtpDNN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042199784409432066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdZ4kYagAISAvA.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042199784409432066"
+          ],
+          "media_source_tweet_id": [
+            "2042199786900910495"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2042497458044092762",
+        "created_at": "2026-04-10T06:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042497458044092762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2029854517685284864",
+              "start": 3,
+              "username": "d0llface_shioko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iYoMhtpDNN",
+              "end": 106,
+              "expanded_url": "https://x.com/d0llface_shioko/status/2042199786900910495/photo/1",
+              "media_key": "3_2042199784409432066",
+              "start": 83,
+              "url": "https://t.co/iYoMhtpDNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042497458044092762",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042199786900910495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @d0llface_shioko: What a broke person looks like when they want to dress jirai: https://t.co/iYoMhtpDNN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042199784409432066"
+          ]
+        },
+        "author_id": "2029854517685284864",
+        "conversation_id": "2042199786900910495",
+        "created_at": "2026-04-09T11:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042199786900910495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iYoMhtpDNN",
+              "end": 85,
+              "expanded_url": "https://x.com/d0llface_shioko/status/2042199786900910495/photo/1",
+              "media_key": "3_2042199784409432066",
+              "start": 62,
+              "url": "https://t.co/iYoMhtpDNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042199786900910495",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 16970,
+          "like_count": 572,
+          "quote_count": 29,
+          "reply_count": 15,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "What a broke person looks like when they want to dress jirai: https://t.co/iYoMhtpDNN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 325,
+          "like_count": 5671,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1015
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T09:40:17.000Z",
+        "description": "#刃 ♡ #地雷系 ♡ #夢女 ♡‧₊˚ ┊❤︎ INTERNET ANGEL | 中文/日本語/ENG #hsrtwt #arttwt #studytwt⁺˖ ⸝⸝ insta/discord: d0llface_shioko ⁺໒꒱ི༝ priv: @shios_archive ꒱ིྀ༝⁺",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 2,
+                "start": 0,
+                "tag": "刃"
+              },
+              {
+                "end": 9,
+                "start": 5,
+                "tag": "地雷系"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "夢女"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "tag": "hsrtwt"
+              },
+              {
+                "end": 68,
+                "start": 61,
+                "tag": "arttwt"
+              },
+              {
+                "end": 78,
+                "start": 69,
+                "tag": "studytwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 141,
+                "start": 127,
+                "username": "shios_archive"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/d0llface_shioko",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/d0llface_shioko",
+                "start": 0,
+                "url": "https://t.co/mI2hDEu6DK"
+              }
+            ]
+          }
+        },
+        "id": "2029854517685284864",
+        "location": "internet heaven | 🇭🇰",
+        "name": "SHIOKO/刃の愛 ☆‧₊˚",
+        "pinned_tweet_id": "2041732514897670379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029854930283139072/VFet0LK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1930,
+          "following_count": 1067,
+          "like_count": 2484,
+          "listed_count": 28,
+          "media_count": 221,
+          "tweet_count": 1286
+        },
+        "url": "https://t.co/mI2hDEu6DK",
+        "username": "d0llface_shioko",
+        "verified": false
+      }
+    ]
+  }
+}

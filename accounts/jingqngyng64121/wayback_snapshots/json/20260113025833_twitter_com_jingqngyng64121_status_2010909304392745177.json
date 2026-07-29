@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010536363322748928"
+      ],
+      "media_source_tweet_id": [
+        "2010536393341276462"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2010909304392745177",
+    "created_at": "2026-01-13T02:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T03:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010909304392745177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1846188581905485828",
+          "start": 3,
+          "username": "aaaa____dry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tb8PodHuVe",
+          "end": 46,
+          "expanded_url": "https://x.com/aaaa____dry/status/2010536393341276462/photo/1",
+          "media_key": "3_2010536363322748928",
+          "start": 23,
+          "url": "https://t.co/Tb8PodHuVe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010909304392745177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 174
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010536393341276462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaaa____dry: 愛情の権化 https://t.co/Tb8PodHuVe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_2010536363322748928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-bcK4_bsAALmgb.png",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010536363322748928"
+          ],
+          "media_source_tweet_id": [
+            "2010536393341276462"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2010909304392745177",
+        "created_at": "2026-01-13T02:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T03:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010909304392745177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1846188581905485828",
+              "start": 3,
+              "username": "aaaa____dry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tb8PodHuVe",
+              "end": 46,
+              "expanded_url": "https://x.com/aaaa____dry/status/2010536393341276462/photo/1",
+              "media_key": "3_2010536363322748928",
+              "start": 23,
+              "url": "https://t.co/Tb8PodHuVe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010909304392745177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 174
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010536393341276462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaaa____dry: 愛情の権化 https://t.co/Tb8PodHuVe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010536363322748928"
+          ]
+        },
+        "author_id": "1846188581905485828",
+        "conversation_id": "2010536393341276462",
+        "created_at": "2026-01-12T02:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T03:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010536393341276462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tb8PodHuVe",
+              "end": 29,
+              "expanded_url": "https://x.com/aaaa____dry/status/2010536393341276462/photo/1",
+              "media_key": "3_2010536363322748928",
+              "start": 6,
+              "url": "https://t.co/Tb8PodHuVe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010536393341276462",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 9614,
+          "like_count": 1229,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "愛情の権化 https://t.co/Tb8PodHuVe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 604,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 95
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T13:57:35.000Z",
+        "description": "🐇⋆✴︎˚｡⋆感情と子供たちの絵*･ﾟ❤︎ 𝐡_ @9_Un_ya__ ❤︎.*･ﾟ┆日常アカウント@mosohk_sub┊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "9_Un_ya__"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "mosohk_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aaaa_dry",
+                "end": 23,
+                "expanded_url": "https://lit.link/aaaa_dry",
+                "start": 0,
+                "url": "https://t.co/t6kH1MBSF1"
+              }
+            ]
+          }
+        },
+        "id": "1846188581905485828",
+        "name": "妄想癖　phantom展→@COMITIA155 B26b",
+        "pinned_tweet_id": "2010689792191693195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928593953114435584/vsRqgJsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4772,
+          "following_count": 118,
+          "like_count": 10414,
+          "listed_count": 27,
+          "media_count": 1118,
+          "tweet_count": 2637
+        },
+        "url": "https://t.co/t6kH1MBSF1",
+        "username": "aaaa____dry",
+        "verified": true
+      }
+    ]
+  }
+}

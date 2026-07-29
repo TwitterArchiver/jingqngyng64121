@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013651952148623360"
+      ],
+      "media_source_tweet_id": [
+        "2013652805890773246"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2013980593776922644",
+    "created_at": "2026-01-21T14:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T15:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013980593776922644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1663729897062412288",
+          "start": 3,
+          "username": "nejimagari__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lhLvfrxIMw",
+          "end": 122,
+          "expanded_url": "https://x.com/nejimagari__/status/2013652805890773246/photo/1",
+          "media_key": "3_2013651952148623360",
+          "start": 99,
+          "url": "https://t.co/lhLvfrxIMw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013980593776922644",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 199
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013652805890773246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nejimagari__: 僕が今までODしてきた薬物のなかで乱用できたものをTier表にしました。\n※ODを推奨してるわけではありません。もしする場合はよく調べて自己責任でお願いします※ https://t.co/lhLvfrxIMw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1144,
+        "media_key": "3_2013651952148623360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HtyB0XMAAspP7.jpg",
+        "width": 1140
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013651952148623360"
+          ],
+          "media_source_tweet_id": [
+            "2013652805890773246"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2013980593776922644",
+        "created_at": "2026-01-21T14:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013980593776922644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1663729897062412288",
+              "start": 3,
+              "username": "nejimagari__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lhLvfrxIMw",
+              "end": 122,
+              "expanded_url": "https://x.com/nejimagari__/status/2013652805890773246/photo/1",
+              "media_key": "3_2013651952148623360",
+              "start": 99,
+              "url": "https://t.co/lhLvfrxIMw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013980593776922644",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 199
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013652805890773246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nejimagari__: 僕が今までODしてきた薬物のなかで乱用できたものをTier表にしました。\n※ODを推奨してるわけではありません。もしする場合はよく調べて自己責任でお願いします※ https://t.co/lhLvfrxIMw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013651952148623360"
+          ]
+        },
+        "author_id": "1663729897062412288",
+        "conversation_id": "2013652805890773246",
+        "created_at": "2026-01-20T16:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T17:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013652805890773246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lhLvfrxIMw",
+              "end": 104,
+              "expanded_url": "https://x.com/nejimagari__/status/2013652805890773246/photo/1",
+              "media_key": "3_2013651952148623360",
+              "start": 81,
+              "url": "https://t.co/lhLvfrxIMw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013652805890773246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 814,
+          "impression_count": 263502,
+          "like_count": 2647,
+          "quote_count": 200,
+          "reply_count": 22,
+          "retweet_count": 199
+        },
+        "reply_settings": "everyone",
+        "text": "僕が今までODしてきた薬物のなかで乱用できたものをTier表にしました。\n※ODを推奨してるわけではありません。もしする場合はよく調べて自己責任でお願いします※ https://t.co/lhLvfrxIMw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 18,
+          "like_count": 838,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 127
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-31T02:11:42.000Z",
+        "description": "孤独と不幸に処方箋を。 虚無感を抱えて今日を延命。",
+        "id": "1663729897062412288",
+        "location": "インターネットの端っこ",
+        "name": "ねじまがり",
+        "pinned_tweet_id": "2005026849462911467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004680587748204545/3C6nRr1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 396,
+          "like_count": 4126,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 1781
+        },
+        "username": "nejimagari__",
+        "verified": false
+      }
+    ]
+  }
+}

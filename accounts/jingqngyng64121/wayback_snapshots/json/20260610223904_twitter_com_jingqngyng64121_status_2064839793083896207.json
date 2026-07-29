@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064717897470234624"
+      ],
+      "media_source_tweet_id": [
+        "2064717903367372865"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2064839793083896207",
+    "created_at": "2026-06-10T22:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T23:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064839793083896207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1840002813813997568",
+          "start": 3,
+          "username": "2nwxq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rp1uA73tPQ",
+          "end": 48,
+          "expanded_url": "https://x.com/2nwxq/status/2064717903367372865/photo/1",
+          "media_key": "3_2064717897470234624",
+          "start": 25,
+          "url": "https://t.co/Rp1uA73tPQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064839793083896207",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064717903367372865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2nwxq: 高校ODで退学ＷＷＷＷＷＷ https://t.co/Rp1uA73tPQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 863,
+        "media_key": "3_2064717897470234624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdZ_Qga0AA1SMi.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064717897470234624"
+          ],
+          "media_source_tweet_id": [
+            "2064717903367372865"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2064839793083896207",
+        "created_at": "2026-06-10T22:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T23:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064839793083896207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840002813813997568",
+              "start": 3,
+              "username": "2nwxq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rp1uA73tPQ",
+              "end": 48,
+              "expanded_url": "https://x.com/2nwxq/status/2064717903367372865/photo/1",
+              "media_key": "3_2064717897470234624",
+              "start": 25,
+              "url": "https://t.co/Rp1uA73tPQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064839793083896207",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064717903367372865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2nwxq: 高校ODで退学ＷＷＷＷＷＷ https://t.co/Rp1uA73tPQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064717897470234624"
+          ]
+        },
+        "author_id": "1840002813813997568",
+        "conversation_id": "2064717903367372865",
+        "created_at": "2026-06-10T14:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064717903367372865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rp1uA73tPQ",
+              "end": 37,
+              "expanded_url": "https://x.com/2nwxq/status/2064717903367372865/photo/1",
+              "media_key": "3_2064717897470234624",
+              "start": 14,
+              "url": "https://t.co/Rp1uA73tPQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064717903367372865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 46300,
+          "like_count": 2296,
+          "quote_count": 28,
+          "reply_count": 11,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "高校ODで退学ＷＷＷＷＷＷ https://t.co/Rp1uA73tPQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 409,
+          "like_count": 7655,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1577
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T12:17:23.000Z",
+        "description": "❤︎ @nzqlo 🗝@nxwllq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 3,
+                "username": "nzqlo"
+              },
+              {
+                "end": 18,
+                "start": 11,
+                "username": "nxwllq"
+              }
+            ]
+          }
+        },
+        "id": "1840002813813997568",
+        "name": "悩殺フレネミー",
+        "pinned_tweet_id": "2025229730849673305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063243479116091392/Kva5aI3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2455,
+          "following_count": 29,
+          "like_count": 33852,
+          "listed_count": 10,
+          "media_count": 52,
+          "tweet_count": 256
+        },
+        "username": "2nwxq",
+        "verified": false
+      }
+    ]
+  }
+}

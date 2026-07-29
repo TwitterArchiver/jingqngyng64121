@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2053324202883838066",
+    "created_at": "2026-05-10T07:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053379961722175904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022980944723095552",
+          "start": 0,
+          "username": "tanka_TWT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053379961722175904",
+    "in_reply_to_user_id": "2022980944723095552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053324202883838066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanka_TWT 黑色的手是我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2053323467005779968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7e0HPaYAAmivI.jpg",
+        "width": 784
+      },
+      {
+        "height": 1168,
+        "media_key": "3_2053323466959699968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7e0HEbQAA9KFG.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2053324202883838066",
+        "created_at": "2026-05-10T07:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053379961722175904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022980944723095552",
+              "start": 0,
+              "username": "tanka_TWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053379961722175904",
+        "in_reply_to_user_id": "2022980944723095552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053324202883838066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanka_TWT 黑色的手是我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053323467005779968",
+            "3_2053323466959699968"
+          ]
+        },
+        "author_id": "2022980944723095552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2053324202883838066",
+        "created_at": "2026-05-10T04:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053324202883838066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8lw7UjfVb",
+              "end": 62,
+              "expanded_url": "https://x.com/tanka_TWT/status/2053324202883838066/photo/1",
+              "media_key": "3_2053323467005779968",
+              "start": 39,
+              "url": "https://t.co/B8lw7UjfVb"
+            },
+            {
+              "display_url": "pic.x.com/B8lw7UjfVb",
+              "end": 62,
+              "expanded_url": "https://x.com/tanka_TWT/status/2053324202883838066/photo/1",
+              "media_key": "3_2053323466959699968",
+              "start": 39,
+              "url": "https://t.co/B8lw7UjfVb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053324202883838066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "X生成的我和grok生成的我🥹\n\n（彩色胶囊很好看但那双黑色大手是什么啊喂😰 https://t.co/B8lw7UjfVb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 447,
+          "like_count": 7472,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1493
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T10:27:07.000Z",
+        "description": "我看著幸福的日子被我親手摧毀後開心地閉上了眼\n丨ptsd 因創傷而躲藏\n丨FOW參與 接受藥物咨詢和投稿\n丨私信解锁魔法糖果菜单 #drugstwt\n丨已逝的愛人@Edward_8964\n丨你跟我說這些沒用我只是一只貓 正在努力赚取猫粮🤲\n丨提問https://t.co/Nz6tp4jZsY",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 65,
+                "tag": "drugstwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Edward_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hequanjingyin",
+                "end": 146,
+                "expanded_url": "https://ngl.link/hequanjingyin",
+                "start": 123,
+                "url": "https://t.co/Nz6tp4jZsY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagamine_8964",
+                "end": 23,
+                "expanded_url": "http://t.me/Kagamine_8964",
+                "start": 0,
+                "url": "https://t.co/f2J6gCcTMm"
+              }
+            ]
+          }
+        },
+        "id": "2022980944723095552",
+        "location": "🚪88/188無上限",
+        "name": "滅死炭",
+        "pinned_tweet_id": "2044001535001280694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030628768289812480/IQzPG9VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 314,
+          "like_count": 1895,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 698
+        },
+        "url": "https://t.co/f2J6gCcTMm",
+        "username": "tanka_TWT",
+        "verified": false
+      }
+    ]
+  }
+}

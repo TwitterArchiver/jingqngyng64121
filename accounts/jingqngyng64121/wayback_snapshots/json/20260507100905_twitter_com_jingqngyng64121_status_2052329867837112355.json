@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052080215317221379"
+      ],
+      "media_source_tweet_id": [
+        "2052080218056114359"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2052329867837112355",
+    "created_at": "2026-05-07T10:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052329867837112355"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "shtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1901190687284178944",
+          "start": 3,
+          "username": "DLJDZXZ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9PDJnh1sEW",
+          "end": 51,
+          "expanded_url": "https://x.com/DLJDZXZ/status/2052080218056114359/photo/1",
+          "media_key": "3_2052080215317221379",
+          "start": 28,
+          "url": "https://t.co/9PDJnh1sEW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052329867837112355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 143
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052080218056114359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DLJDZXZ: 红笔模拟出血！\n#shtwt https://t.co/9PDJnh1sEW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052329867837112355].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052329867837112355",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052329867837112355"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2052080215317221379",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHp0FVyXEAMi51R.jpg",
+        "width": 375
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052080215317221379"
+          ]
+        },
+        "author_id": "1901190687284178944",
+        "conversation_id": "2052080218056114359",
+        "created_at": "2026-05-06T17:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052080218056114359"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9PDJnh1sEW",
+              "end": 38,
+              "expanded_url": "https://x.com/DLJDZXZ/status/2052080218056114359/photo/1",
+              "media_key": "3_2052080215317221379",
+              "start": 15,
+              "url": "https://t.co/9PDJnh1sEW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052080218056114359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 4834,
+          "like_count": 1260,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "红笔模拟出血！\n#shtwt https://t.co/9PDJnh1sEW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 446,
+          "like_count": 7400,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1472
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T08:36:02.000Z",
+        "description": "当记录了...shtwt❗想交友想有一搭没一搭的聊天。一个自我认知极度不稳的傻逼BPD，无法理解自己。毫无文化无法正常生活边缘至极，单机。渴望社交但社交无能💬zzZ，有女朋友",
+        "id": "1901190687284178944",
+        "name": "❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032224862874533888/iVt2frYE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 218,
+          "like_count": 2551,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 485
+        },
+        "username": "DLJDZXZ",
+        "verified": false
+      }
+    ]
+  }
+}

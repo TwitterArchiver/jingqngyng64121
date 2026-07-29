@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2075413982232375347",
+    "created_at": "2026-07-10T02:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T03:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075413982232375347"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 59,
+          "tag": "江浙沪"
+        },
+        {
+          "end": 69,
+          "start": 64,
+          "tag": "天津北京"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2072207296235786241",
+          "start": 3,
+          "username": "yhterh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075413982232375347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072211019318137081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yhterh: 我是牙疼 前世账号发黄色太多被冻结 如今回归 可以露脸验证告诉我指令就行 需要66🧧 \n坐标 #江浙沪 #天津北京 \n🚪199仅朋友圈  \n🚪520 解锁非绿\n🚪1314 非绿打五折\n🚪5200 免费包夜一次  \n详情看图三 马克思别封我了 我只是个无家…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072210943384379392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMH437waYAATa_S.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072210943409537024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMH4372aQAAWJ7r.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1585,
+        "media_key": "3_2072210943401164800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMH4370agAAzja7.jpg",
+        "width": 1320
+      },
+      {
+        "duration_ms": 12029,
+        "height": 1280,
+        "media_key": "13_2072210943401222144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072210943401222144/img/UD4gZh-6A7KOo5JR.jpg",
+        "public_metrics": {
+          "view_count": 1359
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072210943401222144/vid/avc1/320x568/TvLGAu6h1R7t9BFN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072210943401222144/vid/avc1/480x852/pvLGlpb7iR79ONl9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072210943401222144/vid/avc1/720x1280/bllZuVR3sWest0_B.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072210943401222144/pl/1sGmkvqydCsEz490.m3u8?v=197"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2075413982232375347",
+        "created_at": "2026-07-10T02:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075413982232375347"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "天津北京"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2072207296235786241",
+              "start": 3,
+              "username": "yhterh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075413982232375347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072211019318137081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yhterh: 我是牙疼 前世账号发黄色太多被冻结 如今回归 可以露脸验证告诉我指令就行 需要66🧧 \n坐标 #江浙沪 #天津北京 \n🚪199仅朋友圈  \n🚪520 解锁非绿\n🚪1314 非绿打五折\n🚪5200 免费包夜一次  \n详情看图三 马克思别封我了 我只是个无家…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072210943384379392",
+            "3_2072210943409537024",
+            "3_2072210943401164800",
+            "13_2072210943401222144"
+          ]
+        },
+        "author_id": "2072207296235786241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072211019318137081",
+        "created_at": "2026-07-01T06:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072211019318137081"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "天津北京"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YaAtywH4FU",
+              "end": 187,
+              "expanded_url": "https://x.com/yhterh/status/2072211019318137081/video/1",
+              "media_key": "3_2072210943384379392",
+              "start": 164,
+              "url": "https://t.co/YaAtywH4FU"
+            },
+            {
+              "display_url": "pic.x.com/YaAtywH4FU",
+              "end": 187,
+              "expanded_url": "https://x.com/yhterh/status/2072211019318137081/video/1",
+              "media_key": "3_2072210943409537024",
+              "start": 164,
+              "url": "https://t.co/YaAtywH4FU"
+            },
+            {
+              "display_url": "pic.x.com/YaAtywH4FU",
+              "end": 187,
+              "expanded_url": "https://x.com/yhterh/status/2072211019318137081/video/1",
+              "media_key": "3_2072210943401164800",
+              "start": 164,
+              "url": "https://t.co/YaAtywH4FU"
+            },
+            {
+              "display_url": "pic.x.com/YaAtywH4FU",
+              "end": 187,
+              "expanded_url": "https://x.com/yhterh/status/2072211019318137081/video/1",
+              "media_key": "13_2072210943401222144",
+              "start": 164,
+              "url": "https://t.co/YaAtywH4FU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072211019318137081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5153,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "我是牙疼 前世账号发黄色太多被冻结 如今回归 可以露脸验证告诉我指令就行 需要66🧧 \n坐标 #江浙沪 #天津北京 \n🚪199仅朋友圈  \n🚪520 解锁非绿\n🚪1314 非绿打五折\n🚪5200 免费包夜一次  \n详情看图三 马克思别封我了 我只是个无家可归没父母爱的可怜虫 让我有条生路可以不\n欢迎妹子互转互fo抽五个20🧧 https://t.co/YaAtywH4FU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 424,
+          "like_count": 8057,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1669
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T06:36:24.000Z",
+        "description": "我的作息时间下午俩点到凌晨五点",
+        "id": "2072207296235786241",
+        "name": "我的牙好疼",
+        "pinned_tweet_id": "2072211019318137081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072207801330634752/ll1hE297_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 3,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "yhterh",
+        "verified": false
+      }
+    ]
+  }
+}

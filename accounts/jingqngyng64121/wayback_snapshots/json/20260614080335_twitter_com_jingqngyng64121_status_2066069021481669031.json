@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2066069021481669031",
+    "created_at": "2026-06-14T08:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066069021481669031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1693057268319952896",
+          "start": 3,
+          "username": "liujizhong415"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066069021481669031",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065133188398334414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liujizhong415: 阿里嘎多主人看我的自介\n这里笨喵一枚 ip杭州\n喜欢我的话可以入门了解我更多\n线下暂只接关系好的门哥  社恐i人 望理解\n看番吃谷打游戏 www宅妹一只最近在玩易次元…没救了\n三坑 女仆系 谁把我当女儿养起来0.0？\n永遠に私のそばにいてく…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065133176637513728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjTrr9aYAAfNV4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1346,
+        "media_key": "3_2065133176369090560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjTrq9akAA7QFN.jpg",
+        "width": 1060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2066069021481669031",
+        "created_at": "2026-06-14T08:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066069021481669031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1693057268319952896",
+              "start": 3,
+              "username": "liujizhong415"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066069021481669031",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065133188398334414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liujizhong415: 阿里嘎多主人看我的自介\n这里笨喵一枚 ip杭州\n喜欢我的话可以入门了解我更多\n线下暂只接关系好的门哥  社恐i人 望理解\n看番吃谷打游戏 www宅妹一只最近在玩易次元…没救了\n三坑 女仆系 谁把我当女儿养起来0.0？\n永遠に私のそばにいてく…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065133176637513728",
+            "3_2065133176369090560"
+          ]
+        },
+        "author_id": "1693057268319952896",
+        "conversation_id": "2065133188398334414",
+        "created_at": "2026-06-11T18:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065133188398334414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6j5yQD6lnZ",
+              "end": 147,
+              "expanded_url": "https://x.com/liujizhong415/status/2065133188398334414/photo/1",
+              "media_key": "3_2065133176637513728",
+              "start": 124,
+              "url": "https://t.co/6j5yQD6lnZ"
+            },
+            {
+              "display_url": "pic.x.com/6j5yQD6lnZ",
+              "end": 147,
+              "expanded_url": "https://x.com/liujizhong415/status/2065133188398334414/photo/1",
+              "media_key": "3_2065133176369090560",
+              "start": 124,
+              "url": "https://t.co/6j5yQD6lnZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065133188398334414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 23647,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "阿里嘎多主人看我的自介\n这里笨喵一枚 ip杭州\n喜欢我的话可以入门了解我更多\n线下暂只接关系好的门哥  社恐i人 望理解\n看番吃谷打游戏 www宅妹一只最近在玩易次元…没救了\n三坑 女仆系 谁把我当女儿养起来0.0？\n永遠に私のそばにいてください https://t.co/6j5yQD6lnZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 412,
+          "like_count": 7703,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1590
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-20T00:28:16.000Z",
+        "description": "迷恋署の小女孩₍ ͒｡› ༝ ‹｡ ͒₎",
+        "id": "1693057268319952896",
+        "location": "🚪99/299/520/999",
+        "name": "笨蛋小猫",
+        "pinned_tweet_id": "2065133188398334414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065131173983236096/Ee1Qd3be_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 7,
+          "like_count": 17,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "username": "liujizhong415",
+        "verified": false
+      }
+    ]
+  }
+}

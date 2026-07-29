@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019000058587578368"
+      ],
+      "media_source_tweet_id": [
+        "2019000062140182691"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2019359163340734885",
+    "created_at": "2026-02-05T10:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T11:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019359163340734885"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 21,
+          "tag": "AveMujica"
+        },
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "豐川祥子"
+        },
+        {
+          "end": 42,
+          "start": 38,
+          "tag": "若葉睦"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1904521184102002689",
+          "start": 3,
+          "username": "YAOYU355949"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/POsU23XKiY",
+          "end": 66,
+          "expanded_url": "https://x.com/YAOYU355949/status/2019000062140182691/photo/1",
+          "media_key": "3_2019000058587578368",
+          "start": 43,
+          "url": "https://t.co/POsU23XKiY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019359163340734885",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 412
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019000062140182691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YAOYU355949: （盯）\n#AveMujica #豐川祥子 #若葉睦 https://t.co/POsU23XKiY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019000058587578368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATt2y2bAAADwYA.jpg",
+        "width": 1873
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019000058587578368"
+          ],
+          "media_source_tweet_id": [
+            "2019000062140182691"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2019359163340734885",
+        "created_at": "2026-02-05T10:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T11:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019359163340734885"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "豐川祥子"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "若葉睦"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1904521184102002689",
+              "start": 3,
+              "username": "YAOYU355949"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/POsU23XKiY",
+              "end": 66,
+              "expanded_url": "https://x.com/YAOYU355949/status/2019000062140182691/photo/1",
+              "media_key": "3_2019000058587578368",
+              "start": 43,
+              "url": "https://t.co/POsU23XKiY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019359163340734885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 412
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019000062140182691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YAOYU355949: （盯）\n#AveMujica #豐川祥子 #若葉睦 https://t.co/POsU23XKiY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019000058587578368"
+          ]
+        },
+        "author_id": "1904521184102002689",
+        "conversation_id": "2019000062140182691",
+        "created_at": "2026-02-04T10:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T11:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019000062140182691"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 4,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "豐川祥子"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "若葉睦"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/POsU23XKiY",
+              "end": 49,
+              "expanded_url": "https://x.com/YAOYU355949/status/2019000062140182691/photo/1",
+              "media_key": "3_2019000058587578368",
+              "start": 26,
+              "url": "https://t.co/POsU23XKiY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019000062140182691",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 22109,
+          "like_count": 2206,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 412
+        },
+        "reply_settings": "everyone",
+        "text": "（盯）\n#AveMujica #豐川祥子 #若葉睦 https://t.co/POsU23XKiY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 129,
+          "like_count": 2059,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 351
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T13:10:44.000Z",
+        "description": "",
+        "id": "1904521184102002689",
+        "name": "一条鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019015637067354112/W3FuVQvA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 25,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 58
+        },
+        "username": "YAOYU355949",
+        "verified": false
+      }
+    ]
+  }
+}

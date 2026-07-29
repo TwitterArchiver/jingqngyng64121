@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2035182726261899536",
+    "created_at": "2026-03-21T02:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T03:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035182726261899536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1531874456997863424",
+          "start": 3,
+          "username": "RIP8964Massacre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035182726261899536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035105349074891061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RIP8964Massacre: 心瘾，它就这么放在你面前，一板8t，1200mg，过往不断浮现在脑海。恶魔盘绕在耳朵边：“吃点没事的”。扣到最后一板的时候，“把这些吃了以后再也不吃”。我去你大坝的！\n停水了冲不了马桶所以刚刚扣出来全塞易拉罐里扔掉了，不好意思是我食言了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2035105346055008256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD4lh6AbcAAPfYL.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2035182726261899536",
+        "created_at": "2026-03-21T02:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T03:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035182726261899536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1531874456997863424",
+              "start": 3,
+              "username": "RIP8964Massacre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035182726261899536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035105349074891061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RIP8964Massacre: 心瘾，它就这么放在你面前，一板8t，1200mg，过往不断浮现在脑海。恶魔盘绕在耳朵边：“吃点没事的”。扣到最后一板的时候，“把这些吃了以后再也不吃”。我去你大坝的！\n停水了冲不了马桶所以刚刚扣出来全塞易拉罐里扔掉了，不好意思是我食言了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035105346055008256"
+          ]
+        },
+        "author_id": "1531874456997863424",
+        "conversation_id": "2035105349074891061",
+        "created_at": "2026-03-20T21:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T22:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035105349074891061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0PVO5hRi3a",
+              "end": 169,
+              "expanded_url": "https://x.com/RIP8964Massacre/status/2035105349074891061/photo/1",
+              "media_key": "3_2035105346055008256",
+              "start": 146,
+              "url": "https://t.co/0PVO5hRi3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035105349074891061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心瘾，它就这么放在你面前，一板8t，1200mg，过往不断浮现在脑海。恶魔盘绕在耳朵边：“吃点没事的”。扣到最后一板的时候，“把这些吃了以后再也不吃”。我去你大坝的！\n停水了冲不了马桶所以刚刚扣出来全塞易拉罐里扔掉了，不好意思是我食言了。\n仿佛经历了一场搏斗，喘着粗气，很想分享此刻的心情。 https://t.co/0PVO5hRi3a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 277,
+          "like_count": 4749,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "头发遮住眼睛抬头看天空感觉自己好忧郁/李小姐给点药@MissLi1207",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "MissLi1207"
+              }
+            ]
+          }
+        },
+        "id": "1531874456997863424",
+        "location": "尖沙咀铁锅炖大鹅",
+        "name": "不开心就od",
+        "pinned_tweet_id": "2032697973667500483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984521028274700291/SnoaoxPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 171,
+          "like_count": 13835,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 1446
+        },
+        "username": "RIP8964Massacre",
+        "verified": false
+      }
+    ]
+  }
+}

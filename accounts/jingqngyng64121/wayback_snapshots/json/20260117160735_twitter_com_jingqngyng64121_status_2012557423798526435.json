@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2012557423798526435",
+    "created_at": "2026-01-17T16:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T17:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012557423798526435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1262632017167966210",
+          "start": 3,
+          "username": "Sjoker3721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012557423798526435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012090172431855699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sjoker3721: 听说李湘的账号全网禁止关注,不知道是什么原因,但是我非常高兴.她太能买广告买热搜了,我真的受不了一打开小红书就是她和她的胖女儿还有胖前夫,胖胖的一家人在那炫富.不停给我推送胖女儿画画儿了,对口型唱歌了,参加晚宴了,考驾照了胖爸爸给买了一辆劳斯莱斯…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2012557423798526435",
+        "created_at": "2026-01-17T16:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T17:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012557423798526435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1262632017167966210",
+              "start": 3,
+              "username": "Sjoker3721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012557423798526435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012090172431855699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sjoker3721: 听说李湘的账号全网禁止关注,不知道是什么原因,但是我非常高兴.她太能买广告买热搜了,我真的受不了一打开小红书就是她和她的胖女儿还有胖前夫,胖胖的一家人在那炫富.不停给我推送胖女儿画画儿了,对口型唱歌了,参加晚宴了,考驾照了胖爸爸给买了一辆劳斯莱斯…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1262632017167966210",
+        "conversation_id": "2012090172431855699",
+        "created_at": "2026-01-16T09:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T10:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012090172431855699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012090172431855699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 152848,
+          "like_count": 1054,
+          "quote_count": 3,
+          "reply_count": 41,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "听说李湘的账号全网禁止关注,不知道是什么原因,但是我非常高兴.她太能买广告买热搜了,我真的受不了一打开小红书就是她和她的胖女儿还有胖前夫,胖胖的一家人在那炫富.不停给我推送胖女儿画画儿了,对口型唱歌了,参加晚宴了,考驾照了胖爸爸给买了一辆劳斯莱斯。放过我们吧求求了,我们不想知道这些。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 729,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 111
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-19T06:31:56.000Z",
+        "description": "中共中央国务院,辽宁省委东兴县,龙泉山庄药膳部,主管经理李宝库。",
+        "id": "1262632017167966210",
+        "location": "Sydney",
+        "name": "小饼儿钱来💰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911946778330423297/0rQaT-nG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11974,
+          "following_count": 151,
+          "like_count": 13924,
+          "listed_count": 55,
+          "media_count": 1094,
+          "tweet_count": 18733
+        },
+        "username": "Sjoker3721",
+        "verified": true
+      }
+    ]
+  }
+}

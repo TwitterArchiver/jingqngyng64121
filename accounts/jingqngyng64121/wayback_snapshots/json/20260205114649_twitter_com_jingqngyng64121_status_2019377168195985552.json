@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2019372727170445536",
+    "created_at": "2026-02-05T11:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T12:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019377168195985552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013233628847980544",
+          "start": 0,
+          "username": "MikanseiNoNatsu"
+        },
+        {
+          "end": 28,
+          "id": "1844290406391103488",
+          "start": 17,
+          "username": "qhqq114514"
+        },
+        {
+          "end": 39,
+          "id": "1963604135615631360",
+          "start": 29,
+          "username": "y0zarash1"
+        },
+        {
+          "end": 50,
+          "id": "1641968587102621696",
+          "start": 40,
+          "username": "0voki33Me"
+        },
+        {
+          "end": 67,
+          "id": "1417099624922370056",
+          "start": 51,
+          "username": "XinGZiSaMa_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019377168195985552",
+    "in_reply_to_user_id": "2013233628847980544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019372727170445536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikanseiNoNatsu @qhqq114514 @y0zarash1 @0voki33Me @XinGZiSaMa_8964 叫妈妈👩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2019372718345564160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZAycoaMAACKIu.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2019372727170445536",
+        "created_at": "2026-02-05T11:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T12:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019377168195985552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013233628847980544",
+              "start": 0,
+              "username": "MikanseiNoNatsu"
+            },
+            {
+              "end": 28,
+              "id": "1844290406391103488",
+              "start": 17,
+              "username": "qhqq114514"
+            },
+            {
+              "end": 39,
+              "id": "1963604135615631360",
+              "start": 29,
+              "username": "y0zarash1"
+            },
+            {
+              "end": 50,
+              "id": "1641968587102621696",
+              "start": 40,
+              "username": "0voki33Me"
+            },
+            {
+              "end": 67,
+              "id": "1417099624922370056",
+              "start": 51,
+              "username": "XinGZiSaMa_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019377168195985552",
+        "in_reply_to_user_id": "2013233628847980544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019372727170445536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikanseiNoNatsu @qhqq114514 @y0zarash1 @0voki33Me @XinGZiSaMa_8964 叫妈妈👩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019372718345564160"
+          ]
+        },
+        "author_id": "2013233628847980544",
+        "conversation_id": "2019372727170445536",
+        "created_at": "2026-02-05T11:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T12:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019372727170445536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1992506703678705664",
+              "start": 22,
+              "username": "jingqngyng64121"
+            },
+            {
+              "end": 50,
+              "id": "1844290406391103488",
+              "start": 39,
+              "username": "qhqq114514"
+            },
+            {
+              "end": 67,
+              "id": "1963604135615631360",
+              "start": 57,
+              "username": "y0zarash1"
+            },
+            {
+              "end": 84,
+              "id": "1641968587102621696",
+              "start": 74,
+              "username": "0voki33Me"
+            },
+            {
+              "end": 101,
+              "id": "1417099624922370056",
+              "start": 85,
+              "username": "XinGZiSaMa_8964"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 129,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2018133833019965440/IXFT8rqY?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2018133833019965440/IXFT8rqY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/tRaqPBD0bT"
+            },
+            {
+              "display_url": "pic.x.com/3vbl0uuWWa",
+              "end": 153,
+              "expanded_url": "https://x.com/MikanseiNoNatsu/status/2019372727170445536/photo/1",
+              "media_key": "3_2019372718345564160",
+              "start": 130,
+              "url": "https://t.co/3vbl0uuWWa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019372727170445536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @jingqngyng64121 @qhqq114514\n👰 配偶: @y0zarash1\n👶 孩子: @0voki33Me @XinGZiSaMa_8964\n\n➡️ https://t.co/tRaqPBD0bT https://t.co/3vbl0uuWWa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 130,
+          "like_count": 2074,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 354
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "精神状态和性别是蔚蓝色 梦想是当摇滚明星 | 20 | 双相 🔪🩸💊🎸🎨 | 酷儿全友好",
+        "id": "2013233628847980544",
+        "location": "Rumoi-shi, Hokkaidō",
+        "name": "郁希",
+        "pinned_tweet_id": "2013235926848139522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013241006649479169/wv7Yutei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 53,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 349
+        },
+        "username": "MikanseiNoNatsu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T08:14:42.000Z",
+        "description": "私：@FoxGod__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "FoxGod__"
+              }
+            ]
+          }
+        },
+        "id": "1844290406391103488",
+        "location": "Osaka-fu, Japan",
+        "name": "命运石之门",
+        "pinned_tweet_id": "1858736060181914065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015107405458419712/44__sk3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 264,
+          "like_count": 1968,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 3640
+        },
+        "username": "qhqq114514",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T14:05:01.000Z",
+        "description": "星瞳身上是只有东亚人才能体会到的美。as是怪物，阿梓a是怪物，七海是怪物，她们是东亚女性，是沙文主义a，是强权，星瞳不是，她是顺从，是担忧，是献身，是毁灭，是内心深处的自轻自贱，她是紫姬，是洛丽塔，是爱丽丝，是马蒂尔达。东亚女性千百年来被视作美的事物被安排在一个虚拟女主播身上，美艳的不可方物",
+        "id": "1963604135615631360",
+        "location": "82568",
+        "name": "正乐瞳孙",
+        "pinned_tweet_id": "2019095226938454119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983987875856445442/vXFG3f5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 47,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 116
+        },
+        "username": "y0zarash1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜窝囊废一个｜默认骂我的臭婊子本人及其全家死光光死不瞑目死无全尸尸暴荒野粉身碎骨身首异处肝脑涂地尸骨无存抱恨终天饮恨而终死于非命死无葬身含恨九泉｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "距离你1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 1025,
+          "like_count": 4796,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 3106
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T12:31:06.000Z",
+        "description": "幸せになりたい",
+        "id": "1417099624922370056",
+        "location": "天堂",
+        "name": "性🐾🎸",
+        "pinned_tweet_id": "2019087479836676169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010818938666733568/mI3QBzcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 351,
+          "like_count": 45418,
+          "listed_count": 3,
+          "media_count": 1431,
+          "tweet_count": 8240
+        },
+        "username": "XinGZiSaMa_8964",
+        "verified": false
+      }
+    ]
+  }
+}

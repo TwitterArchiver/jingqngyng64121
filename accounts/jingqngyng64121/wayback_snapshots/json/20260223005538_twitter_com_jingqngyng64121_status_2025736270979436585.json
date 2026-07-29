@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2025599432033714375",
+    "created_at": "2026-02-23T00:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T01:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025736270979436585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1722890177696468992",
+          "start": 0,
+          "username": "ustuYukichan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025736270979436585",
+    "in_reply_to_user_id": "1722890177696468992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025599432033714375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ustuYukichan 我喜欢这个"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7470,
+        "height": 1280,
+        "media_key": "13_2025599310403104768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025599310403104768/img/M9DJM9CeRsFPH41_.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025599310403104768/vid/avc1/320x568/S4m9q9t2HZQKPr6O.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025599310403104768/vid/avc1/480x852/8FDADUd-nt2wTIxd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025599310403104768/vid/avc1/720x1280/yPTtsZ_ZS9uuNCIA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025599310403104768/pl/19PgZIUJIZ441vL1.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 7536,
+        "height": 1280,
+        "media_key": "13_2025599310411493376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025599310411493376/img/bGjlUPKFBgBTaWzJ.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025599310411493376/vid/avc1/320x568/g2id4bbU4U6ljI-Q.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025599310411493376/vid/avc1/480x852/GFGFroTaOMwF8cyd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025599310411493376/vid/avc1/720x1280/_Fw9c2D7Iak2yuI3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025599310411493376/pl/h8IXhSrYz1hQdNwg.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2025599432033714375",
+        "created_at": "2026-02-23T00:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T01:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025736270979436585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1722890177696468992",
+              "start": 0,
+              "username": "ustuYukichan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025736270979436585",
+        "in_reply_to_user_id": "1722890177696468992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025599432033714375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ustuYukichan 我喜欢这个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025599310403104768",
+            "13_2025599310411493376"
+          ]
+        },
+        "author_id": "1722890177696468992",
+        "conversation_id": "2025599432033714375",
+        "created_at": "2026-02-22T15:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025599432033714375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MTRZDSWIOM",
+              "end": 37,
+              "expanded_url": "https://x.com/ustuYukichan/status/2025599432033714375/video/1",
+              "media_key": "13_2025599310403104768",
+              "start": 14,
+              "url": "https://t.co/MTRZDSWIOM"
+            },
+            {
+              "display_url": "pic.x.com/MTRZDSWIOM",
+              "end": 37,
+              "expanded_url": "https://x.com/ustuYukichan/status/2025599432033714375/video/1",
+              "media_key": "13_2025599310411493376",
+              "start": 14,
+              "url": "https://t.co/MTRZDSWIOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025599432033714375",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恋人の前で　血まみれになる https://t.co/MTRZDSWIOM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 185,
+          "like_count": 3408,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 541
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T08:13:34.000Z",
+        "description": "冬天的第一场雪｜病み垢｜リスカ｜od｜shutwt｜drugtwt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/utsuyukichan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/utsuyukichan",
+                "start": 0,
+                "url": "https://t.co/aIBR6RGUsi"
+              }
+            ]
+          }
+        },
+        "id": "1722890177696468992",
+        "location": "地獄",
+        "name": "有害天使",
+        "pinned_tweet_id": "2017060419937194182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950984901202944000/dCpmdRLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 417,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1212
+        },
+        "url": "https://t.co/aIBR6RGUsi",
+        "username": "ustuYukichan",
+        "verified": false
+      }
+    ]
+  }
+}

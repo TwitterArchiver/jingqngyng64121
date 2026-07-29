@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053085395064397824"
+      ],
+      "media_source_tweet_id": [
+        "2053085404207915058"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2053128357035053359",
+    "created_at": "2026-05-09T15:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T16:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053128357035053359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2040970554635931648",
+          "start": 3,
+          "username": "Mercyeeua"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q9wZ8hxqXQ",
+          "end": 46,
+          "expanded_url": "https://x.com/Mercyeeua/status/2053085404207915058/photo/1",
+          "media_key": "3_2053085395064397824",
+          "start": 23,
+          "url": "https://t.co/q9wZ8hxqXQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053128357035053359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053085404207915058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mercyeeua: 我歌喉的现场（ https://t.co/q9wZ8hxqXQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053128357035053359].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053128357035053359",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053128357035053359"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2053085395064397824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4GSgJbIAA0XaG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053085395064397824"
+          ]
+        },
+        "author_id": "2040970554635931648",
+        "conversation_id": "2053085404207915058",
+        "created_at": "2026-05-09T12:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053085404207915058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q9wZ8hxqXQ",
+              "end": 31,
+              "expanded_url": "https://x.com/Mercyeeua/status/2053085404207915058/photo/1",
+              "media_key": "3_2053085395064397824",
+              "start": 8,
+              "url": "https://t.co/q9wZ8hxqXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053085404207915058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 313,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我歌喉的现场（ https://t.co/q9wZ8hxqXQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 445,
+          "like_count": 7450,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1488
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T01:51:40.000Z",
+        "description": "pr/dpt/pcp现货喵希望各位宝宝们来支持\nmtx/18/人称代词her/she谢谢喵\n很好说话 可以随便私信骚扰🫶",
+        "id": "2040970554635931648",
+        "location": "能和神打电话の学校天台",
+        "name": "Mercy",
+        "pinned_tweet_id": "2053011514945380673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048592286502797312/PaYFKOGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 244,
+          "like_count": 1185,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 659
+        },
+        "username": "Mercyeeua",
+        "verified": false
+      }
+    ]
+  }
+}

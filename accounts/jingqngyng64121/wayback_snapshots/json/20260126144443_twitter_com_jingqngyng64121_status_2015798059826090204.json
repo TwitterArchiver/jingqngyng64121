@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2015798059826090204",
+    "created_at": "2026-01-26T14:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T15:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015798059826090204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "488823839",
+          "start": 3,
+          "username": "taikongjile000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015798059826090204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015752504911474862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taikongjile000: 大吗？效果好吗？成瘾吗？违法吗？别人会不会注意到？能吃几次？我拆开一半还有效果吗？催情吗？过检吗？有幻吗？会吐吗？我吃完能睡觉吗？空腹吃吗？能跟别的一起吃吗？我吃完能吃饭吗？我吃完能出去玩吗？持续时间长吗？有副作用吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2015798059826090204",
+        "created_at": "2026-01-26T14:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015798059826090204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "488823839",
+              "start": 3,
+              "username": "taikongjile000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015798059826090204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015752504911474862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taikongjile000: 大吗？效果好吗？成瘾吗？违法吗？别人会不会注意到？能吃几次？我拆开一半还有效果吗？催情吗？过检吗？有幻吗？会吐吗？我吃完能睡觉吗？空腹吃吗？能跟别的一起吃吗？我吃完能吃饭吗？我吃完能出去玩吗？持续时间长吗？有副作用吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "488823839",
+        "conversation_id": "2015752504911474862",
+        "created_at": "2026-01-26T11:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015752504911474862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015752504911474862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1619,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大吗？效果好吗？成瘾吗？违法吗？别人会不会注意到？能吃几次？我拆开一半还有效果吗？催情吗？过检吗？有幻吗？会吐吗？我吃完能睡觉吗？空腹吃吗？能跟别的一起吃吗？我吃完能吃饭吗？我吃完能出去玩吗？持续时间长吗？有副作用吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 71,
+          "like_count": 1198,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 233
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-10T21:51:18.000Z",
+        "description": "一个老实本分的农民\n大麻/迷幻剂去污名合法化\n官网：https://t.co/G0KfQSHAWC\n交流群：https://t.co/kaCNpFerhN\n备用号：@taikongjile001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "taikongjile001"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 49,
+                "expanded_url": "https://overdose.day/",
+                "start": 26,
+                "url": "https://t.co/G0KfQSHAWC"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 77,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 54,
+                "url": "https://t.co/kaCNpFerhN"
+              }
+            ]
+          }
+        },
+        "id": "488823839",
+        "location": "天国",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "2015675601815060786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015653690779271168/3qPtJUOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 82,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 61
+        },
+        "username": "taikongjile000",
+        "verified": false
+      }
+    ]
+  }
+}

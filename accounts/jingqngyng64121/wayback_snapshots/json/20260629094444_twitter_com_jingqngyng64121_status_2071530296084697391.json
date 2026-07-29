@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2071530296084697391",
+    "created_at": "2026-06-29T09:44:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T10:44:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071530296084697391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "753424463560052736",
+          "start": 3,
+          "username": "AcervoCharts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/jhc",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/jhc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071530296084697391",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1261
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071328118908871086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AcervoCharts: RARO! Mulher cega há 13 anos bate a cabeça em uma mesa ao tentar beijar seu cão-guia e recupera a visão. https://t.co/jhc…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 581,
+        "media_key": "3_2071327202579292160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7VHctXoAAnjyB.jpg",
+        "width": 581
+      },
+      {
+        "height": 719,
+        "media_key": "3_2071327181859340288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7VGPhWQAA2Wnd.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2071530296084697391",
+        "created_at": "2026-06-29T09:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071530296084697391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "753424463560052736",
+              "start": 3,
+              "username": "AcervoCharts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/jhc",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/jhc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071530296084697391",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1261
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071328118908871086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AcervoCharts: RARO! Mulher cega há 13 anos bate a cabeça em uma mesa ao tentar beijar seu cão-guia e recupera a visão. https://t.co/jhc…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071327202579292160",
+            "3_2071327181859340288"
+          ]
+        },
+        "author_id": "753424463560052736",
+        "conversation_id": "2071328118908871086",
+        "created_at": "2026-06-28T20:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T21:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071328118908871086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jhc1ZuYhwV",
+              "end": 128,
+              "expanded_url": "https://x.com/AcervoCharts/status/2071328118908871086/photo/1",
+              "media_key": "3_2071327202579292160",
+              "start": 105,
+              "url": "https://t.co/jhc1ZuYhwV"
+            },
+            {
+              "display_url": "pic.x.com/jhc1ZuYhwV",
+              "end": 128,
+              "expanded_url": "https://x.com/AcervoCharts/status/2071328118908871086/photo/1",
+              "media_key": "3_2071327181859340288",
+              "start": 105,
+              "url": "https://t.co/jhc1ZuYhwV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071328118908871086",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2400,
+          "impression_count": 2385738,
+          "like_count": 52670,
+          "quote_count": 242,
+          "reply_count": 325,
+          "retweet_count": 1261
+        },
+        "reply_settings": "everyone",
+        "text": "RARO! Mulher cega há 13 anos bate a cabeça em uma mesa ao tentar beijar seu cão-guia e recupera a visão. https://t.co/jhc1ZuYhwV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 426,
+          "like_count": 7899,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1647
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-14T03:02:45.000Z",
+        "description": "Curiosidades, entretenimento e cultura pop.\n✉️ publi@portalacervo.com.br",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "portalacervo.com.br",
+                "end": 23,
+                "expanded_url": "http://portalacervo.com.br",
+                "start": 0,
+                "url": "https://t.co/BICfVvadSo"
+              }
+            ]
+          }
+        },
+        "id": "753424463560052736",
+        "location": "Brasil",
+        "name": "ACERVO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897105347287908352/g-209otg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212043,
+          "following_count": 7587,
+          "like_count": 26427,
+          "listed_count": 334,
+          "media_count": 13703,
+          "tweet_count": 14647
+        },
+        "url": "https://t.co/BICfVvadSo",
+        "username": "AcervoCharts",
+        "verified": true
+      }
+    ]
+  }
+}

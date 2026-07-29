@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2005239551787438271",
+    "created_at": "2025-12-28T11:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T12:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005239551787438271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1962369612366172160",
+          "start": 3,
+          "username": "lizhiquu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005239551787438271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004755518389465528",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lizhiquu: 宝宝怎么又在生闷气\n是不是又把自己当成什么很重要的人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2005239551787438271",
+        "created_at": "2025-12-28T11:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T12:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005239551787438271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1962369612366172160",
+              "start": 3,
+              "username": "lizhiquu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005239551787438271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004755518389465528",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lizhiquu: 宝宝怎么又在生闷气\n是不是又把自己当成什么很重要的人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962369612366172160",
+        "conversation_id": "2004755518389465528",
+        "created_at": "2025-12-27T03:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T04:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004755518389465528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004755518389465528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 42060,
+          "like_count": 656,
+          "quote_count": 20,
+          "reply_count": 52,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝怎么又在生闷气\n是不是又把自己当成什么很重要的人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001251658462867457/SV9w9q-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 398,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 53
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T04:19:19.000Z",
+        "description": "叫我小荔枝｜infp｜已过大叔 熊二 日理万姬认证｜不喜欢的私信会骂回去｜有🚪验证20r 不收口令｜高强度在线等你互关｜入了都会认真发语音说情况｜过去式@xinttoo｜保命小号@lizhiove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 76,
+                "username": "xinttoo"
+              },
+              {
+                "end": 98,
+                "start": 89,
+                "username": "lizhiove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xinttoo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xinttoo1",
+                "start": 0,
+                "url": "https://t.co/KTzRwzy7Jf"
+              }
+            ]
+          }
+        },
+        "id": "1962369612366172160",
+        "location": "匿名→",
+        "name": "荔枝雾",
+        "pinned_tweet_id": "1999837527877026229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998979152305848320/-M9erb6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 188,
+          "like_count": 5400,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 536
+        },
+        "url": "https://t.co/KTzRwzy7Jf",
+        "username": "lizhiquu",
+        "verified": false
+      }
+    ]
+  }
+}

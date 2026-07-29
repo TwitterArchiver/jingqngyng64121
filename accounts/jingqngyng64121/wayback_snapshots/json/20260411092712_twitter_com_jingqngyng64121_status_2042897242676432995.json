@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2042860573374009685",
+    "created_at": "2026-04-11T09:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042897242676432995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        },
+        {
+          "end": 26,
+          "id": "1937073350750466048",
+          "start": 12,
+          "username": "karo269640607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042897242676432995",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042860573374009685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x @karo269640607 我去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2042860567510290435",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmy3NQakAMi-Vo.jpg",
+        "width": 1029
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2042860573374009685",
+        "created_at": "2026-04-11T09:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042897242676432995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            },
+            {
+              "end": 26,
+              "id": "1937073350750466048",
+              "start": 12,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042897242676432995",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042860573374009685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x @karo269640607 我去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042860567510290435"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2042860573374009685",
+        "created_at": "2026-04-11T07:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042860573374009685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7t5IBQVy3L",
+              "end": 154,
+              "expanded_url": "https://x.com/amecandy_x/status/2042860573374009685/photo/1",
+              "media_key": "3_2042860567510290435",
+              "start": 131,
+              "url": "https://t.co/7t5IBQVy3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042860573374009685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1658,
+          "like_count": 36,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "沈阳：关于加强含右美沙芬复方制剂和普瑞巴林管控的通知\n含右美沙芬复方制剂、普瑞巴林不得进行网络零售，不得拆零销售，不得向未成年人销售；普瑞巴林不得使用远程电子处方；含右美沙芬复方制剂一次销售不得超过2个最小包装。\n\n五更鼓角声悲壮，三峡星河影动摇。\n大的要来了 https://t.co/7t5IBQVy3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 343,
+          "like_count": 5762,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1041
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "自由意志左翼🚩/ 大模型工程师 /  药百GPT开发者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5808,
+          "following_count": 2057,
+          "like_count": 26846,
+          "listed_count": 15,
+          "media_count": 1398,
+          "tweet_count": 9949
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券 |  虚无主义 | 生物化学药理板绘❤️ | 同类互fo | 使用英文和简体中文|讨厌一切宗教 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 基佬孝女言切拒拆逆、生化昂右全肯定|",
+        "id": "1937073350750466048",
+        "name": "请代我看看这个世界（锁推防警察）",
+        "pinned_tweet_id": "2039982674664960247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 306,
+          "like_count": 14866,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2139
+        },
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}

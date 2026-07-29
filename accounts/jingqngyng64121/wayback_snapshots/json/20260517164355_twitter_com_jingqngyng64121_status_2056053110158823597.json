@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2055338363813875866",
+    "created_at": "2026-05-17T16:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T17:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056053110158823597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1429055428374130693",
+          "start": 0,
+          "username": "Gamer94469"
+        },
+        {
+          "end": 28,
+          "id": "1987074621280260096",
+          "start": 12,
+          "username": "LillaVirts23519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056053110158823597",
+    "in_reply_to_user_id": "1429055428374130693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055338363813875866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gamer94469 @LillaVirts23519 这真的是人能拍出来的照片啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1176,
+        "media_key": "3_2055338352300478464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYHV34bUAA6iOQ.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2055338363813875866",
+        "created_at": "2026-05-17T16:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056053110158823597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1429055428374130693",
+              "start": 0,
+              "username": "Gamer94469"
+            },
+            {
+              "end": 28,
+              "id": "1987074621280260096",
+              "start": 12,
+              "username": "LillaVirts23519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056053110158823597",
+        "in_reply_to_user_id": "1429055428374130693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055338363813875866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gamer94469 @LillaVirts23519 这真的是人能拍出来的照片啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055338352300478464"
+          ]
+        },
+        "author_id": "1429055428374130693",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055338363813875866",
+        "created_at": "2026-05-15T17:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055338363813875866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nJPGsBovLs",
+              "end": 23,
+              "expanded_url": "https://x.com/Gamer94469/status/2055338363813875866/photo/1",
+              "media_key": "3_2055338352300478464",
+              "start": 0,
+              "url": "https://t.co/nJPGsBovLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055338363813875866",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 2632,
+          "like_count": 249,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nJPGsBovLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 450,
+          "like_count": 7524,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1518
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-21T12:19:04.000Z",
+        "description": "即刻绞杀即刻刎颈",
+        "id": "1429055428374130693",
+        "name": "Яд",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055678756539559936/lge1SDQQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 289,
+          "like_count": 21440,
+          "listed_count": 1,
+          "media_count": 663,
+          "tweet_count": 5564
+        },
+        "username": "Gamer94469",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T08:28:03.000Z",
+        "description": "互fo请私会查成分    \n不聊骚不约炮不线下 \n🚪52没福利纯圈钱",
+        "id": "1987074621280260096",
+        "location": "距你520m",
+        "name": "00",
+        "pinned_tweet_id": "2047649903275577813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005048584614674438/-sd0bBmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 472,
+          "like_count": 9533,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 2886
+        },
+        "username": "LillaVirts23519",
+        "verified": false
+      }
+    ]
+  }
+}

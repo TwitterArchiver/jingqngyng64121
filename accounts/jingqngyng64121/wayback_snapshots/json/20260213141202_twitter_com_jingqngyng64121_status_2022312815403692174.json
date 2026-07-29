@@ -1,0 +1,103 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2022312815403692174",
+    "created_at": "2026-02-13T14:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T15:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022312815403692174"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022312815403692174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我对列表的包容程度。黄赌毒，没问题。\n自残，没问题。od，没问题。魔怔没素质没道德，没问题。杀人放火，没问题。讨口圈钱，没问题。开户，没问题。柜子，没问题。幸福美满，你妈死了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2022312815403692174",
+        "created_at": "2026-02-13T14:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022312815403692174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022312815403692174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对列表的包容程度。黄赌毒，没问题。\n自残，没问题。od，没问题。魔怔没素质没道德，没问题。杀人放火，没问题。讨口圈钱，没问题。开户，没问题。柜子，没问题。幸福美满，你妈死了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 142,
+          "like_count": 2717,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 421
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      }
+    ]
+  }
+}

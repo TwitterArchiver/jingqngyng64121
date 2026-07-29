@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2080878342518251908",
+    "created_at": "2026-07-25T04:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T05:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080878342518251908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1956641876729303040",
+          "start": 3,
+          "username": "kinketsukurage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080878342518251908",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080554269242188069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kinketsukurage: 医者もODする時代かよ、、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2080878342518251908",
+        "created_at": "2026-07-25T04:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080878342518251908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1956641876729303040",
+              "start": 3,
+              "username": "kinketsukurage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080878342518251908",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080554269242188069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kinketsukurage: 医者もODする時代かよ、、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956641876729303040",
+        "conversation_id": "2080554269242188069",
+        "created_at": "2026-07-24T07:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080554269242188069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080554269242188069",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 38330,
+          "like_count": 845,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "医者もODする時代かよ、、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 449,
+          "like_count": 8280,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1737
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T08:59:18.000Z",
+        "description": "大阪09\nフォロバします\nおれさぎのとなりにいます\nもうひとりの自分みたいな人 @datennchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "datennchan"
+              }
+            ]
+          }
+        },
+        "id": "1956641876729303040",
+        "location": "1周年記念死希望",
+        "name": "くらげ",
+        "pinned_tweet_id": "2029181383495827830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011385908550103040/bAGgk0Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1681,
+          "following_count": 1670,
+          "like_count": 6914,
+          "listed_count": 7,
+          "media_count": 70,
+          "tweet_count": 4174
+        },
+        "url": "",
+        "username": "kinketsukurage",
+        "verified": false
+      }
+    ]
+  }
+}

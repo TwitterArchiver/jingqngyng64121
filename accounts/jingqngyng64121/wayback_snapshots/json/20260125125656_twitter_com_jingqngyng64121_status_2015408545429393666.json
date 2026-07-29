@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015408518472581120"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2015408545429393666",
+    "created_at": "2026-01-25T12:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T13:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015408545429393666"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n7FdxpusMM",
+          "end": 31,
+          "expanded_url": "https://x.com/jingqngyng64121/status/2015408545429393666/photo/1",
+          "media_key": "3_2015408518472581120",
+          "start": 8,
+          "url": "https://t.co/n7FdxpusMM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015408545429393666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "普瑞最喜欢你啦 https://t.co/n7FdxpusMM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2015408545429393666].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2015408545429393666",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2015408545429393666"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2015408518472581120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_grXpTawAA8WXr.jpg",
+        "width": 3024
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜LGBT🏳️‍🌈🏳️‍⚧️｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 58,
+          "like_count": 1099,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 208
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      }
+    ]
+  }
+}

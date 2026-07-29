@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2078599315694706923",
+    "created_at": "2026-07-18T21:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T22:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078599315694706923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2042473726986391552",
+          "start": 3,
+          "username": "camelliasjcd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078599315694706923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078523139785425262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @camelliasjcd: 这里是茶花 爱我请给我钱 \n15📍 \n128🚪好友位 \n200🚪下线 \n🚪520半个月电子女友会主动发信息分享日常 \n🚪1314一个月电子女友 每个星 期可以打一个小时电话（要在我方便的时候）线下三次9.5折 \n定金%50确定时间后给尾款见面…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2078523119698866176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhlw88WcAAu4v7.jpg",
+        "width": 1008
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2078523119698944001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhlw88XoAEOhj6.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2078523119690465281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhlw86WQAEVBei.jpg",
+        "width": 824
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2078523119677886464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhlw83WUAABq02.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2078599315694706923",
+        "created_at": "2026-07-18T21:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T22:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078599315694706923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2042473726986391552",
+              "start": 3,
+              "username": "camelliasjcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078599315694706923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078523139785425262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @camelliasjcd: 这里是茶花 爱我请给我钱 \n15📍 \n128🚪好友位 \n200🚪下线 \n🚪520半个月电子女友会主动发信息分享日常 \n🚪1314一个月电子女友 每个星 期可以打一个小时电话（要在我方便的时候）线下三次9.5折 \n定金%50确定时间后给尾款见面…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078523119698866176",
+            "3_2078523119698944001",
+            "3_2078523119690465281",
+            "3_2078523119677886464"
+          ]
+        },
+        "author_id": "2042473726986391552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078523139785425262",
+        "created_at": "2026-07-18T16:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078523139785425262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DhlCRKiZFJ",
+              "end": 159,
+              "expanded_url": "https://x.com/camelliasjcd/status/2078523139785425262/photo/1",
+              "media_key": "3_2078523119698866176",
+              "start": 136,
+              "url": "https://t.co/DhlCRKiZFJ"
+            },
+            {
+              "display_url": "pic.x.com/DhlCRKiZFJ",
+              "end": 159,
+              "expanded_url": "https://x.com/camelliasjcd/status/2078523139785425262/photo/1",
+              "media_key": "3_2078523119698944001",
+              "start": 136,
+              "url": "https://t.co/DhlCRKiZFJ"
+            },
+            {
+              "display_url": "pic.x.com/DhlCRKiZFJ",
+              "end": 159,
+              "expanded_url": "https://x.com/camelliasjcd/status/2078523139785425262/photo/1",
+              "media_key": "3_2078523119690465281",
+              "start": 136,
+              "url": "https://t.co/DhlCRKiZFJ"
+            },
+            {
+              "display_url": "pic.x.com/DhlCRKiZFJ",
+              "end": 159,
+              "expanded_url": "https://x.com/camelliasjcd/status/2078523139785425262/photo/1",
+              "media_key": "3_2078523119677886464",
+              "start": 136,
+              "url": "https://t.co/DhlCRKiZFJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078523139785425262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这里是茶花 爱我请给我钱 \n15📍 \n128🚪好友位 \n200🚪下线 \n🚪520半个月电子女友会主动发信息分享日常 \n🚪1314一个月电子女友 每个星 期可以打一个小时电话（要在我方便的时候）线下三次9.5折 \n定金%50确定时间后给尾款见面给 约会来回车费吃饭费您报销 https://t.co/DhlCRKiZFJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 442,
+          "like_count": 8208,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1716
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T05:27:45.000Z",
+        "description": "这里是茶花 📍15r 可以口令或者赞赏码\n200🚪开启线下",
+        "id": "2042473726986391552",
+        "name": "camellia",
+        "pinned_tweet_id": "2078523139785425262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042474873834840064/tdbdQmo5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "camelliasjcd",
+        "verified": false
+      }
+    ]
+  }
+}

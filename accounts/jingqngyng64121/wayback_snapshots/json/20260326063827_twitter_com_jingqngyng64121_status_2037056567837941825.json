@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2037056567837941825",
+    "created_at": "2026-03-26T06:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T07:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037056567837941825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1968205301410304002",
+          "start": 3,
+          "username": "lingyang01444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037056567837941825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036858552476983732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lingyang01444: 你第一次磕药被抓 会被警察登记到系统 提醒你 第二次如果在本地会直接上门 而且第二次警察会时刻盯着你如果是别的地方当地警察打电话让你去尿检赶快跑 去别的城市 不然你就会得到 三年社区戒毒 15天看守所 这是第二次的惩罚 到这里你就没机会了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2037056567837941825",
+        "created_at": "2026-03-26T06:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T07:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037056567837941825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1968205301410304002",
+              "start": 3,
+              "username": "lingyang01444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037056567837941825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036858552476983732",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lingyang01444: 你第一次磕药被抓 会被警察登记到系统 提醒你 第二次如果在本地会直接上门 而且第二次警察会时刻盯着你如果是别的地方当地警察打电话让你去尿检赶快跑 去别的城市 不然你就会得到 三年社区戒毒 15天看守所 这是第二次的惩罚 到这里你就没机会了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968205301410304002",
+        "conversation_id": "2036858552476983732",
+        "created_at": "2026-03-25T17:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T18:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036858552476983732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036858552476983732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 9017,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你第一次磕药被抓 会被警察登记到系统 提醒你 第二次如果在本地会直接上门 而且第二次警察会时刻盯着你如果是别的地方当地警察打电话让你去尿检赶快跑 去别的城市 不然你就会得到 三年社区戒毒 15天看守所 这是第二次的惩罚 到这里你就没机会了 第三次磕药被抓就是两年强制戒毒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 289,
+          "like_count": 4859,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 792
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T06:48:20.000Z",
+        "description": "BlackSheep-血羊｜武汉轻工本科｜以身入局药物实验🧪 药物报告💊毒☠️报告 穿孔纹身od妹毒狗我们认识一下 会继续制作研究化学和药以及平替的感谢支持 我喜欢聊天什么都聊 可以来找我聊天 羚羊羚羊你在做什么呀好难猜啊",
+        "id": "1968205301410304002",
+        "location": "日本 東京 antelope ⛧",
+        "name": "⛧羚羊⛧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035743318232182784/HbHL3fZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 1117,
+          "like_count": 1211,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 133
+        },
+        "username": "lingyang01444",
+        "verified": false
+      }
+    ]
+  }
+}

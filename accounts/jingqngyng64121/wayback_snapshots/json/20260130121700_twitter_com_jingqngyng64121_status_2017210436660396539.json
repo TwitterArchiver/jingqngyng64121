@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017210428724809728"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2017210436660396539",
+    "created_at": "2026-01-30T12:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T13:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017210436660396539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 32,
+          "id": "1684269091849404416",
+          "start": 16,
+          "username": "hg3551019177402"
+        }
+      ],
+      "urls": [
+        {
+          "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+          "display_url": "infinitetweet.me/secret-crush?l…",
+          "end": 60,
+          "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+          "start": 37,
+          "status": 200,
+          "title": "Secret Crush • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+          "url": "https://t.co/IwU5TjEAEx"
+        },
+        {
+          "display_url": "pic.x.com/mVbeEScuAx",
+          "end": 84,
+          "expanded_url": "https://x.com/jingqngyng64121/status/2017210436660396539/photo/1",
+          "media_key": "3_2017210428724809728",
+          "start": 61,
+          "url": "https://t.co/mVbeEScuAx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017210436660396539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在Twitter上的暗恋是  @hg3551019177402\n\n➡️ https://t.co/IwU5TjEAEx https://t.co/mVbeEScuAx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2017210436660396539].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2017210436660396539",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2017210436660396539"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2017210428724809728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_6SMoFbEAAS1Ec.png",
+        "width": 640
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 92,
+          "like_count": 1501,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 279
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "贯穿不是都是，也不是都不是，是一种无差别，一切差异都会在它这里得到溶解。我是橘猫。",
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2016075070427550164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013874387389423617/VNXISMmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 150,
+          "like_count": 10561,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 3784
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070111560937488384",
+        "3_2070111560920612864",
+        "3_2070111560941568000",
+        "3_2070111560929013760"
+      ],
+      "media_source_tweet_id": [
+        "2070111569040839145",
+        "2070111569040839145",
+        "2070111569040839145",
+        "2070111569040839145"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2071434329335484754",
+    "created_at": "2026-06-29T03:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T04:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071434329335484754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1031914987432960000",
+          "start": 3,
+          "username": "money26729010"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3d8kYxwV8v",
+          "end": 90,
+          "expanded_url": "https://x.com/money26729010/status/2070111569040839145/photo/1",
+          "media_key": "3_2070111560937488384",
+          "start": 67,
+          "url": "https://t.co/3d8kYxwV8v"
+        },
+        {
+          "display_url": "pic.x.com/3d8kYxwV8v",
+          "end": 90,
+          "expanded_url": "https://x.com/money26729010/status/2070111569040839145/photo/1",
+          "media_key": "3_2070111560920612864",
+          "start": 67,
+          "url": "https://t.co/3d8kYxwV8v"
+        },
+        {
+          "display_url": "pic.x.com/3d8kYxwV8v",
+          "end": 90,
+          "expanded_url": "https://x.com/money26729010/status/2070111569040839145/photo/1",
+          "media_key": "3_2070111560941568000",
+          "start": 67,
+          "url": "https://t.co/3d8kYxwV8v"
+        },
+        {
+          "display_url": "pic.x.com/3d8kYxwV8v",
+          "end": 90,
+          "expanded_url": "https://x.com/money26729010/status/2070111569040839145/photo/1",
+          "media_key": "3_2070111560929013760",
+          "start": 67,
+          "url": "https://t.co/3d8kYxwV8v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071434329335484754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070111569040839145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @money26729010: 每天都是想到什么说什么 只要不觉的我烦 一切都好说 放假还不知道去哪里呢 有没有好心🚪哥收留！ https://t.co/3d8kYxwV8v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1557,
+        "media_key": "3_2070111560937488384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqDfysbwAAtU6_.jpg",
+        "width": 1164
+      },
+      {
+        "height": 1555,
+        "media_key": "3_2070111560920612864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqDfyoaQAApfVS.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1545,
+        "media_key": "3_2070111560941568000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqDfytaAAA6Dsx.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1546,
+        "media_key": "3_2070111560929013760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqDfyqacAAvmwb.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070111560937488384",
+            "3_2070111560920612864",
+            "3_2070111560941568000",
+            "3_2070111560929013760"
+          ],
+          "media_source_tweet_id": [
+            "2070111569040839145",
+            "2070111569040839145",
+            "2070111569040839145",
+            "2070111569040839145"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2071434329335484754",
+        "created_at": "2026-06-29T03:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T04:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071434329335484754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1031914987432960000",
+              "start": 3,
+              "username": "money26729010"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3d8kYxwV8v",
+              "end": 90,
+              "expanded_url": "https://x.com/money26729010/status/2070111569040839145/photo/1",
+              "media_key": "3_2070111560937488384",
+              "start": 67,
+              "url": "https://t.co/3d8kYxwV8v"
+            },
+            {
+              "display_url": "pic.x.com/3d8kYxwV8v",
+              "end": 90,
+              "expanded_url": "https://x.com/money26729010/status/2070111569040839145/photo/1",
+              "media_key": "3_2070111560920612864",
+              "start": 67,
+              "url": "https://t.co/3d8kYxwV8v"
+            },
+            {
+              "display_url": "pic.x.com/3d8kYxwV8v",
+              "end": 90,
+              "expanded_url": "https://x.com/money26729010/status/2070111569040839145/photo/1",
+              "media_key": "3_2070111560941568000",
+              "start": 67,
+              "url": "https://t.co/3d8kYxwV8v"
+            },
+            {
+              "display_url": "pic.x.com/3d8kYxwV8v",
+              "end": 90,
+              "expanded_url": "https://x.com/money26729010/status/2070111569040839145/photo/1",
+              "media_key": "3_2070111560929013760",
+              "start": 67,
+              "url": "https://t.co/3d8kYxwV8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071434329335484754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070111569040839145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @money26729010: 每天都是想到什么说什么 只要不觉的我烦 一切都好说 放假还不知道去哪里呢 有没有好心🚪哥收留！ https://t.co/3d8kYxwV8v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070111560937488384",
+            "3_2070111560920612864",
+            "3_2070111560941568000",
+            "3_2070111560929013760"
+          ]
+        },
+        "author_id": "1031914987432960000",
+        "conversation_id": "2070111569040839145",
+        "created_at": "2026-06-25T11:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070111569040839145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3d8kYxwV8v",
+              "end": 71,
+              "expanded_url": "https://x.com/money26729010/status/2070111569040839145/photo/1",
+              "media_key": "3_2070111560937488384",
+              "start": 48,
+              "url": "https://t.co/3d8kYxwV8v"
+            },
+            {
+              "display_url": "pic.x.com/3d8kYxwV8v",
+              "end": 71,
+              "expanded_url": "https://x.com/money26729010/status/2070111569040839145/photo/1",
+              "media_key": "3_2070111560920612864",
+              "start": 48,
+              "url": "https://t.co/3d8kYxwV8v"
+            },
+            {
+              "display_url": "pic.x.com/3d8kYxwV8v",
+              "end": 71,
+              "expanded_url": "https://x.com/money26729010/status/2070111569040839145/photo/1",
+              "media_key": "3_2070111560941568000",
+              "start": 48,
+              "url": "https://t.co/3d8kYxwV8v"
+            },
+            {
+              "display_url": "pic.x.com/3d8kYxwV8v",
+              "end": 71,
+              "expanded_url": "https://x.com/money26729010/status/2070111569040839145/photo/1",
+              "media_key": "3_2070111560929013760",
+              "start": 48,
+              "url": "https://t.co/3d8kYxwV8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070111569040839145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1180,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "每天都是想到什么说什么 只要不觉的我烦 一切都好说 放假还不知道去哪里呢 有没有好心🚪哥收留！ https://t.co/3d8kYxwV8v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 425,
+          "like_count": 7863,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1638
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-21T14:44:39.000Z",
+        "description": "18岁成年人 发点日常碎碎念 有点低负能量 自己看的脑袋笨笨的祈祷金主降临和暴富中⋯坐标20r/验证凭口令回复！！！",
+        "id": "1031914987432960000",
+        "location": "🚪99/188/388/520/1314/2888",
+        "name": "萌芽七七",
+        "pinned_tweet_id": "2070111569040839145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068169685150097408/2tpzp5D__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 269,
+          "like_count": 5324,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1764
+        },
+        "url": "",
+        "username": "money26729010",
+        "verified": false
+      }
+    ]
+  }
+}

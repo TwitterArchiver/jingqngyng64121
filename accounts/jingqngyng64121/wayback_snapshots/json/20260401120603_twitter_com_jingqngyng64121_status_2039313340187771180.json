@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2038380976087163209",
+    "created_at": "2026-04-01T12:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T13:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039313340187771180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1958519029313748992",
+          "start": 0,
+          "username": "ziye6C"
+        },
+        {
+          "end": 22,
+          "id": "1744207911616753664",
+          "start": 8,
+          "username": "ASLANT1025533"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039313340187771180",
+    "in_reply_to_user_id": "1958519029313748992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038380976087163209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziye6C @ASLANT1025533 求互fo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038380955916759040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEnIrfpW8AAVj-D.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038380955916779520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEnIrfpXQAAs5U4.jpg",
+        "width": 1622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2038380976087163209",
+        "created_at": "2026-04-01T12:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039313340187771180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1958519029313748992",
+              "start": 0,
+              "username": "ziye6C"
+            },
+            {
+              "end": 22,
+              "id": "1744207911616753664",
+              "start": 8,
+              "username": "ASLANT1025533"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039313340187771180",
+        "in_reply_to_user_id": "1958519029313748992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038380976087163209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziye6C @ASLANT1025533 求互fo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038380955916759040",
+            "3_2038380955916779520"
+          ]
+        },
+        "author_id": "1958519029313748992",
+        "conversation_id": "2038380976087163209",
+        "created_at": "2026-03-29T22:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T23:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038380976087163209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/syXM4wXWSN",
+              "end": 78,
+              "expanded_url": "https://x.com/ziye6C/status/2038380976087163209/photo/1",
+              "media_key": "3_2038380955916759040",
+              "start": 55,
+              "url": "https://t.co/syXM4wXWSN"
+            },
+            {
+              "display_url": "pic.x.com/syXM4wXWSN",
+              "end": 78,
+              "expanded_url": "https://x.com/ziye6C/status/2038380976087163209/photo/1",
+              "media_key": "3_2038380955916779520",
+              "start": 55,
+              "url": "https://t.co/syXM4wXWSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038380976087163209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1145,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "🔝=小叶/Yemiy\n绿谷出久全肯定\n欢迎互fo聊天/我很好相处\n女孩子可以找我扩墙内呀\n坐标鲁D可以找我玩 https://t.co/syXM4wXWSN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 312,
+          "like_count": 5146,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 869
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T13:18:37.000Z",
+        "description": "招募恋人中/我家满分女飞机杯玩具宠物泄欲工具：绿谷出久/家有光宗 @ljiuniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "ljiuniao"
+              }
+            ]
+          }
+        },
+        "id": "1958519029313748992",
+        "location": "0.52km",
+        "name": "Yemiy（求互fo",
+        "pinned_tweet_id": "2038380976087163209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028172155905507328/qNqYn5SM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 87,
+          "like_count": 1624,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 242
+        },
+        "username": "ziye6C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T04:02:38.000Z",
+        "description": "雜多垢/イラスト垢 @ASLANT1087621\n💬：🇨🇳中文/🇺🇸eng（a little)/🇯🇵日本語翻訳機で読んでいます \n#07/#自傷/#リスカ/#shtwt/#OD/#病み垢\n清水不搞黄我只是个餐券入，什么圈子都搞会发日常也会发血图，欢迎互fo\n🔗提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 69,
+                "tag": "自傷"
+              },
+              {
+                "end": 77,
+                "start": 73,
+                "tag": "リスカ"
+              },
+              {
+                "end": 84,
+                "start": 78,
+                "tag": "shtwt"
+              },
+              {
+                "end": 88,
+                "start": 85,
+                "tag": "OD"
+              },
+              {
+                "end": 93,
+                "start": 89,
+                "tag": "病み垢"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "ASLANT1087621"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aslant1601",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aslant1601",
+                "start": 0,
+                "url": "https://t.co/Nol50rRJ4x"
+              }
+            ]
+          }
+        },
+        "id": "1744207911616753664",
+        "location": "我死了。",
+        "name": "AS＞𐋣＜",
+        "pinned_tweet_id": "2033461523339702620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036688701972193280/yhawKXc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 516,
+          "like_count": 2208,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 983
+        },
+        "url": "https://t.co/Nol50rRJ4x",
+        "username": "ASLANT1025533",
+        "verified": false
+      }
+    ]
+  }
+}

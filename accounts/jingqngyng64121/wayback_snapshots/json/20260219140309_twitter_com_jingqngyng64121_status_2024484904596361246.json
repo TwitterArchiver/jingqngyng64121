@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2022170822077722927",
+    "created_at": "2026-02-19T14:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T15:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024484904596361246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2001821328584929280",
+          "start": 0,
+          "username": "cwmgdnn0305"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024484904596361246",
+    "in_reply_to_user_id": "2001821328584929280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022170822077722927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cwmgdnn0305 宝宝可以互fo吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2022170822077722927",
+        "created_at": "2026-02-19T14:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024484904596361246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2001821328584929280",
+              "start": 0,
+              "username": "cwmgdnn0305"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024484904596361246",
+        "in_reply_to_user_id": "2001821328584929280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022170822077722927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cwmgdnn0305 宝宝可以互fo吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001821328584929280",
+        "conversation_id": "2022170822077722927",
+        "created_at": "2026-02-13T04:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T05:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022170822077722927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022170822077722927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1182,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以叫我楠楠(♡&gt;𖥦&lt;)/\n算温良，负能很多｜自残od｜双性恋｜INFP｜仍然在上学…一枚怨气极大的高中生｜同类或者喜欢的会fo你\n｜有些语癖\n算友好哦，在乎每一个可爱的宝宝，互fo欢迎！\n听术玩烤！如果是同属性可以私信QQ扩我，(♡&gt;𖥦&lt;)/♥\n（看图猜xp‘- ̗̀ ෆ( ˶'ᵕ'˶)ෆ ̖́- ）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 166,
+          "like_count": 3155,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 485
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T01:06:51.000Z",
+        "description": "餐券女   日常是一个非常温良的妹子可以随便找我倾诉哦   可以称呼我为楠楠   od💊喜欢右美（库存快没了，只能先o玉米片，虽然很苦但是解离带来的升天感好喜欢）感康（虽然很难受不过它给我的幻觉是难以想象的，喜欢）白兔，pr80（比较喜欢的，好幸福）你喜欢我＝我喜欢你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cwmgdnn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cwmgdnn",
+                "start": 0,
+                "url": "https://t.co/jtBG6h7WY2"
+              }
+            ]
+          }
+        },
+        "id": "2001821328584929280",
+        "location": "Tokyo-to, Japan",
+        "name": "…",
+        "pinned_tweet_id": "2022170822077722927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021498682844315648/hNPyW2zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 159,
+          "like_count": 1149,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 277
+        },
+        "url": "https://t.co/jtBG6h7WY2",
+        "username": "cwmgdnn0305",
+        "verified": false
+      }
+    ]
+  }
+}

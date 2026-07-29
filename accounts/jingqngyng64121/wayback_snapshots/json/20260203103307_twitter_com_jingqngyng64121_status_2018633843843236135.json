@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2018345447837011968"
+      ],
+      "media_source_tweet_id": [
+        "2018474514728808936"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2018633843843236135",
+    "created_at": "2026-02-03T10:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T11:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018633843843236135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SmzXLh04HH",
+          "end": 108,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2018474514728808936/video/1",
+          "media_key": "13_2018345447837011968",
+          "start": 85,
+          "url": "https://t.co/SmzXLh04HH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018633843843236135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 599
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018474514728808936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: papi酱讽刺春晚的视频遭全网下架\n2 月 2 日，papi酱一则讽刺春晚选题创作套路的短视频在全网热传48小时后突遭集中下架。 https://t.co/SmzXLh04HH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 342313,
+        "height": 960,
+        "media_key": "13_2018345447837011968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018345447837011968/img/evs9tP7f31F3oc8V.jpg",
+        "public_metrics": {
+          "view_count": 352131
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018345447837011968/vid/avc1/320x426/jobeHH6VOTRyjL1M.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018345447837011968/vid/avc1/480x640/hEzNvi8yFR7d8oT_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018345447837011968/vid/avc1/720x960/4RP3OpHwVx12wHfi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018345447837011968/pl/Ew1zppAuBOvEypn7.m3u8?v=dfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018345447837011968"
+          ],
+          "media_source_tweet_id": [
+            "2018474514728808936"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018633843843236135",
+        "created_at": "2026-02-03T10:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T11:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018633843843236135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SmzXLh04HH",
+              "end": 108,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2018474514728808936/video/1",
+              "media_key": "13_2018345447837011968",
+              "start": 85,
+              "url": "https://t.co/SmzXLh04HH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018633843843236135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 599
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018474514728808936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: papi酱讽刺春晚的视频遭全网下架\n2 月 2 日，papi酱一则讽刺春晚选题创作套路的短视频在全网热传48小时后突遭集中下架。 https://t.co/SmzXLh04HH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018345447837011968"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018474514728808936",
+        "created_at": "2026-02-03T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018474514728808936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SmzXLh04HH",
+              "end": 88,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2018474514728808936/video/1",
+              "media_key": "13_2018345447837011968",
+              "start": 65,
+              "url": "https://t.co/SmzXLh04HH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018474514728808936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1575,
+          "impression_count": 750390,
+          "like_count": 6685,
+          "quote_count": 46,
+          "reply_count": 239,
+          "retweet_count": 599
+        },
+        "reply_settings": "everyone",
+        "text": "papi酱讽刺春晚的视频遭全网下架\n2 月 2 日，papi酱一则讽刺春晚选题创作套路的短视频在全网热传48小时后突遭集中下架。 https://t.co/SmzXLh04HH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 119,
+          "like_count": 1898,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 337
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2010336214470005138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192333,
+          "following_count": 1013,
+          "like_count": 8905,
+          "listed_count": 8540,
+          "media_count": 40999,
+          "tweet_count": 47981
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

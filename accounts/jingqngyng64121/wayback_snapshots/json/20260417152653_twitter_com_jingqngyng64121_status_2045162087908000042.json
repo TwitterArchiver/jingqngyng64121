@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2045106098928333080",
+    "created_at": "2026-04-17T15:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T16:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045162087908000042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041223587873312769",
+          "start": 0,
+          "username": "duorendusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045162087908000042",
+    "in_reply_to_user_id": "2041223587873312769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045106098928333080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duorendusk 互关喵互关喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2045106090950696960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGtJ38aoAAaCgA.jpg",
+        "width": 644
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2045106090959142912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGtJ3-bgAAiE5P.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2045106098928333080",
+        "created_at": "2026-04-17T15:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045162087908000042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041223587873312769",
+              "start": 0,
+              "username": "duorendusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045162087908000042",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045106098928333080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duorendusk 互关喵互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045106090950696960",
+            "3_2045106090959142912"
+          ]
+        },
+        "author_id": "2041223587873312769",
+        "conversation_id": "2045106098928333080",
+        "created_at": "2026-04-17T11:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045106098928333080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lE9dCKfAUs",
+              "end": 53,
+              "expanded_url": "https://x.com/duorendusk/status/2045106098928333080/photo/1",
+              "media_key": "3_2045106090950696960",
+              "start": 30,
+              "url": "https://t.co/lE9dCKfAUs"
+            },
+            {
+              "display_url": "pic.x.com/lE9dCKfAUs",
+              "end": 53,
+              "expanded_url": "https://x.com/duorendusk/status/2045106098928333080/photo/1",
+              "media_key": "3_2045106090959142912",
+              "start": 30,
+              "url": "https://t.co/lE9dCKfAUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045106098928333080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1040,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "这条推发完，号就炸了😭😭😭\n现推友找回中，求转发扩散！！！ https://t.co/lE9dCKfAUs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 399,
+          "like_count": 6597,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1252
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 196,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 138
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

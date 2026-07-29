@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2015006727150940379",
+    "created_at": "2026-01-24T10:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T11:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015006727150940379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1805596018278547458",
+          "start": 3,
+          "username": "Jx_0103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015006727150940379",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3163
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014707398934724940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jx_0103: 나도이런내가너무싫어ㅜㅠㅜ다시태어나고싶어누가내인생대신살아줘서성공한인생살면좋갰다이열등감과도태로가득찬고깃덩어리를갱생시켜줬으면좋겠어스스로내명을끊을용기가없어나도제대로살고싶다조용하고평화로운정신상태로하루하루소소한행복을느끼면서살아가고싶어"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2015006727150940379",
+        "created_at": "2026-01-24T10:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T11:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015006727150940379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805596018278547458",
+              "start": 3,
+              "username": "Jx_0103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015006727150940379",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3163
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014707398934724940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jx_0103: 나도이런내가너무싫어ㅜㅠㅜ다시태어나고싶어누가내인생대신살아줘서성공한인생살면좋갰다이열등감과도태로가득찬고깃덩어리를갱생시켜줬으면좋겠어스스로내명을끊을용기가없어나도제대로살고싶다조용하고평화로운정신상태로하루하루소소한행복을느끼면서살아가고싶어"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805596018278547458",
+        "conversation_id": "2014707398934724940",
+        "created_at": "2026-01-23T14:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T15:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014707398934724940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014707398934724940",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 937,
+          "impression_count": 272138,
+          "like_count": 9264,
+          "quote_count": 201,
+          "reply_count": 46,
+          "retweet_count": 3163
+        },
+        "reply_settings": "everyone",
+        "text": "나도이런내가너무싫어ㅜㅠㅜ다시태어나고싶어누가내인생대신살아줘서성공한인생살면좋갰다이열등감과도태로가득찬고깃덩어리를갱생시켜줬으면좋겠어스스로내명을끊을용기가없어나도제대로살고싶다조용하고평화로운정신상태로하루하루소소한행복을느끼면서살아가고싶어"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜LGBT🏳️‍🌈🏳️‍⚧️｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 42,
+          "like_count": 1038,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 181
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T13:37:10.000Z",
+        "description": "고깃덩어리",
+        "id": "1805596018278547458",
+        "location": "검은해적단 ",
+        "name": "저능",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996621931668557827/A-A-xGmX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 170,
+          "like_count": 509,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 168
+        },
+        "username": "Jx_0103",
+        "verified": false
+      }
+    ]
+  }
+}

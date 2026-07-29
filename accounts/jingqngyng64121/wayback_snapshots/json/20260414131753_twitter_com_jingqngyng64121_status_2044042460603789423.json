@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2043833048526139530",
+    "created_at": "2026-04-14T13:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044042460603789423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1900487083799830528",
+          "start": 0,
+          "username": "666888qwe"
+        },
+        {
+          "end": 22,
+          "id": "1599377355503726592",
+          "start": 11,
+          "username": "bloodmeiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044042460603789423",
+    "in_reply_to_user_id": "1900487083799830528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043833048526139530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@666888qwe @bloodmeiii 请求🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2043833048526139530",
+        "created_at": "2026-04-14T13:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044042460603789423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1900487083799830528",
+              "start": 0,
+              "username": "666888qwe"
+            },
+            {
+              "end": 22,
+              "id": "1599377355503726592",
+              "start": 11,
+              "username": "bloodmeiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044042460603789423",
+        "in_reply_to_user_id": "1900487083799830528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043833048526139530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@666888qwe @bloodmeiii 请求🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900487083799830528",
+        "conversation_id": "2043833048526139530",
+        "created_at": "2026-04-13T23:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T00:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043833048526139530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043833048526139530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 826,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我想和餐券女卢关不嫌弃我追星就行有人帮我转吗，4.17中午12点转发区抽一个5.2r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 391,
+          "like_count": 6276,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1176
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T10:00:19.000Z",
+        "description": "大龄家里蹲餐券脑残穷比追星女一枚，高强度冲浪中 同类互fo呀\n如果你知道我是谁，请装作不认识我或者当没看到，谢谢",
+        "id": "1900487083799830528",
+        "location": "天堂",
+        "name": "3c11._fytt",
+        "pinned_tweet_id": "2035555707681177728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043921209226866689/AfnIiaxy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 65,
+          "like_count": 7154,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 573
+        },
+        "username": "666888qwe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T12:17:45.000Z",
+        "description": "我是小莓🍓｜07重抑中焦ed｜互fo欢迎｜🚪50纯绿｜@DEnyoffshshsh爱你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "DEnyoffshshsh"
+              }
+            ]
+          }
+        },
+        "id": "1599377355503726592",
+        "name": "meiii",
+        "pinned_tweet_id": "2037903436201734285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044019058706927616/sUC4av7W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 423,
+          "like_count": 1493,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1958
+        },
+        "username": "bloodmeiii",
+        "verified": false
+      }
+    ]
+  }
+}

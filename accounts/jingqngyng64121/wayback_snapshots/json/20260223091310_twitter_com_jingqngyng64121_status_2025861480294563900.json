@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2025847067801989420",
+    "created_at": "2026-02-23T09:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T10:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025861480294563900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2016175327069011971",
+          "start": 0,
+          "username": "shanhu_mi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025861480294563900",
+    "in_reply_to_user_id": "2016175327069011971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025847067801989420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanhu_mi 宝宝我想和你互fo🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15301,
+        "height": 1280,
+        "media_key": "7_2025847041855995904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2025847041855995904/pu/img/QHlSo73k6D3FBTmy.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025847041855995904/pu/vid/avc1/320x568/E9-NgI7gw_Gl60i6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025847041855995904/pu/vid/avc1/480x852/YtQtKJsbjTTTyAMW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025847041855995904/pu/vid/avc1/720x1280/7eYNIkv6TmnUffD7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2025847041855995904/pu/pl/sTyGXboUtYURYP_t.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2025847067801989420",
+        "created_at": "2026-02-23T09:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T10:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025861480294563900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2016175327069011971",
+              "start": 0,
+              "username": "shanhu_mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025861480294563900",
+        "in_reply_to_user_id": "2016175327069011971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025847067801989420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanhu_mi 宝宝我想和你互fo🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2025847041855995904"
+          ]
+        },
+        "author_id": "2016175327069011971",
+        "conversation_id": "2025847067801989420",
+        "created_at": "2026-02-23T08:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025847067801989420"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 11,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 32,
+              "start": 26,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "le"
+            },
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ttKn81phoi",
+              "end": 67,
+              "expanded_url": "https://x.com/shanhu_mi/status/2025847067801989420/video/1",
+              "media_key": "7_2025847041855995904",
+              "start": 44,
+              "url": "https://t.co/ttKn81phoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025847067801989420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来找我玩呗我很温良。\n#自撮り界隈さんと繋がりたい #自撮り界隈 #le #自撮り界隈 https://t.co/ttKn81phoi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 185,
+          "like_count": 3436,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 546
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T15:44:09.000Z",
+        "description": "od丨自伤 不喜欢屏蔽就好                                                    同类直fo 喜欢被评论和胡言乱语",
+        "id": "2016175327069011971",
+        "name": "T^",
+        "pinned_tweet_id": "2019610025841553863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025139082603757572/tdRc84kG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 32,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 265
+        },
+        "username": "shanhu_mi",
+        "verified": false
+      }
+    ]
+  }
+}

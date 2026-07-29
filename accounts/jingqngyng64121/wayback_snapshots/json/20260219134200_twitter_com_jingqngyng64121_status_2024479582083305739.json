@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024479572050530307"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2024479582083305739",
+    "created_at": "2026-02-19T13:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T14:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024479582083305739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FhdiHlh7I5",
+          "end": 29,
+          "expanded_url": "https://x.com/jingqngyng64121/status/2024479582083305739/photo/1",
+          "media_key": "3_2024479572050530307",
+          "start": 6,
+          "url": "https://t.co/FhdiHlh7I5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024479582083305739",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又幸福了捏 https://t.co/FhdiHlh7I5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2024479582083305739].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2024479582083305739",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2024479582083305739"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2024479572050530307",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhlcdMbUAMwEHW.jpg",
+        "width": 1170
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 160,
+          "like_count": 3125,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 476
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      }
+    ]
+  }
+}

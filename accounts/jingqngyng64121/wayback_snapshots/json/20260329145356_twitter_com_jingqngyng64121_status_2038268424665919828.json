@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2006311924359709073",
+    "created_at": "2026-03-29T14:53:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T15:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038268424665919828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1963645195410706436",
+          "start": 0,
+          "username": "usaginya0"
+        },
+        {
+          "end": 19,
+          "id": "1900779585832210432",
+          "start": 11,
+          "username": "71y11Qy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038268424665919828",
+    "in_reply_to_user_id": "1963645195410706436",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006311924359709073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@usaginya0 @71y11Qy 求互fo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1055,
+        "media_key": "3_2006311887567290368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9faCCcXgAAWxfF.jpg",
+        "width": 779
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006311887554719744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9faCCZXsAAyJnr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2006311924359709073",
+        "created_at": "2026-03-29T14:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038268424665919828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1963645195410706436",
+              "start": 0,
+              "username": "usaginya0"
+            },
+            {
+              "end": 19,
+              "id": "1900779585832210432",
+              "start": 11,
+              "username": "71y11Qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038268424665919828",
+        "in_reply_to_user_id": "1963645195410706436",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006311924359709073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@usaginya0 @71y11Qy 求互fo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006311887567290368",
+            "3_2006311887554719744"
+          ]
+        },
+        "author_id": "1963645195410706436",
+        "conversation_id": "2006311924359709073",
+        "created_at": "2025-12-31T10:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T11:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006311924359709073"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "地雷女"
+            },
+            {
+              "end": 91,
+              "start": 86,
+              "tag": "电子女友"
+            },
+            {
+              "end": 96,
+              "start": 92,
+              "tag": "给我钱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mRPhAiKUV5",
+              "end": 120,
+              "expanded_url": "https://x.com/usaginya0/status/2006311924359709073/photo/1",
+              "media_key": "3_2006311887567290368",
+              "start": 97,
+              "url": "https://t.co/mRPhAiKUV5"
+            },
+            {
+              "display_url": "pic.x.com/mRPhAiKUV5",
+              "end": 120,
+              "expanded_url": "https://x.com/usaginya0/status/2006311924359709073/photo/1",
+              "media_key": "3_2006311887554719744",
+              "start": 97,
+              "url": "https://t.co/mRPhAiKUV5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006311924359709073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7898,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "🔝=小佳 | nami\n我下海了 求支持\n過🚪不退 努力賺錢養自己中ing…\n女孩子互fo互轉大歡迎૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა♡\n#门槛妹 #门槛哥 #地雷女 #电子女友 #给我钱 https://t.co/mRPhAiKUV5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 297,
+          "like_count": 5020,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 819
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T16:48:00.000Z",
+        "description": "视频验证30 我很可爱请给我钱",
+        "id": "1963645195410706436",
+        "location": "只回复口令其他勿扰",
+        "name": "𝓝.",
+        "pinned_tweet_id": "2006311924359709073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034687756660867072/eqxIWdQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 34,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 174
+        },
+        "username": "usaginya0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:22:37.000Z",
+        "description": "🚪纯绿52/88/坐标10｜只对部分人感兴趣｜餐券 od 负能 自伤｜同类互fo｜漏了可以私信我 我很好相处 喜欢有礼貌的人 大部分时间在学校请等等我…",
+        "id": "1900779585832210432",
+        "location": "外太空",
+        "name": "71",
+        "pinned_tweet_id": "2022208733133320205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976968577891659776/czXAeT_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 286,
+          "like_count": 3172,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1963
+        },
+        "username": "71y11Qy",
+        "verified": false
+      }
+    ]
+  }
+}

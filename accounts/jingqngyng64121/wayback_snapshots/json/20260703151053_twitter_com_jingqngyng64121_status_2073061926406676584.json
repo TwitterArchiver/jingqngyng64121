@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072687606224334848"
+      ],
+      "media_source_tweet_id": [
+        "2072687615552463306"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2073061926406676584",
+    "created_at": "2026-07-03T15:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073061926406676584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "YunJiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fzPe1E7bJI",
+          "end": 46,
+          "expanded_url": "https://x.com/YunJiu/status/2072687615552463306/photo/1",
+          "media_key": "3_2072687606224334848",
+          "start": 23,
+          "url": "https://t.co/fzPe1E7bJI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073061926406676584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072687615552463306",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YunJiu: 请正确使用祖国的文字 https://t.co/fzPe1E7bJI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1784,
+        "media_key": "3_2072687606224334848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOqZXNbMAA8vMn.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072687606224334848"
+          ],
+          "media_source_tweet_id": [
+            "2072687615552463306"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2073061926406676584",
+        "created_at": "2026-07-03T15:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073061926406676584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "YunJiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fzPe1E7bJI",
+              "end": 46,
+              "expanded_url": "https://x.com/YunJiu/status/2072687615552463306/photo/1",
+              "media_key": "3_2072687606224334848",
+              "start": 23,
+              "url": "https://t.co/fzPe1E7bJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073061926406676584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072687615552463306",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YunJiu: 请正确使用祖国的文字 https://t.co/fzPe1E7bJI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072687606224334848"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2072687615552463306",
+        "created_at": "2026-07-02T14:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072687615552463306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fzPe1E7bJI",
+              "end": 34,
+              "expanded_url": "https://x.com/YunJiu/status/2072687615552463306/photo/1",
+              "media_key": "3_2072687606224334848",
+              "start": 11,
+              "url": "https://t.co/fzPe1E7bJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072687615552463306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 80781,
+          "like_count": 1083,
+          "quote_count": 2,
+          "reply_count": 165,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "请正确使用祖国的文字 https://t.co/fzPe1E7bJI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 429,
+          "like_count": 8008,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1664
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105892,
+          "following_count": 814,
+          "like_count": 37446,
+          "listed_count": 294,
+          "media_count": 19829,
+          "tweet_count": 28331
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

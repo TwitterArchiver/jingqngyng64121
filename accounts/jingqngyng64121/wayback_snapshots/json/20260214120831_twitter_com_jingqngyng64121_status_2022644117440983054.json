@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2022644117440983054",
+    "created_at": "2026-02-14T12:08:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T13:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022644117440983054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1561228597586759680",
+          "start": 3,
+          "username": "kangelbot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022644117440983054",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 193
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022330740772421859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kangelbot: I looove love love you."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2022644117440983054",
+        "created_at": "2026-02-14T12:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T13:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022644117440983054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561228597586759680",
+              "start": 3,
+              "username": "kangelbot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022644117440983054",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 193
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022330740772421859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kangelbot: I looove love love you."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561228597586759680",
+        "conversation_id": "2022330740772421859",
+        "created_at": "2026-02-13T15:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022330740772421859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022330740772421859",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 4554,
+          "like_count": 405,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 193
+        },
+        "reply_settings": "everyone",
+        "text": "I looove love love you."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 152,
+          "like_count": 2814,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 433
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T05:48:18.000Z",
+        "description": "#KANGEL : It's all over if you get bored of me… And I don't want to die yet! // posts every 3 hours , credit to @GimmickBots for coding",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "KANGEL"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 124,
+                "start": 112,
+                "username": "GimmickBots"
+              }
+            ]
+          }
+        },
+        "id": "1561228597586759680",
+        "location": "fanart in likes",
+        "name": "kangel bot ⚢",
+        "pinned_tweet_id": "1609237233982402560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794375183207477248/nshMmfCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27032,
+          "following_count": 2,
+          "like_count": 279,
+          "listed_count": 33,
+          "media_count": 1189,
+          "tweet_count": 11646
+        },
+        "username": "kangelbot",
+        "verified": false
+      }
+    ]
+  }
+}

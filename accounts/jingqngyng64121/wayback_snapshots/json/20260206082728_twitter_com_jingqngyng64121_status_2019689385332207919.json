@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2019617565069480352",
+    "created_at": "2026-02-06T08:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T09:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019689385332207919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1897275526559272960",
+          "start": 0,
+          "username": "nenno5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019689385332207919",
+    "in_reply_to_user_id": "1897275526559272960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019617565069480352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nenno5 看看我😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1181,
+        "media_key": "3_2019617560615088130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAcfeJKacAIFdmg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2019617565069480352",
+        "created_at": "2026-02-06T08:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019689385332207919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1897275526559272960",
+              "start": 0,
+              "username": "nenno5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019689385332207919",
+        "in_reply_to_user_id": "1897275526559272960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019617565069480352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nenno5 看看我😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019617560615088130"
+          ]
+        },
+        "author_id": "1897275526559272960",
+        "conversation_id": "2019617565069480352",
+        "created_at": "2026-02-06T03:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T04:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019617565069480352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LrWzBNGuXl",
+              "end": 89,
+              "expanded_url": "https://x.com/nenno5/status/2019617565069480352/photo/1",
+              "media_key": "3_2019617560615088130",
+              "start": 66,
+              "url": "https://t.co/LrWzBNGuXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019617565069480352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1804,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "抽个奖\n内容：1t4homet、1t3meopce\n不包邮邮费8r，转发到50开奖，收到货请给点反馈\n买我东西前三位每t减5u🥺🥺 https://t.co/LrWzBNGuXl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 132,
+          "like_count": 2149,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 360
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T13:18:40.000Z",
+        "description": "",
+        "id": "1897275526559272960",
+        "name": "nenno5",
+        "pinned_tweet_id": "2019617565069480352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976265190426673152/tItBsDCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 84,
+          "like_count": 19174,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 439
+        },
+        "username": "nenno5",
+        "verified": false
+      }
+    ]
+  }
+}

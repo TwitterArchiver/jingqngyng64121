@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2017422376666038491",
+    "created_at": "2026-01-31T02:19:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T03:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017422376666038491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1779868063237627904",
+          "start": 3,
+          "username": "puppy_xue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017422376666038491",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017111550356574230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @puppy_xue: 其实我很后悔对很多人没说出难听的话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2017422376666038491",
+        "created_at": "2026-01-31T02:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T03:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017422376666038491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1779868063237627904",
+              "start": 3,
+              "username": "puppy_xue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017422376666038491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017111550356574230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @puppy_xue: 其实我很后悔对很多人没说出难听的话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779868063237627904",
+        "conversation_id": "2017111550356574230",
+        "created_at": "2026-01-30T05:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T06:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017111550356574230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017111550356574230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9050,
+          "like_count": 245,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "其实我很后悔对很多人没说出难听的话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 93,
+          "like_count": 1518,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 286
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T13:43:38.000Z",
+        "description": "enfp 喜欢星际牛仔跟混沌武士 有类似的可以推荐噢 礼貌一点的私信都会回的 不加联系方式 日常涩图混着发 不要催更！私信发ji四全家 匿名提问在下方噢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9B%AA39307",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9B%AA39307",
+                "start": 0,
+                "url": "https://t.co/DXS2IQ7TjZ"
+              }
+            ]
+          }
+        },
+        "id": "1779868063237627904",
+        "name": "xue",
+        "pinned_tweet_id": "2010371506115944715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005470907142209536/f5H8xV9p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 32,
+          "like_count": 223,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 368
+        },
+        "url": "https://t.co/DXS2IQ7TjZ",
+        "username": "puppy_xue",
+        "verified": false
+      }
+    ]
+  }
+}

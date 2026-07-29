@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2042466813175611722",
+    "created_at": "2026-04-10T04:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042466813175611722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1414269095416012806",
+          "start": 3,
+          "username": "Coconut_QuQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042466813175611722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042130073772552417",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Coconut_QuQ: 广东人的命就是很贱 从小到大湿气重的要死一直疯狂生病生病 我没看哪个东北佬和广东人一样脆的 东北人一脚过去广东人肺都吐出来了好吗 真的打心里觉得出生在广东很可怜 广州一群热带地区外国佬 死蚊子咬两下我都要去世了 卧槽尼玛还一堆老鼠蟑螂 我可以写…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2042466813175611722",
+        "created_at": "2026-04-10T04:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042466813175611722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1414269095416012806",
+              "start": 3,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042466813175611722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042130073772552417",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Coconut_QuQ: 广东人的命就是很贱 从小到大湿气重的要死一直疯狂生病生病 我没看哪个东北佬和广东人一样脆的 东北人一脚过去广东人肺都吐出来了好吗 真的打心里觉得出生在广东很可怜 广州一群热带地区外国佬 死蚊子咬两下我都要去世了 卧槽尼玛还一堆老鼠蟑螂 我可以写…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2042130073772552417",
+        "created_at": "2026-04-09T06:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042130073772552417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042130073772552417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 46276,
+          "like_count": 413,
+          "quote_count": 25,
+          "reply_count": 61,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "广东人的命就是很贱 从小到大湿气重的要死一直疯狂生病生病 我没看哪个东北佬和广东人一样脆的 东北人一脚过去广东人肺都吐出来了好吗 真的打心里觉得出生在广东很可怜 广州一群热带地区外国佬 死蚊子咬两下我都要去世了 卧槽尼玛还一堆老鼠蟑螂 我可以写两万字的书地域黑广东一个字都不会重复信不信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 324,
+          "like_count": 5613,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1003
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5454,
+          "following_count": 21,
+          "like_count": 95,
+          "listed_count": 9,
+          "media_count": 39,
+          "tweet_count": 123
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2042635099871809624",
+    "created_at": "2026-04-11T07:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T08:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042861182923739428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987074621280260096",
+          "start": 0,
+          "username": "LillaVirts23519"
+        },
+        {
+          "end": 29,
+          "id": "1997644719908884480",
+          "start": 17,
+          "username": "Oz_Garlandd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042861182923739428",
+    "in_reply_to_user_id": "1987074621280260096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042635099871809624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LillaVirts23519 @Oz_Garlandd 请求🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2042635099871809624",
+        "created_at": "2026-04-11T07:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042861182923739428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987074621280260096",
+              "start": 0,
+              "username": "LillaVirts23519"
+            },
+            {
+              "end": 29,
+              "id": "1997644719908884480",
+              "start": 17,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042861182923739428",
+        "in_reply_to_user_id": "1987074621280260096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042635099871809624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LillaVirts23519 @Oz_Garlandd 请求🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987074621280260096",
+        "conversation_id": "2042635099871809624",
+        "created_at": "2026-04-10T16:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042635099871809624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042635099871809624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2106,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "我想200fo了遂来抽个奖。。🥺🥺\n转赞评关即可参与\n一等奖：两盒玉米片（折现20）\n二等奖：8.88*2\n三等奖：5.2*2\n200fo之后我用ai开奖呀。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 338,
+          "like_count": 5732,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1028
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T08:28:03.000Z",
+        "description": "二棒｜泛性恋｜互fo请私会查成分 \n不约炮不聊骚不线下\n别问我未公开的任何信息\n喜欢有礼貌的",
+        "id": "1987074621280260096",
+        "location": "艾尔迪亚",
+        "name": "00",
+        "pinned_tweet_id": "2036840390612127899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005048584614674438/-sd0bBmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 322,
+          "like_count": 7631,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2150
+        },
+        "username": "LillaVirts23519",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 132,
+          "like_count": 11238,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 676
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

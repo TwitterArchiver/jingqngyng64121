@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2025113134093271245",
+    "created_at": "2026-02-22T02:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T03:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025405067202060448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011827901537402885",
+          "start": 0,
+          "username": "Amenyan14_w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025405067202060448",
+    "in_reply_to_user_id": "2011827901537402885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025113134093271245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amenyan14_w 宝宝你好萌.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2025113127889870848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqlqQnbIAAqvr8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025113127877292032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqlqQkbMAA7cqd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2025113134093271245",
+        "created_at": "2026-02-22T02:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T03:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025405067202060448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011827901537402885",
+              "start": 0,
+              "username": "Amenyan14_w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025405067202060448",
+        "in_reply_to_user_id": "2011827901537402885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025113134093271245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amenyan14_w 宝宝你好萌.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025113127889870848",
+            "3_2025113127877292032"
+          ]
+        },
+        "author_id": "2011827901537402885",
+        "conversation_id": "2025113134093271245",
+        "created_at": "2026-02-21T07:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025113134093271245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LXSollZS00",
+              "end": 48,
+              "expanded_url": "https://x.com/Amenyan14_w/status/2025113134093271245/photo/1",
+              "media_key": "3_2025113127889870848",
+              "start": 25,
+              "url": "https://t.co/LXSollZS00"
+            },
+            {
+              "display_url": "pic.x.com/LXSollZS00",
+              "end": 48,
+              "expanded_url": "https://x.com/Amenyan14_w/status/2025113134093271245/photo/1",
+              "media_key": "3_2025113127877292032",
+              "start": 25,
+              "url": "https://t.co/LXSollZS00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025113134093271245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 971,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我只是太想被爱，我想要很多很多爱填补创伤.... https://t.co/LXSollZS00"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 182,
+          "like_count": 3344,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 520
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T15:49:05.000Z",
+        "description": "蔦野Ame｜生理女心理女｜同类互fo大歡迎｜聊天先过🚪58｜主动找你聊天🚪98｜帳號內容物→負能｜血圖｜od｜最最最最最最爱的恋人@BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 65,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ame12800",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ame12800",
+                "start": 0,
+                "url": "https://t.co/ROxJg2Pbcb"
+              }
+            ]
+          }
+        },
+        "id": "2011827901537402885",
+        "location": "Japan",
+        "name": "HYPOSELENIA",
+        "pinned_tweet_id": "2018572251571040544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024356068407857158/BkYuuVbw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 153,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/ROxJg2Pbcb",
+        "username": "Amenyan14_w",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2005258047900483653",
+    "created_at": "2025-12-28T12:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T13:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005258047900483653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2000501337143033856",
+          "start": 3,
+          "username": "wangwihd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005258047900483653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004613718584558008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wangwihd: 祈祷的手势是告诉你一定要紧紧抓住自己的手才能得救。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2005258047900483653",
+        "created_at": "2025-12-28T12:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T13:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005258047900483653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2000501337143033856",
+              "start": 3,
+              "username": "wangwihd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005258047900483653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004613718584558008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wangwihd: 祈祷的手势是告诉你一定要紧紧抓住自己的手才能得救。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000501337143033856",
+        "conversation_id": "2004613718584558008",
+        "created_at": "2025-12-26T18:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T19:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004613718584558008"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004613718584558008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 52812,
+          "like_count": 1225,
+          "quote_count": 6,
+          "reply_count": 17,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "祈祷的手势是告诉你一定要紧紧抓住自己的手才能得救。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001251658462867457/SV9w9q-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 58
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T09:42:33.000Z",
+        "description": "我还是我，我在等你发现我。https://t.co/0O6j9Dt498 如果有之前的互关刷到我，我没有双取，我只是号没了。IG:vivvvvee",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luna58220",
+                "end": 36,
+                "expanded_url": "https://ngl.link/luna58220",
+                "start": 13,
+                "url": "https://t.co/0O6j9Dt498"
+              }
+            ]
+          }
+        },
+        "id": "2000501337143033856",
+        "name": "三千年前（原号After 17已被盗）",
+        "pinned_tweet_id": "2000919471280808410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004587319089876992/FUnOBmaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 92,
+          "like_count": 972,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 563
+        },
+        "username": "wangwihd",
+        "verified": false
+      }
+    ]
+  }
+}

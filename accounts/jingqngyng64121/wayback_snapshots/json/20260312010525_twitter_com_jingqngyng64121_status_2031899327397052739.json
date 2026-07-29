@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2031899327397052739",
+    "created_at": "2026-03-12T01:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T02:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031899327397052739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2027758990097321985",
+          "start": 3,
+          "username": "Kikorilkawaiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031899327397052739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031702215497560145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kikorilkawaiii: 好想自杀好想自杀好想自杀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2031899327397052739",
+        "created_at": "2026-03-12T01:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T02:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031899327397052739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2027758990097321985",
+              "start": 3,
+              "username": "Kikorilkawaiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031899327397052739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031702215497560145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kikorilkawaiii: 好想自杀好想自杀好想自杀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027758990097321985",
+        "conversation_id": "2031702215497560145",
+        "created_at": "2026-03-11T12:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T13:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031702215497560145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031702215497560145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 562,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好想自杀好想自杀好想自杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 218,
+          "like_count": 4033,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 646
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T14:54:53.000Z",
+        "description": "我是kikori 无业游民｜脑子不正常｜intp｜直fo就是觉得你很好想和你玩🥺🥺不太会说话 社交系统混乱。。互fo看成分！忘记了dd我！不加墙内联系方式orz……",
+        "id": "2027758990097321985",
+        "name": "きこり🎶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027759833924227072/5vaks4uo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 107,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 315
+        },
+        "username": "Kikorilkawaiii",
+        "verified": false
+      }
+    ]
+  }
+}

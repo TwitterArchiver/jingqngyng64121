@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2030015531324248200",
+    "created_at": "2026-03-07T11:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T12:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030250997369676218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974688655513096192",
+          "start": 0,
+          "username": "lin_dialog"
+        },
+        {
+          "end": 25,
+          "id": "1722890177696468992",
+          "start": 12,
+          "username": "ustuYukichan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030250997369676218",
+    "in_reply_to_user_id": "1974688655513096192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030015531324248200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lin_dialog @ustuYukichan 支持！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2030015531324248200",
+        "created_at": "2026-03-07T11:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030250997369676218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974688655513096192",
+              "start": 0,
+              "username": "lin_dialog"
+            },
+            {
+              "end": 25,
+              "id": "1722890177696468992",
+              "start": 12,
+              "username": "ustuYukichan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030250997369676218",
+        "in_reply_to_user_id": "1974688655513096192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030015531324248200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lin_dialog @ustuYukichan 支持！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "2030015531324248200",
+        "created_at": "2026-03-06T20:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T21:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030015531324248200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dokigirlluv/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/dokigirlluv/status/2029949905842925733",
+              "start": 33,
+              "url": "https://t.co/8bDosSoanv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030015531324248200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3924,
+          "like_count": 87,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029949905842925733",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我建议把这些毒狗 全部遣送国外并给予绿卡，让他们永世不得回闹钟！ https://t.co/8bDosSoanv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 217,
+          "like_count": 3883,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 635
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "竹霖♡ 18 they/them｜shedtwt odtwt｜bmi14.87｜烟酒割药四毒俱全｜无政府个人主义｜LGBTQ+全友好｜论点/观点常有 欢迎交流｜互fo私信 选拒建议别来",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "2006041221995847931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015796280795258880/pvCRCu-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 197,
+          "like_count": 1155,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 2306
+        },
+        "username": "lin_dialog",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T08:13:34.000Z",
+        "description": "冬天的第一场雪｜病み垢｜リスカ｜od｜shutwt｜drugtwt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/utsuyukichan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/utsuyukichan",
+                "start": 0,
+                "url": "https://t.co/aIBR6RGUsi"
+              }
+            ]
+          }
+        },
+        "id": "1722890177696468992",
+        "location": "地獄",
+        "name": "有害天使",
+        "pinned_tweet_id": "2017060419937194182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950984901202944000/dCpmdRLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 429,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1254
+        },
+        "url": "https://t.co/aIBR6RGUsi",
+        "username": "ustuYukichan",
+        "verified": false
+      }
+    ]
+  }
+}

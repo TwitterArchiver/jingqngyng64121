@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022570073966428160"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2022570092207444457",
+    "created_at": "2026-02-14T07:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T08:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022570092207444457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wznWk9SLU7",
+          "end": 54,
+          "expanded_url": "https://x.com/jingqngyng64121/status/2022570092207444457/photo/1",
+          "media_key": "3_2022570073966428160",
+          "start": 31,
+          "url": "https://t.co/wznWk9SLU7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022570092207444457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做了糖糖同款美甲！（好吧这个美甲师给我“x”这个地方画反了😭 https://t.co/wznWk9SLU7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022570092207444457].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022570092207444457",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022570092207444457"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2022570073966428160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBGcxCgawAAKD0H.jpg",
+        "width": 3024
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 151,
+          "like_count": 2786,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 428
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2016803308380532818",
+    "created_at": "2026-01-29T09:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T10:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016803308380532818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016803308380532818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016428532595937553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 《成瘾和过量服药的真实危害》——右美沙芬\n\n“我”为压抑许久后才被重新发掘的童年被性侵的创伤记忆，每天滥用右美沙芬，虽然最终得以戒除，自己的身心健康却已经受到损害。\n\n唉，这个世界好残酷，我们什么时候才能有健全的心理卫生服务系统？😢如果你也在挣扎，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2016214300818313216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_sIOWdWkAAkVG3.jpg",
+        "width": 2106
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2016214299044413442",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_sIOP2bAAIDmUT.jpg",
+        "width": 2130
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2016803308380532818",
+        "created_at": "2026-01-29T09:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T10:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016803308380532818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016803308380532818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016428532595937553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 《成瘾和过量服药的真实危害》——右美沙芬\n\n“我”为压抑许久后才被重新发掘的童年被性侵的创伤记忆，每天滥用右美沙芬，虽然最终得以戒除，自己的身心健康却已经受到损害。\n\n唉，这个世界好残酷，我们什么时候才能有健全的心理卫生服务系统？😢如果你也在挣扎，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016214300818313216",
+            "3_2016214299044413442"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2016428532595937553",
+        "created_at": "2026-01-28T08:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T09:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016428532595937553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WKqGrJt0hD",
+              "end": 168,
+              "expanded_url": "https://x.com/SalviaSWC/status/2016428532595937553/photo/1",
+              "media_key": "3_2016214300818313216",
+              "start": 145,
+              "url": "https://t.co/WKqGrJt0hD"
+            },
+            {
+              "display_url": "pic.x.com/WKqGrJt0hD",
+              "end": 168,
+              "expanded_url": "https://x.com/SalviaSWC/status/2016428532595937553/photo/1",
+              "media_key": "3_2016214299044413442",
+              "start": 145,
+              "url": "https://t.co/WKqGrJt0hD"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2016074701332955178",
+              "start": 169,
+              "url": "https://t.co/IXjiZj6DoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016428532595937553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4626,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016074701332955178",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《成瘾和过量服药的真实危害》——右美沙芬\n\n“我”为压抑许久后才被重新发掘的童年被性侵的创伤记忆，每天滥用右美沙芬，虽然最终得以戒除，自己的身心健康却已经受到损害。\n\n唉，这个世界好残酷，我们什么时候才能有健全的心理卫生服务系统？😢如果你也在挣扎，一定要坚持住哦，让我们一起看到那一天吧🥹 https://t.co/WKqGrJt0hD https://t.co/IXjiZj6DoY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 78,
+          "like_count": 1374,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 257
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨计算机💻丨虚无主义者🥺丨\n\n会发各种东西🎲丨非必要不键政🏳️丨不卖药🚫丨欢迎任何人🌈丨包容各种做法☮丨互fo🉑哦🥰如果没回fo的话，请私信哦📬丨\n\n脑婆:@DXM8964LXM\n\n丨Say Know to Drugs 💊丨知识无罪📚丨😼👍⬇请关注FreeODwiki喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/ki2TerCSXa"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2516,
+          "following_count": 792,
+          "like_count": 18462,
+          "listed_count": 8,
+          "media_count": 246,
+          "tweet_count": 5144
+        },
+        "url": "https://t.co/ki2TerCSXa",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

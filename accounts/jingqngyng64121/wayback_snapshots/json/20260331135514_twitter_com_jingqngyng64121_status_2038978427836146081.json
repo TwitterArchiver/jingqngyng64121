@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2038630734148354322",
+    "created_at": "2026-03-31T13:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T14:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038978427836146081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1952963304219197440",
+          "start": 0,
+          "username": "huanshiheidong"
+        },
+        {
+          "end": 27,
+          "id": "1999504877337395200",
+          "start": 16,
+          "username": "chuan_0123"
+        },
+        {
+          "end": 43,
+          "id": "1993150970705199108",
+          "start": 28,
+          "username": "Nana_naiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038978427836146081",
+    "in_reply_to_user_id": "1952963304219197440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038952552377758153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huanshiheidong @chuan_0123 @Nana_naiiiiiii 没死真的太好了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2038630734148354322",
+        "created_at": "2026-03-31T13:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038978427836146081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1952963304219197440",
+              "start": 0,
+              "username": "huanshiheidong"
+            },
+            {
+              "end": 27,
+              "id": "1999504877337395200",
+              "start": 16,
+              "username": "chuan_0123"
+            },
+            {
+              "end": 43,
+              "id": "1993150970705199108",
+              "start": 28,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038978427836146081",
+        "in_reply_to_user_id": "1952963304219197440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038952552377758153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanshiheidong @chuan_0123 @Nana_naiiiiiii 没死真的太好了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952963304219197440",
+        "conversation_id": "2038630734148354322",
+        "created_at": "2026-03-31T12:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038952552377758153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999504877337395200",
+              "start": 0,
+              "username": "chuan_0123"
+            },
+            {
+              "end": 27,
+              "id": "1993150970705199108",
+              "start": 12,
+              "username": "Nana_naiiiiiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20387…",
+              "end": 58,
+              "expanded_url": "https://x.com/i/status/2038785236054523955",
+              "start": 35,
+              "url": "https://t.co/lfzVdOM7fz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038952552377758153",
+        "in_reply_to_user_id": "1999504877337395200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038785236054523955",
+            "type": "quoted"
+          },
+          {
+            "id": "2038630734148354322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_0123 @Nana_naiiiiiii 其实根本没死\nhttps://t.co/lfzVdOM7fz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 303,
+          "like_count": 5039,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T05:22:03.000Z",
+        "description": "不常在这。",
+        "id": "1952963304219197440",
+        "location": "台灣",
+        "name": "幻视黑洞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033576995674791936/PTje_4eU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 141,
+          "like_count": 1466,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 95
+        },
+        "username": "huanshiheidong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "我是川川/祝你以后都开心/回fo请私信/🚪888互关免费",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chuan123",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chuan123",
+                "start": 0,
+                "url": "https://t.co/kmXUmkntXo"
+              }
+            ]
+          }
+        },
+        "id": "1999504877337395200",
+        "location": "╰(⇀‸↼)╯→提问箱",
+        "name": "虚空薯条教主",
+        "pinned_tweet_id": "2026652867160051770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026599141066027012/50v9Dmba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 351,
+          "like_count": 11401,
+          "listed_count": 2,
+          "media_count": 328,
+          "tweet_count": 5948
+        },
+        "url": "https://t.co/kmXUmkntXo",
+        "username": "chuan_0123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2038899195973947514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 155,
+          "like_count": 14481,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 878
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

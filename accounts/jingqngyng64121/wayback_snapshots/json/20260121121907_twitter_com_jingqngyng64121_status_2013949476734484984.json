@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013949462524436480",
+        "3_2013949462524428289"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2013949476734484984",
+    "created_at": "2026-01-21T12:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T13:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013949476734484984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/17DBbnZ5TB",
+          "end": 26,
+          "expanded_url": "https://x.com/jingqngyng64121/status/2013949476734484984/photo/1",
+          "media_key": "3_2013949462524436480",
+          "start": 3,
+          "url": "https://t.co/17DBbnZ5TB"
+        },
+        {
+          "display_url": "pic.x.com/17DBbnZ5TB",
+          "end": 26,
+          "expanded_url": "https://x.com/jingqngyng64121/status/2013949476734484984/photo/1",
+          "media_key": "3_2013949462524428289",
+          "start": 3,
+          "url": "https://t.co/17DBbnZ5TB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013949476734484984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想哭 https://t.co/17DBbnZ5TB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2013949462524436480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_L8XaVboAAkZSl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013949462524428289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_L8XaVbgAEjIVZ.jpg",
+        "width": 1713
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013949462524436480",
+            "3_2013949462524428289"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2013949476734484984",
+        "created_at": "2026-01-21T12:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T13:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013949476734484984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/17DBbnZ5TB",
+              "end": 26,
+              "expanded_url": "https://x.com/jingqngyng64121/status/2013949476734484984/photo/1",
+              "media_key": "3_2013949462524436480",
+              "start": 3,
+              "url": "https://t.co/17DBbnZ5TB"
+            },
+            {
+              "display_url": "pic.x.com/17DBbnZ5TB",
+              "end": 26,
+              "expanded_url": "https://x.com/jingqngyng64121/status/2013949476734484984/photo/1",
+              "media_key": "3_2013949462524428289",
+              "start": 3,
+              "url": "https://t.co/17DBbnZ5TB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013949476734484984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想哭 https://t.co/17DBbnZ5TB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 16,
+          "like_count": 819,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 123
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      }
+    ]
+  }
+}

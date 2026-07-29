@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2017975743112941889",
+    "created_at": "2026-02-01T14:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T15:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017975743112941889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711887959610228736",
+          "start": 3,
+          "username": "H1nako_4ever"
+        },
+        {
+          "end": 32,
+          "id": "1906714014299865088",
+          "start": 18,
+          "username": "makiisyourgod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017975743112941889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017827380430004686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @H1nako_4ever: @makiisyourgod 我也辱华了怎么没人关注我啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2017975743112941889",
+        "created_at": "2026-02-01T14:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T15:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017975743112941889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711887959610228736",
+              "start": 3,
+              "username": "H1nako_4ever"
+            },
+            {
+              "end": 32,
+              "id": "1906714014299865088",
+              "start": 18,
+              "username": "makiisyourgod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017975743112941889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017827380430004686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @H1nako_4ever: @makiisyourgod 我也辱华了怎么没人关注我啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711887959610228736",
+        "conversation_id": "2017817703021744156",
+        "created_at": "2026-02-01T05:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T06:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017827380430004686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1906714014299865088",
+              "start": 0,
+              "username": "makiisyourgod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017827380430004686",
+        "in_reply_to_user_id": "1906714014299865088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017817703021744156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@makiisyourgod 我也辱华了怎么没人关注我啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 102,
+          "like_count": 1684,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 317
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T23:34:41.000Z",
+        "description": "*Sora *疑似AI生成 被骂了会在屏幕外偷偷流泪",
+        "id": "1711887959610228736",
+        "location": "予雪 你是谁",
+        "name": "予雪喵^Sora",
+        "pinned_tweet_id": "1941341043619922260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998962393511022592/F3usJ-rf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 1611,
+          "like_count": 5504,
+          "listed_count": 1,
+          "media_count": 479,
+          "tweet_count": 6167
+        },
+        "username": "H1nako_4ever",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T14:24:00.000Z",
+        "description": "",
+        "id": "1906714014299865088",
+        "location": "安全出口EXIT空间和时间",
+        "name": "巻比",
+        "pinned_tweet_id": "2004614455381164090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013260783228981248/wCakrnzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 225,
+          "like_count": 31048,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 2281
+        },
+        "username": "makiisyourgod",
+        "verified": false
+      }
+    ]
+  }
+}

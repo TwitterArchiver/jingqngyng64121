@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024489498797887489"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2024489507077444017",
+    "created_at": "2026-02-19T14:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T15:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024489507077444017"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nM7XcSrqgy",
+          "end": 44,
+          "expanded_url": "https://x.com/jingqngyng64121/status/2024489507077444017/photo/1",
+          "media_key": "3_2024489498797887489",
+          "start": 21,
+          "url": "https://t.co/nM7XcSrqgy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024489507077444017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "od发墙内还有理了（愚昧真的能制幻吗？？ https://t.co/nM7XcSrqgy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2024489507077444017].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2024489507077444017",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2024489507077444017"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2024489498797887489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhueRNbUAENfKW.jpg",
+        "width": 1170
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 174,
+          "like_count": 3174,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 490
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      }
+    ]
+  }
+}

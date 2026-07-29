@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2070072366781395125",
+    "created_at": "2026-06-25T09:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T10:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070072366781395125"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "非绿"
+        },
+        {
+          "end": 93,
+          "start": 89,
+          "tag": "江浙沪"
+        },
+        {
+          "end": 99,
+          "start": 94,
+          "tag": "天津北京"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2060708364544548864",
+          "start": 3,
+          "username": "jwdu4kn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070072366781395125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070036110449983765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jwdu4kn: 新置顶  我接任何线下包括非绿 #非绿 价格和门槛在图三不要再问我价格了 \n单亲家庭下海养活自己和妈妈 露脸验证66🧧看我帖子已验证十次以上  坐标在 #江浙沪\n#天津北京  其他地方也可以去全国可飞 \n欢迎妹子互转 转发关注抽四个人88🧧  三万浏览…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070036032805015552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLo-zeeaEAAl8Ew.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2070036032800886784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLo-zedbEAA3uoZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1671,
+        "media_key": "3_2070036032813445120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLo-zegasAAHPhp.jpg",
+        "width": 1320
+      },
+      {
+        "duration_ms": 18600,
+        "height": 720,
+        "media_key": "13_2070036032800837633",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070036032800837633/img/GxX4sqAnFEw9OsOa.jpg",
+        "public_metrics": {
+          "view_count": 98
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070036032800837633/vid/avc1/480x270/DdB5RrkatPQxqjju.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070036032800837633/vid/avc1/640x360/DbMVep6hjjja9_Y2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070036032800837633/vid/avc1/1280x720/ozij-iSCeUfzn-KU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070036032800837633/pl/sqiQwBOd86UcOpSX.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2070072366781395125",
+        "created_at": "2026-06-25T09:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070072366781395125"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "非绿"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 99,
+              "start": 94,
+              "tag": "天津北京"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2060708364544548864",
+              "start": 3,
+              "username": "jwdu4kn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070072366781395125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070036110449983765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jwdu4kn: 新置顶  我接任何线下包括非绿 #非绿 价格和门槛在图三不要再问我价格了 \n单亲家庭下海养活自己和妈妈 露脸验证66🧧看我帖子已验证十次以上  坐标在 #江浙沪\n#天津北京  其他地方也可以去全国可飞 \n欢迎妹子互转 转发关注抽四个人88🧧  三万浏览…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070036032805015552",
+            "3_2070036032800886784",
+            "3_2070036032813445120",
+            "13_2070036032800837633"
+          ]
+        },
+        "author_id": "2060708364544548864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070036110449983765",
+        "created_at": "2026-06-25T06:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070036110449983765"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "非绿"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "天津北京"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yXxpZNq3KS",
+              "end": 153,
+              "expanded_url": "https://x.com/jwdu4kn/status/2070036110449983765/video/1",
+              "media_key": "3_2070036032805015552",
+              "start": 130,
+              "url": "https://t.co/yXxpZNq3KS"
+            },
+            {
+              "display_url": "pic.x.com/yXxpZNq3KS",
+              "end": 153,
+              "expanded_url": "https://x.com/jwdu4kn/status/2070036110449983765/video/1",
+              "media_key": "3_2070036032800886784",
+              "start": 130,
+              "url": "https://t.co/yXxpZNq3KS"
+            },
+            {
+              "display_url": "pic.x.com/yXxpZNq3KS",
+              "end": 153,
+              "expanded_url": "https://x.com/jwdu4kn/status/2070036110449983765/video/1",
+              "media_key": "3_2070036032813445120",
+              "start": 130,
+              "url": "https://t.co/yXxpZNq3KS"
+            },
+            {
+              "display_url": "pic.x.com/yXxpZNq3KS",
+              "end": 153,
+              "expanded_url": "https://x.com/jwdu4kn/status/2070036110449983765/video/1",
+              "media_key": "13_2070036032800837633",
+              "start": 130,
+              "url": "https://t.co/yXxpZNq3KS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070036110449983765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 265,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "新置顶  我接任何线下包括非绿 #非绿 价格和门槛在图三不要再问我价格了 \n单亲家庭下海养活自己和妈妈 露脸验证66🧧看我帖子已验证十次以上  坐标在 #江浙沪\n#天津北京  其他地方也可以去全国可飞 \n欢迎妹子互转 转发关注抽四个人88🧧  三万浏览量开奖 https://t.co/yXxpZNq3KS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 424,
+          "like_count": 7829,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1631
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T13:02:30.000Z",
+        "description": "嗯嗯嗯嗯",
+        "id": "2060708364544548864",
+        "name": "jwd",
+        "pinned_tweet_id": "2070036110449983765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060998340926730240/vnny9bVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 6,
+          "like_count": 40,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "jwdu4kn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2026189983372231067",
+    "created_at": "2026-02-24T15:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T16:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026311697628348688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2004802306873982977",
+          "start": 0,
+          "username": "Len10x0"
+        },
+        {
+          "end": 22,
+          "id": "1912471464093110272",
+          "start": 9,
+          "username": "sheshe230926"
+        },
+        {
+          "end": 32,
+          "id": "1885765075996393472",
+          "start": 23,
+          "username": "maitakoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026311697628348688",
+    "in_reply_to_user_id": "2004802306873982977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026192138464280636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Len10x0 @sheshe230926 @maitakoo 请求🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2026189983372231067",
+        "created_at": "2026-02-24T15:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026311697628348688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2004802306873982977",
+              "start": 0,
+              "username": "Len10x0"
+            },
+            {
+              "end": 22,
+              "id": "1912471464093110272",
+              "start": 9,
+              "username": "sheshe230926"
+            },
+            {
+              "end": 32,
+              "id": "1885765075996393472",
+              "start": 23,
+              "username": "maitakoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026311697628348688",
+        "in_reply_to_user_id": "2004802306873982977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026192138464280636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Len10x0 @sheshe230926 @maitakoo 请求🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004802306873982977",
+        "conversation_id": "2026189983372231067",
+        "created_at": "2026-02-24T07:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T08:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026192138464280636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912471464093110272",
+              "start": 0,
+              "username": "sheshe230926"
+            },
+            {
+              "end": 23,
+              "id": "1885765075996393472",
+              "start": 14,
+              "username": "maitakoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026192138464280636",
+        "in_reply_to_user_id": "1912471464093110272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026189983372231067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sheshe230926 @maitakoo 申请…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 196,
+          "like_count": 3473,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 558
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T06:31:44.000Z",
+        "description": "日本語はすべて翻訳機が返事して、間違いを謝罪します｜我爱着每一个od妹｜日系｜自伤｜清楚系｜负能｜同类互fo",
+        "id": "2004802306873982977",
+        "location": "可不可以喜欢我",
+        "name": "冷たい幻覚（同类互fo）",
+        "pinned_tweet_id": "2026180784261091814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020745173807026176/0nQdCQ8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 39,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 296
+        },
+        "username": "Len10x0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T11:42:10.000Z",
+        "description": "08｜🚺｜ip广州｜自傷｜ed｜od｜病み垢｜男性❌｜DM⭕️｜求老婆们和我互fo 我想交朋友｜男的加我🚪88",
+        "id": "1912471464093110272",
+        "location": "Guangdong",
+        "name": "石頭蛇",
+        "pinned_tweet_id": "2025106958911697356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025102994296217600/3HSYGElH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 444,
+          "like_count": 2516,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 247
+        },
+        "username": "sheshe230926",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T19:00:23.000Z",
+        "description": "10世代｜双相｜od自伤｜⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️不喜欢健全人想和同类女孩子互fo｜随缘回fo⚪️⚪️⚪️⚪️",
+        "id": "1885765075996393472",
+        "location": "California, USA",
+        "name": "薄氷殉情",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989006426828943360/mqOM-NSZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 73,
+          "like_count": 873,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 767
+        },
+        "username": "maitakoo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059244102500372480"
+      ],
+      "media_source_tweet_id": [
+        "2059244114164818164"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2059580333847400588",
+    "created_at": "2026-05-27T10:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059580333847400588"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 62,
+          "tag": "互fo"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "餐券"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "od"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "自伤"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2058163131395002368",
+          "start": 3,
+          "username": "murrtttt0ro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BQBVYG52VW",
+          "end": 102,
+          "expanded_url": "https://x.com/murrtttt0ro/status/2059244114164818164/photo/1",
+          "media_key": "3_2059244102500372480",
+          "start": 79,
+          "url": "https://t.co/BQBVYG52VW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059580333847400588",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059244114164818164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @murrtttt0ro: 谁来跟我互fo૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა\n这条关注评论点赞转推抽一个25r💕\n#互fo #餐券 #od #自伤 https://t.co/BQBVYG52VW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059244102500372480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPnmdNaUAAGoQw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059244102500372480"
+          ],
+          "media_source_tweet_id": [
+            "2059244114164818164"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2059580333847400588",
+        "created_at": "2026-05-27T10:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059580333847400588"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 62,
+              "tag": "互fo"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "餐券"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "od"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "自伤"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2058163131395002368",
+              "start": 3,
+              "username": "murrtttt0ro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQBVYG52VW",
+              "end": 102,
+              "expanded_url": "https://x.com/murrtttt0ro/status/2059244114164818164/photo/1",
+              "media_key": "3_2059244102500372480",
+              "start": 79,
+              "url": "https://t.co/BQBVYG52VW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059580333847400588",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059244114164818164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @murrtttt0ro: 谁来跟我互fo૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა\n这条关注评论点赞转推抽一个25r💕\n#互fo #餐券 #od #自伤 https://t.co/BQBVYG52VW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059244102500372480"
+          ]
+        },
+        "author_id": "2058163131395002368",
+        "conversation_id": "2059244114164818164",
+        "created_at": "2026-05-26T12:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059244114164818164"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "互fo"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "餐券"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "od"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "自伤"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQBVYG52VW",
+              "end": 85,
+              "expanded_url": "https://x.com/murrtttt0ro/status/2059244114164818164/photo/1",
+              "media_key": "3_2059244102500372480",
+              "start": 62,
+              "url": "https://t.co/BQBVYG52VW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059244114164818164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1451,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "谁来跟我互fo૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა\n这条关注评论点赞转推抽一个25r💕\n#互fo #餐券 #od #自伤 https://t.co/BQBVYG52VW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 398,
+          "like_count": 7534,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1536
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 60,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 39
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      }
+    ]
+  }
+}

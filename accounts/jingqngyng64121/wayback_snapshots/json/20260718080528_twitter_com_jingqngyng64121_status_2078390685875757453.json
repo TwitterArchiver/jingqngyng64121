@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2077945213503615261",
+    "created_at": "2026-07-18T08:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078390685875757453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1591344896757026821",
+          "start": 0,
+          "username": "xng328460971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078390685875757453",
+    "in_reply_to_user_id": "1591344896757026821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077945213503615261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xng328460971 16t像疯子一样了 难受死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2077945213503615261",
+        "created_at": "2026-07-18T08:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078390685875757453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1591344896757026821",
+              "start": 0,
+              "username": "xng328460971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078390685875757453",
+        "in_reply_to_user_id": "1591344896757026821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077945213503615261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xng328460971 16t像疯子一样了 难受死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591344896757026821",
+        "conversation_id": "2077945213503615261",
+        "created_at": "2026-07-17T02:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077945213503615261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077945213503615261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9917,
+          "like_count": 72,
+          "quote_count": 2,
+          "reply_count": 46,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我终于知道为啥吃金刚烷胺会变鸡了我操，太吓人了你们知道吗，再也不敢吃这么多了，我第一次就吃了8t感觉自己都不是人类了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 442,
+          "like_count": 8209,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1715
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T08:19:34.000Z",
+        "description": "我只是一个路人…\n｜自伤｜od｜同类互fo｜画画的｜不加墙内｜不吵架不站队立场是关我屁事",
+        "id": "1591344896757026821",
+        "name": "小人",
+        "pinned_tweet_id": "2047528717719642466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014266753748996097/q2q0pA-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 182,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 436
+        },
+        "url": "",
+        "username": "xng328460971",
+        "verified": false
+      }
+    ]
+  }
+}

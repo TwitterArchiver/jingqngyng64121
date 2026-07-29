@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2010546771186049179",
+    "created_at": "2026-01-13T02:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T03:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010909451696439801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1816947935307018240",
+          "start": 0,
+          "username": "BanLanno12671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010909451696439801",
+    "in_reply_to_user_id": "1816947935307018240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010546771186049179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BanLanno12671 啊啊啊啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2010546771186049179",
+        "created_at": "2026-01-13T02:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T03:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010909451696439801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1816947935307018240",
+              "start": 0,
+              "username": "BanLanno12671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010909451696439801",
+        "in_reply_to_user_id": "1816947935307018240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010546771186049179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BanLanno12671 啊啊啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816947935307018240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2010546771186049179",
+        "created_at": "2026-01-12T02:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T03:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010546771186049179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010546771186049179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1703,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈不允许我喜欢毛腊肉我忍了😭\n奶奶不允许我喜欢邓小平我忍了😭\n小姨不允许我喜欢江泽民我忍了😭\n舅舅不允许我喜欢胡锦涛我忍了😭\n姑妈不允许我喜欢叶剑英我忍了😭\n姑父不允许我喜欢王洪文我忍了😭\n爷爷不允许我喜欢习近平我忍不了 神仙颜值习近平、人间理想习近平、温柔体贴习近平、 治愈微笑习近平"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 605,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 96
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T21:25:28.000Z",
+        "description": "ο(=•ω＜=)ρ⌒☆                                                                小号是@wucaigao1122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 78,
+                "username": "wucaigao1122"
+              }
+            ]
+          }
+        },
+        "id": "1816947935307018240",
+        "name": "斑斓の根…",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003889588881002498/UFwUSH4K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 1316,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 280
+        },
+        "username": "BanLanno12671",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2024479642477117593",
+    "created_at": "2026-02-19T13:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T14:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024479642477117593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1793911207960915968",
+          "start": 3,
+          "username": "babymoonOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024479642477117593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024022319673250190",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @babymoonOvO: 我本质上和那些恶臭宅男没有什么区别 唯一区别就是我是个女孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2024479642477117593",
+        "created_at": "2026-02-19T13:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024479642477117593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1793911207960915968",
+              "start": 3,
+              "username": "babymoonOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024479642477117593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024022319673250190",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @babymoonOvO: 我本质上和那些恶臭宅男没有什么区别 唯一区别就是我是个女孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793911207960915968",
+        "conversation_id": "2024022319673250190",
+        "created_at": "2026-02-18T07:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024022319673250190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024022319673250190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 32425,
+          "like_count": 636,
+          "quote_count": 5,
+          "reply_count": 27,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "我本质上和那些恶臭宅男没有什么区别 唯一区别就是我是个女孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 160,
+          "like_count": 3128,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 477
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T07:45:44.000Z",
+        "description": "哼良家小妇女一枚",
+        "id": "1793911207960915968",
+        "location": "忧郁日本妹子",
+        "name": "小小蘑",
+        "pinned_tweet_id": "1927763135424807030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015764890057920512/gVftR_ik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3869,
+          "following_count": 78,
+          "like_count": 38231,
+          "listed_count": 11,
+          "media_count": 373,
+          "tweet_count": 3612
+        },
+        "username": "babymoonOvO",
+        "verified": false
+      }
+    ]
+  }
+}

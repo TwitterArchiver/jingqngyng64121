@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2018319356078551325",
+    "created_at": "2026-02-02T13:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T14:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018319356078551325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "916589887205150720",
+          "start": 3,
+          "username": "ukotius3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018319356078551325",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1620
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016521465685049560",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ukotius3: 死　death\nshi\n\n死体　dead body\nshitai\n\n死因　cause of death\nshiin\n\n死刑　death penalty\nshikē\n\n死後　after death\nshigo\n\n病死　death from sickne…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2018319356078551325",
+        "created_at": "2026-02-02T13:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T14:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018319356078551325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "916589887205150720",
+              "start": 3,
+              "username": "ukotius3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018319356078551325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1620
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016521465685049560",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ukotius3: 死　death\nshi\n\n死体　dead body\nshitai\n\n死因　cause of death\nshiin\n\n死刑　death penalty\nshikē\n\n死後　after death\nshigo\n\n病死　death from sickne…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "916589887205150720",
+        "conversation_id": "2016521465685049560",
+        "created_at": "2026-01-28T14:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016521465685049560"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016521465685049560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "死　death\nshi\n\n死体　dead body\nshitai\n\n死因　cause of death\nshiin\n\n死刑　death penalty\nshikē\n\n死後　after death\nshigo\n\n病死　death from sickness\nbyōshi\n\n脳死　cerebral death, brain death\nnōshi\n\n死期　one's time to die\nshiki\n\n急死　sudden death\nkyūshi\n\n自死　suicide\njishi\n\n死別　bereavement\nshibetsu\n\n死産　stillbirth\nshizan\n\n死角　dead angle, blide area\nshikaku\n\n死票　invalid vote\nshihyō\n\n死語　words people don't say anymore\nshigo\n\n死闘　deadly battle\nshitō\n\n死神　grim reaper\nshinigami\n\n死海　The Dead Sea\nshikai"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5570,
+          "impression_count": 493537,
+          "like_count": 14055,
+          "quote_count": 109,
+          "reply_count": 57,
+          "retweet_count": 1620
+        },
+        "reply_settings": "everyone",
+        "text": "死　death\nshi\n\n死体　dead body\nshitai\n\n死因　cause of death\nshiin\n\n死刑　death penalty\nshikē\n\n死後　after death\nshigo\n\n病死　death from sickness\nbyōshi\n\n脳死　cerebral death, brain death\nnōshi\n\n死期　one's time to die\nshiki\n\n急死　sudden death\nkyūshi\n\n自死　suicide\njishi\n\n死別"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 117,
+          "like_count": 1856,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 335
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-07T09:03:53.000Z",
+        "description": "",
+        "id": "916589887205150720",
+        "name": "Japalang",
+        "pinned_tweet_id": "1852352733820707044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345925575446204416/PC6c_dNb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23356,
+          "following_count": 32,
+          "like_count": 6,
+          "listed_count": 148,
+          "media_count": 26,
+          "tweet_count": 13619
+        },
+        "username": "ukotius3",
+        "verified": true
+      }
+    ]
+  }
+}

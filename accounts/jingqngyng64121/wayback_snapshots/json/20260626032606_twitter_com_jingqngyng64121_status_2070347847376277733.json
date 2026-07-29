@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069718809502523392",
+        "3_2069718779836108800",
+        "3_2069718779391778816",
+        "3_2069718780717023232"
+      ],
+      "media_source_tweet_id": [
+        "2069718813667652083",
+        "2069718813667652083",
+        "2069718813667652083",
+        "2069718813667652083"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2070347847376277733",
+    "created_at": "2026-06-26T03:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T04:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070347847376277733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1907010242833186816",
+          "start": 3,
+          "username": "nn520131"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qZclyV13JG",
+          "end": 129,
+          "expanded_url": "https://x.com/nn520131/status/2069718813667652083/photo/1",
+          "media_key": "3_2069718809502523392",
+          "start": 106,
+          "url": "https://t.co/qZclyV13JG"
+        },
+        {
+          "display_url": "pic.x.com/qZclyV13JG",
+          "end": 129,
+          "expanded_url": "https://x.com/nn520131/status/2069718813667652083/photo/1",
+          "media_key": "3_2069718779836108800",
+          "start": 106,
+          "url": "https://t.co/qZclyV13JG"
+        },
+        {
+          "display_url": "pic.x.com/qZclyV13JG",
+          "end": 129,
+          "expanded_url": "https://x.com/nn520131/status/2069718813667652083/photo/1",
+          "media_key": "3_2069718779391778816",
+          "start": 106,
+          "url": "https://t.co/qZclyV13JG"
+        },
+        {
+          "display_url": "pic.x.com/qZclyV13JG",
+          "end": 129,
+          "expanded_url": "https://x.com/nn520131/status/2069718813667652083/photo/1",
+          "media_key": "3_2069718780717023232",
+          "start": 106,
+          "url": "https://t.co/qZclyV13JG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070347847376277733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069718813667652083",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nn520131: 打扰各位啦不知道最近有没有人想入\n\n话多脾气好，情绪价值高照片也多!跟女朋友一样互动upupup\n\n少不到五个9.D:V\n\n不存在轮回以及疯狂圈冷暴力等~\n\n都可以私聊先了解~打扰啦 https://t.co/qZclyV13JG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1224,
+        "media_key": "3_2069718809502523392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkeSplXoAAYNqB.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1384,
+        "media_key": "3_2069718779836108800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkeQ7EWEAA98gs.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1246,
+        "media_key": "3_2069718779391778816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkeQ5aaIAAxpcl.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1362,
+        "media_key": "3_2069718780717023232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkeQ-WXwAArcis.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069718809502523392",
+            "3_2069718779836108800",
+            "3_2069718779391778816",
+            "3_2069718780717023232"
+          ],
+          "media_source_tweet_id": [
+            "2069718813667652083",
+            "2069718813667652083",
+            "2069718813667652083",
+            "2069718813667652083"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2070347847376277733",
+        "created_at": "2026-06-26T03:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070347847376277733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1907010242833186816",
+              "start": 3,
+              "username": "nn520131"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZclyV13JG",
+              "end": 129,
+              "expanded_url": "https://x.com/nn520131/status/2069718813667652083/photo/1",
+              "media_key": "3_2069718809502523392",
+              "start": 106,
+              "url": "https://t.co/qZclyV13JG"
+            },
+            {
+              "display_url": "pic.x.com/qZclyV13JG",
+              "end": 129,
+              "expanded_url": "https://x.com/nn520131/status/2069718813667652083/photo/1",
+              "media_key": "3_2069718779836108800",
+              "start": 106,
+              "url": "https://t.co/qZclyV13JG"
+            },
+            {
+              "display_url": "pic.x.com/qZclyV13JG",
+              "end": 129,
+              "expanded_url": "https://x.com/nn520131/status/2069718813667652083/photo/1",
+              "media_key": "3_2069718779391778816",
+              "start": 106,
+              "url": "https://t.co/qZclyV13JG"
+            },
+            {
+              "display_url": "pic.x.com/qZclyV13JG",
+              "end": 129,
+              "expanded_url": "https://x.com/nn520131/status/2069718813667652083/photo/1",
+              "media_key": "3_2069718780717023232",
+              "start": 106,
+              "url": "https://t.co/qZclyV13JG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070347847376277733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069718813667652083",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nn520131: 打扰各位啦不知道最近有没有人想入\n\n话多脾气好，情绪价值高照片也多!跟女朋友一样互动upupup\n\n少不到五个9.D:V\n\n不存在轮回以及疯狂圈冷暴力等~\n\n都可以私聊先了解~打扰啦 https://t.co/qZclyV13JG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069718809502523392",
+            "3_2069718779836108800",
+            "3_2069718779391778816",
+            "3_2069718780717023232"
+          ]
+        },
+        "author_id": "1907010242833186816",
+        "conversation_id": "2069718813667652083",
+        "created_at": "2026-06-24T09:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069718813667652083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZclyV13JG",
+              "end": 115,
+              "expanded_url": "https://x.com/nn520131/status/2069718813667652083/photo/1",
+              "media_key": "3_2069718809502523392",
+              "start": 92,
+              "url": "https://t.co/qZclyV13JG"
+            },
+            {
+              "display_url": "pic.x.com/qZclyV13JG",
+              "end": 115,
+              "expanded_url": "https://x.com/nn520131/status/2069718813667652083/photo/1",
+              "media_key": "3_2069718779836108800",
+              "start": 92,
+              "url": "https://t.co/qZclyV13JG"
+            },
+            {
+              "display_url": "pic.x.com/qZclyV13JG",
+              "end": 115,
+              "expanded_url": "https://x.com/nn520131/status/2069718813667652083/photo/1",
+              "media_key": "3_2069718779391778816",
+              "start": 92,
+              "url": "https://t.co/qZclyV13JG"
+            },
+            {
+              "display_url": "pic.x.com/qZclyV13JG",
+              "end": 115,
+              "expanded_url": "https://x.com/nn520131/status/2069718813667652083/photo/1",
+              "media_key": "3_2069718780717023232",
+              "start": 92,
+              "url": "https://t.co/qZclyV13JG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069718813667652083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 424,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "打扰各位啦不知道最近有没有人想入\n\n话多脾气好，情绪价值高照片也多!跟女朋友一样互动upupup\n\n少不到五个9.D:V\n\n不存在轮回以及疯狂圈冷暴力等~\n\n都可以私聊先了解~打扰啦 https://t.co/qZclyV13JG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 426,
+          "like_count": 7841,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1634
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T10:00:56.000Z",
+        "description": "165/42.5kg可验证 因家庭原因 欠了不少钱 被迫下海  可先视频验证",
+        "id": "1907010242833186816",
+        "location": "188/520/1314/5200/8888🚪",
+        "name": "白团团（回复口令）",
+        "pinned_tweet_id": "2069718813667652083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908191225347522560/fo5O33Q6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 9,
+          "like_count": 10,
+          "listed_count": 4,
+          "media_count": 5,
+          "tweet_count": 259
+        },
+        "url": "",
+        "username": "nn520131",
+        "verified": false
+      }
+    ]
+  }
+}

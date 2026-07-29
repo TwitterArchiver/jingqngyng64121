@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010680942206328832"
+      ],
+      "media_source_tweet_id": [
+        "2010680948678144236"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2010909621968322819",
+    "created_at": "2026-01-13T02:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T03:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010909621968322819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1885607134366482432",
+          "start": 3,
+          "username": "aritaki01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sIYkuKBCCd",
+          "end": 43,
+          "expanded_url": "https://x.com/aritaki01/status/2010680948678144236/photo/1",
+          "media_key": "3_2010680942206328832",
+          "start": 20,
+          "url": "https://t.co/sIYkuKBCCd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010909621968322819",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 276
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010680948678144236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aritaki01: おもろい https://t.co/sIYkuKBCCd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010680942206328832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-dfqfTbIAANzCl.jpg",
+        "width": 1588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010680942206328832"
+          ],
+          "media_source_tweet_id": [
+            "2010680948678144236"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2010909621968322819",
+        "created_at": "2026-01-13T02:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T03:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010909621968322819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1885607134366482432",
+              "start": 3,
+              "username": "aritaki01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sIYkuKBCCd",
+              "end": 43,
+              "expanded_url": "https://x.com/aritaki01/status/2010680948678144236/photo/1",
+              "media_key": "3_2010680942206328832",
+              "start": 20,
+              "url": "https://t.co/sIYkuKBCCd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010909621968322819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 276
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010680948678144236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aritaki01: おもろい https://t.co/sIYkuKBCCd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010680942206328832"
+          ]
+        },
+        "author_id": "1885607134366482432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2010680948678144236",
+        "created_at": "2026-01-12T11:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T12:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010680948678144236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sIYkuKBCCd",
+              "end": 28,
+              "expanded_url": "https://x.com/aritaki01/status/2010680948678144236/photo/1",
+              "media_key": "3_2010680942206328832",
+              "start": 5,
+              "url": "https://t.co/sIYkuKBCCd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010680948678144236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 235,
+          "impression_count": 43706,
+          "like_count": 4509,
+          "quote_count": 19,
+          "reply_count": 24,
+          "retweet_count": 276
+        },
+        "reply_settings": "everyone",
+        "text": "おもろい https://t.co/sIYkuKBCCd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 97
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T08:32:40.000Z",
+        "description": "ウツヒョー",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aritaF9y",
+                "end": 23,
+                "expanded_url": "https://lit.link/aritaF9y",
+                "start": 0,
+                "url": "https://t.co/ebFmLZlTRY"
+              }
+            ]
+          }
+        },
+        "id": "1885607134366482432",
+        "location": "ここ弱点🆗",
+        "name": "有田",
+        "pinned_tweet_id": "1928828253751361928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885609739117379584/HWkxeHS7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 833,
+          "like_count": 144893,
+          "listed_count": 29,
+          "media_count": 364,
+          "tweet_count": 5908
+        },
+        "url": "https://t.co/ebFmLZlTRY",
+        "username": "aritaki01",
+        "verified": false
+      }
+    ]
+  }
+}

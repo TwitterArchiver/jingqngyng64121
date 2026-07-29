@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2037886864301150325",
+    "created_at": "2026-03-28T13:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T14:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037886864301150325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037886864301150325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 160
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037510405422276865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: 童年有创伤的人对感情千万不要卡“感觉”，因为神经系统会更倾向于选择你熟悉的创伤模式，那些让你感觉到难以控制的冲动以及强烈的情绪的人，也许只是激发了你深层的创伤，迷恋的本质是创伤吸引。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2037886864301150325",
+        "created_at": "2026-03-28T13:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037886864301150325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037886864301150325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 160
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037510405422276865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: 童年有创伤的人对感情千万不要卡“感觉”，因为神经系统会更倾向于选择你熟悉的创伤模式，那些让你感觉到难以控制的冲动以及强烈的情绪的人，也许只是激发了你深层的创伤，迷恋的本质是创伤吸引。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2037510405422276865",
+        "created_at": "2026-03-27T12:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037510405422276865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037510405422276865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 48452,
+          "like_count": 1356,
+          "quote_count": 34,
+          "reply_count": 29,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "童年有创伤的人对感情千万不要卡“感觉”，因为神经系统会更倾向于选择你熟悉的创伤模式，那些让你感觉到难以控制的冲动以及强烈的情绪的人，也许只是激发了你深层的创伤，迷恋的本质是创伤吸引。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️（健全b）",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 291,
+          "like_count": 4918,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 800
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8049,
+          "following_count": 5,
+          "like_count": 983,
+          "listed_count": 23,
+          "media_count": 97,
+          "tweet_count": 1709
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2035248508857720843",
+    "created_at": "2026-03-21T06:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T07:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035248508857720843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2021227189212176384",
+          "start": 3,
+          "username": "kidomori1219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035248508857720843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035034129113534576",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kidomori1219: 我觉得我们学校辱华了，宿舍又小又破，没有独立卫浴，吃得真的难吃。中国🇨🇳这么富强，怎么能有这么烂的学校，一定是学校故意抹黑！恶意辱华！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2035248508857720843",
+        "created_at": "2026-03-21T06:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T07:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035248508857720843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2021227189212176384",
+              "start": 3,
+              "username": "kidomori1219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035248508857720843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035034129113534576",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kidomori1219: 我觉得我们学校辱华了，宿舍又小又破，没有独立卫浴，吃得真的难吃。中国🇨🇳这么富强，怎么能有这么烂的学校，一定是学校故意抹黑！恶意辱华！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021227189212176384",
+        "conversation_id": "2035034129113534576",
+        "created_at": "2026-03-20T16:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T17:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035034129113534576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035034129113534576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 40403,
+          "like_count": 1088,
+          "quote_count": 4,
+          "reply_count": 40,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我们学校辱华了，宿舍又小又破，没有独立卫浴，吃得真的难吃。中国🇨🇳这么富强，怎么能有这么烂的学校，一定是学校故意抹黑！恶意辱华！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 279,
+          "like_count": 4767,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 763
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-10T14:18:24.000Z",
+        "description": "企鹅大学法学院法学博士研究生，师从温良🐧教授研究南极刑法与洲际刑法，在《南极法学》《洲际法评论》《南极刑事法杂志》等期刊发表十余篇论文，洲社科基金项目组成员，前企天城律师事务所执业律师，以上以下都是我瞎编的",
+        "id": "2021227189212176384",
+        "location": "南极洲企鹅大学路九又四分之三号",
+        "name": "温良🐧的守护者",
+        "pinned_tweet_id": "2021232808815972738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021232564338556929/7v3Hjf42_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 133,
+          "like_count": 8149,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 707
+        },
+        "username": "kidomori1219",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2042258494288756917",
+    "created_at": "2026-04-09T23:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T00:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042391933390373313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2031995714000302080",
+          "start": 0,
+          "username": "Thalyabdlp"
+        },
+        {
+          "end": 21,
+          "id": "1812304729432838144",
+          "start": 12,
+          "username": "huimu420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042391933390373313",
+    "in_reply_to_user_id": "2031995714000302080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042258494288756917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thalyabdlp @huimu420 请求🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2042258494288756917",
+        "created_at": "2026-04-09T23:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T00:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042391933390373313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2031995714000302080",
+              "start": 0,
+              "username": "Thalyabdlp"
+            },
+            {
+              "end": 21,
+              "id": "1812304729432838144",
+              "start": 12,
+              "username": "huimu420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042391933390373313",
+        "in_reply_to_user_id": "2031995714000302080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042258494288756917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thalyabdlp @huimu420 请求🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031995714000302080",
+        "conversation_id": "2042258494288756917",
+        "created_at": "2026-04-09T15:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042258494288756917"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042258494288756917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 480,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我想多一点点互关，小女子想约点od/割/精神疾病相关成分🥹…如果能转非常感谢！可以直观看着回fo，不太喜生理男其他都可以，zfq抽两个5.2🥹🥹🫶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 322,
+          "like_count": 5469,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 963
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T07:30:30.000Z",
+        "description": "只想交点朋友再发点碎碎念｜直fo是喜欢你｜精神病很严重不用在意我的发言",
+        "id": "2031995714000302080",
+        "name": "Landiaros",
+        "pinned_tweet_id": "2042317479603814700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042320561968410624/SflSnRzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 54,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 95
+        },
+        "username": "Thalyabdlp",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "餐券 负能 自言自语\n酷拉皮卡梦女\n不太会说话 说的少不是讨厌你\n💊🩸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimu420",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huimu420",
+                "start": 0,
+                "url": "https://t.co/o2XkPNmz4o"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "location": "提问箱",
+        "name": "回木",
+        "pinned_tweet_id": "2028842327134077389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008334036159090688/E-dxw_RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 787,
+          "like_count": 30122,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 7753
+        },
+        "url": "https://t.co/o2XkPNmz4o",
+        "username": "huimu420",
+        "verified": false
+      }
+    ]
+  }
+}

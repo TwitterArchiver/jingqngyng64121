@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2023753386743787539",
+    "created_at": "2026-02-18T00:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T01:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023919704604279214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1868203874726887424",
+          "start": 0,
+          "username": "daozhir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023919704604279214",
+    "in_reply_to_user_id": "1868203874726887424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023753386743787539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daozhir 说的对"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023753363230441472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXQ9ihaQAAZKXD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023753363276656642",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXQ9isbcAIw6sT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2023753363268202496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXQ9iqacAAT5Wp.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1780,
+        "media_key": "3_2023753363301814272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXQ9iybUAA6N9X.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2023753386743787539",
+        "created_at": "2026-02-18T00:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T01:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023919704604279214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1868203874726887424",
+              "start": 0,
+              "username": "daozhir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023919704604279214",
+        "in_reply_to_user_id": "1868203874726887424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023753386743787539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daozhir 说的对"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023753363230441472",
+            "3_2023753363276656642",
+            "3_2023753363268202496",
+            "3_2023753363301814272"
+          ]
+        },
+        "author_id": "1868203874726887424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023753386743787539",
+        "created_at": "2026-02-17T13:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T14:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023753386743787539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SnlGrt5R9e",
+              "end": 42,
+              "expanded_url": "https://x.com/daozhir/status/2023753386743787539/photo/1",
+              "media_key": "3_2023753363230441472",
+              "start": 19,
+              "url": "https://t.co/SnlGrt5R9e"
+            },
+            {
+              "display_url": "pic.x.com/SnlGrt5R9e",
+              "end": 42,
+              "expanded_url": "https://x.com/daozhir/status/2023753386743787539/photo/1",
+              "media_key": "3_2023753363276656642",
+              "start": 19,
+              "url": "https://t.co/SnlGrt5R9e"
+            },
+            {
+              "display_url": "pic.x.com/SnlGrt5R9e",
+              "end": 42,
+              "expanded_url": "https://x.com/daozhir/status/2023753386743787539/photo/1",
+              "media_key": "3_2023753363268202496",
+              "start": 19,
+              "url": "https://t.co/SnlGrt5R9e"
+            },
+            {
+              "display_url": "pic.x.com/SnlGrt5R9e",
+              "end": 42,
+              "expanded_url": "https://x.com/daozhir/status/2023753386743787539/photo/1",
+              "media_key": "3_2023753363301814272",
+              "start": 19,
+              "url": "https://t.co/SnlGrt5R9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023753386743787539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3392,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁说普瑞成瘾的 我天天o也没见成瘾啊 https://t.co/SnlGrt5R9e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 156,
+          "like_count": 3025,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 464
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T07:58:21.000Z",
+        "description": "小倒丨16岁丨顺性别女性丨lesbian丨sub 丨 overdose丨双相情感障碍丨LGBTQ+全友好丨 fo同类 没fo私我丨欢迎找我聊聊天丨请多关照",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/11179982",
+                "end": 23,
+                "expanded_url": "https://ngl.link/11179982",
+                "start": 0,
+                "url": "https://t.co/pHdQ49rVOA"
+              }
+            ]
+          }
+        },
+        "id": "1868203874726887424",
+        "location": "Ciudad Autónoma de Buenos Aire",
+        "name": "Hola",
+        "pinned_tweet_id": "1988931748185645459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989222275498012674/zZ3PsBCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 410,
+          "like_count": 1265,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/pHdQ49rVOA",
+        "username": "daozhir",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2022570092207444457",
+    "created_at": "2026-02-14T11:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T12:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022632008799899735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1950462089124073475",
+          "start": 0,
+          "username": "heidedachuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022632008799899735",
+    "in_reply_to_user_id": "1950462089124073475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022631190185025929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heidedachuang 我还要上学😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022631177710931968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHUVvsXEAAKwHU.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2022570092207444457",
+        "created_at": "2026-02-14T11:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022632008799899735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1950462089124073475",
+              "start": 0,
+              "username": "heidedachuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022632008799899735",
+        "in_reply_to_user_id": "1950462089124073475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022631190185025929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heidedachuang 我还要上学😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022631177710931968"
+          ]
+        },
+        "author_id": "1950462089124073475",
+        "conversation_id": "2022570092207444457",
+        "created_at": "2026-02-14T11:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022631190185025929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1992506703678705664",
+              "start": 0,
+              "username": "jingqngyng64121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYcludmowm",
+              "end": 57,
+              "expanded_url": "https://x.com/heidedachuang/status/2022631190185025929/photo/1",
+              "media_key": "3_2022631177710931968",
+              "start": 34,
+              "url": "https://t.co/bYcludmowm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022631190185025929",
+        "in_reply_to_user_id": "1992506703678705664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022570092207444457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingqngyng64121 我去我当时也做了这个 但是是长款 https://t.co/bYcludmowm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 152,
+          "like_count": 2804,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 430
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T07:43:03.000Z",
+        "description": "双向｜od｜普瑞是心肝｜平时喜欢搞地雷系｜",
+        "id": "1950462089124073475",
+        "name": "念念",
+        "pinned_tweet_id": "2017419205805818360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018656859289436160/RgVDGufp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 92,
+          "like_count": 1276,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 221
+        },
+        "username": "heidedachuang",
+        "verified": false
+      }
+    ]
+  }
+}

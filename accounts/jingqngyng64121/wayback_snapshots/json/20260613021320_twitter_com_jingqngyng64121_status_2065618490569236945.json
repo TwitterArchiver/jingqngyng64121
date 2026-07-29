@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2065618490569236945",
+    "created_at": "2026-06-13T02:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T03:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065618490569236945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1947851857",
+          "start": 3,
+          "username": "EdwardTauro14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065618490569236945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064899294969438626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EdwardTauro14: 置顶🔝\n叫我小天真 我的身高是163体重是45kg想问我坐标的话请私信我发口令，接半绿非绿委托，可以接cos全国\n我滴线下🚪188/288/520/1314\n私信我可以问我门槛的具体区别。我很好说话的\n转关赞抽3个188🧧，抽到直接发口令…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064899291601375232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKf-9yTbEAA8LOn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1499,
+        "media_key": "3_2064899287772016640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKf-9kCbsAAiXrH.jpg",
+        "width": 1133
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2065618490569236945",
+        "created_at": "2026-06-13T02:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T03:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065618490569236945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1947851857",
+              "start": 3,
+              "username": "EdwardTauro14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065618490569236945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064899294969438626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EdwardTauro14: 置顶🔝\n叫我小天真 我的身高是163体重是45kg想问我坐标的话请私信我发口令，接半绿非绿委托，可以接cos全国\n我滴线下🚪188/288/520/1314\n私信我可以问我门槛的具体区别。我很好说话的\n转关赞抽3个188🧧，抽到直接发口令…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064899291601375232",
+            "3_2064899287772016640"
+          ]
+        },
+        "author_id": "1947851857",
+        "conversation_id": "2064899294969438626",
+        "created_at": "2026-06-11T02:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064899294969438626"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 129,
+              "start": 125,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "金主"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oMnFyxhHX4",
+              "end": 161,
+              "expanded_url": "https://x.com/EdwardTauro14/status/2064899294969438626/photo/1",
+              "media_key": "3_2064899291601375232",
+              "start": 138,
+              "url": "https://t.co/oMnFyxhHX4"
+            },
+            {
+              "display_url": "pic.x.com/oMnFyxhHX4",
+              "end": 161,
+              "expanded_url": "https://x.com/EdwardTauro14/status/2064899294969438626/photo/1",
+              "media_key": "3_2064899287772016640",
+              "start": 138,
+              "url": "https://t.co/oMnFyxhHX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064899294969438626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 277,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝\n叫我小天真 我的身高是163体重是45kg想问我坐标的话请私信我发口令，接半绿非绿委托，可以接cos全国\n我滴线下🚪188/288/520/1314\n私信我可以问我门槛的具体区别。我很好说话的\n转关赞抽3个188🧧，抽到直接发口令\n#门槛妹 #爸爸活 #金主 #线下 https://t.co/oMnFyxhHX4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 411,
+          "like_count": 7668,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1586
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-08T19:55:58.000Z",
+        "description": "🚪188/288/520/1314 问坐标和视频验证都是口令20",
+        "id": "1947851857",
+        "name": "小天真",
+        "pinned_tweet_id": "2064899294969438626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060330058250964992/HC-iFfsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 0,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 10
+        },
+        "username": "EdwardTauro14",
+        "verified": false
+      }
+    ]
+  }
+}

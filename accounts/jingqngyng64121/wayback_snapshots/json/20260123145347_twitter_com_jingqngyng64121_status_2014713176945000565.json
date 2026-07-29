@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014713167658774528"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2014713176945000565",
+    "created_at": "2026-01-23T14:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T15:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014713176945000565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rd2GHa9uBH",
+          "end": 35,
+          "expanded_url": "https://x.com/jingqngyng64121/status/2014713176945000565/photo/1",
+          "media_key": "3_2014713167658774528",
+          "start": 12,
+          "url": "https://t.co/Rd2GHa9uBH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014713176945000565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯嗯额抖人就这样装刻薄 https://t.co/Rd2GHa9uBH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1129,
+        "media_key": "3_2014713167658774528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Wy85qacAA1bHe.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014713167658774528"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2014713176945000565",
+        "created_at": "2026-01-23T14:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T15:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014713176945000565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rd2GHa9uBH",
+              "end": 35,
+              "expanded_url": "https://x.com/jingqngyng64121/status/2014713176945000565/photo/1",
+              "media_key": "3_2014713167658774528",
+              "start": 12,
+              "url": "https://t.co/Rd2GHa9uBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014713176945000565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯嗯额抖人就这样装刻薄 https://t.co/Rd2GHa9uBH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 23,
+          "like_count": 917,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 139
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      }
+    ]
+  }
+}

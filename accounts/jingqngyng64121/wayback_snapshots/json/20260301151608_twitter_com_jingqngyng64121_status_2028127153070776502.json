@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2028127153070776502",
+    "created_at": "2026-03-01T15:16:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T16:16:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028127153070776502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701225401404801024",
+          "start": 3,
+          "username": "xhanjd145869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028127153070776502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028085019349229695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xhanjd145869: 烟草、酒精、大麻社会危害性横评\n\n烟草\n死亡报告：每年约800万人死于烟草（直接、间接）\n成瘾性：目前约有一半的吸烟者有上瘾倾向\n致癌：极高（肺癌发病率为非吸烟者的14.3倍 喉癌为11.6倍 口腔癌为7.9倍 食管癌为5.7倍）\n心血管影响…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2028127153070776502",
+        "created_at": "2026-03-01T15:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T16:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028127153070776502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701225401404801024",
+              "start": 3,
+              "username": "xhanjd145869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028127153070776502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028085019349229695",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xhanjd145869: 烟草、酒精、大麻社会危害性横评\n\n烟草\n死亡报告：每年约800万人死于烟草（直接、间接）\n成瘾性：目前约有一半的吸烟者有上瘾倾向\n致癌：极高（肺癌发病率为非吸烟者的14.3倍 喉癌为11.6倍 口腔癌为7.9倍 食管癌为5.7倍）\n心血管影响…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701225401404801024",
+        "conversation_id": "2028085019349229695",
+        "created_at": "2026-03-01T12:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T13:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028085019349229695"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028085019349229695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "烟草、酒精、大麻社会危害性横评\n\n烟草\n死亡报告：每年约800万人死于烟草（直接、间接）\n成瘾性：目前约有一半的吸烟者有上瘾倾向\n致癌：极高（肺癌发病率为非吸烟者的14.3倍 喉癌为11.6倍 口腔癌为7.9倍 食管癌为5.7倍）\n心血管影响：吸烟者患冠心病的风险是非吸烟者的2-4倍，急性心梗风险增加1.5-3倍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 206,
+          "like_count": 3684,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 599
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-11T13:25:25.000Z",
+        "description": "09年12月🍥\n不太会社交\n嗯对的 会射胶\n还是找到我了？  边缘",
+        "id": "1701225401404801024",
+        "name": "雨町雨町",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015290118345826305/5kYZV0ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 145,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 561
+        },
+        "username": "xhanjd145869",
+        "verified": false
+      }
+    ]
+  }
+}

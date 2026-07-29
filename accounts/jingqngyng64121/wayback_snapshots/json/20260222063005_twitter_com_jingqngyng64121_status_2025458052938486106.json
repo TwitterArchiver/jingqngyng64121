@@ -1,0 +1,103 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2025458052938486106",
+    "created_at": "2026-02-22T06:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T07:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025458052938486106"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025458052938486106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们活着仅仅是因为父母发生过性行为，仅此而已，这是活着的成因。而活着本身是存在，它没有意义，或者它的意义是空白的，你认为它是什么它就可以是什么\n意义本身也只是人给出来的而已，万事万物没有其本身带有的意义，人们从中发现一些客观规律，然后理解出意义，意义本质也仅仅是人类对于事物的定义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2025458052938486106",
+        "created_at": "2026-02-22T06:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T07:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025458052938486106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025458052938486106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们活着仅仅是因为父母发生过性行为，仅此而已，这是活着的成因。而活着本身是存在，它没有意义，或者它的意义是空白的，你认为它是什么它就可以是什么\n意义本身也只是人给出来的而已，万事万物没有其本身带有的意义，人们从中发现一些客观规律，然后理解出意义，意义本质也仅仅是人类对于事物的定义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 182,
+          "like_count": 3347,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 521
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      }
+    ]
+  }
+}

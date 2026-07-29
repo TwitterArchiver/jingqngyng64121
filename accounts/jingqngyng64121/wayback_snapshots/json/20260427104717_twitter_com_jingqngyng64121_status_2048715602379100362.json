@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2048401027469299816",
+    "created_at": "2026-04-27T10:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T11:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048715602379100362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2009773968891469824",
+          "start": 0,
+          "username": "420bbnnkk"
+        },
+        {
+          "end": 21,
+          "id": "2040970554635931648",
+          "start": 11,
+          "username": "Mercyeeua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048715602379100362",
+    "in_reply_to_user_id": "2009773968891469824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048401027469299816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@420bbnnkk @Mercyeeua 娜娜疯了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 725,
+        "media_key": "3_2048400916228005888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1hx8la4AAsYqB.jpg",
+        "width": 2170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2048401027469299816",
+        "created_at": "2026-04-27T10:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048715602379100362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2009773968891469824",
+              "start": 0,
+              "username": "420bbnnkk"
+            },
+            {
+              "end": 21,
+              "id": "2040970554635931648",
+              "start": 11,
+              "username": "Mercyeeua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048715602379100362",
+        "in_reply_to_user_id": "2009773968891469824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048401027469299816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@420bbnnkk @Mercyeeua 娜娜疯了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048400916228005888"
+          ]
+        },
+        "author_id": "2009773968891469824",
+        "conversation_id": "2048401027469299816",
+        "created_at": "2026-04-26T13:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048401027469299816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aPr4ZhgS5z",
+              "end": 23,
+              "expanded_url": "https://x.com/420bbnnkk/status/2048401027469299816/photo/1",
+              "media_key": "3_2048400916228005888",
+              "start": 0,
+              "url": "https://t.co/aPr4ZhgS5z"
+            },
+            {
+              "display_url": "x.com/AV1O492/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/AV1O492/status/2048249205014315326",
+              "start": 24,
+              "url": "https://t.co/cV1z2T8NRP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048401027469299816",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 730,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048249205014315326",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/aPr4ZhgS5z https://t.co/cV1z2T8NRP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 426,
+          "like_count": 7067,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1385
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T23:47:23.000Z",
+        "description": "广州市吸毒局吸毒支队官方推特号，私信常开，接受投稿，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息，关注局长 防范骗局",
+        "id": "2009773968891469824",
+        "location": " Australia",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023055132632702976/i-G8Lq9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 36,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 102
+        },
+        "username": "420bbnnkk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T01:51:40.000Z",
+        "description": "沙比马支克",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/pR6UJYeuOr"
+              }
+            ]
+          }
+        },
+        "id": "2040970554635931648",
+        "location": "能和神打电话の学校天台",
+        "name": "Mercy",
+        "pinned_tweet_id": "2042111686975623246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048592286502797312/PaYFKOGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 171,
+          "like_count": 531,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/pR6UJYeuOr",
+        "username": "Mercyeeua",
+        "verified": false
+      }
+    ]
+  }
+}

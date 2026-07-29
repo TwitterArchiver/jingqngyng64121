@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2020387761891734011",
+    "created_at": "2026-02-08T06:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T07:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020387761891734011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1919049320546086912",
+          "start": 3,
+          "username": "mizuame19953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020387761891734011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020075104986886364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizuame19953: 当你脾气暴躁时是缺普瑞巴林了，当你抑郁寡欢时是缺思诺思了，当你困倦时是缺右美沙芬了,当你眼睛疲劳时是缺美金刚了，当你痛苦时是缺愈美片了，当你悲伤时是缺烷胺了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2020387761891734011",
+        "created_at": "2026-02-08T06:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T07:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020387761891734011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919049320546086912",
+              "start": 3,
+              "username": "mizuame19953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020387761891734011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020075104986886364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mizuame19953: 当你脾气暴躁时是缺普瑞巴林了，当你抑郁寡欢时是缺思诺思了，当你困倦时是缺右美沙芬了,当你眼睛疲劳时是缺美金刚了，当你痛苦时是缺愈美片了，当你悲伤时是缺烷胺了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919049320546086912",
+        "conversation_id": "2020075104986886364",
+        "created_at": "2026-02-07T10:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T11:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020075104986886364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020075104986886364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5140,
+          "like_count": 143,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "当你脾气暴躁时是缺普瑞巴林了，当你抑郁寡欢时是缺思诺思了，当你困倦时是缺右美沙芬了,当你眼睛疲劳时是缺美金刚了，当你痛苦时是缺愈美片了，当你悲伤时是缺烷胺了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 135,
+          "like_count": 2342,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 373
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T15:20:06.000Z",
+        "description": "于45%vol泥中｜MtX｜aged 18｜🚪50｜\n@Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaosong2_33",
+                "end": 23,
+                "expanded_url": "http://t.me/xiaosong2_33",
+                "start": 0,
+                "url": "https://t.co/OVc2TmiqC9"
+              }
+            ]
+          }
+        },
+        "id": "1919049320546086912",
+        "location": "珠海",
+        "name": "バタフライ 🏳️‍⚧️",
+        "pinned_tweet_id": "2020186701650596310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019837544377249793/T7cH9Lvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 307,
+          "like_count": 30184,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 958
+        },
+        "url": "https://t.co/OVc2TmiqC9",
+        "username": "mizuame19953",
+        "verified": false
+      }
+    ]
+  }
+}

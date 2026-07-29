@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "1995070644774637811",
+    "created_at": "2025-11-30T10:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T11:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995070644774637811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1444716723978981380",
+          "start": 3,
+          "username": "EleanorAnatidae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995070644774637811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 116
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991913513791725939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EleanorAnatidae: 我真的特别特别憎恨overdose的这种风气，把很多人都毁了。\n有不少未成年的小孩子，可能只有12.13岁，看到overdose的帖子、玩“主播女孩重度依赖”，就开始跟风od，然后越od，剂量越大，最后把自己od得精神病加重、器官损坏……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "1995070644774637811",
+        "created_at": "2025-11-30T10:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T11:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995070644774637811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1444716723978981380",
+              "start": 3,
+              "username": "EleanorAnatidae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995070644774637811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991913513791725939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EleanorAnatidae: 我真的特别特别憎恨overdose的这种风气，把很多人都毁了。\n有不少未成年的小孩子，可能只有12.13岁，看到overdose的帖子、玩“主播女孩重度依赖”，就开始跟风od，然后越od，剂量越大，最后把自己od得精神病加重、器官损坏……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444716723978981380",
+        "conversation_id": "1991913513791725939",
+        "created_at": "2025-11-21T16:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T17:53:18.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991912816417415455",
+          "1991913513791725939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991913513791725939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我真的特别特别憎恨overdose的这种风气，把很多人都毁了。\n有不少未成年的小孩子，可能只有12.13岁，看到overdose的帖子、玩“主播女孩重度依赖”，就开始跟风od，然后越od，剂量越大，最后把自己od得精神病加重、器官损坏…\n明明想戒，靠自己的意志戒不掉；没钱，也不敢和家里说，没办法住院去戒。\n我从2018年接触圈子到现在，感觉这种风气越来越严重了，真的有毒。我恨死这些东西了。我无法看着一个生命，因为沾染了有毒的圈子，被有毒的环境浸泡而缓慢的凋零，最后死在器官衰竭之中。\n我恨药物滥用。overdose右美沙芬、普瑞巴林、金刚烷胺、LSD，更有甚者od羟考酮、曲马多、氯胺酮、MDMA，如果不治疗，简直就是慢性死亡…\n贩毒必须被抓捕和严厉判刑❗️\n怂恿他人药物滥用，应该进监狱❗️\n这个社会对跨性别者太残忍，生存下去太难，这是社会的错。但是，一旦沾染overdose，一旦成瘾，戒除就是非常痛苦的过程。\n❗️不要od❗️\n❗️不要od❗️\n❗️不要od❗️\n已经od的，早点去精神科住院，早点戒掉这种东西。你的生命值得更好的未来，不值得死在一堆化学垃圾里。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 341511,
+          "like_count": 1596,
+          "quote_count": 39,
+          "reply_count": 124,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "我真的特别特别憎恨overdose的这种风气，把很多人都毁了。\n有不少未成年的小孩子，可能只有12.13岁，看到overdose的帖子、玩“主播女孩重度依赖”，就开始跟风od，然后越od，剂量越大，最后把自己od得精神病加重、器官损坏…\n明明想戒，靠自己的意志戒不掉；没钱，也不敢和家里说，没办法住院去戒。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "姜清阳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992506853117362176/32E1gBm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "Eleanor/👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Shirlene_girl"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772859713987960832/7mLglH_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3597,
+          "following_count": 1824,
+          "like_count": 21499,
+          "listed_count": 10,
+          "media_count": 128,
+          "tweet_count": 5853
+        },
+        "username": "EleanorAnatidae",
+        "verified": false
+      }
+    ]
+  }
+}

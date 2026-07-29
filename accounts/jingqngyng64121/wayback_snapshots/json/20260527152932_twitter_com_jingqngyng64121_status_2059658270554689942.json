@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059607211564040192"
+      ],
+      "media_source_tweet_id": [
+        "2059607217847116278"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2059658270554689942",
+    "created_at": "2026-05-27T15:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059658270554689942"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "右美沙芬"
+        },
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "od"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1672613612098293761",
+          "start": 3,
+          "username": "yi_smokq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JswXOedYfT",
+          "end": 47,
+          "expanded_url": "https://x.com/yi_smokq/status/2059607217847116278/photo/1",
+          "media_key": "3_2059607211564040192",
+          "start": 24,
+          "url": "https://t.co/JswXOedYfT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059658270554689942",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059607217847116278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yi_smokq: #右美沙芬 #od https://t.co/JswXOedYfT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059607211564040192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUx2L4bgAA7m2V.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059607211564040192"
+          ],
+          "media_source_tweet_id": [
+            "2059607217847116278"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059658270554689942",
+        "created_at": "2026-05-27T15:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059658270554689942"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "右美沙芬"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "od"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1672613612098293761",
+              "start": 3,
+              "username": "yi_smokq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JswXOedYfT",
+              "end": 47,
+              "expanded_url": "https://x.com/yi_smokq/status/2059607217847116278/photo/1",
+              "media_key": "3_2059607211564040192",
+              "start": 24,
+              "url": "https://t.co/JswXOedYfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059658270554689942",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059607217847116278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yi_smokq: #右美沙芬 #od https://t.co/JswXOedYfT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059607211564040192"
+          ]
+        },
+        "author_id": "1672613612098293761",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059607217847116278",
+        "created_at": "2026-05-27T12:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059607217847116278"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "右美沙芬"
+            },
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "od"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JswXOedYfT",
+              "end": 33,
+              "expanded_url": "https://x.com/yi_smokq/status/2059607217847116278/photo/1",
+              "media_key": "3_2059607211564040192",
+              "start": 10,
+              "url": "https://t.co/JswXOedYfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059607217847116278",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 965,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#右美沙芬 #od https://t.co/JswXOedYfT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 401,
+          "like_count": 7592,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1551
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T14:32:22.000Z",
+        "description": "od ed 自残 爸爸活I 平胸hate this world. 问废话一律不回 09年 @sammy52_0萌萌的小女孩😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "sammy52_0"
+              }
+            ]
+          }
+        },
+        "id": "1672613612098293761",
+        "location": "🚪88/288/520/1314",
+        "name": "清",
+        "pinned_tweet_id": "2038663240943800717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057485693660930048/Fo6uKP_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 44,
+          "like_count": 1353,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 794
+        },
+        "username": "yi_smokq",
+        "verified": false
+      }
+    ]
+  }
+}

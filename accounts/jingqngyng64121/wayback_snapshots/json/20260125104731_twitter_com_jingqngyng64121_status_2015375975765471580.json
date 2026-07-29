@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2015327513967558882",
+    "created_at": "2026-01-25T10:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T11:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015375975765471580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974865605204586498",
+          "start": 0,
+          "username": "Krktmk_8964"
+        },
+        {
+          "end": 27,
+          "id": "1866221225309270016",
+          "start": 13,
+          "username": "ffscintillant"
+        },
+        {
+          "end": 37,
+          "id": "1500855672480489475",
+          "start": 28,
+          "username": "Usep_111"
+        },
+        {
+          "end": 54,
+          "id": "1684269091849404416",
+          "start": 38,
+          "username": "hg3551019177402"
+        },
+        {
+          "end": 67,
+          "id": "1802704441961017344",
+          "start": 55,
+          "username": "misumikaze3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015375975765471580",
+    "in_reply_to_user_id": "1974865605204586498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015327513967558882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Krktmk_8964 @ffscintillant @Usep_111 @hg3551019177402 @misumikaze3 妈妈😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2015327505671204864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_fhsFGbMAAmIrv.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2015327513967558882",
+        "created_at": "2026-01-25T10:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T11:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015375975765471580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "Krktmk_8964"
+            },
+            {
+              "end": 27,
+              "id": "1866221225309270016",
+              "start": 13,
+              "username": "ffscintillant"
+            },
+            {
+              "end": 37,
+              "id": "1500855672480489475",
+              "start": 28,
+              "username": "Usep_111"
+            },
+            {
+              "end": 54,
+              "id": "1684269091849404416",
+              "start": 38,
+              "username": "hg3551019177402"
+            },
+            {
+              "end": 67,
+              "id": "1802704441961017344",
+              "start": 55,
+              "username": "misumikaze3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015375975765471580",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015327513967558882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Krktmk_8964 @ffscintillant @Usep_111 @hg3551019177402 @misumikaze3 妈妈😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015327505671204864"
+          ]
+        },
+        "author_id": "1974865605204586498",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015327513967558882",
+        "created_at": "2026-01-25T07:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T08:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015327513967558882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1866221225309270016",
+              "start": 22,
+              "username": "ffscintillant"
+            },
+            {
+              "end": 46,
+              "id": "1500855672480489475",
+              "start": 37,
+              "username": "Usep_111"
+            },
+            {
+              "end": 69,
+              "id": "1684269091849404416",
+              "start": 53,
+              "username": "hg3551019177402"
+            },
+            {
+              "end": 88,
+              "id": "1802704441961017344",
+              "start": 76,
+              "username": "misumikaze3"
+            },
+            {
+              "end": 105,
+              "id": "1992506703678705664",
+              "start": 89,
+              "username": "jingqngyng64121"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 133,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2012912584710877184/a2gr_5d4?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2012912584710877184/a2gr_5d4?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 110,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/xuAslS3g5u"
+            },
+            {
+              "display_url": "pic.x.com/7KMNdwC7vv",
+              "end": 157,
+              "expanded_url": "https://x.com/Krktmk_8964/status/2015327513967558882/photo/1",
+              "media_key": "3_2015327505671204864",
+              "start": 134,
+              "url": "https://t.co/7KMNdwC7vv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015327513967558882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @ffscintillant @Usep_111\n👰 配偶: @hg3551019177402\n👶 孩子: @misumikaze3 @jingqngyng64121\n\n➡️ https://t.co/xuAslS3g5u https://t.co/7KMNdwC7vv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜LGBT🏳️‍🌈🏳️‍⚧️｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 55,
+          "like_count": 1082,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 197
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神\n@wwwjssns 这是我的契约者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "wwwjssns"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "不/存在的第一共和国",
+        "pinned_tweet_id": "2012573152740507906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009353414531272708/t0GiNRNM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 1206,
+          "like_count": 21353,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 2225
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T20:40:00.000Z",
+        "description": "audhd+？没法看医生主要是没钱////在猫和人的之间切换////精神状态不稳定/是回避型依恋讨厌请避雷////其实我不知道怎么介绍自己，这个时候大脑直接冻结了。/////噢噢我可以想到什么写什么！\n外语水平除了英语都需要翻译器喵（",
+        "id": "1866221225309270016",
+        "location": "參宿七",
+        "name": "閃光異色可可芭蕾貓芙芙大破防现实太恐怖了想永远在二次元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866221283123568640/XpOyylTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 111,
+          "like_count": 7256,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1460
+        },
+        "username": "ffscintillant",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "对不起，因为我的主动发信息而被打扰的人",
+        "id": "1500855672480489475",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "1997003294007591248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012825710147108864/FQi_x8tp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 403,
+          "like_count": 954,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 486
+        },
+        "username": "Usep_111",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "贯穿不是都是，也不是都不是，是一种无差别，一切差异都会在它这里得到溶解。我是橘猫。",
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2014027088391438626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013874387389423617/VNXISMmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 71,
+          "like_count": 5425,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1800
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "2025.11.14 enby oder｜欲行动而不知，欲全知而不得，虚无，虚无，可识人心真面目？｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯对不起请原谅我 恋人：@HCwufs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 102,
+                "username": "HCwufs"
+              }
+            ]
+          }
+        },
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "百八十無常🏳️‍⚧️#井宿三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009448964886806528/m5QwCeN1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 532,
+          "like_count": 12429,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 3505
+        },
+        "username": "misumikaze3",
+        "verified": false
+      }
+    ]
+  }
+}

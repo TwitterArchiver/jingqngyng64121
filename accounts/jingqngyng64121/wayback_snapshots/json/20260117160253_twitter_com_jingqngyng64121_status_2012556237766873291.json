@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2012556237766873291",
+    "created_at": "2026-01-17T16:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T17:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012556237766873291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1832150343716626432",
+          "start": 3,
+          "username": "Mitsumero1115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012556237766873291",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 761
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012246909239390317",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Mitsumero1115: 早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2012556237766873291",
+        "created_at": "2026-01-17T16:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T17:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012556237766873291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1832150343716626432",
+              "start": 3,
+              "username": "Mitsumero1115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012556237766873291",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 761
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012246909239390317",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @Mitsumero1115: 早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832150343716626432",
+        "conversation_id": "2012246909239390317",
+        "created_at": "2026-01-16T19:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T20:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012246909239390317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012246909239390317",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 68207,
+          "like_count": 3708,
+          "quote_count": 54,
+          "reply_count": 0,
+          "retweet_count": 761
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい\n早く死にたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 720,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 109
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T20:14:35.000Z",
+        "description": "ここで吐き出してます┊︎情緒不安定┊︎学生┊︎女┊︎返信は正気に戻ってからしてます┊︎@mitumero1115これも私ですフォローしてくれると嬉しい",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "mitumero1115"
+              }
+            ]
+          }
+        },
+        "id": "1832150343716626432",
+        "location": "いやスイスなんですよね、これが",
+        "name": "死にたい星人",
+        "pinned_tweet_id": "1999404491154628912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888719422380032000/p2YKBqWd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4048,
+          "following_count": 905,
+          "like_count": 133441,
+          "listed_count": 16,
+          "media_count": 119,
+          "tweet_count": 13537
+        },
+        "username": "Mitsumero1115",
+        "verified": false
+      }
+    ]
+  }
+}

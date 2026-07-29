@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2022333121337901108",
+    "created_at": "2026-02-15T14:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T15:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023041280889213194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1896812508289404928",
+          "start": 0,
+          "username": "erciyuanha87431"
+        },
+        {
+          "end": 32,
+          "id": "1979516169066590208",
+          "start": 17,
+          "username": "lengcindy_pink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023041280889213194",
+    "in_reply_to_user_id": "1896812508289404928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022802349828509707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erciyuanha87431 @lengcindy_pink 不要啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2022333121337901108",
+        "created_at": "2026-02-15T14:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023041280889213194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1896812508289404928",
+              "start": 0,
+              "username": "erciyuanha87431"
+            },
+            {
+              "end": 32,
+              "id": "1979516169066590208",
+              "start": 17,
+              "username": "lengcindy_pink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023041280889213194",
+        "in_reply_to_user_id": "1896812508289404928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022802349828509707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erciyuanha87431 @lengcindy_pink 不要啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896812508289404928",
+        "conversation_id": "2022333121337901108",
+        "created_at": "2026-02-14T22:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T23:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022802349828509707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979516169066590208",
+              "start": 0,
+              "username": "lengcindy_pink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022802349828509707",
+        "in_reply_to_user_id": "1979516169066590208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 478,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022333121337901108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengcindy_pink 我告诉你吧，其实一般这是在单个地方试点，如果效果成功就推广全国了🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 150,
+          "like_count": 2882,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 437
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T06:38:52.000Z",
+        "description": "有抑郁症普通人一个🤗～超级喜欢交朋友（包容万物支持平权主义🇨🇳）\n关爱🍥小药娘🏳️‍⚧️🏳️‍🌈🇨🇳（求互Of）\n重点：并未吃糖🍥\n主播的亲爱的老婆😋🥰：@siangel0911\n逃生舱：@zhoyhng276158\n引路人：@Lianshufa\n（我是双性恋😭不是一定就是同性恋😭）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "siangel0911"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "zhoyhng276158"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "Lianshufa"
+              }
+            ]
+          }
+        },
+        "id": "1896812508289404928",
+        "location": "类固醇星球",
+        "name": "🐹宇航🐹（关爱药娘版🏳️‍⚧️🏳️‍🌈互Of）我❤️福瑞🌈）药圈教父🍥）",
+        "pinned_tweet_id": "2004667368329584821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958985099825094656/cJURlWyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 1801,
+          "like_count": 1638,
+          "listed_count": 1,
+          "media_count": 374,
+          "tweet_count": 3273
+        },
+        "username": "erciyuanha87431",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T11:53:35.000Z",
+        "description": "「あたしはねこ！」喵喵喵给我互fo喵 //////////////////infp-a//┐('～`;)┌ //tulpamancy/swiftUI/mc1.8.9/html+css/直fo—太I了不知道说什么（看上了bushi/生竞ing/无力地活着/od/にほんごを学んでいます/正在参与FreeODwiki的编辑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lengcindy.pink",
+                "end": 23,
+                "expanded_url": "http://lengcindy.pink",
+                "start": 0,
+                "url": "https://t.co/m4GdQ7CrMC"
+              }
+            ]
+          }
+        },
+        "id": "1979516169066590208",
+        "location": "喵国喵县喵喵喵！",
+        "name": "み=v=ず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020708742623576064/L3WbA1_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 140,
+          "like_count": 1538,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 278
+        },
+        "url": "https://t.co/m4GdQ7CrMC",
+        "username": "lengcindy_pink",
+        "verified": false
+      }
+    ]
+  }
+}

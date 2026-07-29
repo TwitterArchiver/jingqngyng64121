@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2015005523498996118",
+    "created_at": "2026-01-24T10:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T11:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015005523498996118"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lnmng526208096…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/lnmng5262080968/status/2014929280720109582",
+          "start": 4,
+          "url": "https://t.co/XcI6jYz9cc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015005523498996118",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014929280720109582",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "点了😭 https://t.co/XcI6jYz9cc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2015005523498996118",
+        "created_at": "2026-01-24T10:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T11:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015005523498996118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lnmng526208096…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/lnmng5262080968/status/2014929280720109582",
+              "start": 4,
+              "url": "https://t.co/XcI6jYz9cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015005523498996118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014929280720109582",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "点了😭 https://t.co/XcI6jYz9cc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2014929280720109582",
+        "created_at": "2026-01-24T05:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T06:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014929280720109582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014929280720109582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3296,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "ip超一线城市一个月生活费五位数还能出国留学的玉玉症地雷系亚比我看着就来气😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜LGBT🏳️‍🌈🏳️‍⚧️｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 42,
+          "like_count": 1029,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 179
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 298,
+          "like_count": 15141,
+          "listed_count": 4,
+          "media_count": 201,
+          "tweet_count": 5281
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

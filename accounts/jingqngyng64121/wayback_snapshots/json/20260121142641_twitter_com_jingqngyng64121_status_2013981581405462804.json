@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013627766877388800"
+      ],
+      "media_source_tweet_id": [
+        "2013627777912561712"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2013981581405462804",
+    "created_at": "2026-01-21T14:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T15:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013981581405462804"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 16,
+          "tag": "AIイラスト"
+        },
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "若葉睦"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1930508629997948928",
+          "start": 3,
+          "username": "Dark_Accel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IRFY49yjJN",
+          "end": 52,
+          "expanded_url": "https://x.com/Dark_Accel/status/2013627777912561712/photo/1",
+          "media_key": "3_2013627766877388800",
+          "start": 29,
+          "url": "https://t.co/IRFY49yjJN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013981581405462804",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013627777912561712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dark_Accel: #AIイラスト #若葉睦 https://t.co/IRFY49yjJN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2013627766877388800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HXyQqXAAAA4wq.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013627766877388800"
+          ],
+          "media_source_tweet_id": [
+            "2013627777912561712"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2013981581405462804",
+        "created_at": "2026-01-21T14:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013981581405462804"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "AIイラスト"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "若葉睦"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1930508629997948928",
+              "start": 3,
+              "username": "Dark_Accel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRFY49yjJN",
+              "end": 52,
+              "expanded_url": "https://x.com/Dark_Accel/status/2013627777912561712/photo/1",
+              "media_key": "3_2013627766877388800",
+              "start": 29,
+              "url": "https://t.co/IRFY49yjJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013981581405462804",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013627777912561712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dark_Accel: #AIイラスト #若葉睦 https://t.co/IRFY49yjJN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013627766877388800"
+          ]
+        },
+        "author_id": "1930508629997948928",
+        "conversation_id": "2013627777912561712",
+        "created_at": "2026-01-20T15:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013627777912561712"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "AIイラスト"
+            },
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "若葉睦"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRFY49yjJN",
+              "end": 36,
+              "expanded_url": "https://x.com/Dark_Accel/status/2013627777912561712/photo/1",
+              "media_key": "3_2013627766877388800",
+              "start": 13,
+              "url": "https://t.co/IRFY49yjJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013627777912561712",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 8026,
+          "like_count": 949,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "#AIイラスト #若葉睦 https://t.co/IRFY49yjJN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 19,
+          "like_count": 842,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 128
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T06:15:04.000Z",
+        "description": "Use NovelAI \n\nhttps://t.co/RKef2Kk5dm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/3439532",
+                "end": 37,
+                "expanded_url": "https://www.pixiv.net/users/3439532",
+                "start": 14,
+                "url": "https://t.co/RKef2Kk5dm"
+              }
+            ]
+          }
+        },
+        "id": "1930508629997948928",
+        "name": "DarkAccel",
+        "pinned_tweet_id": "2011818080335511794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011112598893445120/cQJmWqKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3981,
+          "following_count": 0,
+          "like_count": 87,
+          "listed_count": 15,
+          "media_count": 1217,
+          "tweet_count": 1265
+        },
+        "username": "Dark_Accel",
+        "verified": false
+      }
+    ]
+  }
+}

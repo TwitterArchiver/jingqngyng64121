@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064826214913818624",
+        "3_2064826215253655552",
+        "3_2064826214913871873",
+        "3_2064826216012754944"
+      ],
+      "media_source_tweet_id": [
+        "2064826231221370908",
+        "2064826231221370908",
+        "2064826231221370908",
+        "2064826231221370908"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2065618322897658112",
+    "created_at": "2026-06-13T02:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T03:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065618322897658112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1916086363608518657",
+          "start": 3,
+          "username": "CandlishLa81993"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O471EHEHIU",
+          "end": 114,
+          "expanded_url": "https://x.com/CandlishLa81993/status/2064826231221370908/photo/1",
+          "media_key": "3_2064826214913818624",
+          "start": 91,
+          "url": "https://t.co/O471EHEHIU"
+        },
+        {
+          "display_url": "pic.x.com/O471EHEHIU",
+          "end": 114,
+          "expanded_url": "https://x.com/CandlishLa81993/status/2064826231221370908/photo/1",
+          "media_key": "3_2064826215253655552",
+          "start": 91,
+          "url": "https://t.co/O471EHEHIU"
+        },
+        {
+          "display_url": "pic.x.com/O471EHEHIU",
+          "end": 114,
+          "expanded_url": "https://x.com/CandlishLa81993/status/2064826231221370908/photo/1",
+          "media_key": "3_2064826214913871873",
+          "start": 91,
+          "url": "https://t.co/O471EHEHIU"
+        },
+        {
+          "display_url": "pic.x.com/O471EHEHIU",
+          "end": 114,
+          "expanded_url": "https://x.com/CandlishLa81993/status/2064826231221370908/photo/1",
+          "media_key": "3_2064826216012754944",
+          "start": 91,
+          "url": "https://t.co/O471EHEHIU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065618322897658112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064826231221370908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CandlishLa81993: 我是瑶瑶( •̀ ω •́ )\n167cm|88斤 \n喜欢我的宝宝欢迎入🚪/88/520/1314喜欢直接发口令投喂\n欢迎小女孩互转互fo https://t.co/O471EHEHIU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064826214913818624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKe8gKbaQAAzOwd.jpg",
+        "width": 1180
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2064826215253655552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKe8gLsbwAAarSA.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2064826214913871873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKe8gKbbEAEtr4Z.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1746,
+        "media_key": "3_2064826216012754944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKe8gOhasAAowMo.jpg",
+        "width": 1114
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064826214913818624",
+            "3_2064826215253655552",
+            "3_2064826214913871873",
+            "3_2064826216012754944"
+          ],
+          "media_source_tweet_id": [
+            "2064826231221370908",
+            "2064826231221370908",
+            "2064826231221370908",
+            "2064826231221370908"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2065618322897658112",
+        "created_at": "2026-06-13T02:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T03:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065618322897658112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1916086363608518657",
+              "start": 3,
+              "username": "CandlishLa81993"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O471EHEHIU",
+              "end": 114,
+              "expanded_url": "https://x.com/CandlishLa81993/status/2064826231221370908/photo/1",
+              "media_key": "3_2064826214913818624",
+              "start": 91,
+              "url": "https://t.co/O471EHEHIU"
+            },
+            {
+              "display_url": "pic.x.com/O471EHEHIU",
+              "end": 114,
+              "expanded_url": "https://x.com/CandlishLa81993/status/2064826231221370908/photo/1",
+              "media_key": "3_2064826215253655552",
+              "start": 91,
+              "url": "https://t.co/O471EHEHIU"
+            },
+            {
+              "display_url": "pic.x.com/O471EHEHIU",
+              "end": 114,
+              "expanded_url": "https://x.com/CandlishLa81993/status/2064826231221370908/photo/1",
+              "media_key": "3_2064826214913871873",
+              "start": 91,
+              "url": "https://t.co/O471EHEHIU"
+            },
+            {
+              "display_url": "pic.x.com/O471EHEHIU",
+              "end": 114,
+              "expanded_url": "https://x.com/CandlishLa81993/status/2064826231221370908/photo/1",
+              "media_key": "3_2064826216012754944",
+              "start": 91,
+              "url": "https://t.co/O471EHEHIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065618322897658112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064826231221370908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CandlishLa81993: 我是瑶瑶( •̀ ω •́ )\n167cm|88斤 \n喜欢我的宝宝欢迎入🚪/88/520/1314喜欢直接发口令投喂\n欢迎小女孩互转互fo https://t.co/O471EHEHIU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064826214913818624",
+            "3_2064826215253655552",
+            "3_2064826214913871873",
+            "3_2064826216012754944"
+          ]
+        },
+        "author_id": "1916086363608518657",
+        "conversation_id": "2064826231221370908",
+        "created_at": "2026-06-10T21:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T22:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064826231221370908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O471EHEHIU",
+              "end": 93,
+              "expanded_url": "https://x.com/CandlishLa81993/status/2064826231221370908/photo/1",
+              "media_key": "3_2064826214913818624",
+              "start": 70,
+              "url": "https://t.co/O471EHEHIU"
+            },
+            {
+              "display_url": "pic.x.com/O471EHEHIU",
+              "end": 93,
+              "expanded_url": "https://x.com/CandlishLa81993/status/2064826231221370908/photo/1",
+              "media_key": "3_2064826215253655552",
+              "start": 70,
+              "url": "https://t.co/O471EHEHIU"
+            },
+            {
+              "display_url": "pic.x.com/O471EHEHIU",
+              "end": 93,
+              "expanded_url": "https://x.com/CandlishLa81993/status/2064826231221370908/photo/1",
+              "media_key": "3_2064826214913871873",
+              "start": 70,
+              "url": "https://t.co/O471EHEHIU"
+            },
+            {
+              "display_url": "pic.x.com/O471EHEHIU",
+              "end": 93,
+              "expanded_url": "https://x.com/CandlishLa81993/status/2064826231221370908/photo/1",
+              "media_key": "3_2064826216012754944",
+              "start": 70,
+              "url": "https://t.co/O471EHEHIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064826231221370908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 464,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我是瑶瑶( •̀ ω •́ )\n167cm|88斤 \n喜欢我的宝宝欢迎入🚪/88/520/1314喜欢直接发口令投喂\n欢迎小女孩互转互fo https://t.co/O471EHEHIU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 410,
+          "like_count": 7665,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1583
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T11:06:12.000Z",
+        "description": "",
+        "id": "1916086363608518657",
+        "location": "♡",
+        "name": "創口貼",
+        "pinned_tweet_id": "2064826231221370908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999395346900815872/RXkAvnKS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 73,
+          "like_count": 1489,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 396
+        },
+        "username": "CandlishLa81993",
+        "verified": false
+      }
+    ]
+  }
+}

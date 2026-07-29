@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044670985606144001"
+      ],
+      "media_source_tweet_id": [
+        "2044670991381774692"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2044760403285258406",
+    "created_at": "2026-04-16T12:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T13:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044760403285258406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1795072631169044480",
+          "start": 3,
+          "username": "FoxGod__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VF4dr6LDae",
+          "end": 119,
+          "expanded_url": "https://x.com/FoxGod__/status/2044670991381774692/photo/1",
+          "media_key": "3_2044670985606144001",
+          "start": 96,
+          "url": "https://t.co/VF4dr6LDae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044760403285258406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044670991381774692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FoxGod__: 我现在被 十八岁后死没有美感这句话气笑了\n死了就是死了 还有没有美感 人们顶多觉得可悲 惋惜 就你独自在那颅内高潮觉得自杀老浪漫了\n就这评论还近两百点赞给我看乐了 https://t.co/VF4dr6LDae"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 266,
+        "media_key": "3_2044670985606144001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAhbaOaIAEFLFM.jpg",
+        "width": 630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044670985606144001"
+          ],
+          "media_source_tweet_id": [
+            "2044670991381774692"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2044760403285258406",
+        "created_at": "2026-04-16T12:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T13:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044760403285258406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1795072631169044480",
+              "start": 3,
+              "username": "FoxGod__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VF4dr6LDae",
+              "end": 119,
+              "expanded_url": "https://x.com/FoxGod__/status/2044670991381774692/photo/1",
+              "media_key": "3_2044670985606144001",
+              "start": 96,
+              "url": "https://t.co/VF4dr6LDae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044760403285258406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044670991381774692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FoxGod__: 我现在被 十八岁后死没有美感这句话气笑了\n死了就是死了 还有没有美感 人们顶多觉得可悲 惋惜 就你独自在那颅内高潮觉得自杀老浪漫了\n就这评论还近两百点赞给我看乐了 https://t.co/VF4dr6LDae"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044670985606144001"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "2044670991381774692",
+        "created_at": "2026-04-16T06:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044670991381774692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VF4dr6LDae",
+              "end": 105,
+              "expanded_url": "https://x.com/FoxGod__/status/2044670991381774692/photo/1",
+              "media_key": "3_2044670985606144001",
+              "start": 82,
+              "url": "https://t.co/VF4dr6LDae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044670991381774692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2727,
+          "like_count": 89,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我现在被 十八岁后死没有美感这句话气笑了\n死了就是死了 还有没有美感 人们顶多觉得可悲 惋惜 就你独自在那颅内高潮觉得自杀老浪漫了\n就这评论还近两百点赞给我看乐了 https://t.co/VF4dr6LDae"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 396,
+          "like_count": 6372,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1195
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "我是神明 喜欢喜欢我的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecy3bV"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "失傳媒體",
+        "name": "時行 春夏秋 春",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041792804310151169/_3LSNwPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7090,
+          "following_count": 235,
+          "like_count": 32600,
+          "listed_count": 19,
+          "media_count": 214,
+          "tweet_count": 1137
+        },
+        "url": "https://t.co/ZLduecy3bV",
+        "username": "FoxGod__",
+        "verified": false
+      }
+    ]
+  }
+}

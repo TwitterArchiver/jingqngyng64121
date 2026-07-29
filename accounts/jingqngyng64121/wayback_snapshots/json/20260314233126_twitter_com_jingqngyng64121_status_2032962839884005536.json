@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2032962839884005536",
+    "created_at": "2026-03-14T23:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T00:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032962839884005536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1814174084617666560",
+          "start": 3,
+          "username": "MianXue525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032962839884005536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032865279584383112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MianXue525: 嘿嘿我不小心睡着了大家粉福来啦\n❄️达成500fo感谢你关注不眠雪❄️\n粉丝福利此帖评论参与抽奖！\n一等奖三盒普瑞巴林（折现66¥）\n二等奖一份眠眠的爱🫶🏻（52¥）\n三等奖三盒愈美片（折现33¥）\n❄️祝大家生活顺利身体健康❄️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2032962839884005536",
+        "created_at": "2026-03-14T23:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T00:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032962839884005536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1814174084617666560",
+              "start": 3,
+              "username": "MianXue525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032962839884005536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032865279584383112",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MianXue525: 嘿嘿我不小心睡着了大家粉福来啦\n❄️达成500fo感谢你关注不眠雪❄️\n粉丝福利此帖评论参与抽奖！\n一等奖三盒普瑞巴林（折现66¥）\n二等奖一份眠眠的爱🫶🏻（52¥）\n三等奖三盒愈美片（折现33¥）\n❄️祝大家生活顺利身体健康❄️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2032865279584383112",
+        "created_at": "2026-03-14T17:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T18:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032865279584383112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032865279584383112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2099,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿我不小心睡着了大家粉福来啦\n❄️达成500fo感谢你关注不眠雪❄️\n粉丝福利此帖评论参与抽奖！\n一等奖三盒普瑞巴林（折现66¥）\n二等奖一份眠眠的爱🫶🏻（52¥）\n三等奖三盒愈美片（折现33¥）\n❄️祝大家生活顺利身体健康❄️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 228,
+          "like_count": 4398,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 686
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "💉ed｜od｜双向｜精分｜餐劵｜无性别🧬\n💌不眠雪 09休学 168 48减肥中🎀\n ❄️如果逃离了这里 请收留我❄️",
+        "id": "1814174084617666560",
+        "location": "冰天雪地",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 257,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 257
+        },
+        "username": "MianXue525",
+        "verified": true
+      }
+    ]
+  }
+}

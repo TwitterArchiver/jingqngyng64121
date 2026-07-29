@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2052366158314242533",
+    "created_at": "2026-05-07T12:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052366158314242533"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 107,
+          "start": 104,
+          "tag": "广州"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "线下"
+        },
+        {
+          "end": 116,
+          "start": 112,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 121,
+          "start": 117,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 127,
+          "start": 122,
+          "tag": "非绿半绿"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "门槛"
+        },
+        {
+          "end": 138,
+          "start": 132,
+          "tag": "下一站职校"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2051861693148631040",
+          "start": 3,
+          "username": "Anoivnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052366158314242533",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052294790918856912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anoivnn: 这里是yoki \n坐标广东\n身高158体重93\n重焦重抑 休学在家我需要钱爱我请投喂\n接cos定制 原味 11 陪玩 电子女友 入门我会一直陪着你(｡･ω･｡)ﾉ\n蹲一个爱我的🚪哥\n#广州 #线下 #爸爸活 ＃门槛妹 #非绿半绿 #门槛 #下一站职校…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2052294783289393152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHs3O1xaAAAnLsM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2052294783293644800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHs3O1ya4AAZXOP.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2052294783293652992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHs3O1ybAAAZO7W.jpg",
+        "width": 960
+      },
+      {
+        "height": 812,
+        "media_key": "3_2052294783289487360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHs3O1xbcAAgibe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2052366158314242533",
+        "created_at": "2026-05-07T12:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052366158314242533"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "广州"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "线下"
+            },
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "非绿半绿"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "门槛"
+            },
+            {
+              "end": 138,
+              "start": 132,
+              "tag": "下一站职校"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2051861693148631040",
+              "start": 3,
+              "username": "Anoivnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052366158314242533",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052294790918856912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Anoivnn: 这里是yoki \n坐标广东\n身高158体重93\n重焦重抑 休学在家我需要钱爱我请投喂\n接cos定制 原味 11 陪玩 电子女友 入门我会一直陪着你(｡･ω･｡)ﾉ\n蹲一个爱我的🚪哥\n#广州 #线下 #爸爸活 ＃门槛妹 #非绿半绿 #门槛 #下一站职校…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052294783289393152",
+            "3_2052294783293644800",
+            "3_2052294783293652992",
+            "3_2052294783289487360"
+          ]
+        },
+        "author_id": "2051861693148631040",
+        "conversation_id": "2052294790918856912",
+        "created_at": "2026-05-07T07:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052294790918856912"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "广州"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "线下"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 114,
+              "start": 109,
+              "tag": "非绿半绿"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "门槛"
+            },
+            {
+              "end": 125,
+              "start": 119,
+              "tag": "下一站职校"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZVRsXXcQQQ",
+              "end": 149,
+              "expanded_url": "https://x.com/Anoivnn/status/2052294790918856912/photo/1",
+              "media_key": "3_2052294783289393152",
+              "start": 126,
+              "url": "https://t.co/ZVRsXXcQQQ"
+            },
+            {
+              "display_url": "pic.x.com/ZVRsXXcQQQ",
+              "end": 149,
+              "expanded_url": "https://x.com/Anoivnn/status/2052294790918856912/photo/1",
+              "media_key": "3_2052294783293644800",
+              "start": 126,
+              "url": "https://t.co/ZVRsXXcQQQ"
+            },
+            {
+              "display_url": "pic.x.com/ZVRsXXcQQQ",
+              "end": 149,
+              "expanded_url": "https://x.com/Anoivnn/status/2052294790918856912/photo/1",
+              "media_key": "3_2052294783293652992",
+              "start": 126,
+              "url": "https://t.co/ZVRsXXcQQQ"
+            },
+            {
+              "display_url": "pic.x.com/ZVRsXXcQQQ",
+              "end": 149,
+              "expanded_url": "https://x.com/Anoivnn/status/2052294790918856912/photo/1",
+              "media_key": "3_2052294783289487360",
+              "start": 126,
+              "url": "https://t.co/ZVRsXXcQQQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052294790918856912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 465,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "这里是yoki \n坐标广东\n身高158体重93\n重焦重抑 休学在家我需要钱爱我请投喂\n接cos定制 原味 11 陪玩 电子女友 入门我会一直陪着你(｡･ω･｡)ﾉ\n蹲一个爱我的🚪哥\n#广州 #线下 #爸爸活 ＃门槛妹 #非绿半绿 #门槛 #下一站职校 https://t.co/ZVRsXXcQQQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 446,
+          "like_count": 7431,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1482
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T03:09:16.000Z",
+        "description": "宝宝互fo互转大欢迎(´･ω･`)",
+        "id": "2051861693148631040",
+        "location": "广东",
+        "name": "yukiii",
+        "pinned_tweet_id": "2052294790918856912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052241419746914304/c7wzE-07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 14,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "Anoivnn",
+        "verified": false
+      }
+    ]
+  }
+}

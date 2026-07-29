@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066403001959673856"
+      ],
+      "media_source_tweet_id": [
+        "2066403009148625404"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2067043085637611711",
+    "created_at": "2026-06-17T00:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T01:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067043085637611711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "402826363",
+          "start": 3,
+          "username": "mim_00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AgN1NIBvbe",
+          "end": 47,
+          "expanded_url": "https://x.com/mim_00/status/2066403009148625404/photo/1",
+          "media_key": "3_2066403001959673856",
+          "start": 24,
+          "url": "https://t.co/AgN1NIBvbe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067043085637611711",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066403009148625404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mim_00: 置顶(///▽///) https://t.co/AgN1NIBvbe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066403001959673856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1WlP6bcAA39ma.jpg",
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066403001959673856"
+          ],
+          "media_source_tweet_id": [
+            "2066403009148625404"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2067043085637611711",
+        "created_at": "2026-06-17T00:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067043085637611711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "402826363",
+              "start": 3,
+              "username": "mim_00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AgN1NIBvbe",
+              "end": 47,
+              "expanded_url": "https://x.com/mim_00/status/2066403009148625404/photo/1",
+              "media_key": "3_2066403001959673856",
+              "start": 24,
+              "url": "https://t.co/AgN1NIBvbe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067043085637611711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066403009148625404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mim_00: 置顶(///▽///) https://t.co/AgN1NIBvbe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066403001959673856"
+          ]
+        },
+        "author_id": "402826363",
+        "conversation_id": "2066403009148625404",
+        "created_at": "2026-06-15T06:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066403009148625404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AgN1NIBvbe",
+              "end": 35,
+              "expanded_url": "https://x.com/mim_00/status/2066403009148625404/photo/1",
+              "media_key": "3_2066403001959673856",
+              "start": 12,
+              "url": "https://t.co/AgN1NIBvbe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066403009148625404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 116,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "置顶(///▽///) https://t.co/AgN1NIBvbe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 413,
+          "like_count": 7727,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1600
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-01T16:43:56.000Z",
+        "description": "cos爱好者 非清推 坐标20r 喜欢的哥哥记得带口令私我呀！！！",
+        "id": "402826363",
+        "name": "姜饼小猫、",
+        "pinned_tweet_id": "2066403009148625404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034607965366525952/3_aOGVNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 43,
+          "like_count": 35,
+          "listed_count": 7,
+          "media_count": 14,
+          "tweet_count": 148
+        },
+        "username": "mim_00",
+        "verified": false
+      }
+    ]
+  }
+}

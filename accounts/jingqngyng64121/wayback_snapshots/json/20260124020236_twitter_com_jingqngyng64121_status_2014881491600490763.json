@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2014881491600490763",
+    "created_at": "2026-01-24T02:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T03:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014881491600490763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1980682684985921536",
+          "start": 3,
+          "username": "linovo33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014881491600490763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014737364476891141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linovo33: 卧槽你们八九十斤别减肥了好吗，制造焦虑有啥意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2014881491600490763",
+        "created_at": "2026-01-24T02:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T03:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014881491600490763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1980682684985921536",
+              "start": 3,
+              "username": "linovo33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014881491600490763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014737364476891141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linovo33: 卧槽你们八九十斤别减肥了好吗，制造焦虑有啥意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980682684985921536",
+        "conversation_id": "2014737364476891141",
+        "created_at": "2026-01-23T16:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014737364476891141"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014737364476891141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 18463,
+          "like_count": 310,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽你们八九十斤别减肥了好吗，制造焦虑有啥意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 25,
+          "like_count": 961,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 152
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T17:09:11.000Z",
+        "description": "不收门不加任何联系方式不下海不线下别私信我｜防走丢小号@linovo332 ｜我很敏感请不要对我有恶意不喜欢我拉黑就好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "linovo332"
+              }
+            ]
+          }
+        },
+        "id": "1980682684985921536",
+        "location": "Amoy",
+        "name": "檩",
+        "pinned_tweet_id": "2012461133769105826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010005579511803909/rdE55MHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 55,
+          "like_count": 2036,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1117
+        },
+        "username": "linovo33",
+        "verified": false
+      }
+    ]
+  }
+}

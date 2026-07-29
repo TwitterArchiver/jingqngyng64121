@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2019983295329800192"
+      ],
+      "media_source_tweet_id": [
+        "2019983381963182156"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2020015813336658268",
+    "created_at": "2026-02-07T06:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T07:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020015813336658268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1960389326258495492",
+          "start": 3,
+          "username": "looolzaozimin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l8b5js0UO5",
+          "end": 45,
+          "expanded_url": "https://x.com/looolzaozimin/status/2019983381963182156/video/1",
+          "media_key": "13_2019983295329800192",
+          "start": 22,
+          "url": "https://t.co/l8b5js0UO5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020015813336658268",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019983381963182156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @looolzaozimin: 睡了 https://t.co/l8b5js0UO5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2020015813336658268].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2020015813336658268",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2020015813336658268"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20975,
+        "height": 1280,
+        "media_key": "13_2019983295329800192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019983295329800192/img/hvOuHpSlHzB8A6IX.jpg",
+        "public_metrics": {
+          "view_count": 843
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019983295329800192/vid/avc1/320x630/j7qQ19w3_gbrpNX-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019983295329800192/vid/avc1/480x944/UgFTC-dEaCpoZ3MM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019983295329800192/vid/avc1/650x1280/cHm-4R2CSuDya4uj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019983295329800192/pl/6RrlUQvtzNN1cSdf.m3u8"
+          }
+        ],
+        "width": 650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019983295329800192"
+          ]
+        },
+        "author_id": "1960389326258495492",
+        "conversation_id": "2019983381963182156",
+        "created_at": "2026-02-07T03:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T04:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019983381963182156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8b5js0UO5",
+              "end": 26,
+              "expanded_url": "https://x.com/looolzaozimin/status/2019983381963182156/video/1",
+              "media_key": "13_2019983295329800192",
+              "start": 3,
+              "url": "https://t.co/l8b5js0UO5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019983381963182156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 1363,
+          "like_count": 123,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "睡了 https://t.co/l8b5js0UO5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 134,
+          "like_count": 2239,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 367
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "",
+        "id": "1960389326258495492",
+        "location": "门槛300一个问题50",
+        "name": "小藻",
+        "pinned_tweet_id": "1969267181771804999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006630961887535104/Xwoq_Ilo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22895,
+          "following_count": 31,
+          "like_count": 106,
+          "listed_count": 23,
+          "media_count": 63,
+          "tweet_count": 109
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

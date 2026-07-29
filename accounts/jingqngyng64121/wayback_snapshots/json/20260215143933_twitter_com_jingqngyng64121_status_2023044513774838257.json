@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2023044513774838257",
+    "created_at": "2026-02-15T14:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T15:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023044513774838257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907823299108978688",
+          "start": 3,
+          "username": "Tewi77nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023044513774838257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022873055614448082",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tewi77nya: 我小时候看见冥币好想买，被我妈妈骂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2023044513774838257",
+        "created_at": "2026-02-15T14:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023044513774838257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907823299108978688",
+              "start": 3,
+              "username": "Tewi77nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023044513774838257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022873055614448082",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tewi77nya: 我小时候看见冥币好想买，被我妈妈骂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907823299108978688",
+        "conversation_id": "2022873055614448082",
+        "created_at": "2026-02-15T03:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022873055614448082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022873055614448082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 471,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我小时候看见冥币好想买，被我妈妈骂了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 151,
+          "like_count": 2917,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 442
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T15:52:17.000Z",
+        "description": "低浮上｜骂我死爹烂娘全家暴毙｜我叫小鼠｜躁郁双相反社会｜闲聊过🚪52无福利｜家养白毛犬中",
+        "id": "1907823299108978688",
+        "location": "🕳️🐀",
+        "name": "老鼠神",
+        "pinned_tweet_id": "2004998593628045465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021656583554609152/HUlVkvIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 130,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 72
+        },
+        "username": "Tewi77nya",
+        "verified": false
+      }
+    ]
+  }
+}

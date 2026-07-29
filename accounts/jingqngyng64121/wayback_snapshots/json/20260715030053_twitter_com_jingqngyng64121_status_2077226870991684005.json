@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077103068542611456"
+      ],
+      "media_source_tweet_id": [
+        "2077103084921295169"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2077226870991684005",
+    "created_at": "2026-07-15T03:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T04:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077226870991684005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1993150970705199108",
+          "start": 3,
+          "username": "Nana_naiiiiiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UvlrwWnjTW",
+          "end": 43,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2077103084921295169/photo/1",
+          "media_key": "3_2077103068542611456",
+          "start": 20,
+          "url": "https://t.co/UvlrwWnjTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077226870991684005",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077103084921295169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nana_naiiiiiii: https://t.co/UvlrwWnjTW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 892,
+        "media_key": "3_2077103068542611456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNaPGJbMAAxJkf.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077103068542611456"
+          ],
+          "media_source_tweet_id": [
+            "2077103084921295169"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2077226870991684005",
+        "created_at": "2026-07-15T03:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T04:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077226870991684005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1993150970705199108",
+              "start": 3,
+              "username": "Nana_naiiiiiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UvlrwWnjTW",
+              "end": 43,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2077103084921295169/photo/1",
+              "media_key": "3_2077103068542611456",
+              "start": 20,
+              "url": "https://t.co/UvlrwWnjTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077226870991684005",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077103084921295169",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nana_naiiiiiii: https://t.co/UvlrwWnjTW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077103068542611456"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2077103084921295169",
+        "created_at": "2026-07-14T18:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077103084921295169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UvlrwWnjTW",
+              "end": 23,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2077103084921295169/photo/1",
+              "media_key": "3_2077103068542611456",
+              "start": 0,
+              "url": "https://t.co/UvlrwWnjTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077103084921295169",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 304,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UvlrwWnjTW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 420,
+          "like_count": 8122,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1691
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 319,
+          "like_count": 21846,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 1701
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

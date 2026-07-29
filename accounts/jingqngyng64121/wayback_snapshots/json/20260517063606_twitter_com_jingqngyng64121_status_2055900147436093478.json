@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2055900147436093478",
+    "created_at": "2026-05-17T06:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055900147436093478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1435990322702520320",
+          "start": 3,
+          "username": "silverfang88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055900147436093478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055515170622022047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @silverfang88: 小时候很害怕赌狗、诈骗犯、小三、同性恋、性工作者、女装大佬、变态、od妹，现在这些人都是我群友。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2055900147436093478",
+        "created_at": "2026-05-17T06:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055900147436093478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1435990322702520320",
+              "start": 3,
+              "username": "silverfang88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055900147436093478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055515170622022047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @silverfang88: 小时候很害怕赌狗、诈骗犯、小三、同性恋、性工作者、女装大佬、变态、od妹，现在这些人都是我群友。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1435990322702520320",
+        "conversation_id": "2055515170622022047",
+        "created_at": "2026-05-16T05:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055515170622022047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055515170622022047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 43776,
+          "like_count": 439,
+          "quote_count": 5,
+          "reply_count": 122,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "小时候很害怕赌狗、诈骗犯、小三、同性恋、性工作者、女装大佬、变态、od妹，现在这些人都是我群友。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 441,
+          "like_count": 7517,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1512
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-09T15:36:07.000Z",
+        "description": "剑开天门  伟大撤退｜Crypto入口,OKX就够,最全交易工具,畅游130+公链,极速交易热门Meme 🔗https://t.co/2xvR6AW4jb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "okx.com",
+                "end": 77,
+                "expanded_url": "http://okx.com",
+                "start": 54,
+                "url": "https://t.co/2xvR6AW4jb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/alphat1am",
+                "end": 23,
+                "expanded_url": "https://t.me/alphat1am",
+                "start": 0,
+                "url": "https://t.co/PWhIML27vv"
+              }
+            ]
+          }
+        },
+        "id": "1435990322702520320",
+        "location": "2 steps ahead",
+        "name": "子时",
+        "pinned_tweet_id": "1768206754138009955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939972609023582210/TznrEwzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90225,
+          "following_count": 3096,
+          "like_count": 21306,
+          "listed_count": 1461,
+          "media_count": 3322,
+          "tweet_count": 18457
+        },
+        "url": "https://t.co/PWhIML27vv",
+        "username": "silverfang88",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080631975631826944"
+      ],
+      "media_source_tweet_id": [
+        "2080631987111698524"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2080856617730646060",
+    "created_at": "2026-07-25T03:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T04:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080856617730646060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2035562406781628417",
+          "start": 3,
+          "username": "ChinaIsOut"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MwHNsUfpxb",
+          "end": 48,
+          "expanded_url": "https://x.com/ChinaIsOut/status/2080631987111698524/photo/1",
+          "media_key": "3_2080631975631826944",
+          "start": 25,
+          "url": "https://t.co/MwHNsUfpxb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080856617730646060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080631987111698524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChinaIsOut: 全网最干净的女孩 https://t.co/MwHNsUfpxb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080631975631826944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_jwhfasAAvl28.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080631975631826944"
+          ]
+        },
+        "author_id": "2035562406781628417",
+        "conversation_id": "2080631987111698524",
+        "created_at": "2026-07-24T12:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080631987111698524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MwHNsUfpxb",
+              "end": 32,
+              "expanded_url": "https://x.com/ChinaIsOut/status/2080631987111698524/photo/1",
+              "media_key": "3_2080631975631826944",
+              "start": 9,
+              "url": "https://t.co/MwHNsUfpxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080631987111698524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 753,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "全网最干净的女孩 https://t.co/MwHNsUfpxb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080631975631826944"
+          ],
+          "media_source_tweet_id": [
+            "2080631987111698524"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2080856617730646060",
+        "created_at": "2026-07-25T03:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T04:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080856617730646060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2035562406781628417",
+              "start": 3,
+              "username": "ChinaIsOut"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MwHNsUfpxb",
+              "end": 48,
+              "expanded_url": "https://x.com/ChinaIsOut/status/2080631987111698524/photo/1",
+              "media_key": "3_2080631975631826944",
+              "start": 25,
+              "url": "https://t.co/MwHNsUfpxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080856617730646060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080631987111698524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChinaIsOut: 全网最干净的女孩 https://t.co/MwHNsUfpxb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 447,
+          "like_count": 8262,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1734
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T03:41:34.000Z",
+        "description": "🚪288 520 1314\n线下私",
+        "id": "2035562406781628417",
+        "location": "United States",
+        "name": "黑猫塑",
+        "pinned_tweet_id": "2079951737449046327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079949945717817344/uFNfGWyC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 8,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "ChinaIsOut",
+        "verified": true
+      }
+    ]
+  }
+}

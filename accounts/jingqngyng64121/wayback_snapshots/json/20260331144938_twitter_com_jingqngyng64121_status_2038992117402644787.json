@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2038992117402644787",
+    "created_at": "2026-03-31T14:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T15:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038992117402644787"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "门槛"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "非绿"
+        },
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "线下"
+        },
+        {
+          "end": 85,
+          "start": 80,
+          "tag": "电子女友"
+        },
+        {
+          "end": 91,
+          "start": 86,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 96,
+          "start": 92,
+          "tag": "求包养"
+        },
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "女大"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "反差"
+        },
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 113,
+          "start": 110,
+          "tag": "圆角"
+        },
+        {
+          "end": 118,
+          "start": 114,
+          "tag": "求入门"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "850589968045154304",
+          "start": 3,
+          "username": "TekmenSencer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/4bBQzMH",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/4bBQzMH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038992117402644787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036018429719961613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TekmenSencer: 这里是兔兔🔝\n生活没了\n还重启了好惨一女的\n不喜欢画饼的！！\n欢迎宝贝找我互转互fo ～\n#门槛 #门槛妹 #非绿 #线下 #电子女友 #金主爸爸 #求包养 #女大 #反差 #爸爸活 #圆角 #求入门 https://t.co/4bBQzMH…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1175,
+        "media_key": "3_2036018414893080576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFj9gfbIAA4I_Z.jpg",
+        "width": 1210
+      },
+      {
+        "height": 1526,
+        "media_key": "3_2036018414842789888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFj9gTbwAAYSD5.jpg",
+        "width": 1219
+      },
+      {
+        "height": 1562,
+        "media_key": "3_2036018414997966848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFj9g4bkAAavkg.jpg",
+        "width": 1120
+      },
+      {
+        "height": 1495,
+        "media_key": "3_2036018415006355456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFj9g6bkAA3bf6.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2038992117402644787",
+        "created_at": "2026-03-31T14:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038992117402644787"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "门槛"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "非绿"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "线下"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "电子女友"
+            },
+            {
+              "end": 91,
+              "start": 86,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 96,
+              "start": 92,
+              "tag": "求包养"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "女大"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "反差"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "圆角"
+            },
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "求入门"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "850589968045154304",
+              "start": 3,
+              "username": "TekmenSencer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/4bBQzMH",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/4bBQzMH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038992117402644787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036018429719961613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TekmenSencer: 这里是兔兔🔝\n生活没了\n还重启了好惨一女的\n不喜欢画饼的！！\n欢迎宝贝找我互转互fo ～\n#门槛 #门槛妹 #非绿 #线下 #电子女友 #金主爸爸 #求包养 #女大 #反差 #爸爸活 #圆角 #求入门 https://t.co/4bBQzMH…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036018414893080576",
+            "3_2036018414842789888",
+            "3_2036018414997966848",
+            "3_2036018415006355456"
+          ]
+        },
+        "author_id": "850589968045154304",
+        "conversation_id": "2036018429719961613",
+        "created_at": "2026-03-23T09:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T10:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036018429719961613"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "门槛"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "非绿"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "线下"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "电子女友"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "求包养"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "女大"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "反差"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "圆角"
+            },
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "求入门"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4bBQzMHjJc",
+              "end": 124,
+              "expanded_url": "https://x.com/TekmenSencer/status/2036018429719961613/photo/1",
+              "media_key": "3_2036018414893080576",
+              "start": 101,
+              "url": "https://t.co/4bBQzMHjJc"
+            },
+            {
+              "display_url": "pic.x.com/4bBQzMHjJc",
+              "end": 124,
+              "expanded_url": "https://x.com/TekmenSencer/status/2036018429719961613/photo/1",
+              "media_key": "3_2036018414842789888",
+              "start": 101,
+              "url": "https://t.co/4bBQzMHjJc"
+            },
+            {
+              "display_url": "pic.x.com/4bBQzMHjJc",
+              "end": 124,
+              "expanded_url": "https://x.com/TekmenSencer/status/2036018429719961613/photo/1",
+              "media_key": "3_2036018414997966848",
+              "start": 101,
+              "url": "https://t.co/4bBQzMHjJc"
+            },
+            {
+              "display_url": "pic.x.com/4bBQzMHjJc",
+              "end": 124,
+              "expanded_url": "https://x.com/TekmenSencer/status/2036018429719961613/photo/1",
+              "media_key": "3_2036018415006355456",
+              "start": 101,
+              "url": "https://t.co/4bBQzMHjJc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036018429719961613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2521,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "这里是兔兔🔝\n生活没了\n还重启了好惨一女的\n不喜欢画饼的！！\n欢迎宝贝找我互转互fo ～\n#门槛 #门槛妹 #非绿 #线下 #电子女友 #金主爸爸 #求包养 #女大 #反差 #爸爸活 #圆角 #求入门 https://t.co/4bBQzMHjJc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 306,
+          "like_count": 5085,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 843
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-08T06:03:46.000Z",
+        "description": "啊啊啊啊啊没有🚪还重生了 我好惨啊😭 坐标20r 不带口令问坐标的一律不回🈲️ 欢迎宝贝找我互转互fo ～",
+        "id": "850589968045154304",
+        "name": "小白兔（可爱版）",
+        "pinned_tweet_id": "2036018429719961613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036017358658285568/giCX5VoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 15,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 42
+        },
+        "username": "TekmenSencer",
+        "verified": false
+      }
+    ]
+  }
+}

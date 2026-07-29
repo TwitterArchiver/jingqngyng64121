@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016286408202506240"
+      ],
+      "media_source_tweet_id": [
+        "2016286417018818984"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2016455800093549033",
+    "created_at": "2026-01-28T10:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T11:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016455800093549033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1670819927253716994",
+          "start": 3,
+          "username": "madox900"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RtrAQwjeMk",
+          "end": 40,
+          "expanded_url": "https://x.com/madox900/status/2016286417018818984/photo/1",
+          "media_key": "3_2016286408202506240",
+          "start": 17,
+          "url": "https://t.co/RtrAQwjeMk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016455800093549033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 118
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016286417018818984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @madox900: 愛情 https://t.co/RtrAQwjeMk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016286408202506240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_tJzjZb0AAnseu.jpg",
+        "width": 1530
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016286408202506240"
+          ],
+          "media_source_tweet_id": [
+            "2016286417018818984"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2016455800093549033",
+        "created_at": "2026-01-28T10:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T11:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016455800093549033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1670819927253716994",
+              "start": 3,
+              "username": "madox900"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RtrAQwjeMk",
+              "end": 40,
+              "expanded_url": "https://x.com/madox900/status/2016286417018818984/photo/1",
+              "media_key": "3_2016286408202506240",
+              "start": 17,
+              "url": "https://t.co/RtrAQwjeMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016455800093549033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016286417018818984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @madox900: 愛情 https://t.co/RtrAQwjeMk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016286408202506240"
+          ]
+        },
+        "author_id": "1670819927253716994",
+        "conversation_id": "2016286417018818984",
+        "created_at": "2026-01-27T23:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T00:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016286417018818984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RtrAQwjeMk",
+              "end": 26,
+              "expanded_url": "https://x.com/madox900/status/2016286417018818984/photo/1",
+              "media_key": "3_2016286408202506240",
+              "start": 3,
+              "url": "https://t.co/RtrAQwjeMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016286417018818984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 18004,
+          "like_count": 2157,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "愛情 https://t.co/RtrAQwjeMk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 77,
+          "like_count": 1318,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 251
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-19T15:45:08.000Z",
+        "description": "AIイラスト・動画を投稿してます👾 MADでダークな世界👻ネオンカラー、セピア系🫧 #サイケデリック #ダークファンタジー l Our world overflows with madness and philosophy. 2026/5/9〜10「MIXFITS展」",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "サイケデリック"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "tag": "ダークファンタジー"
+              }
+            ]
+          }
+        },
+        "id": "1670819927253716994",
+        "name": "MAD",
+        "pinned_tweet_id": "2016286417018818984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998722451166089216/reVgXVOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 799,
+          "like_count": 19892,
+          "listed_count": 12,
+          "media_count": 292,
+          "tweet_count": 8467
+        },
+        "username": "madox900",
+        "verified": true
+      }
+    ]
+  }
+}

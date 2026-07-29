@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2049377522740305940",
+    "created_at": "2026-04-29T12:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T13:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049464820353872139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687876238474629120",
+          "start": 0,
+          "username": "AgNo3_xq0719"
+        },
+        {
+          "end": 23,
+          "id": "1891311621991219200",
+          "start": 14,
+          "username": "Numiouo1"
+        },
+        {
+          "end": 36,
+          "id": "1690530117171453952",
+          "start": 24,
+          "username": "AgNo3_XQ719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049464820353872139",
+    "in_reply_to_user_id": "1687876238474629120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049377522740305940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AgNo3_xq0719 @Numiouo1 @AgNo3_XQ719 我是你前世互fo喵"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [AgNo3_XQ719].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "AgNo3_XQ719",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "AgNo3_XQ719"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2049377522740305940",
+        "created_at": "2026-04-29T12:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049464820353872139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687876238474629120",
+              "start": 0,
+              "username": "AgNo3_xq0719"
+            },
+            {
+              "end": 23,
+              "id": "1891311621991219200",
+              "start": 14,
+              "username": "Numiouo1"
+            },
+            {
+              "end": 36,
+              "id": "1690530117171453952",
+              "start": 24,
+              "username": "AgNo3_XQ719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049464820353872139",
+        "in_reply_to_user_id": "1687876238474629120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049377522740305940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AgNo3_xq0719 @Numiouo1 @AgNo3_XQ719 我是你前世互fo喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687876238474629120",
+        "conversation_id": "2049377522740305940",
+        "created_at": "2026-04-29T06:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049377522740305940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1690530117171453952",
+              "start": 4,
+              "username": "AgNo3_XQ719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049377522740305940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 950,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "我三世了@AgNo3_XQ719 前世 求互转寻回互fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 439,
+          "like_count": 7129,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1406
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T17:20:44.000Z",
+        "description": "09｜od｜自伤｜双相情感障碍｜爱人@llzvkeai @NiimiyaHoshi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "llzvkeai"
+              },
+              {
+                "end": 41,
+                "start": 28,
+                "username": "NiimiyaHoshi"
+              }
+            ]
+          }
+        },
+        "id": "1687876238474629120",
+        "location": "普瑞巴林星球",
+        "name": "硝酸银#浅（三世）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049376709401841665/1z8Fy-mI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 61,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "AgNo3_xq0719",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T02:20:21.000Z",
+        "description": "成分请看@Numiouo @Numiouo2 \n同类都会回 关注限制只能一批批回\n致举报者：你大可以继续当老鼠偷偷视奸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "Numiouo"
+              },
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Numiouo2"
+              }
+            ]
+          }
+        },
+        "id": "1891311621991219200",
+        "name": "糯米2.0（句末为叠甲 同类请无视）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031380479656730624/btRtgWSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 514,
+          "like_count": 367,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 264
+        },
+        "username": "Numiouo1",
+        "verified": false
+      }
+    ]
+  }
+}

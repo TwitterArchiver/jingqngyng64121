@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065415412238745600",
+        "3_2065415413102718976"
+      ],
+      "media_source_tweet_id": [
+        "2065415416563048818",
+        "2065415416563048818"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2067884637205197057",
+    "created_at": "2026-06-19T08:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067884637205197057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1905626320614387712",
+          "start": 3,
+          "username": "welch_kimb48091"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rFAZKfgnjg",
+          "end": 51,
+          "expanded_url": "https://x.com/welch_kimb48091/status/2065415416563048818/photo/1",
+          "media_key": "3_2065415412238745600",
+          "start": 28,
+          "url": "https://t.co/rFAZKfgnjg"
+        },
+        {
+          "display_url": "pic.x.com/rFAZKfgnjg",
+          "end": 51,
+          "expanded_url": "https://x.com/welch_kimb48091/status/2065415416563048818/photo/1",
+          "media_key": "3_2065415413102718976",
+          "start": 28,
+          "url": "https://t.co/rFAZKfgnjg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067884637205197057",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065415416563048818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @welch_kimb48091: This\n🥺 https://t.co/rFAZKfgnjg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2065415412238745600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnUX9gbgAARhZ9.jpg",
+        "width": 1860
+      },
+      {
+        "height": 2015,
+        "media_key": "3_2065415413102718976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnUYAuasAALJJt.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065415412238745600",
+            "3_2065415413102718976"
+          ],
+          "media_source_tweet_id": [
+            "2065415416563048818",
+            "2065415416563048818"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2067884637205197057",
+        "created_at": "2026-06-19T08:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067884637205197057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1905626320614387712",
+              "start": 3,
+              "username": "welch_kimb48091"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFAZKfgnjg",
+              "end": 51,
+              "expanded_url": "https://x.com/welch_kimb48091/status/2065415416563048818/photo/1",
+              "media_key": "3_2065415412238745600",
+              "start": 28,
+              "url": "https://t.co/rFAZKfgnjg"
+            },
+            {
+              "display_url": "pic.x.com/rFAZKfgnjg",
+              "end": 51,
+              "expanded_url": "https://x.com/welch_kimb48091/status/2065415416563048818/photo/1",
+              "media_key": "3_2065415413102718976",
+              "start": 28,
+              "url": "https://t.co/rFAZKfgnjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067884637205197057",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065415416563048818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @welch_kimb48091: This\n🥺 https://t.co/rFAZKfgnjg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065415412238745600",
+            "3_2065415413102718976"
+          ]
+        },
+        "author_id": "1905626320614387712",
+        "conversation_id": "2065415416563048818",
+        "created_at": "2026-06-12T12:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065415416563048818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFAZKfgnjg",
+              "end": 30,
+              "expanded_url": "https://x.com/welch_kimb48091/status/2065415416563048818/photo/1",
+              "media_key": "3_2065415412238745600",
+              "start": 7,
+              "url": "https://t.co/rFAZKfgnjg"
+            },
+            {
+              "display_url": "pic.x.com/rFAZKfgnjg",
+              "end": 30,
+              "expanded_url": "https://x.com/welch_kimb48091/status/2065415416563048818/photo/1",
+              "media_key": "3_2065415413102718976",
+              "start": 7,
+              "url": "https://t.co/rFAZKfgnjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065415416563048818",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4275,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "This\n🥺 https://t.co/rFAZKfgnjg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 412,
+          "like_count": 7765,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1611
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T14:21:41.000Z",
+        "description": "自己紹介：Anime fan｜电波系｜ 🇷🇺混血儿｜女子大生｜クルミちゃん大好き♪｜塔罗🔮｜我喜欢中国的熊猫 旗袍 电子游戏 等等 喜欢我请支持我 🥺 谢谢！Спасибо_(:з」∠)_🚪52",
+        "id": "1905626320614387712",
+        "location": "天宫市😋（10R）",
+        "name": "Kurumi✡️",
+        "pinned_tweet_id": "2057062662589288504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057031718918598656/N0Hep4fq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 66,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "welch_kimb48091",
+        "verified": false
+      }
+    ]
+  }
+}

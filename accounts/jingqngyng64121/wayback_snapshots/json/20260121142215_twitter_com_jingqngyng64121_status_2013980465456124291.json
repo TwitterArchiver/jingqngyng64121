@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2013980465456124291",
+    "created_at": "2026-01-21T14:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T15:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013980465456124291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1743648415521685504",
+          "start": 3,
+          "username": "Tcy11121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013980465456124291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013281336270692674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tcy11121: 宝宝 你根本不适合玩推啊，你一不缺爱，二没有精神病，三没有回避型，四没有猫塑狗塑自己，五没有自嬷自公，六没有乱七八糟的关系，七说话不土，八长相不丑，九不爱说原生家庭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2013980465456124291",
+        "created_at": "2026-01-21T14:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013980465456124291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1743648415521685504",
+              "start": 3,
+              "username": "Tcy11121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013980465456124291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013281336270692674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tcy11121: 宝宝 你根本不适合玩推啊，你一不缺爱，二没有精神病，三没有回避型，四没有猫塑狗塑自己，五没有自嬷自公，六没有乱七八糟的关系，七说话不土，八长相不丑，九不爱说原生家庭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743648415521685504",
+        "conversation_id": "2013281336270692674",
+        "created_at": "2026-01-19T16:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T17:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013281336270692674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013281336270692674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 97610,
+          "like_count": 1131,
+          "quote_count": 25,
+          "reply_count": 71,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝 你根本不适合玩推啊，你一不缺爱，二没有精神病，三没有回避型，四没有猫塑狗塑自己，五没有自嬷自公，六没有乱七八糟的关系，七说话不土，八长相不丑，九不爱说原生家庭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 18,
+          "like_count": 835,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 126
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T14:59:21.000Z",
+        "description": "欢迎你来！不是黄推！看得开心的话 可以请我吃个蛋糕吗^ ^",
+        "id": "1743648415521685504",
+        "location": "不加v (^^)纯分享照片",
+        "name": "yú～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995161436192948224/RmqEs7ds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9648,
+          "following_count": 206,
+          "like_count": 2199,
+          "listed_count": 32,
+          "media_count": 92,
+          "tweet_count": 1351
+        },
+        "username": "Tcy11121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2025438472950173936",
+    "created_at": "2026-02-22T07:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T08:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025478503387595082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1868203874726887424",
+          "start": 0,
+          "username": "daozhir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025478503387595082",
+    "in_reply_to_user_id": "1868203874726887424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025438472950173936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daozhir 我用过 感觉没什么用。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025438451395690498",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvNilHbgAISAXS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2025438472950173936",
+        "created_at": "2026-02-22T07:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025478503387595082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1868203874726887424",
+              "start": 0,
+              "username": "daozhir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025478503387595082",
+        "in_reply_to_user_id": "1868203874726887424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025438472950173936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daozhir 我用过 感觉没什么用。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025438451395690498"
+          ]
+        },
+        "author_id": "1868203874726887424",
+        "conversation_id": "2025438472950173936",
+        "created_at": "2026-02-22T05:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025438472950173936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QvDllPxTAd",
+              "end": 36,
+              "expanded_url": "https://x.com/daozhir/status/2025438472950173936/photo/1",
+              "media_key": "3_2025438451395690498",
+              "start": 13,
+              "url": "https://t.co/QvDllPxTAd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025438472950173936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能治疗心慌吗 买了还没吃 https://t.co/QvDllPxTAd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 182,
+          "like_count": 3350,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 524
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T07:58:21.000Z",
+        "description": "小倒丨16岁丨顺性别女性丨lesbian丨sub 丨 overdose丨双相情感障碍丨LGBTQ+全友好丨 fo同类 没fo私我丨欢迎找我聊聊天丨请多关照",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/11179982",
+                "end": 23,
+                "expanded_url": "https://ngl.link/11179982",
+                "start": 0,
+                "url": "https://t.co/pHdQ49rVOA"
+              }
+            ]
+          }
+        },
+        "id": "1868203874726887424",
+        "location": "Ciudad Autónoma de Buenos Aire",
+        "name": "Hola",
+        "pinned_tweet_id": "1988931748185645459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989222275498012674/zZ3PsBCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 419,
+          "like_count": 1293,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 841
+        },
+        "url": "https://t.co/pHdQ49rVOA",
+        "username": "daozhir",
+        "verified": false
+      }
+    ]
+  }
+}

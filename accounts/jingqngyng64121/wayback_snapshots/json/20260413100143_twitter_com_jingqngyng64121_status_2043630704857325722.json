@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2043630704857325722",
+    "created_at": "2026-04-13T10:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T11:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043630704857325722"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "门槛"
+        },
+        {
+          "end": 86,
+          "start": 82,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "女大"
+        },
+        {
+          "end": 94,
+          "start": 91,
+          "tag": "反差"
+        },
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "求入门"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "非绿"
+        },
+        {
+          "end": 107,
+          "start": 104,
+          "tag": "半绿"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "线上"
+        },
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "线下"
+        },
+        {
+          "end": 121,
+          "start": 116,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 126,
+          "start": 122,
+          "tag": "求包养"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "陪玩"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "陪聊"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1926986020358070272",
+          "start": 3,
+          "username": "xiaogoukuaile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043630704857325722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039315710997074095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaogoukuaile: 穷鬼女大🔝\n实在受不了现在的生活了\n只要💰给的多 怎么样都可以\n喜欢的哥哥入门好不好🥺 \n欢迎女宝找我互转互fo ～\n#门槛 #门槛妹 #女大 #反差 #求入门 #非绿 #半绿 #线上 #线下 #金主爸爸 #求包养 #陪玩 #陪聊 #情绪价…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2039315683448905728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0azzDa4AA0btn.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1567,
+        "media_key": "3_2039315683419549696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0azy8a8AATKGn.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1552,
+        "media_key": "3_2039315683415375872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0azy7bQAA2IO-.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1238,
+        "media_key": "3_2039315683406966784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0azy5a8AA4dmP.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2043630704857325722",
+        "created_at": "2026-04-13T10:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043630704857325722"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "门槛"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "女大"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "反差"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "求入门"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "非绿"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "半绿"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "线上"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "线下"
+            },
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "求包养"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "陪玩"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "陪聊"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1926986020358070272",
+              "start": 3,
+              "username": "xiaogoukuaile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043630704857325722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039315710997074095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaogoukuaile: 穷鬼女大🔝\n实在受不了现在的生活了\n只要💰给的多 怎么样都可以\n喜欢的哥哥入门好不好🥺 \n欢迎女宝找我互转互fo ～\n#门槛 #门槛妹 #女大 #反差 #求入门 #非绿 #半绿 #线上 #线下 #金主爸爸 #求包养 #陪玩 #陪聊 #情绪价…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039315683448905728",
+            "3_2039315683419549696",
+            "3_2039315683415375872",
+            "3_2039315683406966784"
+          ]
+        },
+        "author_id": "1926986020358070272",
+        "conversation_id": "2039315710997074095",
+        "created_at": "2026-04-01T12:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039315710997074095"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "门槛"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "女大"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "反差"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "求入门"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "非绿"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "半绿"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "线上"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "线下"
+            },
+            {
+              "end": 102,
+              "start": 97,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 107,
+              "start": 103,
+              "tag": "求包养"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "陪玩"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "陪聊"
+            },
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "情绪价值"
+            },
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "电子女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uGG3MSQydB",
+              "end": 151,
+              "expanded_url": "https://x.com/baozaoxiaotaidi/status/2039315710997074095/photo/1",
+              "media_key": "3_2039315683448905728",
+              "start": 128,
+              "url": "https://t.co/uGG3MSQydB"
+            },
+            {
+              "display_url": "pic.x.com/uGG3MSQydB",
+              "end": 151,
+              "expanded_url": "https://x.com/baozaoxiaotaidi/status/2039315710997074095/photo/1",
+              "media_key": "3_2039315683419549696",
+              "start": 128,
+              "url": "https://t.co/uGG3MSQydB"
+            },
+            {
+              "display_url": "pic.x.com/uGG3MSQydB",
+              "end": 151,
+              "expanded_url": "https://x.com/baozaoxiaotaidi/status/2039315710997074095/photo/1",
+              "media_key": "3_2039315683415375872",
+              "start": 128,
+              "url": "https://t.co/uGG3MSQydB"
+            },
+            {
+              "display_url": "pic.x.com/uGG3MSQydB",
+              "end": 151,
+              "expanded_url": "https://x.com/baozaoxiaotaidi/status/2039315710997074095/photo/1",
+              "media_key": "3_2039315683406966784",
+              "start": 128,
+              "url": "https://t.co/uGG3MSQydB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039315710997074095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12852,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "穷鬼女大🔝\n实在受不了现在的生活了\n只要💰给的多 怎么样都可以\n喜欢的哥哥入门好不好🥺 \n欢迎女宝找我互转互fo ～\n#门槛 #门槛妹 #女大 #反差 #求入门 #非绿 #半绿 #线上 #线下 #金主爸爸 #求包养 #陪玩 #陪聊 #情绪价值 #电子女友 https://t.co/uGG3MSQydB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 388,
+          "like_count": 6170,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1145
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T12:57:45.000Z",
+        "description": "穷鬼大学生😭 我就是这么虚荣 像买好多东西 没💰 喜欢的哥哥姐姐弟弟妹妹可以入门🥺 欢迎宝贝互转互fo ～",
+        "id": "1926986020358070272",
+        "name": "小狗也会快乐",
+        "pinned_tweet_id": "2039315710997074095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039314075264704512/XO-w1C-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 228,
+          "like_count": 280,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 454
+        },
+        "username": "xiaogoukuaile",
+        "verified": false
+      }
+    ]
+  }
+}

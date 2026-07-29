@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006975099992420356",
+        "3_2006975100005003265"
+      ],
+      "media_source_tweet_id": [
+        "2007066848051765689",
+        "2007066848051765689"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2032429263555883482",
+    "created_at": "2026-03-13T12:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T13:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032429263555883482"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 37,
+          "tag": "素晴らしき日々"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "音无彩名"
+        },
+        {
+          "end": 62,
+          "start": 54,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1637160135771697152",
+          "start": 3,
+          "username": "OTO3HIBI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FXTueSkDMK",
+          "end": 86,
+          "expanded_url": "https://x.com/OTO3HIBI/status/2007066848051765689/photo/1",
+          "media_key": "3_2006975099992420356",
+          "start": 63,
+          "url": "https://t.co/FXTueSkDMK"
+        },
+        {
+          "display_url": "pic.x.com/FXTueSkDMK",
+          "end": 86,
+          "expanded_url": "https://x.com/OTO3HIBI/status/2007066848051765689/photo/1",
+          "media_key": "3_2006975100005003265",
+          "start": 63,
+          "url": "https://t.co/FXTueSkDMK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032429263555883482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007066848051765689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OTO3HIBI: 什么都没有哦，只是户籍被出了……( ´Д｀)\n#素晴らしき日々 \n#音无彩名 \n#cosplay https://t.co/FXTueSkDMK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2006975099992420356",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9o1OFQaMAQky03.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2006975100005003265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9o1OFTaMAEfEnd.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006975099992420356",
+            "3_2006975100005003265"
+          ],
+          "media_source_tweet_id": [
+            "2007066848051765689",
+            "2007066848051765689"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2032429263555883482",
+        "created_at": "2026-03-13T12:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T13:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032429263555883482"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 37,
+              "tag": "素晴らしき日々"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "音无彩名"
+            },
+            {
+              "end": 62,
+              "start": 54,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1637160135771697152",
+              "start": 3,
+              "username": "OTO3HIBI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FXTueSkDMK",
+              "end": 86,
+              "expanded_url": "https://x.com/OTO3HIBI/status/2007066848051765689/photo/1",
+              "media_key": "3_2006975099992420356",
+              "start": 63,
+              "url": "https://t.co/FXTueSkDMK"
+            },
+            {
+              "display_url": "pic.x.com/FXTueSkDMK",
+              "end": 86,
+              "expanded_url": "https://x.com/OTO3HIBI/status/2007066848051765689/photo/1",
+              "media_key": "3_2006975100005003265",
+              "start": 63,
+              "url": "https://t.co/FXTueSkDMK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032429263555883482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007066848051765689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OTO3HIBI: 什么都没有哦，只是户籍被出了……( ´Д｀)\n#素晴らしき日々 \n#音无彩名 \n#cosplay https://t.co/FXTueSkDMK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006975099992420356",
+            "3_2006975100005003265"
+          ]
+        },
+        "author_id": "1637160135771697152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2007066848051765689",
+        "created_at": "2026-01-02T12:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T13:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007066848051765689"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "素晴らしき日々"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "音无彩名"
+            },
+            {
+              "end": 48,
+              "start": 40,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FXTueSkDMK",
+              "end": 72,
+              "expanded_url": "https://x.com/OTO3HIBI/status/2007066848051765689/photo/1",
+              "media_key": "3_2006975099992420356",
+              "start": 49,
+              "url": "https://t.co/FXTueSkDMK"
+            },
+            {
+              "display_url": "pic.x.com/FXTueSkDMK",
+              "end": 72,
+              "expanded_url": "https://x.com/OTO3HIBI/status/2007066848051765689/photo/1",
+              "media_key": "3_2006975100005003265",
+              "start": 49,
+              "url": "https://t.co/FXTueSkDMK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007066848051765689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 10226,
+          "like_count": 220,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "什么都没有哦，只是户籍被出了……( ´Д｀)\n#素晴らしき日々 \n#音无彩名 \n#cosplay https://t.co/FXTueSkDMK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 221,
+          "like_count": 4138,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 661
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T18:32:56.000Z",
+        "description": "我是响响/Xiang 🇨🇳10.7天秤ISTP，算个coser 毛娘 以及视频编辑🤔gal比较喜欢樱之诗 Umineko 去人 ChaosChild，角色偏爱桐原冬子 川内野优美 立华奏 Arcueid 阿尔托莉雅",
+        "id": "1637160135771697152",
+        "location": "六轩岛",
+        "name": "月代神奈OTO3HIBI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005826011817205760/3yGGrfoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 22,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 252
+        },
+        "username": "OTO3HIBI",
+        "verified": false
+      }
+    ]
+  }
+}

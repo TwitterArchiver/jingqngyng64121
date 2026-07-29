@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036743599900254208",
+        "3_2036743599912820736",
+        "3_2036743599925481472",
+        "3_2036743599896121345"
+      ],
+      "media_source_tweet_id": [
+        "2036743649099448354",
+        "2036743649099448354",
+        "2036743649099448354",
+        "2036743649099448354"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2037070909073391662",
+    "created_at": "2026-03-26T07:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T08:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037070909073391662"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 27,
+          "start": 22,
+          "tag": "金主爸爸"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1690530117171453952",
+          "start": 3,
+          "username": "AgNo3_XQ719"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0CwzII7Ea2",
+          "end": 51,
+          "expanded_url": "https://x.com/AgNo3_XQ719/status/2036743649099448354/photo/1",
+          "media_key": "3_2036743599900254208",
+          "start": 28,
+          "url": "https://t.co/0CwzII7Ea2"
+        },
+        {
+          "display_url": "pic.x.com/0CwzII7Ea2",
+          "end": 51,
+          "expanded_url": "https://x.com/AgNo3_XQ719/status/2036743649099448354/photo/1",
+          "media_key": "3_2036743599912820736",
+          "start": 28,
+          "url": "https://t.co/0CwzII7Ea2"
+        },
+        {
+          "display_url": "pic.x.com/0CwzII7Ea2",
+          "end": 51,
+          "expanded_url": "https://x.com/AgNo3_XQ719/status/2036743649099448354/photo/1",
+          "media_key": "3_2036743599925481472",
+          "start": 28,
+          "url": "https://t.co/0CwzII7Ea2"
+        },
+        {
+          "display_url": "pic.x.com/0CwzII7Ea2",
+          "end": 51,
+          "expanded_url": "https://x.com/AgNo3_XQ719/status/2036743649099448354/photo/1",
+          "media_key": "3_2036743599896121345",
+          "start": 28,
+          "url": "https://t.co/0CwzII7Ea2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037070909073391662",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036743649099448354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AgNo3_XQ719: #门槛妹 #金主爸爸 https://t.co/0CwzII7Ea2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2036743599900254208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEP3g1Ka4AAofq_.jpg",
+        "width": 794
+      },
+      {
+        "height": 1785,
+        "media_key": "3_2036743599912820736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEP3g1NaoAAtkId.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2036743599925481472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEP3g1Qb0AAaYAK.jpg",
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2036743599896121345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEP3g1Jb0AEKLBe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036743599900254208",
+            "3_2036743599912820736",
+            "3_2036743599925481472",
+            "3_2036743599896121345"
+          ],
+          "media_source_tweet_id": [
+            "2036743649099448354",
+            "2036743649099448354",
+            "2036743649099448354",
+            "2036743649099448354"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2037070909073391662",
+        "created_at": "2026-03-26T07:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037070909073391662"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "金主爸爸"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1690530117171453952",
+              "start": 3,
+              "username": "AgNo3_XQ719"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CwzII7Ea2",
+              "end": 51,
+              "expanded_url": "https://x.com/AgNo3_XQ719/status/2036743649099448354/photo/1",
+              "media_key": "3_2036743599900254208",
+              "start": 28,
+              "url": "https://t.co/0CwzII7Ea2"
+            },
+            {
+              "display_url": "pic.x.com/0CwzII7Ea2",
+              "end": 51,
+              "expanded_url": "https://x.com/AgNo3_XQ719/status/2036743649099448354/photo/1",
+              "media_key": "3_2036743599912820736",
+              "start": 28,
+              "url": "https://t.co/0CwzII7Ea2"
+            },
+            {
+              "display_url": "pic.x.com/0CwzII7Ea2",
+              "end": 51,
+              "expanded_url": "https://x.com/AgNo3_XQ719/status/2036743649099448354/photo/1",
+              "media_key": "3_2036743599925481472",
+              "start": 28,
+              "url": "https://t.co/0CwzII7Ea2"
+            },
+            {
+              "display_url": "pic.x.com/0CwzII7Ea2",
+              "end": 51,
+              "expanded_url": "https://x.com/AgNo3_XQ719/status/2036743649099448354/photo/1",
+              "media_key": "3_2036743599896121345",
+              "start": 28,
+              "url": "https://t.co/0CwzII7Ea2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037070909073391662",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036743649099448354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AgNo3_XQ719: #门槛妹 #金主爸爸 https://t.co/0CwzII7Ea2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036743599900254208",
+            "3_2036743599912820736",
+            "3_2036743599925481472",
+            "3_2036743599896121345"
+          ]
+        },
+        "author_id": "1690530117171453952",
+        "conversation_id": "2036743649099448354",
+        "created_at": "2026-03-25T09:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T10:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036743649099448354"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "金主爸爸"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CwzII7Ea2",
+              "end": 34,
+              "expanded_url": "https://x.com/AgNo3_XQ719/status/2036743649099448354/photo/1",
+              "media_key": "3_2036743599900254208",
+              "start": 11,
+              "url": "https://t.co/0CwzII7Ea2"
+            },
+            {
+              "display_url": "pic.x.com/0CwzII7Ea2",
+              "end": 34,
+              "expanded_url": "https://x.com/AgNo3_XQ719/status/2036743649099448354/photo/1",
+              "media_key": "3_2036743599912820736",
+              "start": 11,
+              "url": "https://t.co/0CwzII7Ea2"
+            },
+            {
+              "display_url": "pic.x.com/0CwzII7Ea2",
+              "end": 34,
+              "expanded_url": "https://x.com/AgNo3_XQ719/status/2036743649099448354/photo/1",
+              "media_key": "3_2036743599925481472",
+              "start": 11,
+              "url": "https://t.co/0CwzII7Ea2"
+            },
+            {
+              "display_url": "pic.x.com/0CwzII7Ea2",
+              "end": 34,
+              "expanded_url": "https://x.com/AgNo3_XQ719/status/2036743649099448354/photo/1",
+              "media_key": "3_2036743599896121345",
+              "start": 11,
+              "url": "https://t.co/0CwzII7Ea2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036743649099448354",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 512,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "#门槛妹 #金主爸爸 https://t.co/0CwzII7Ea2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 290,
+          "like_count": 4863,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 794
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T01:06:17.000Z",
+        "description": "od妹｜双向情感障碍｜互fo欢迎｜🚪52 88 188 288 520｜爱人@yu_huacs @NiimiyaHoshi @llzvkeai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "NiimiyaHoshi"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "llzvkeai"
+              }
+            ]
+          }
+        },
+        "id": "1690530117171453952",
+        "location": "上海",
+        "name": "硝酸银_浅（二世）",
+        "pinned_tweet_id": "2036743649099448354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036468919922524160/LBUFbZNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 75,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 36
+        },
+        "username": "AgNo3_XQ719",
+        "verified": false
+      }
+    ]
+  }
+}

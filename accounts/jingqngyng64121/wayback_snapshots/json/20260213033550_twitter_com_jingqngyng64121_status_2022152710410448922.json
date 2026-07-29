@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2022152710410448922",
+    "created_at": "2026-02-13T03:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022152710410448922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2021842555735097344",
+          "start": 3,
+          "username": "Emo7778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022152710410448922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021849676434354320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Emo7778: 喵喵喵，大家可不要割手手吃药药！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2022152710410448922",
+        "created_at": "2026-02-13T03:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022152710410448922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2021842555735097344",
+              "start": 3,
+              "username": "Emo7778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022152710410448922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021849676434354320",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Emo7778: 喵喵喵，大家可不要割手手吃药药！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021842555735097344",
+        "conversation_id": "2021849676434354320",
+        "created_at": "2026-02-12T07:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T08:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021849676434354320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021849676434354320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1657,
+          "like_count": 27,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵，大家可不要割手手吃药药！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 139,
+          "like_count": 2650,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 412
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T07:03:31.000Z",
+        "description": "蓝粉白的小天使，虽然本人不太好，但是我会把我所有的爱都给你们，爱你们！｜心理健康问题 ｜咨询｜买药QQ：3387774141 鹿目圆环的坚实粉丝，01年的超可爱小药娘喵",
+        "id": "2021842555735097344",
+        "name": "Emo（糖商",
+        "pinned_tweet_id": "2022019695562699188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021842982056734720/t-XUUfmk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 4,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 50
+        },
+        "username": "Emo7778",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2023206481039126554",
+    "created_at": "2026-02-16T16:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T17:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023428125636587974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1450006797041868802",
+          "start": 0,
+          "username": "ljy2701219119"
+        },
+        {
+          "end": 26,
+          "id": "1597065444136919040",
+          "start": 15,
+          "username": "impart6324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023428125636587974",
+    "in_reply_to_user_id": "1450006797041868802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023299821915029765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ljy2701219119 @impart6324 这个牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2023206481039126554",
+        "created_at": "2026-02-16T16:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023428125636587974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1450006797041868802",
+              "start": 0,
+              "username": "ljy2701219119"
+            },
+            {
+              "end": 26,
+              "id": "1597065444136919040",
+              "start": 15,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023428125636587974",
+        "in_reply_to_user_id": "1450006797041868802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023299821915029765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ljy2701219119 @impart6324 这个牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450006797041868802",
+        "conversation_id": "2023206481039126554",
+        "created_at": "2026-02-16T07:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023299821915029765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023299821915029765",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023206481039126554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 我嗑了还把班上了，飞了叶子也是，吃pr喜欢打扫卫生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 152,
+          "like_count": 2936,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 446
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-18T07:52:30.000Z",
+        "description": "我就只想睡着了不醒过来.\n88🚪好友位\n288绿可聊天看感情\n520女友位\n58888888女王位\n交朋友免费私信",
+        "id": "1450006797041868802",
+        "location": "Kyoto-shi Kita, Kyoto",
+        "name": "迷登岛.",
+        "pinned_tweet_id": "1559207234261110784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022516401077178368/yz50VVJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 709,
+          "like_count": 9089,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 359
+        },
+        "username": "ljy2701219119",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 395,
+          "like_count": 8705,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1560
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075048787861712896",
+        "3_2075048787861737473"
+      ],
+      "media_source_tweet_id": [
+        "2075048803607122302",
+        "2075048803607122302"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2075413862396919815",
+    "created_at": "2026-07-10T02:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T03:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075413862396919815"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 49,
+          "tag": "门槛"
+        },
+        {
+          "end": 57,
+          "start": 53,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "糖爹"
+        },
+        {
+          "end": 66,
+          "start": 62,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "圆角"
+        },
+        {
+          "end": 77,
+          "start": 71,
+          "tag": "给我钱求你"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2058378026086457344",
+          "start": 3,
+          "username": "rr4uke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6enm7J2BjX",
+          "end": 101,
+          "expanded_url": "https://x.com/rr4uke/status/2075048803607122302/photo/1",
+          "media_key": "3_2075048787861712896",
+          "start": 78,
+          "url": "https://t.co/6enm7J2BjX"
+        },
+        {
+          "display_url": "pic.x.com/6enm7J2BjX",
+          "end": 101,
+          "expanded_url": "https://x.com/rr4uke/status/2075048803607122302/photo/1",
+          "media_key": "3_2075048787861737473",
+          "start": 78,
+          "url": "https://t.co/6enm7J2BjX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075413862396919815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075048803607122302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @rr4uke: 前世k粉被msk害死了\n女孩请找我互转互fo\n转发抽个麦当当有人入门就开\n#门槛 #门槛哥 #糖爹 #爸爸活 #圆角 #给我钱求你 https://t.co/6enm7J2BjX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075048787861712896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwN4OQaMAAtN5m.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1358,
+        "media_key": "3_2075048787861737473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwN4OQakAENu2A.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075048787861712896",
+            "3_2075048787861737473"
+          ],
+          "media_source_tweet_id": [
+            "2075048803607122302",
+            "2075048803607122302"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2075413862396919815",
+        "created_at": "2026-07-10T02:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075413862396919815"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "门槛"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "糖爹"
+            },
+            {
+              "end": 66,
+              "start": 62,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "圆角"
+            },
+            {
+              "end": 77,
+              "start": 71,
+              "tag": "给我钱求你"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2058378026086457344",
+              "start": 3,
+              "username": "rr4uke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6enm7J2BjX",
+              "end": 101,
+              "expanded_url": "https://x.com/rr4uke/status/2075048803607122302/photo/1",
+              "media_key": "3_2075048787861712896",
+              "start": 78,
+              "url": "https://t.co/6enm7J2BjX"
+            },
+            {
+              "display_url": "pic.x.com/6enm7J2BjX",
+              "end": 101,
+              "expanded_url": "https://x.com/rr4uke/status/2075048803607122302/photo/1",
+              "media_key": "3_2075048787861737473",
+              "start": 78,
+              "url": "https://t.co/6enm7J2BjX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075413862396919815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075048803607122302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @rr4uke: 前世k粉被msk害死了\n女孩请找我互转互fo\n转发抽个麦当当有人入门就开\n#门槛 #门槛哥 #糖爹 #爸爸活 #圆角 #给我钱求你 https://t.co/6enm7J2BjX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075048787861712896",
+            "3_2075048787861737473"
+          ]
+        },
+        "author_id": "2058378026086457344",
+        "conversation_id": "2075048803607122302",
+        "created_at": "2026-07-09T02:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075048803607122302"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "门槛"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "糖爹"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "圆角"
+            },
+            {
+              "end": 65,
+              "start": 59,
+              "tag": "给我钱求你"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6enm7J2BjX",
+              "end": 89,
+              "expanded_url": "https://x.com/rr4uke/status/2075048803607122302/photo/1",
+              "media_key": "3_2075048787861712896",
+              "start": 66,
+              "url": "https://t.co/6enm7J2BjX"
+            },
+            {
+              "display_url": "pic.x.com/6enm7J2BjX",
+              "end": 89,
+              "expanded_url": "https://x.com/rr4uke/status/2075048803607122302/photo/1",
+              "media_key": "3_2075048787861737473",
+              "start": 66,
+              "url": "https://t.co/6enm7J2BjX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075048803607122302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 344,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "following",
+        "text": "前世k粉被msk害死了\n女孩请找我互转互fo\n转发抽个麦当当有人入门就开\n#门槛 #门槛哥 #糖爹 #爸爸活 #圆角 #给我钱求你 https://t.co/6enm7J2BjX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 424,
+          "like_count": 8055,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1667
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T02:43:09.000Z",
+        "description": "问坐标 验证都20/私信除口令不回复/想好入门不退/我态度很好所以希望你也礼貌一点",
+        "id": "2058378026086457344",
+        "location": "有爱请过门",
+        "name": "天才少钕家里蹲",
+        "pinned_tweet_id": "2075048803607122302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074734329562091520/QfblLnDc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 14,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "rr4uke",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022029013167058944"
+      ],
+      "media_source_tweet_id": [
+        "2022029016014954777"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2022156326210834780",
+    "created_at": "2026-02-13T03:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022156326210834780"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "上吊"
+        },
+        {
+          "end": 44,
+          "start": 40,
+          "tag": "首吊り"
+        },
+        {
+          "end": 49,
+          "start": 45,
+          "tag": "首絞め"
+        },
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "绞刑"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "窒息"
+        },
+        {
+          "end": 66,
+          "start": 58,
+          "tag": "hanging"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1753326546474135552",
+          "start": 3,
+          "username": "Sazukimi186961"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5XI2Bj6w9l",
+          "end": 90,
+          "expanded_url": "https://x.com/Sazukimi186961/status/2022029016014954777/photo/1",
+          "media_key": "3_2022029013167058944",
+          "start": 67,
+          "url": "https://t.co/5XI2Bj6w9l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022156326210834780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022029016014954777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sazukimi186961: 在公园偶遇正在“荡秋千”的少女\n#上吊 #首吊り #首絞め #绞刑 #窒息 #hanging https://t.co/5XI2Bj6w9l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022029013167058944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA-wrJ9bMAAxkQJ.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022029013167058944"
+          ],
+          "media_source_tweet_id": [
+            "2022029016014954777"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2022156326210834780",
+        "created_at": "2026-02-13T03:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022156326210834780"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "上吊"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "首吊り"
+            },
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "首絞め"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "绞刑"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "窒息"
+            },
+            {
+              "end": 66,
+              "start": 58,
+              "tag": "hanging"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1753326546474135552",
+              "start": 3,
+              "username": "Sazukimi186961"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5XI2Bj6w9l",
+              "end": 90,
+              "expanded_url": "https://x.com/Sazukimi186961/status/2022029016014954777/photo/1",
+              "media_key": "3_2022029013167058944",
+              "start": 67,
+              "url": "https://t.co/5XI2Bj6w9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022156326210834780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022029016014954777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sazukimi186961: 在公园偶遇正在“荡秋千”的少女\n#上吊 #首吊り #首絞め #绞刑 #窒息 #hanging https://t.co/5XI2Bj6w9l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022029013167058944"
+          ]
+        },
+        "author_id": "1753326546474135552",
+        "conversation_id": "2022029016014954777",
+        "created_at": "2026-02-12T19:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T20:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022029016014954777"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "上吊"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "首吊り"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "首絞め"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "绞刑"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "窒息"
+            },
+            {
+              "end": 46,
+              "start": 38,
+              "tag": "hanging"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5XI2Bj6w9l",
+              "end": 70,
+              "expanded_url": "https://x.com/Sazukimi186961/status/2022029016014954777/photo/1",
+              "media_key": "3_2022029013167058944",
+              "start": 47,
+              "url": "https://t.co/5XI2Bj6w9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022029016014954777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 16174,
+          "like_count": 1100,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "在公园偶遇正在“荡秋千”的少女\n#上吊 #首吊り #首絞め #绞刑 #窒息 #hanging https://t.co/5XI2Bj6w9l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 141,
+          "like_count": 2699,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 418
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T07:56:54.000Z",
+        "description": "我的PIXIV主页https://t.co/3pJaXjkf32",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/109674815",
+                "end": 32,
+                "expanded_url": "https://www.pixiv.net/users/109674815",
+                "start": 9,
+                "url": "https://t.co/3pJaXjkf32"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/109674815",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/109674815",
+                "start": 0,
+                "url": "https://t.co/3pJaXjkf32"
+              }
+            ]
+          }
+        },
+        "id": "1753326546474135552",
+        "location": "猎户座",
+        "name": "Sazukimi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013084223268151299/lCzV510o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3734,
+          "following_count": 141,
+          "like_count": 972,
+          "listed_count": 8,
+          "media_count": 277,
+          "tweet_count": 595
+        },
+        "url": "https://t.co/3pJaXjkf32",
+        "username": "Sazukimi186961",
+        "verified": false
+      }
+    ]
+  }
+}

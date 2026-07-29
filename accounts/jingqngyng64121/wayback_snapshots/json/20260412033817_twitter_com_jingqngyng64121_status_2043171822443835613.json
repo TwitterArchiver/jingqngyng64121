@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042869665987465220"
+      ],
+      "media_source_tweet_id": [
+        "2042869668638265448"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2043171822443835613",
+    "created_at": "2026-04-12T03:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T04:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043171822443835613"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 26,
+          "tag": "素晴らしき日々"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "Kyanu_tut"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qlm0oK6uQm",
+          "end": 58,
+          "expanded_url": "https://x.com/Kyanu_tut/status/2042869668638265448/photo/1",
+          "media_key": "3_2042869665987465220",
+          "start": 35,
+          "url": "https://t.co/Qlm0oK6uQm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043171822443835613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042869668638265448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kyanu_tut: “阳光灿烂的每一天”\n#素晴らしき日々 https://t.co/Qlm0oK6uQm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_2042869665987465220",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFm7IzuakAQ-Rnz.jpg",
+        "width": 1194
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042869665987465220"
+          ],
+          "media_source_tweet_id": [
+            "2042869668638265448"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2043171822443835613",
+        "created_at": "2026-04-12T03:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043171822443835613"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 26,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "Kyanu_tut"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qlm0oK6uQm",
+              "end": 58,
+              "expanded_url": "https://x.com/Kyanu_tut/status/2042869668638265448/photo/1",
+              "media_key": "3_2042869665987465220",
+              "start": 35,
+              "url": "https://t.co/Qlm0oK6uQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043171822443835613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042869668638265448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kyanu_tut: “阳光灿烂的每一天”\n#素晴らしき日々 https://t.co/Qlm0oK6uQm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042869665987465220"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2042869668638265448",
+        "created_at": "2026-04-11T07:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042869668638265448"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 11,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qlm0oK6uQm",
+              "end": 43,
+              "expanded_url": "https://x.com/Kyanu_tut/status/2042869668638265448/photo/1",
+              "media_key": "3_2042869665987465220",
+              "start": 20,
+              "url": "https://t.co/Qlm0oK6uQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042869668638265448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 766,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "“阳光灿烂的每一天”\n#素晴らしき日々 https://t.co/Qlm0oK6uQm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 360,
+          "like_count": 5901,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1073
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "完美无缺",
+        "id": "2010357366466990080",
+        "location": "您好，是约炮吗，可以，可能价格比较贵，因为我是处女",
+        "name": "明日有香.",
+        "pinned_tweet_id": "2042297346260860972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033430656332730368/-ga_5xd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 336,
+          "like_count": 465,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 1382
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

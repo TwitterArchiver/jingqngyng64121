@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2025451420049387809",
+    "created_at": "2026-02-22T15:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T16:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025592146984935697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912471464093110272",
+          "start": 0,
+          "username": "sheshe230926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025592146984935697",
+    "in_reply_to_user_id": "1912471464093110272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025451420049387809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sheshe230926 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025451406103314432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvZUpKagAAb4BA.jpg",
+        "width": 1578
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025451406325604352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvZUp_aYAA9p4x.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025451406086602756",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvZUpGbgAQ0NKa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 960,
+        "media_key": "3_2025451406099144704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvZUpJa4AAy1JV.jpg",
+        "width": 823
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2025451420049387809",
+        "created_at": "2026-02-22T15:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025592146984935697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912471464093110272",
+              "start": 0,
+              "username": "sheshe230926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025592146984935697",
+        "in_reply_to_user_id": "1912471464093110272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025451420049387809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sheshe230926 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025451406103314432",
+            "3_2025451406325604352",
+            "3_2025451406086602756",
+            "3_2025451406099144704"
+          ]
+        },
+        "author_id": "1912471464093110272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2025451420049387809",
+        "created_at": "2026-02-22T06:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T07:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025451420049387809"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "shtwt"
+            },
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "自伤"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "自傷"
+            },
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "自伤癖"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "自傷癖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BDWPu99SPU",
+              "end": 48,
+              "expanded_url": "https://x.com/sheshe230926/status/2025451420049387809/photo/1",
+              "media_key": "3_2025451406103314432",
+              "start": 25,
+              "url": "https://t.co/BDWPu99SPU"
+            },
+            {
+              "display_url": "pic.x.com/BDWPu99SPU",
+              "end": 48,
+              "expanded_url": "https://x.com/sheshe230926/status/2025451420049387809/photo/1",
+              "media_key": "3_2025451406325604352",
+              "start": 25,
+              "url": "https://t.co/BDWPu99SPU"
+            },
+            {
+              "display_url": "pic.x.com/BDWPu99SPU",
+              "end": 48,
+              "expanded_url": "https://x.com/sheshe230926/status/2025451420049387809/photo/1",
+              "media_key": "3_2025451406086602756",
+              "start": 25,
+              "url": "https://t.co/BDWPu99SPU"
+            },
+            {
+              "display_url": "pic.x.com/BDWPu99SPU",
+              "end": 48,
+              "expanded_url": "https://x.com/sheshe230926/status/2025451420049387809/photo/1",
+              "media_key": "3_2025451406099144704",
+              "start": 25,
+              "url": "https://t.co/BDWPu99SPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025451420049387809",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#shtwt #自伤 #自傷 #自伤癖 #自傷癖 https://t.co/BDWPu99SPU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 182,
+          "like_count": 3374,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 532
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T11:42:10.000Z",
+        "description": "08｜🚺｜自傷｜ed｜病み垢｜男性❌｜DM⭕️｜求老婆们和我互fo 我想交朋友｜男的加我🚪88",
+        "id": "1912471464093110272",
+        "name": "石頭蛇",
+        "pinned_tweet_id": "2025106958911697356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025102994296217600/3HSYGElH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 335,
+          "like_count": 895,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 93
+        },
+        "username": "sheshe230926",
+        "verified": false
+      }
+    ]
+  }
+}

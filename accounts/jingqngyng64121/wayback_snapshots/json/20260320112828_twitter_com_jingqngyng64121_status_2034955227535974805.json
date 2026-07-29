@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2034919496012767235"
+      ],
+      "media_source_tweet_id": [
+        "2034919562979025224"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2034955227535974805",
+    "created_at": "2026-03-20T11:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T12:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034955227535974805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1722890177696468992",
+          "start": 3,
+          "username": "ustuYukichan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dFGhDczTMv",
+          "end": 41,
+          "expanded_url": "https://x.com/ustuYukichan/status/2034919562979025224/video/1",
+          "media_key": "13_2034919496012767235",
+          "start": 18,
+          "url": "https://t.co/dFGhDczTMv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034955227535974805",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034919562979025224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ustuYukichan: https://t.co/dFGhDczTMv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2034955227535974805].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2034955227535974805",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2034955227535974805"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7536,
+        "height": 1280,
+        "media_key": "13_2034919496012767235",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034919496012767235/img/uY5x7dRHCPJerJIm.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034919496012767235/vid/avc1/320x568/saCsZkAnZlHoh59b.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034919496012767235/vid/avc1/480x852/lWvvUzsf4JbCz_SP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034919496012767235/vid/avc1/720x1280/ejg9oW6vUGUX299o.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034919496012767235/pl/wi0kJJDKd2m09BXR.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034919496012767235"
+          ]
+        },
+        "author_id": "1722890177696468992",
+        "conversation_id": "2034919562979025224",
+        "created_at": "2026-03-20T09:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T10:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034919562979025224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dFGhDczTMv",
+              "end": 23,
+              "expanded_url": "https://x.com/ustuYukichan/status/2034919562979025224/video/1",
+              "media_key": "13_2034919496012767235",
+              "start": 0,
+              "url": "https://t.co/dFGhDczTMv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034919562979025224",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dFGhDczTMv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 269,
+          "like_count": 4709,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 747
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T08:13:34.000Z",
+        "description": "冬天的第一场雪｜病み垢｜リスカ｜od｜shutwt｜drugtwt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/utsuyukichan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/utsuyukichan",
+                "start": 0,
+                "url": "https://t.co/aIBR6RGUsi"
+              }
+            ]
+          }
+        },
+        "id": "1722890177696468992",
+        "location": "地獄",
+        "name": "有害天使",
+        "pinned_tweet_id": "2017060419937194182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950984901202944000/dCpmdRLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 543,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1386
+        },
+        "url": "https://t.co/aIBR6RGUsi",
+        "username": "ustuYukichan",
+        "verified": false
+      }
+    ]
+  }
+}

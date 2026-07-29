@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "1992146651457478696",
+    "created_at": "2025-12-01T12:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T13:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995475327108190356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1800101206184144896",
+          "start": 0,
+          "username": "XIAOYUAN_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995475327108190356",
+    "in_reply_to_user_id": "1800101206184144896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992146651457478696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XIAOYUAN_qwq 表层的疼痛最爽了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992146646722039808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WG0gJaUAASP3W.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "1992146651457478696",
+        "created_at": "2025-12-01T12:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T13:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995475327108190356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1800101206184144896",
+              "start": 0,
+              "username": "XIAOYUAN_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995475327108190356",
+        "in_reply_to_user_id": "1800101206184144896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992146651457478696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOYUAN_qwq 表层的疼痛最爽了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992146646722039808"
+          ]
+        },
+        "author_id": "1800101206184144896",
+        "conversation_id": "1992146651457478696",
+        "created_at": "2025-11-22T08:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T09:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992146651457478696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WQXwzXEMle",
+              "end": 35,
+              "expanded_url": "https://x.com/XIAOYUAN_qwq/status/1992146651457478696/photo/1",
+              "media_key": "3_1992146646722039808",
+              "start": 12,
+              "url": "https://t.co/WQXwzXEMle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992146651457478696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2827,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种程度的自残是最爽的 https://t.co/WQXwzXEMle"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992506853117362176/32E1gBm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T09:42:35.000Z",
+        "description": "很脆弱很玻璃心",
+        "id": "1800101206184144896",
+        "name": "小怜",
+        "pinned_tweet_id": "1995395289302389023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993203977748725763/mAFCyBPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 75,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 162
+        },
+        "username": "XIAOYUAN_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033109026373083136"
+      ],
+      "media_source_tweet_id": [
+        "2033109048393142605"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033182808555049343",
+    "created_at": "2026-03-15T14:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T15:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033182808555049343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1608172288905736192",
+          "start": 3,
+          "username": "Leo_Yuih"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4uRj7UgFnJ",
+          "end": 48,
+          "expanded_url": "https://x.com/Leo_Yuih/status/2033109048393142605/photo/1",
+          "media_key": "3_2033109026373083136",
+          "start": 25,
+          "url": "https://t.co/4uRj7UgFnJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033182808555049343",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2061
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033109048393142605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Leo_Yuih: Xやってて萎える瞬間 https://t.co/4uRj7UgFnJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1403,
+        "media_key": "3_2033109026373083136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDcN4zqboAAVFK5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033109026373083136"
+          ],
+          "media_source_tweet_id": [
+            "2033109048393142605"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033182808555049343",
+        "created_at": "2026-03-15T14:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033182808555049343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1608172288905736192",
+              "start": 3,
+              "username": "Leo_Yuih"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4uRj7UgFnJ",
+              "end": 48,
+              "expanded_url": "https://x.com/Leo_Yuih/status/2033109048393142605/photo/1",
+              "media_key": "3_2033109026373083136",
+              "start": 25,
+              "url": "https://t.co/4uRj7UgFnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033182808555049343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2061
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033109048393142605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Leo_Yuih: Xやってて萎える瞬間 https://t.co/4uRj7UgFnJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033109026373083136"
+          ]
+        },
+        "author_id": "1608172288905736192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033109048393142605",
+        "created_at": "2026-03-15T09:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T10:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033109048393142605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4uRj7UgFnJ",
+              "end": 34,
+              "expanded_url": "https://x.com/Leo_Yuih/status/2033109048393142605/photo/1",
+              "media_key": "3_2033109026373083136",
+              "start": 11,
+              "url": "https://t.co/4uRj7UgFnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033109048393142605",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 339,
+          "impression_count": 320663,
+          "like_count": 17747,
+          "quote_count": 130,
+          "reply_count": 42,
+          "retweet_count": 2061
+        },
+        "reply_settings": "everyone",
+        "text": "Xやってて萎える瞬間 https://t.co/4uRj7UgFnJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 236,
+          "like_count": 4497,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 703
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T18:45:53.000Z",
+        "description": "主にプロセカのコラとかクイズとか作ってる人です 一歌推しヘッダー作成者→@wyuki0821 さん 日常系のサブ垢→@hoshiyui_sub2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "wyuki0821"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "hoshiyui_sub2"
+              }
+            ]
+          }
+        },
+        "id": "1608172288905736192",
+        "location": "日本",
+        "name": "ほしゆい",
+        "pinned_tweet_id": "2011005962161889433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878423097147375616/Mhxd_BHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3725,
+          "following_count": 1949,
+          "like_count": 10102,
+          "listed_count": 12,
+          "media_count": 906,
+          "tweet_count": 8857
+        },
+        "username": "Leo_Yuih",
+        "verified": false
+      }
+    ]
+  }
+}

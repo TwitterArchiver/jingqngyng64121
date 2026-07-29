@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2067504737730306314",
+    "created_at": "2026-06-18T07:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067504737730306314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1237682800767066117",
+          "start": 3,
+          "username": "nenxokoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067504737730306314",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2579
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067004769731018998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nenxokoa: 여자가여자를좋아하는건당연한거아닌가?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2067504737730306314",
+        "created_at": "2026-06-18T07:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067504737730306314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1237682800767066117",
+              "start": 3,
+              "username": "nenxokoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067504737730306314",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2579
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067004769731018998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nenxokoa: 여자가여자를좋아하는건당연한거아닌가?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1237682800767066117",
+        "conversation_id": "2067004769731018998",
+        "created_at": "2026-06-16T22:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T23:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067004769731018998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067004769731018998",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 257,
+          "impression_count": 240147,
+          "like_count": 11680,
+          "quote_count": 182,
+          "reply_count": 118,
+          "retweet_count": 2579
+        },
+        "reply_settings": "everyone",
+        "text": "여자가여자를좋아하는건당연한거아닌가?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 412,
+          "like_count": 7760,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1609
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-11T10:12:42.000Z",
+        "description": "ig : eexnko7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asked.kr/eexnko7",
+                "end": 23,
+                "expanded_url": "http://asked.kr/eexnko7",
+                "start": 0,
+                "url": "https://t.co/26EnMaDxGp"
+              }
+            ]
+          }
+        },
+        "id": "1237682800767066117",
+        "name": "N",
+        "pinned_tweet_id": "2066129642818547959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066148519711498240/oUrsibDZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 63,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 150
+        },
+        "url": "https://t.co/26EnMaDxGp",
+        "username": "nenxokoa",
+        "verified": false
+      }
+    ]
+  }
+}

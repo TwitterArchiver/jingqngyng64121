@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2033461523339702620",
+    "created_at": "2026-03-17T09:19:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T10:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033835644167065627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1744207911616753664",
+          "start": 0,
+          "username": "ASLANT1025533"
+        },
+        {
+          "end": 27,
+          "id": "1769655473719152640",
+          "start": 15,
+          "username": "asagawa1874"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033835644167065627",
+    "in_reply_to_user_id": "1744207911616753664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033461523339702620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ASLANT1025533 @asagawa1874 请求🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033461393996042240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhOXTWa0AA0YJF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033461393970860032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhOXTQakAA5kRY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 677,
+        "media_key": "3_2033461394017058816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhOXTbbgAAwGEM.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1548,
+        "media_key": "3_2033461393945473024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhOXTKXMAAvGWO.jpg",
+        "width": 1548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2033461523339702620",
+        "created_at": "2026-03-17T09:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T10:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033835644167065627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1744207911616753664",
+              "start": 0,
+              "username": "ASLANT1025533"
+            },
+            {
+              "end": 27,
+              "id": "1769655473719152640",
+              "start": 15,
+              "username": "asagawa1874"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033835644167065627",
+        "in_reply_to_user_id": "1744207911616753664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033461523339702620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ASLANT1025533 @asagawa1874 请求🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033461393996042240",
+            "3_2033461393970860032",
+            "3_2033461394017058816",
+            "3_2033461393945473024"
+          ]
+        },
+        "author_id": "1744207911616753664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2033461523339702620",
+        "created_at": "2026-03-16T08:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T09:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033461523339702620"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "餐券"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "惨圈"
+            },
+            {
+              "end": 96,
+              "start": 92,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "门槛弟"
+            },
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "门槛"
+            },
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "纯绿"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "线上纯绿"
+            },
+            {
+              "end": 144,
+              "start": 132,
+              "tag": "地雷系さんと繋がりたい"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "雰囲気"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4rIpug4E0v",
+              "end": 173,
+              "expanded_url": "https://x.com/ASLANT1025533/status/2033461523339702620/photo/1",
+              "media_key": "3_2033461393996042240",
+              "start": 150,
+              "url": "https://t.co/4rIpug4E0v"
+            },
+            {
+              "display_url": "pic.x.com/4rIpug4E0v",
+              "end": 173,
+              "expanded_url": "https://x.com/ASLANT1025533/status/2033461523339702620/photo/1",
+              "media_key": "3_2033461393970860032",
+              "start": 150,
+              "url": "https://t.co/4rIpug4E0v"
+            },
+            {
+              "display_url": "pic.x.com/4rIpug4E0v",
+              "end": 173,
+              "expanded_url": "https://x.com/ASLANT1025533/status/2033461523339702620/photo/1",
+              "media_key": "3_2033461394017058816",
+              "start": 150,
+              "url": "https://t.co/4rIpug4E0v"
+            },
+            {
+              "display_url": "pic.x.com/4rIpug4E0v",
+              "end": 173,
+              "expanded_url": "https://x.com/ASLANT1025533/status/2033461523339702620/photo/1",
+              "media_key": "3_2033461393945473024",
+              "start": 150,
+              "url": "https://t.co/4rIpug4E0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033461523339702620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 670,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "🔝这是一条置顶\n=AS/ASLANT 07/自伤/药物滥用/双相/情绪不稳定 \n生理♀但是自我性别认知无性所以称呼随意，过门详情p3，详情也可私信，欢迎女宝互转互fo\n#餐券 #惨圈 #门槛妹 #门槛弟 #门槛哥 #门槛姐 #门槛 #ATM奴 #纯绿 #线上纯绿 #地雷系さんと繋がりたい #雰囲気 https://t.co/4rIpug4E0v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 247,
+          "like_count": 4588,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 713
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T04:02:38.000Z",
+        "description": "07/#自傷/#リスカ/#shtwt/#OD\n中文🇨🇳/eng🇬🇧🇺🇸/日本語が分からず、翻訳機で見ています\n什麼圈子都搞，會發畫發日常也會發血圖。不愛看滾。歡迎互fo。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "自傷"
+              },
+              {
+                "end": 11,
+                "start": 7,
+                "tag": "リスカ"
+              },
+              {
+                "end": 18,
+                "start": 12,
+                "tag": "shtwt"
+              },
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "OD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aslant1601",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aslant1601",
+                "start": 0,
+                "url": "https://t.co/Nol50rRJ4x"
+              }
+            ]
+          }
+        },
+        "id": "1744207911616753664",
+        "location": "我死了。",
+        "name": "ASLANT",
+        "pinned_tweet_id": "2033461523339702620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033420052398313473/h010-GMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 367,
+          "like_count": 1898,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 824
+        },
+        "url": "https://t.co/Nol50rRJ4x",
+        "username": "ASLANT1025533",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-18T09:22:12.000Z",
+        "description": "放彼此一条活路OK？\n有男朋友\n有没有天使女孩和我互fo😞",
+        "id": "1769655473719152640",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "yuuuyuu",
+        "pinned_tweet_id": "2033388563182825757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980854096811667456/P_s3dcgf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 143,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 169
+        },
+        "username": "asagawa1874",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2014439085486817406",
+    "created_at": "2026-01-24T02:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T03:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014886521434996887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "941493500188561408",
+          "start": 0,
+          "username": "hujun36704892"
+        },
+        {
+          "end": 31,
+          "id": "1981563709102477312",
+          "start": 15,
+          "username": "yui804275429451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014886521434996887",
+    "in_reply_to_user_id": "941493500188561408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014710161244618961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hujun36704892 @yui804275429451 管你jb事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2014439085486817406",
+        "created_at": "2026-01-24T02:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T03:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014886521434996887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "941493500188561408",
+              "start": 0,
+              "username": "hujun36704892"
+            },
+            {
+              "end": 31,
+              "id": "1981563709102477312",
+              "start": 15,
+              "username": "yui804275429451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014886521434996887",
+        "in_reply_to_user_id": "941493500188561408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014710161244618961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hujun36704892 @yui804275429451 管你jb事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "941493500188561408",
+        "conversation_id": "2014439085486817406",
+        "created_at": "2026-01-23T14:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T15:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014710161244618961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981563709102477312",
+              "start": 0,
+              "username": "yui804275429451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014710161244618961",
+        "in_reply_to_user_id": "1981563709102477312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 499,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014439085486817406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yui804275429451 为什么不在脸上滑几条"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 29,
+          "like_count": 990,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 159
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-15T02:21:57.000Z",
+        "description": "Member @theNextDAO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "theNextDAO"
+              }
+            ]
+          }
+        },
+        "id": "941493500188561408",
+        "location": "People's Republic of China",
+        "name": "nbcoin.eth",
+        "pinned_tweet_id": "1373595703277088768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749028849156030464/5tJ7sSn-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1029,
+          "like_count": 551,
+          "listed_count": 6,
+          "media_count": 134,
+          "tweet_count": 1197
+        },
+        "username": "hujun36704892",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T03:29:48.000Z",
+        "description": "希望天使降临在我身边",
+        "id": "1981563709102477312",
+        "location": "北校C栋",
+        "name": "rain",
+        "pinned_tweet_id": "1986500531519701099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984910597394505728/ts_obaKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3368,
+          "following_count": 596,
+          "like_count": 2048,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 801
+        },
+        "username": "yui804275429451",
+        "verified": false
+      }
+    ]
+  }
+}

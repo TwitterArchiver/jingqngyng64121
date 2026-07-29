@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2045034888353780198",
+    "created_at": "2026-04-17T09:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T10:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045068536725540943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1723546829454032896",
+          "start": 0,
+          "username": "yeshsbxhjs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045068536725540943",
+    "in_reply_to_user_id": "1723546829454032896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045034888353780198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeshsbxhjs 你为啥这么萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8166,
+        "height": 1280,
+        "media_key": "13_2045034791645646848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045034791645646848/img/nYgDcZ9KCXhYpjvQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045034791645646848/vid/avc1/320x568/gW5JgFF8B0tQ5DKe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045034791645646848/vid/avc1/480x852/Po7-V0Z3jHeOmUsq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045034791645646848/vid/avc1/720x1280/hHXdn_7V5zoH_gyi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045034791645646848/pl/34lPzF9Mv7-q4G5W.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2045034888353780198",
+        "created_at": "2026-04-17T09:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T10:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045068536725540943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1723546829454032896",
+              "start": 0,
+              "username": "yeshsbxhjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045068536725540943",
+        "in_reply_to_user_id": "1723546829454032896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045034888353780198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeshsbxhjs 你为啥这么萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045034791645646848"
+          ]
+        },
+        "author_id": "1723546829454032896",
+        "conversation_id": "2045034888353780198",
+        "created_at": "2026-04-17T07:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T08:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045034888353780198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5gcl6pCt6x",
+              "end": 28,
+              "expanded_url": "https://x.com/yeshsbxhjs/status/2045034888353780198/video/1",
+              "media_key": "13_2045034791645646848",
+              "start": 5,
+              "url": "https://t.co/5gcl6pCt6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045034888353780198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好懵逼！ https://t.co/5gcl6pCt6x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 400,
+          "like_count": 6565,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1240
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T03:43:27.000Z",
+        "description": "这里是秋秋！09 （欢迎宝宝互fo 会查一下成分 ）我成分很复杂 我会视监每一个关注我的人🙌互fo的宝宝可以找我聊天🥹我很社恐 说话像人机 没回就是手机不在……或者我在睡觉 谢谢你们喜欢我呀！！",
+        "id": "1723546829454032896",
+        "location": "天堂",
+        "name": "秋秋OvO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035225888196108288/aOw29pev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 178,
+          "like_count": 254,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 271
+        },
+        "username": "yeshsbxhjs",
+        "verified": false
+      }
+    ]
+  }
+}

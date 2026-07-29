@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2016999867990888600",
+    "created_at": "2026-01-29T22:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T23:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016999867990888600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1376365824689115140",
+          "start": 3,
+          "username": "8964rinrina8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016999867990888600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016835807680876749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964rinrina8964: 到26了以后身边已经有好几个因为抑郁症不上大学没有工作或者直接自杀的人，痛苦的不只是得抑郁症，而且得抑郁症之后人生还得继续，无论是自杀还是不自杀都会有相应的痛苦，希望大家都能宽以待己吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2016999867990888600",
+        "created_at": "2026-01-29T22:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T23:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016999867990888600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1376365824689115140",
+              "start": 3,
+              "username": "8964rinrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016999867990888600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016835807680876749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964rinrina8964: 到26了以后身边已经有好几个因为抑郁症不上大学没有工作或者直接自杀的人，痛苦的不只是得抑郁症，而且得抑郁症之后人生还得继续，无论是自杀还是不自杀都会有相应的痛苦，希望大家都能宽以待己吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1376365824689115140",
+        "conversation_id": "2016835807680876749",
+        "created_at": "2026-01-29T11:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T12:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016835807680876749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016835807680876749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 12915,
+          "like_count": 194,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "到26了以后身边已经有好几个因为抑郁症不上大学没有工作或者直接自杀的人，痛苦的不只是得抑郁症，而且得抑郁症之后人生还得继续，无论是自杀还是不自杀都会有相应的痛苦，希望大家都能宽以待己吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 78,
+          "like_count": 1423,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 260
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-29T02:49:32.000Z",
+        "description": "在日程序员",
+        "id": "1376365824689115140",
+        "name": "re",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969347431990247424/4-gvOY_Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2296,
+          "following_count": 705,
+          "like_count": 1803,
+          "listed_count": 13,
+          "media_count": 405,
+          "tweet_count": 2170
+        },
+        "username": "8964rinrina8964",
+        "verified": false
+      }
+    ]
+  }
+}

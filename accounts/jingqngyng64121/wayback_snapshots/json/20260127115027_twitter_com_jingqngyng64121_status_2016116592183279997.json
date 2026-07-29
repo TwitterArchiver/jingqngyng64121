@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015843303326154753"
+      ],
+      "media_source_tweet_id": [
+        "2015843314470388125"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2016116592183279997",
+    "created_at": "2026-01-27T11:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T12:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016116592183279997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1830641137297891328",
+          "start": 3,
+          "username": "Broken_Dreamszz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EWNtUFJmvT",
+          "end": 44,
+          "expanded_url": "https://x.com/Broken_Dreamszz/status/2015843314470388125/photo/1",
+          "media_key": "3_2015843303326154753",
+          "start": 21,
+          "url": "https://t.co/EWNtUFJmvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016116592183279997",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 351
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015843314470388125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Broken_Dreamszz: https://t.co/EWNtUFJmvT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1762,
+        "media_key": "3_2015843303326154753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_m2zdGbAAE6r9I.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015843303326154753"
+          ],
+          "media_source_tweet_id": [
+            "2015843314470388125"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2016116592183279997",
+        "created_at": "2026-01-27T11:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016116592183279997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1830641137297891328",
+              "start": 3,
+              "username": "Broken_Dreamszz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EWNtUFJmvT",
+              "end": 44,
+              "expanded_url": "https://x.com/Broken_Dreamszz/status/2015843314470388125/photo/1",
+              "media_key": "3_2015843303326154753",
+              "start": 21,
+              "url": "https://t.co/EWNtUFJmvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016116592183279997",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 351
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015843314470388125",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Broken_Dreamszz: https://t.co/EWNtUFJmvT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015843303326154753"
+          ]
+        },
+        "author_id": "1830641137297891328",
+        "conversation_id": "2015843314470388125",
+        "created_at": "2026-01-26T17:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T18:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015843314470388125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EWNtUFJmvT",
+              "end": 23,
+              "expanded_url": "https://x.com/Broken_Dreamszz/status/2015843314470388125/photo/1",
+              "media_key": "3_2015843303326154753",
+              "start": 0,
+              "url": "https://t.co/EWNtUFJmvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015843314470388125",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 20572,
+          "like_count": 1687,
+          "quote_count": 11,
+          "reply_count": 6,
+          "retweet_count": 351
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EWNtUFJmvT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 77,
+          "like_count": 1286,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 243
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T16:17:21.000Z",
+        "description": "ミ💔𝐓𝐢𝐫𝐞𝐝 𝐨𝐟 𝐭𝐡𝐢𝐬 𝐰𝐨𝐫𝐥𝐝 💔彡",
+        "id": "1830641137297891328",
+        "name": "Echo",
+        "pinned_tweet_id": "2016099765826814085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968364934267346944/2TDm95Og_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17937,
+          "following_count": 8613,
+          "like_count": 31789,
+          "listed_count": 5,
+          "media_count": 1619,
+          "tweet_count": 30042
+        },
+        "username": "Broken_Dreamszz",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999483349212233735"
+      ],
+      "media_source_tweet_id": [
+        "1999483390886838669"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "1999849732051448064",
+    "created_at": "2025-12-13T14:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T15:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999849732051448064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "58858449",
+          "start": 3,
+          "username": "Gavin_BIC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ViALfppFNB",
+          "end": 38,
+          "expanded_url": "https://x.com/Gavin_BIC/status/1999483390886838669/photo/1",
+          "media_key": "3_1999483349212233735",
+          "start": 15,
+          "url": "https://t.co/ViALfppFNB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999849732051448064",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999483390886838669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gavin_BIC: https://t.co/ViALfppFNB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2688,
+        "media_key": "3_1999483349212233735",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-XgywagAc5Abv.jpg",
+        "width": 1792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999483349212233735"
+          ],
+          "media_source_tweet_id": [
+            "1999483390886838669"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "1999849732051448064",
+        "created_at": "2025-12-13T14:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T15:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999849732051448064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "58858449",
+              "start": 3,
+              "username": "Gavin_BIC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ViALfppFNB",
+              "end": 38,
+              "expanded_url": "https://x.com/Gavin_BIC/status/1999483390886838669/photo/1",
+              "media_key": "3_1999483349212233735",
+              "start": 15,
+              "url": "https://t.co/ViALfppFNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999849732051448064",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999483390886838669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gavin_BIC: https://t.co/ViALfppFNB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999483349212233735"
+          ]
+        },
+        "author_id": "58858449",
+        "conversation_id": "1999483390886838669",
+        "created_at": "2025-12-12T14:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T15:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999483390886838669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ViALfppFNB",
+              "end": 23,
+              "expanded_url": "https://x.com/Gavin_BIC/status/1999483390886838669/photo/1",
+              "media_key": "3_1999483349212233735",
+              "start": 0,
+              "url": "https://t.co/ViALfppFNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999483390886838669",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 5686,
+          "like_count": 537,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ViALfppFNB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998749275337916416/CyBtRo9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-21T17:28:28.000Z",
+        "description": "🖼️ check out my profile page and highlights for art",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gavin.moe",
+                "end": 23,
+                "expanded_url": "https://gavin.moe/",
+                "start": 0,
+                "url": "https://t.co/BenlhDVx2v"
+              }
+            ]
+          }
+        },
+        "id": "58858449",
+        "location": "latent space",
+        "name": "Gavin BIC",
+        "pinned_tweet_id": "1832746702446669838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804321270793908224/AFX2vxnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13339,
+          "following_count": 136,
+          "like_count": 84973,
+          "listed_count": 91,
+          "media_count": 2341,
+          "tweet_count": 24256
+        },
+        "url": "https://t.co/BenlhDVx2v",
+        "username": "Gavin_BIC",
+        "verified": true
+      }
+    ]
+  }
+}

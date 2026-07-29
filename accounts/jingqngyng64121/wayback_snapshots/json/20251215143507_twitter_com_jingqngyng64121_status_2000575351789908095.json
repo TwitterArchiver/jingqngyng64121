@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2000575351789908095",
+    "created_at": "2025-12-15T14:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T15:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000575351789908095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1854915067994841088",
+          "start": 3,
+          "username": "siquanjiale8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000575351789908095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000262292454425025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siquanjiale8964: 你们咋做到就是随便说点啥然后对方就稀里哗啦爱上你的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2000575351789908095",
+        "created_at": "2025-12-15T14:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T15:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000575351789908095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1854915067994841088",
+              "start": 3,
+              "username": "siquanjiale8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000575351789908095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000262292454425025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siquanjiale8964: 你们咋做到就是随便说点啥然后对方就稀里哗啦爱上你的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854915067994841088",
+        "conversation_id": "2000262292454425025",
+        "created_at": "2025-12-14T17:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T18:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000262292454425025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000262292454425025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 19279,
+          "like_count": 197,
+          "quote_count": 5,
+          "reply_count": 27,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "你们咋做到就是随便说点啥然后对方就稀里哗啦爱上你的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998749275337916416/CyBtRo9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T15:53:35.000Z",
+        "description": "｜性格は悪いが善良だ｜",
+        "id": "1854915067994841088",
+        "location": "不闲聊 好友位52 聊天门520 没有线下不要问了",
+        "name": "悽",
+        "pinned_tweet_id": "1993553535557116224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988170632170008581/oFbmNtXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 161,
+          "like_count": 1258,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 2693
+        },
+        "username": "siquanjiale8964",
+        "verified": false
+      }
+    ]
+  }
+}

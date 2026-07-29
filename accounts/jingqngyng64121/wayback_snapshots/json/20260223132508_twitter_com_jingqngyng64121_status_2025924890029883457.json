@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025852481071378432"
+      ],
+      "media_source_tweet_id": [
+        "2025852489166438572"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2025924890029883457",
+    "created_at": "2026-02-23T13:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T14:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025924890029883457"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "母狗"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "线下"
+        },
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "非绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1966106364901740544",
+          "start": 3,
+          "username": "AgNo3_XQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rj0qI3kUoq",
+          "end": 58,
+          "expanded_url": "https://x.com/AgNo3_XQ/status/2025852489166438572/photo/1",
+          "media_key": "3_2025852481071378432",
+          "start": 35,
+          "url": "https://t.co/rj0qI3kUoq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025924890029883457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025852489166438572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AgNo3_XQ: 等待一个金主爸爸\n#母狗 #线下 #非绿 https://t.co/rj0qI3kUoq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2025924890029883457].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2025924890029883457",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2025924890029883457"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025852481071378432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1GGR2acAANOQD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025852481071378432"
+          ]
+        },
+        "author_id": "1966106364901740544",
+        "conversation_id": "2025852489166438572",
+        "created_at": "2026-02-23T08:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025852489166438572"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "母狗"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "线下"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "非绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rj0qI3kUoq",
+              "end": 44,
+              "expanded_url": "https://x.com/AgNo3_XQ/status/2025852489166438572/photo/1",
+              "media_key": "3_2025852481071378432",
+              "start": 21,
+              "url": "https://t.co/rj0qI3kUoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025852489166438572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "等待一个金主爸爸\n#母狗 #线下 #非绿 https://t.co/rj0qI3kUoq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 187,
+          "like_count": 3448,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 551
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T11:47:50.000Z",
+        "description": "09｜双相｜istp-t｜巨蟹座｜日常频繁od｜目前已戒割｜顺女双性恋｜欢迎互fo｜精神无国籍｜骂我的人都是傻逼支那猪我就是个刻薄的人｜坐标上海带口令问问题谢谢",
+        "id": "1966106364901740544",
+        "location": "🚪52/88/188/288/520",
+        "name": "硝酸银#浅（求过门版）",
+        "pinned_tweet_id": "2020107092934197549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025208610662600704/qUHgOejo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 759,
+          "like_count": 2615,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 2313
+        },
+        "username": "AgNo3_XQ",
+        "verified": false
+      }
+    ]
+  }
+}

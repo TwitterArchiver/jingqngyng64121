@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2030281694184636891",
+    "created_at": "2026-03-07T13:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T14:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030281694184636891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1832150343716626432",
+          "start": 3,
+          "username": "Mitsumero1115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030281694184636891",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3187
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029814548308312114",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Mitsumero1115: 学校行きたくない学校行きたくない学校行きたくない死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2030281694184636891",
+        "created_at": "2026-03-07T13:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030281694184636891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1832150343716626432",
+              "start": 3,
+              "username": "Mitsumero1115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030281694184636891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3187
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029814548308312114",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @Mitsumero1115: 学校行きたくない学校行きたくない学校行きたくない死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832150343716626432",
+        "conversation_id": "2029814548308312114",
+        "created_at": "2026-03-06T07:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T08:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029814548308312114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029814548308312114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 492,
+          "impression_count": 282806,
+          "like_count": 10713,
+          "quote_count": 254,
+          "reply_count": 0,
+          "retweet_count": 3187
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "学校行きたくない学校行きたくない学校行きたくない死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい死にたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 218,
+          "like_count": 3956,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 643
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T20:14:35.000Z",
+        "description": "情緒不安定┊︎学生┊︎女┊︎返信は正気に戻ってからしてます@mitumero1115これも私ですフォローしてくれると嬉しい",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "mitumero1115"
+              }
+            ]
+          }
+        },
+        "id": "1832150343716626432",
+        "location": "いやスイスなんですよね、これが",
+        "name": "死にたい星人",
+        "pinned_tweet_id": "2013007376018755758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888719422380032000/p2YKBqWd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5867,
+          "following_count": 853,
+          "like_count": 132449,
+          "listed_count": 18,
+          "media_count": 119,
+          "tweet_count": 13858
+        },
+        "username": "Mitsumero1115",
+        "verified": false
+      }
+    ]
+  }
+}

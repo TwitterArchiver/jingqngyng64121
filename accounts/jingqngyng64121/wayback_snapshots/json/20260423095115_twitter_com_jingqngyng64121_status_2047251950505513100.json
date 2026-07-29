@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2047235155388215510",
+    "created_at": "2026-04-23T09:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T10:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047251950505513100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2047229696379846656",
+          "start": 0,
+          "username": "Khip87dk"
+        },
+        {
+          "end": 21,
+          "id": "2038644495533723648",
+          "start": 10,
+          "username": "staryhrzzz"
+        },
+        {
+          "end": 37,
+          "id": "2013209398395752448",
+          "start": 22,
+          "username": "DesireLovet1qi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047251950505513100",
+    "in_reply_to_user_id": "2047229696379846656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047235155388215510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Khip87dk @staryhrzzz @DesireLovet1qi 我是你前世互fo🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047235142746624000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGk9g_8b0AAc0Dn.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2047235155388215510",
+        "created_at": "2026-04-23T09:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047251950505513100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047229696379846656",
+              "start": 0,
+              "username": "Khip87dk"
+            },
+            {
+              "end": 21,
+              "id": "2038644495533723648",
+              "start": 10,
+              "username": "staryhrzzz"
+            },
+            {
+              "end": 37,
+              "id": "2013209398395752448",
+              "start": 22,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047251950505513100",
+        "in_reply_to_user_id": "2047229696379846656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047235155388215510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Khip87dk @staryhrzzz @DesireLovet1qi 我是你前世互fo🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047235142746624000"
+          ]
+        },
+        "author_id": "2047229696379846656",
+        "conversation_id": "2047235155388215510",
+        "created_at": "2026-04-23T08:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047235155388215510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2013209398395752448",
+              "start": 2,
+              "username": "DesireLovet1qi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/frpJv31csu",
+              "end": 58,
+              "expanded_url": "https://x.com/Khip87dk/status/2047235155388215510/photo/1",
+              "media_key": "3_2047235142746624000",
+              "start": 35,
+              "url": "https://t.co/frpJv31csu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047235155388215510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 302,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "這是@DesireLovet1qi 二世..求互關幫轉www尋回互關 https://t.co/frpJv31csu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 417,
+          "like_count": 6907,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 1332
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T08:27:23.000Z",
+        "description": "@DesireLovet1qi的二世…號被封了7天。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "DesireLovet1qi"
+              }
+            ]
+          }
+        },
+        "id": "2047229696379846656",
+        "name": "愛歌（二世互關尋回中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047232829290110976/8O28n2ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 25,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "Khip87dk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T15:50:40.000Z",
+        "description": "我是kyo 會當日記來發 希望大家都獲得幸福！許願天使女孩互fo（本人很溫良但希望屬性相近）infp絕對社恐之人\n戀人是教主大人💗\n素學家 and電波作愛好者 我吃信徒組 小橘子賽高",
+        "id": "2038644495533723648",
+        "name": "kyo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038645383853666305/UGax8MKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 71,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 96
+        },
+        "username": "staryhrzzz",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/重焦重抑  简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！想到啥发啥非常喜欢评论 上来骂我=你赢了恭喜毕业☺️请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2044175216386158879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 315,
+          "like_count": 466,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 453
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      }
+    ]
+  }
+}

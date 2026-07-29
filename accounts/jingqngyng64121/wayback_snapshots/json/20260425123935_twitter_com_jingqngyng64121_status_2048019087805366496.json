@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2048019087805366496",
+    "created_at": "2026-04-25T12:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048019087805366496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "327564013",
+          "start": 3,
+          "username": "XmasFutbol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048019087805366496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045309193587212468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XmasFutbol: 大家好我是zz宝宝                                     \n缺💰欠债被迫下海🥺\n求金主爸爸投喂求溺爱\n线上线下都接，可验证呀\n坐标20r入🚪我会全程真心对待♥️…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1553,
+        "media_key": "3_2045309181381718016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJl3SwaMAA7wYK.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1546,
+        "media_key": "3_2045309181377622016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJl3SvbsAALaWf.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1563,
+        "media_key": "3_2045309181373337600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJl3SuaUAAdb4U.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1104,
+        "media_key": "3_2045309181373390848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJl3SubIAAH_CT.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2048019087805366496",
+        "created_at": "2026-04-25T12:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048019087805366496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "327564013",
+              "start": 3,
+              "username": "XmasFutbol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048019087805366496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045309193587212468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XmasFutbol: 大家好我是zz宝宝                                     \n缺💰欠债被迫下海🥺\n求金主爸爸投喂求溺爱\n线上线下都接，可验证呀\n坐标20r入🚪我会全程真心对待♥️…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045309181381718016",
+            "3_2045309181377622016",
+            "3_2045309181373337600",
+            "3_2045309181373390848"
+          ]
+        },
+        "author_id": "327564013",
+        "conversation_id": "2045309193587212468",
+        "created_at": "2026-04-18T01:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T02:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045309193587212468"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "金主"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "陪聊"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "非绿"
+            },
+            {
+              "end": 156,
+              "start": 153,
+              "tag": "女大"
+            },
+            {
+              "end": 160,
+              "start": 157,
+              "tag": "反差"
+            },
+            {
+              "end": 165,
+              "start": 161,
+              "tag": "爆金币"
+            },
+            {
+              "end": 169,
+              "start": 166,
+              "tag": "缺钱"
+            },
+            {
+              "end": 173,
+              "start": 170,
+              "tag": "入门"
+            },
+            {
+              "end": 179,
+              "start": 174,
+              "tag": "电子女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E4WBeQd5ov",
+              "end": 203,
+              "expanded_url": "https://x.com/XmasFutbol/status/2045309193587212468/photo/1",
+              "media_key": "3_2045309181381718016",
+              "start": 180,
+              "url": "https://t.co/E4WBeQd5ov"
+            },
+            {
+              "display_url": "pic.x.com/E4WBeQd5ov",
+              "end": 203,
+              "expanded_url": "https://x.com/XmasFutbol/status/2045309193587212468/photo/1",
+              "media_key": "3_2045309181377622016",
+              "start": 180,
+              "url": "https://t.co/E4WBeQd5ov"
+            },
+            {
+              "display_url": "pic.x.com/E4WBeQd5ov",
+              "end": 203,
+              "expanded_url": "https://x.com/XmasFutbol/status/2045309193587212468/photo/1",
+              "media_key": "3_2045309181373337600",
+              "start": 180,
+              "url": "https://t.co/E4WBeQd5ov"
+            },
+            {
+              "display_url": "pic.x.com/E4WBeQd5ov",
+              "end": 203,
+              "expanded_url": "https://x.com/XmasFutbol/status/2045309193587212468/photo/1",
+              "media_key": "3_2045309181373390848",
+              "start": 180,
+              "url": "https://t.co/E4WBeQd5ov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045309193587212468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 17755,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是zz宝宝                                     \n缺💰欠债被迫下海🥺\n求金主爸爸投喂求溺爱\n线上线下都接，可验证呀\n坐标20r入🚪我会全程真心对待♥️                               \n欢迎宝互转互fo#门槛 #金主 #陪聊 #非绿 #女大 #反差 #爆金币 #缺钱 #入门 #电子女友 https://t.co/E4WBeQd5ov"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 419,
+          "like_count": 6976,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1360
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-01T19:35:20.000Z",
+        "description": "过🚪回口令，白嫖哥拒绝❌\n求包养，很粘人别嫌烦，爱我别嘴上说",
+        "id": "327564013",
+        "location": "0.1",
+        "name": "zz",
+        "pinned_tweet_id": "2045309193587212468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045306680049885184/B1db5DWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 399
+        },
+        "username": "XmasFutbol",
+        "verified": false
+      }
+    ]
+  }
+}

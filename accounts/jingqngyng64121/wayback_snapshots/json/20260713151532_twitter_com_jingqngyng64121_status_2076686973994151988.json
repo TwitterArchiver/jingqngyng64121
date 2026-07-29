@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076008395841085441"
+      ],
+      "media_source_tweet_id": [
+        "2076008400492884104"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2076686973994151988",
+    "created_at": "2026-07-13T15:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076686973994151988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2002325505606103041",
+          "start": 3,
+          "username": "d4yr1n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jLlOxTH7Qw",
+          "end": 76,
+          "expanded_url": "https://x.com/d4yr1n/status/2076008400492884104/photo/1",
+          "media_key": "3_2076008395841085441",
+          "start": 53,
+          "url": "https://t.co/jLlOxTH7Qw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076686973994151988",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10430
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076008400492884104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @d4yr1n: Así me siento cuando intento verme linde https://t.co/jLlOxTH7Qw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 743,
+        "media_key": "3_2076008395841085441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM92owjWIAEIdii.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076008395841085441"
+          ],
+          "media_source_tweet_id": [
+            "2076008400492884104"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2076686973994151988",
+        "created_at": "2026-07-13T15:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076686973994151988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2002325505606103041",
+              "start": 3,
+              "username": "d4yr1n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jLlOxTH7Qw",
+              "end": 76,
+              "expanded_url": "https://x.com/d4yr1n/status/2076008400492884104/photo/1",
+              "media_key": "3_2076008395841085441",
+              "start": 53,
+              "url": "https://t.co/jLlOxTH7Qw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076686973994151988",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10430
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076008400492884104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @d4yr1n: Así me siento cuando intento verme linde https://t.co/jLlOxTH7Qw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076008395841085441"
+          ]
+        },
+        "author_id": "2002325505606103041",
+        "conversation_id": "2076008400492884104",
+        "created_at": "2026-07-11T18:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076008400492884104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jLlOxTH7Qw",
+              "end": 64,
+              "expanded_url": "https://x.com/d4yr1n/status/2076008400492884104/photo/1",
+              "media_key": "3_2076008395841085441",
+              "start": 41,
+              "url": "https://t.co/jLlOxTH7Qw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076008400492884104",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 784,
+          "impression_count": 216269,
+          "like_count": 30541,
+          "quote_count": 92,
+          "reply_count": 57,
+          "retweet_count": 10430
+        },
+        "reply_settings": "everyone",
+        "text": "Así me siento cuando intento verme linde https://t.co/jLlOxTH7Qw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 419,
+          "like_count": 8105,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1677
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T10:31:05.000Z",
+        "description": "_-.★ Does life outside have meaning?    †*. \n𝑆ℎ𝑒/𝐻𝑒     \n\n#otaku #shtwt #ne3t #obstwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 58,
+                "tag": "otaku"
+              },
+              {
+                "end": 71,
+                "start": 65,
+                "tag": "shtwt"
+              },
+              {
+                "end": 77,
+                "start": 72,
+                "tag": "ne3t"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "obstwt"
+              }
+            ]
+          }
+        },
+        "id": "2002325505606103041",
+        "name": "★D41rYn'†",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020485257225457665/DS73buHy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 614,
+          "like_count": 17998,
+          "listed_count": 11,
+          "media_count": 525,
+          "tweet_count": 5610
+        },
+        "url": "",
+        "username": "d4yr1n",
+        "verified": false
+      }
+    ]
+  }
+}

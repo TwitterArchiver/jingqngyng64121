@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081163340441587712"
+      ],
+      "media_source_tweet_id": [
+        "2081163342220079330"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2081590457923232122",
+    "created_at": "2026-07-27T04:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T05:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081590457923232122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2054893017946087424",
+          "start": 3,
+          "username": "lun060530"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sjjp2Alh02",
+          "end": 44,
+          "expanded_url": "https://x.com/lun060530/status/2081163342220079330/photo/1",
+          "media_key": "3_2081163340441587712",
+          "start": 21,
+          "url": "https://t.co/sjjp2Alh02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081590457923232122",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081163342220079330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lun060530: 道光哈哈哈 https://t.co/sjjp2Alh02"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_2081163340441587712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOHHCBqWEAAIxtJ.jpg",
+        "width": 688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081163340441587712"
+          ]
+        },
+        "author_id": "2054893017946087424",
+        "conversation_id": "2081163342220079330",
+        "created_at": "2026-07-25T23:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T00:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081163342220079330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sjjp2Alh02",
+              "end": 29,
+              "expanded_url": "https://x.com/lun060530/status/2081163342220079330/photo/1",
+              "media_key": "3_2081163340441587712",
+              "start": 6,
+              "url": "https://t.co/sjjp2Alh02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081163342220079330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 175406,
+          "like_count": 1917,
+          "quote_count": 1,
+          "reply_count": 173,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "道光哈哈哈 https://t.co/sjjp2Alh02"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081163340441587712"
+          ],
+          "media_source_tweet_id": [
+            "2081163342220079330"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2081590457923232122",
+        "created_at": "2026-07-27T04:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081590457923232122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2054893017946087424",
+              "start": 3,
+              "username": "lun060530"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sjjp2Alh02",
+              "end": 44,
+              "expanded_url": "https://x.com/lun060530/status/2081163342220079330/photo/1",
+              "media_key": "3_2081163340441587712",
+              "start": 21,
+              "url": "https://t.co/sjjp2Alh02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081590457923232122",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081163342220079330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lun060530: 道光哈哈哈 https://t.co/sjjp2Alh02"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 452,
+          "like_count": 8294,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1741
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T11:54:32.000Z",
+        "description": "中文互联网观察｜ 中文互联网段子手｜每天吐槽热点、奇葩事、爆笑视频｜普通人视角看世界｜来一起乐呵～ 感兴趣的点关注！",
+        "id": "2054893017946087424",
+        "name": "挽歌.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065062024544186368/RoAZgJKg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5144,
+          "following_count": 3287,
+          "like_count": 930,
+          "listed_count": 6,
+          "media_count": 1550,
+          "tweet_count": 3881
+        },
+        "url": "",
+        "username": "lun060530",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "1985756929948266681",
+    "created_at": "2025-11-30T10:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T11:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995072191982116875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1537134709490167808",
+          "start": 0,
+          "username": "LE0TELIER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995072191982116875",
+    "in_reply_to_user_id": "1537134709490167808",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985756929948266681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LE0TELIER so cool"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1976697092187049984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26jiEhbUAAcJ7t.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "1985756929948266681",
+        "created_at": "2025-11-30T10:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T11:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995072191982116875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1537134709490167808",
+              "start": 0,
+              "username": "LE0TELIER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995072191982116875",
+        "in_reply_to_user_id": "1537134709490167808",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985756929948266681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LE0TELIER so cool"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976697092187049984"
+          ]
+        },
+        "author_id": "1537134709490167808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985756929948266681",
+        "created_at": "2025-11-04T17:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T18:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985756929948266681"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 15,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 46,
+              "start": 36,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ELuo2d25ui",
+              "end": 70,
+              "expanded_url": "https://x.com/LE0TELIER/status/1985756929948266681/photo/1",
+              "media_key": "3_1976697092187049984",
+              "start": 47,
+              "url": "https://t.co/ELuo2d25ui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985756929948266681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2408,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "永遠にあなたの天使❤️‍🩹🪽\n#NEEDY_GIRL_OVERDOSE\n#NEEDY_pic https://t.co/ELuo2d25ui"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992506853117362176/32E1gBm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T18:07:35.000Z",
+        "description": "Leo ⟡ Hobbyist illust/chara design \n\nMATURE THEMES, 18+ ONLY\nHorror + Violence/Gore\n\n🚫AI/NFT🚫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foriio.com/leotelier",
+                "end": 23,
+                "expanded_url": "https://www.foriio.com/leotelier",
+                "start": 0,
+                "url": "https://t.co/TJn6tNtzC3"
+              }
+            ]
+          }
+        },
+        "id": "1537134709490167808",
+        "location": "He/Him | 26 | EN/ID ok!! ",
+        "name": "𝐋𝐄𝐎𝐌𝐈☀️🍷mychama insanity",
+        "pinned_tweet_id": "1992904508368937162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975876476240359424/rCvbxrfU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11427,
+          "following_count": 119,
+          "like_count": 24443,
+          "listed_count": 36,
+          "media_count": 1515,
+          "tweet_count": 14966
+        },
+        "url": "https://t.co/TJn6tNtzC3",
+        "username": "LE0TELIER",
+        "verified": false
+      }
+    ]
+  }
+}

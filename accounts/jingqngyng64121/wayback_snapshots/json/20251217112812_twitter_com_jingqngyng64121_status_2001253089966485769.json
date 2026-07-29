@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2001253089966485769",
+    "created_at": "2025-12-17T11:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T12:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001253089966485769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1585980515332820992",
+          "start": 3,
+          "username": "Pikapoka3999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001253089966485769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000896309415588155",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pikapoka3999: 祥子真的是天生自帶大女主氣場的人。\n\n整個Mygo劇場版前篇即使沒有多少畫面，但是只要她一出場，就立刻成為全場最亮眼的焦點。\n\n難怪劇中每個曾經與祥子接觸過的人，她們的人生軌跡，都因為祥子，而留下無法抹滅的痕跡。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2001253089966485769",
+        "created_at": "2025-12-17T11:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T12:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001253089966485769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1585980515332820992",
+              "start": 3,
+              "username": "Pikapoka3999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001253089966485769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000896309415588155",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pikapoka3999: 祥子真的是天生自帶大女主氣場的人。\n\n整個Mygo劇場版前篇即使沒有多少畫面，但是只要她一出場，就立刻成為全場最亮眼的焦點。\n\n難怪劇中每個曾經與祥子接觸過的人，她們的人生軌跡，都因為祥子，而留下無法抹滅的痕跡。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585980515332820992",
+        "conversation_id": "2000896309415588155",
+        "created_at": "2025-12-16T11:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T12:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000896309415588155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000896309415588155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 461,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "祥子真的是天生自帶大女主氣場的人。\n\n整個Mygo劇場版前篇即使沒有多少畫面，但是只要她一出場，就立刻成為全場最亮眼的焦點。\n\n難怪劇中每個曾經與祥子接觸過的人，她們的人生軌跡，都因為祥子，而留下無法抹滅的痕跡。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001251658462867457/SV9w9q-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T13:04:03.000Z",
+        "description": "若葉睦推し / 月之森大三角好吃😋 /  產糧成份為七成的むつさき和三成的そよむつ。（中文⭕️ / English🆗 / 日本語🆗）",
+        "id": "1585980515332820992",
+        "name": "Spheal丘🥒",
+        "pinned_tweet_id": "1902439171131895841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997897040463044608/EYioQynr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 58,
+          "like_count": 19925,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 5540
+        },
+        "username": "Pikapoka3999",
+        "verified": false
+      }
+    ]
+  }
+}

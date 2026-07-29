@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2044036731347849258",
+    "created_at": "2026-04-14T13:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044041676973539659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1978327452347662336",
+          "start": 0,
+          "username": "Snow9uriall"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044041676973539659",
+    "in_reply_to_user_id": "1978327452347662336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044036731347849258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow9uriall 那好累的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1643,
+        "media_key": "3_2044036712507097088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3gj2zXwAAaBT0.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2044036731347849258",
+        "created_at": "2026-04-14T13:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044041676973539659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978327452347662336",
+              "start": 0,
+              "username": "Snow9uriall"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044041676973539659",
+        "in_reply_to_user_id": "1978327452347662336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044036731347849258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow9uriall 那好累的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044036712507097088"
+          ]
+        },
+        "author_id": "1978327452347662336",
+        "conversation_id": "2044036731347849258",
+        "created_at": "2026-04-14T12:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044036731347849258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pAVQMLr7ja",
+              "end": 52,
+              "expanded_url": "https://x.com/Snow9uriall/status/2044036731347849258/photo/1",
+              "media_key": "3_2044036712507097088",
+              "start": 29,
+              "url": "https://t.co/pAVQMLr7ja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044036731347849258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为太伤心了又吃了药 但是明天还要去学校我就这样设置闹钟 https://t.co/pAVQMLr7ja"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 391,
+          "like_count": 6259,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1172
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-15T05:10:12.000Z",
+        "description": "=雪丨09丨infp\n想到什么发什么 碎碎念比较多\n欢迎来找我玩/互fo 很好相处",
+        "id": "1978327452347662336",
+        "name": "我唾弃你的坟墓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038593182565625857/8bTq6hp8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 25,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 120
+        },
+        "username": "Snow9uriall",
+        "verified": false
+      }
+    ]
+  }
+}

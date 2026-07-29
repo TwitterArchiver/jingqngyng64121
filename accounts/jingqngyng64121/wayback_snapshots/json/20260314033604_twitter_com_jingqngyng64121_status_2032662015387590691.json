@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2032457609052406105",
+    "created_at": "2026-03-14T03:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T04:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032662015387590691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1775833048493240320",
+          "start": 0,
+          "username": "kuukiwfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032662015387590691",
+    "in_reply_to_user_id": "1775833048493240320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032457609052406105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuukiwfn 不死图腾真的笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17170,
+        "height": 1280,
+        "media_key": "13_2032457543956705281",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032457543956705281/img/Y9jzFgw4faZGsKv1.jpg",
+        "public_metrics": {
+          "view_count": 174
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032457543956705281/vid/avc1/320x568/3JUtweS0o3Rd01gn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032457543956705281/vid/avc1/480x852/nOgHtWNiax-slc7Z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032457543956705281/vid/avc1/720x1280/SpRrLaH8fBwsnZiI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032457543956705281/pl/Li_-446nABUmm-3f.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2032457609052406105",
+        "created_at": "2026-03-14T03:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T04:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032662015387590691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1775833048493240320",
+              "start": 0,
+              "username": "kuukiwfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032662015387590691",
+        "in_reply_to_user_id": "1775833048493240320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032457609052406105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwfn 不死图腾真的笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032457543956705281"
+          ]
+        },
+        "author_id": "1775833048493240320",
+        "conversation_id": "2032457609052406105",
+        "created_at": "2026-03-13T14:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T15:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032457609052406105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8zzdjEAWD",
+              "end": 75,
+              "expanded_url": "https://x.com/kuukiwfn/status/2032457609052406105/video/1",
+              "media_key": "13_2032457543956705281",
+              "start": 52,
+              "url": "https://t.co/B8zzdjEAWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032457609052406105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 456,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我們一起overdose（\n21:00\n\n180mg dxm\n1200mg pr\n還有真露（bushi https://t.co/B8zzdjEAWD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 222,
+          "like_count": 4204,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 672
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T10:29:48.000Z",
+        "description": "✝️2010transgender 🏳️‍⚧️ 🖤 💊overdose lover 🩸喜欢非主流 ❤️ rebzyyx ,kets4eki..scenecore ..💉 dm互fo 😋😋 |",
+        "id": "1775833048493240320",
+        "location": "kuuki小黒屋",
+        "name": "✝️kuuki✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028531881999036416/YxNVIIbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 612,
+          "like_count": 28047,
+          "listed_count": 0,
+          "media_count": 541,
+          "tweet_count": 1969
+        },
+        "username": "kuukiwfn",
+        "verified": false
+      }
+    ]
+  }
+}

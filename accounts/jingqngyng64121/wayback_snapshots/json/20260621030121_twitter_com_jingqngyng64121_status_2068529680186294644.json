@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068035284781121536"
+      ],
+      "media_source_tweet_id": [
+        "2068035297640857957"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2068529680186294644",
+    "created_at": "2026-06-21T03:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T04:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068529680186294644"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "反差"
+        },
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "原味"
+        },
+        {
+          "end": 86,
+          "start": 81,
+          "tag": "女大学生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2052152492465524741",
+          "start": 3,
+          "username": "DeidreHenn79473"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7DoLG2JZca",
+          "end": 110,
+          "expanded_url": "https://x.com/DeidreHenn79473/status/2068035297640857957/photo/1",
+          "media_key": "3_2068035284781121536",
+          "start": 87,
+          "url": "https://t.co/7DoLG2JZca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068529680186294644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068035297640857957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DeidreHenn79473: 🔝\n我就是一个可爱可怜可恨的卖b女孩而已不要再封我了\n转抽\n300🚪*1\n52*1\n奶茶*2\n原味*2\n#反差 #原味 #女大学生 https://t.co/7DoLG2JZca"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068035284781121536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMjInRaQAAMlfy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068035284781121536"
+          ],
+          "media_source_tweet_id": [
+            "2068035297640857957"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2068529680186294644",
+        "created_at": "2026-06-21T03:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068529680186294644"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "反差"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "原味"
+            },
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "女大学生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2052152492465524741",
+              "start": 3,
+              "username": "DeidreHenn79473"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7DoLG2JZca",
+              "end": 110,
+              "expanded_url": "https://x.com/DeidreHenn79473/status/2068035297640857957/photo/1",
+              "media_key": "3_2068035284781121536",
+              "start": 87,
+              "url": "https://t.co/7DoLG2JZca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068529680186294644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068035297640857957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DeidreHenn79473: 🔝\n我就是一个可爱可怜可恨的卖b女孩而已不要再封我了\n转抽\n300🚪*1\n52*1\n奶茶*2\n原味*2\n#反差 #原味 #女大学生 https://t.co/7DoLG2JZca"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068035284781121536"
+          ]
+        },
+        "author_id": "2052152492465524741",
+        "conversation_id": "2068035297640857957",
+        "created_at": "2026-06-19T18:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068035297640857957"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "反差"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "原味"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "女大学生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7DoLG2JZca",
+              "end": 89,
+              "expanded_url": "https://x.com/DeidreHenn79473/status/2068035297640857957/photo/1",
+              "media_key": "3_2068035284781121536",
+              "start": 66,
+              "url": "https://t.co/7DoLG2JZca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068035297640857957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1962,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "🔝\n我就是一个可爱可怜可恨的卖b女孩而已不要再封我了\n转抽\n300🚪*1\n52*1\n奶茶*2\n原味*2\n#反差 #原味 #女大学生 https://t.co/7DoLG2JZca"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 411,
+          "like_count": 7776,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1612
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T22:24:17.000Z",
+        "description": "=猫猫🚪前世被歹人所害 188/300/520/1314...我很缺钱所以什么都接我坐标广东 验证30我是真人啊！\n接爸爸活/妈妈活/电子女友/原味/烟代 线下价格过门咨询哦爱你们\n验证35我很喜欢交朋友 女孩子可以跟我互fo吗爱你们O不过门勿扰。私信只回有礼貌的和口令",
+        "id": "2052152492465524741",
+        "location": "你心里",
+        "name": "世一萌猫猫",
+        "pinned_tweet_id": "2068035297640857957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061693006466670592/WFgC4BJZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 15,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "DeidreHenn79473",
+        "verified": false
+      }
+    ]
+  }
+}

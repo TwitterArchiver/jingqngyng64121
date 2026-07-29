@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2029174875139817762",
+    "created_at": "2026-03-04T12:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T13:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029174875139817762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1994004560298561541",
+          "start": 3,
+          "username": "wnn1318500"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029174875139817762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029144293831786509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wnn1318500: 已吞72颗泰诺24个复方烷胺片和11碳酸锂10氟伏沙明15喹硫平96的75mg普瑞巴林和12愈美片，准备昏迷最后一刻拿刀扎穿颈动脉再见推友们，晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2029174875139817762",
+        "created_at": "2026-03-04T12:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029174875139817762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1994004560298561541",
+              "start": 3,
+              "username": "wnn1318500"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029174875139817762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029144293831786509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wnn1318500: 已吞72颗泰诺24个复方烷胺片和11碳酸锂10氟伏沙明15喹硫平96的75mg普瑞巴林和12愈美片，准备昏迷最后一刻拿刀扎穿颈动脉再见推友们，晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994004560298561541",
+        "conversation_id": "2029144293831786509",
+        "created_at": "2026-03-04T10:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T11:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029144293831786509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029144293831786509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1438,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "已吞72颗泰诺24个复方烷胺片和11碳酸锂10氟伏沙明15喹硫平96的75mg普瑞巴林和12愈美片，准备昏迷最后一刻拿刀扎穿颈动脉再见推友们，晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 207,
+          "like_count": 3716,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 607
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-27T11:25:26.000Z",
+        "description": "米娜，这里风灵系统｜多意识体｜自伤｜od（药物滥用）｜ed｜那刻夏gb梦女（过激）｜同价好似喵｜梦想是没有抗药性一直活在药效里直到死去…🥰健全人请不要对我们表达过多恶意和偏见qwq（有时间会出自介属性条）",
+        "id": "1994004560298561541",
+        "location": "天堂",
+        "name": "皖安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005214640830373889/wIYlRd4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 23,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 91
+        },
+        "username": "wnn1318500",
+        "verified": false
+      }
+    ]
+  }
+}

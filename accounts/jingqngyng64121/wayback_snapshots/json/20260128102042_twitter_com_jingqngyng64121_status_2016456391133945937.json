@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2016456391133945937",
+    "created_at": "2026-01-28T10:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T11:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016456391133945937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "488823839",
+          "start": 3,
+          "username": "taikongjile000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016456391133945937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016104932227911782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taikongjile000: 教大家如何骗一个有精神创伤的女的你只需要不经意间发现她的伤疤然后不经意间提起再轻轻的你我不想再让你这样了给予她足够的爱甚至都不需要给钱这女的就会死心塌地的对你倒贴给你花钱这种对缺爱的尤其有用玩腻了直接踢就行这种人被丢了只会歌手嗑药写一点悲…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2016456391133945937",
+        "created_at": "2026-01-28T10:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T11:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016456391133945937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "488823839",
+              "start": 3,
+              "username": "taikongjile000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016456391133945937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016104932227911782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taikongjile000: 教大家如何骗一个有精神创伤的女的你只需要不经意间发现她的伤疤然后不经意间提起再轻轻的你我不想再让你这样了给予她足够的爱甚至都不需要给钱这女的就会死心塌地的对你倒贴给你花钱这种对缺爱的尤其有用玩腻了直接踢就行这种人被丢了只会歌手嗑药写一点悲…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "488823839",
+        "conversation_id": "2016104932227911782",
+        "created_at": "2026-01-27T11:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016104932227911782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016104932227911782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 15857,
+          "like_count": 234,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "教大家如何骗一个有精神创伤的女的你只需要不经意间发现她的伤疤然后不经意间提起再轻轻的你我不想再让你这样了给予她足够的爱甚至都不需要给钱这女的就会死心塌地的对你倒贴给你花钱这种对缺爱的尤其有用玩腻了直接踢就行这种人被丢了只会歌手嗑药写一点悲痛欲绝的文字怀念你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 78,
+          "like_count": 1323,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 253
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-10T21:51:18.000Z",
+        "description": "一个老实本分的农民\n大麻/迷幻剂去污名合法化\n官网：https://t.co/G0KfQSHAWC\n交流群：https://t.co/kaCNpFerhN\n备用号：@taikongjile001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "taikongjile001"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 49,
+                "expanded_url": "https://overdose.day/",
+                "start": 26,
+                "url": "https://t.co/G0KfQSHAWC"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 77,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 54,
+                "url": "https://t.co/kaCNpFerhN"
+              }
+            ]
+          }
+        },
+        "id": "488823839",
+        "location": "天国",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "2015675601815060786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015653690779271168/3qPtJUOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 132,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 95
+        },
+        "username": "taikongjile000",
+        "verified": false
+      }
+    ]
+  }
+}

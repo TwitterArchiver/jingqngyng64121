@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015790501249568768"
+      ],
+      "media_source_tweet_id": [
+        "2015790514688418150"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2016110459536154931",
+    "created_at": "2026-01-27T11:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T12:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016110459536154931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1369689842565738501",
+          "start": 3,
+          "username": "Valence_RC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5kcqEv2krl",
+          "end": 45,
+          "expanded_url": "https://x.com/Valence_RC/status/2015790514688418150/photo/1",
+          "media_key": "3_2015790501249568768",
+          "start": 22,
+          "url": "https://t.co/5kcqEv2krl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016110459536154931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015790514688418150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Valence_RC: 抑郁症好了 https://t.co/5kcqEv2krl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1891,
+        "media_key": "3_2015790501249568768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mGx-CWUAArmBo.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015790501249568768"
+          ],
+          "media_source_tweet_id": [
+            "2015790514688418150"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2016110459536154931",
+        "created_at": "2026-01-27T11:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016110459536154931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1369689842565738501",
+              "start": 3,
+              "username": "Valence_RC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5kcqEv2krl",
+              "end": 45,
+              "expanded_url": "https://x.com/Valence_RC/status/2015790514688418150/photo/1",
+              "media_key": "3_2015790501249568768",
+              "start": 22,
+              "url": "https://t.co/5kcqEv2krl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016110459536154931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015790514688418150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Valence_RC: 抑郁症好了 https://t.co/5kcqEv2krl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015790501249568768"
+          ]
+        },
+        "author_id": "1369689842565738501",
+        "conversation_id": "2015790514688418150",
+        "created_at": "2026-01-26T14:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015790514688418150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5kcqEv2krl",
+              "end": 29,
+              "expanded_url": "https://x.com/Valence_RC/status/2015790514688418150/photo/1",
+              "media_key": "3_2015790501249568768",
+              "start": 6,
+              "url": "https://t.co/5kcqEv2krl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015790514688418150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5084,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "抑郁症好了 https://t.co/5kcqEv2krl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 76,
+          "like_count": 1259,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 239
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-10T16:41:37.000Z",
+        "description": "秽土转生中//👾神秘人物/⛺露营爱好者//⚛️实验室小神厨//⚠︎二战发动者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceRC_info…",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceRC_inform",
+                "start": 0,
+                "url": "https://t.co/7RvWzcRiQH"
+              }
+            ]
+          }
+        },
+        "id": "1369689842565738501",
+        "location": "距離 0.8Km",
+        "name": "化合价RC",
+        "pinned_tweet_id": "2015687553303945445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009844543269810177/GCuoiBkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 71,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/7RvWzcRiQH",
+        "username": "Valence_RC",
+        "verified": false
+      }
+    ]
+  }
+}

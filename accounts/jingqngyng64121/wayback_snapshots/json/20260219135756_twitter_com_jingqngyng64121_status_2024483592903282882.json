@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024464291110539266"
+      ],
+      "media_source_tweet_id": [
+        "2024464490293801287"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2024483592903282882",
+    "created_at": "2026-02-19T13:57:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T14:57:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024483592903282882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1974865605204586498",
+          "start": 3,
+          "username": "Krktmk_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/80WNaHK12r",
+          "end": 44,
+          "expanded_url": "https://x.com/Krktmk_8964/status/2024464490293801287/photo/1",
+          "media_key": "3_2024464291110539266",
+          "start": 21,
+          "url": "https://t.co/80WNaHK12r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024483592903282882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024464490293801287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Krktmk_8964: 攻击性 https://t.co/80WNaHK12r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1270,
+        "media_key": "3_2024464291110539266",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhXi_QbUAIfBBJ.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024464291110539266"
+          ],
+          "media_source_tweet_id": [
+            "2024464490293801287"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2024483592903282882",
+        "created_at": "2026-02-19T13:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024483592903282882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1974865605204586498",
+              "start": 3,
+              "username": "Krktmk_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/80WNaHK12r",
+              "end": 44,
+              "expanded_url": "https://x.com/Krktmk_8964/status/2024464490293801287/photo/1",
+              "media_key": "3_2024464291110539266",
+              "start": 21,
+              "url": "https://t.co/80WNaHK12r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024483592903282882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024464490293801287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Krktmk_8964: 攻击性 https://t.co/80WNaHK12r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024464291110539266"
+          ]
+        },
+        "author_id": "1974865605204586498",
+        "conversation_id": "2024464490293801287",
+        "created_at": "2026-02-19T12:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T13:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024464490293801287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/80WNaHK12r",
+              "end": 27,
+              "expanded_url": "https://x.com/Krktmk_8964/status/2024464490293801287/photo/1",
+              "media_key": "3_2024464291110539266",
+              "start": 4,
+              "url": "https://t.co/80WNaHK12r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024464490293801287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "攻击性 https://t.co/80WNaHK12r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 160,
+          "like_count": 3143,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 481
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2016628139888431137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016867499816693760/cgM-POhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 1604,
+          "like_count": 28092,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 2981
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      }
+    ]
+  }
+}

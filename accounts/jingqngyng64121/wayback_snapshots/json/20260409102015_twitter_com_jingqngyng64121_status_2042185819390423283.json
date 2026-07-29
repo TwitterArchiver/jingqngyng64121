@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2042185819390423283",
+    "created_at": "2026-04-09T10:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T11:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042185819390423283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1998791279350874112",
+          "start": 3,
+          "username": "Yamawuchimisaki"
+        },
+        {
+          "end": 35,
+          "id": "1390652924481527810",
+          "start": 21,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042185819390423283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042154165070393373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yamawuchimisaki: @zqtlovekris99 其实靠od自己缓解自身痛苦，不伤害其他人，不去报复社会，od的人已经是非常有道德了\n\n很多人自己生活不如意，就要去虐待动物，去在共享单车坐垫里放针，甚至，之前厦门有个人带汽油上公交车点燃献忠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2042185819390423283",
+        "created_at": "2026-04-09T10:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042185819390423283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1998791279350874112",
+              "start": 3,
+              "username": "Yamawuchimisaki"
+            },
+            {
+              "end": 35,
+              "id": "1390652924481527810",
+              "start": 21,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042185819390423283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042154165070393373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yamawuchimisaki: @zqtlovekris99 其实靠od自己缓解自身痛苦，不伤害其他人，不去报复社会，od的人已经是非常有道德了\n\n很多人自己生活不如意，就要去虐待动物，去在共享单车坐垫里放针，甚至，之前厦门有个人带汽油上公交车点燃献忠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998791279350874112",
+        "conversation_id": "2042110820314968186",
+        "created_at": "2026-04-09T08:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T09:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042154165070393373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042154165070393373",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042110820314968186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 其实靠od自己缓解自身痛苦，不伤害其他人，不去报复社会，od的人已经是非常有道德了\n\n很多人自己生活不如意，就要去虐待动物，去在共享单车坐垫里放针，甚至，之前厦门有个人带汽油上公交车点燃献忠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 317,
+          "like_count": 5454,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 954
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T16:26:03.000Z",
+        "description": "09/She/Her/Female/Living in Shanghai/IELTS 8/JLPT N1/Traumatized by PRC/Liberalism/共産主義に断固反対/ 🇫🇮🇯🇵🇺🇦🇮🇱 。看得出，中国人的考妣在世时没有教育它们要文明礼貌😅 被你们中国人害成重度精神病，治疗中ing",
+        "id": "1998791279350874112",
+        "location": "Shanghai",
+        "name": "Misaki Yamawuchi🇫🇮🇯🇵🇺🇦🇮🇱",
+        "pinned_tweet_id": "2040307822748197305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041533227794624512/T7pfyUcl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 621,
+          "like_count": 4901,
+          "listed_count": 5,
+          "media_count": 508,
+          "tweet_count": 3962
+        },
+        "username": "Yamawuchimisaki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "跨男娘/翻车顺女 HRT 2023.05.29 | OSDD多意识体/od💊/ed BMI14.2 | 🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 防走丢小号 @nktblovekris99 闺蜜 @Misako_25ji 诡秘 @maoxian1527 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 148,
+                "start": 135,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2033604806393434477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11919,
+          "following_count": 1451,
+          "like_count": 25068,
+          "listed_count": 16,
+          "media_count": 4530,
+          "tweet_count": 27253
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

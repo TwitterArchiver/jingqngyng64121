@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2047846089399939165",
+    "created_at": "2026-04-25T01:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T02:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047846089399939165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2030832351656493056",
+          "start": 3,
+          "username": "Suintouhea2t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047846089399939165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047646858651312208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Suintouhea2t: 您的考试成绩出来了\nod割腕+150\n辱女+150\n辱男+150\n地域歧视+100\n嫌贫爱富+100\n崇洋媚外+100\n总分750\n恭喜您考入我的英雄学院"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2047846089399939165",
+        "created_at": "2026-04-25T01:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047846089399939165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2030832351656493056",
+              "start": 3,
+              "username": "Suintouhea2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047846089399939165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047646858651312208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Suintouhea2t: 您的考试成绩出来了\nod割腕+150\n辱女+150\n辱男+150\n地域歧视+100\n嫌贫爱富+100\n崇洋媚外+100\n总分750\n恭喜您考入我的英雄学院"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030832351656493056",
+        "conversation_id": "2047646858651312208",
+        "created_at": "2026-04-24T12:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047646858651312208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047646858651312208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9588,
+          "like_count": 473,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "您的考试成绩出来了\nod割腕+150\n辱女+150\n辱男+150\n地域歧视+100\n嫌贫爱富+100\n崇洋媚外+100\n总分750\n恭喜您考入我的英雄学院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 417,
+          "like_count": 6975,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T02:27:34.000Z",
+        "description": "一个患有精神病的用户🧠🤍｜自伤🩸OD💊｜｜ISFP-T (´-ω-`)｜同类回fo🎹𝄞♡🪽提问箱https://t.co/AWOjVlhb0X 老公是将太郎李炤熙，男的别来骚扰我。赞赏的用于买小裙子",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suintouhea2t",
+                "end": 71,
+                "expanded_url": "http://ngl.link/suintouhea2t",
+                "start": 48,
+                "url": "https://t.co/AWOjVlhb0X"
+              }
+            ]
+          }
+        },
+        "id": "2030832351656493056",
+        "location": "墓地🪦",
+        "name": "Moe8964",
+        "pinned_tweet_id": "2043268852448928043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047456618309464064/xAwst6AI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 480,
+          "like_count": 3052,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 2293
+        },
+        "username": "Suintouhea2t",
+        "verified": false
+      }
+    ]
+  }
+}

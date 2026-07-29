@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2049095799074968028",
+    "created_at": "2026-04-28T11:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T12:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049095799074968028"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "门槛"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "金主"
+        },
+        {
+          "end": 128,
+          "start": 124,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "反差"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "非绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "555305920",
+          "start": 3,
+          "username": "LadrenaB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049095799074968028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049046934325960803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LadrenaB: 哥哥这里是kk⬆️新置顶！\n家庭原因缺💰欠债被迫下海(┳◇┳)\n愿望金主爸爸投喂我宠爱我🥰\n线上线下都🉑接，验证30哦◔̯◔\n欢迎哥哥入🚪，我会真心对待哒❤️\n坐标20哦，欢迎宝互转互fo(๑＞ڡ＜)☆\n#门槛 #金主 #爸爸活 #反差 #非绿 #线…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049046921604694016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-tUaJbAAA-Xzm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1164,
+        "media_key": "3_2049046921592066048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-tUaGaUAAut8L.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2049095799074968028",
+        "created_at": "2026-04-28T11:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049095799074968028"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "门槛"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "金主"
+            },
+            {
+              "end": 128,
+              "start": 124,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "反差"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "非绿"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "555305920",
+              "start": 3,
+              "username": "LadrenaB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049095799074968028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049046934325960803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LadrenaB: 哥哥这里是kk⬆️新置顶！\n家庭原因缺💰欠债被迫下海(┳◇┳)\n愿望金主爸爸投喂我宠爱我🥰\n线上线下都🉑接，验证30哦◔̯◔\n欢迎哥哥入🚪，我会真心对待哒❤️\n坐标20哦，欢迎宝互转互fo(๑＞ڡ＜)☆\n#门槛 #金主 #爸爸活 #反差 #非绿 #线…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049046921604694016",
+            "3_2049046921592066048"
+          ]
+        },
+        "author_id": "555305920",
+        "conversation_id": "2049046934325960803",
+        "created_at": "2026-04-28T08:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049046934325960803"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "门槛"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "金主"
+            },
+            {
+              "end": 114,
+              "start": 110,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "反差"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "非绿"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "线下"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "缺钱"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "入门"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "女大"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "爆金币"
+            },
+            {
+              "end": 148,
+              "start": 144,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 154,
+              "start": 149,
+              "tag": "电子女友"
+            },
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "陪聊"
+            },
+            {
+              "end": 162,
+              "start": 159,
+              "tag": "母狗"
+            },
+            {
+              "end": 166,
+              "start": 163,
+              "tag": "下海"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u9WMQOsa1m",
+              "end": 190,
+              "expanded_url": "https://x.com/LadrenaB/status/2049046934325960803/photo/1",
+              "media_key": "3_2049046921604694016",
+              "start": 167,
+              "url": "https://t.co/u9WMQOsa1m"
+            },
+            {
+              "display_url": "pic.x.com/u9WMQOsa1m",
+              "end": 190,
+              "expanded_url": "https://x.com/LadrenaB/status/2049046934325960803/photo/1",
+              "media_key": "3_2049046921592066048",
+              "start": 167,
+              "url": "https://t.co/u9WMQOsa1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049046934325960803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 347,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥这里是kk⬆️新置顶！\n家庭原因缺💰欠债被迫下海(┳◇┳)\n愿望金主爸爸投喂我宠爱我🥰\n线上线下都🉑接，验证30哦◔̯◔\n欢迎哥哥入🚪，我会真心对待哒❤️\n坐标20哦，欢迎宝互转互fo(๑＞ڡ＜)☆\n#门槛 #金主 #爸爸活 #反差 #非绿 #线下 #缺钱 #入门 #女大 #爆金币 #门槛姐 #电子女友 #陪聊 #母狗 #下海 https://t.co/u9WMQOsa1m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 441,
+          "like_count": 7095,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1394
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-16T17:58:09.000Z",
+        "description": "重生之我在x上做🚪妹～坐标20(－ｏ⌒)口令\n口嗨哥勿扰メ！梦想金主爸爸爱上我收我为🐶\n私信打开的哦，欢迎小姐妹找我互转互fo↑",
+        "id": "555305920",
+        "location": "20",
+        "name": "@kk",
+        "pinned_tweet_id": "2049046934325960803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049031364708843520/G-ta5rGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 42,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 61
+        },
+        "username": "LadrenaB",
+        "verified": false
+      }
+    ]
+  }
+}

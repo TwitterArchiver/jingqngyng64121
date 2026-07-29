@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059246856291639298"
+      ],
+      "media_source_tweet_id": [
+        "2059246864210501730"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2059665658724684207",
+    "created_at": "2026-05-27T15:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059665658724684207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1873776667422015488",
+          "start": 3,
+          "username": "mngzh24795"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ISJJvA4OxZ",
+          "end": 39,
+          "expanded_url": "https://x.com/mngzh24795/status/2059246864210501730/photo/1",
+          "media_key": "3_2059246856291639298",
+          "start": 16,
+          "url": "https://t.co/ISJJvA4OxZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059665658724684207",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 739
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059246864210501730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mngzh24795: https://t.co/ISJJvA4OxZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1309,
+        "media_key": "3_2059246856291639298",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPqGv4aYAIbIRJ.jpg",
+        "width": 1045
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059246856291639298"
+          ],
+          "media_source_tweet_id": [
+            "2059246864210501730"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2059665658724684207",
+        "created_at": "2026-05-27T15:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059665658724684207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1873776667422015488",
+              "start": 3,
+              "username": "mngzh24795"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ISJJvA4OxZ",
+              "end": 39,
+              "expanded_url": "https://x.com/mngzh24795/status/2059246864210501730/photo/1",
+              "media_key": "3_2059246856291639298",
+              "start": 16,
+              "url": "https://t.co/ISJJvA4OxZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059665658724684207",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 739
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059246864210501730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mngzh24795: https://t.co/ISJJvA4OxZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059246856291639298"
+          ]
+        },
+        "author_id": "1873776667422015488",
+        "conversation_id": "2059246864210501730",
+        "created_at": "2026-05-26T12:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059246864210501730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ISJJvA4OxZ",
+              "end": 23,
+              "expanded_url": "https://x.com/mngzh24795/status/2059246864210501730/photo/1",
+              "media_key": "3_2059246856291639298",
+              "start": 0,
+              "url": "https://t.co/ISJJvA4OxZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059246864210501730",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1063,
+          "impression_count": 201214,
+          "like_count": 9651,
+          "quote_count": 59,
+          "reply_count": 54,
+          "retweet_count": 739
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ISJJvA4OxZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 401,
+          "like_count": 7611,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1556
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T17:02:57.000Z",
+        "description": "被大家喜欢非常荣幸！非常开心！希望我的作品有让你们开心！！生活号🚪 88 过门赞赏备注微信\nngl：https://t.co/WELoXAobhu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/loofla86499",
+                "end": 73,
+                "expanded_url": "https://ngl.link/loofla86499",
+                "start": 50,
+                "url": "https://t.co/WELoXAobhu"
+              }
+            ]
+          }
+        },
+        "id": "1873776667422015488",
+        "location": "Burbank, CA",
+        "name": "loofla",
+        "pinned_tweet_id": "2026206308274491819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983398965380059136/lVDKCIcM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7861,
+          "following_count": 77,
+          "like_count": 1922,
+          "listed_count": 4,
+          "media_count": 68,
+          "tweet_count": 246
+        },
+        "username": "mngzh24795",
+        "verified": false
+      }
+    ]
+  }
+}

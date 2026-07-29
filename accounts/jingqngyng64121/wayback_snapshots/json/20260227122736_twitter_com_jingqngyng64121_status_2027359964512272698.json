@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027016461295013888"
+      ],
+      "media_source_tweet_id": [
+        "2027016467636740201"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2027359964512272698",
+    "created_at": "2026-02-27T12:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T13:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027359964512272698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1472219833261772801",
+          "start": 3,
+          "username": "xxx_jjkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hVdiZbsqTq",
+          "end": 57,
+          "expanded_url": "https://x.com/xxx_jjkk/status/2027016467636740201/photo/1",
+          "media_key": "3_2027016461295013888",
+          "start": 34,
+          "url": "https://t.co/hVdiZbsqTq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027359964512272698",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027016467636740201",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxx_jjkk: 我吞啦普瑞巴林\n你不在乎我 我不在乎你 https://t.co/hVdiZbsqTq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027016461295013888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFou2Fb0AAd6fK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027016461295013888"
+          ],
+          "media_source_tweet_id": [
+            "2027016467636740201"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2027359964512272698",
+        "created_at": "2026-02-27T12:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027359964512272698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1472219833261772801",
+              "start": 3,
+              "username": "xxx_jjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hVdiZbsqTq",
+              "end": 57,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2027016467636740201/photo/1",
+              "media_key": "3_2027016461295013888",
+              "start": 34,
+              "url": "https://t.co/hVdiZbsqTq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027359964512272698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027016467636740201",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxx_jjkk: 我吞啦普瑞巴林\n你不在乎我 我不在乎你 https://t.co/hVdiZbsqTq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027016461295013888"
+          ]
+        },
+        "author_id": "1472219833261772801",
+        "conversation_id": "2027016467636740201",
+        "created_at": "2026-02-26T13:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T14:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027016467636740201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hVdiZbsqTq",
+              "end": 43,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2027016467636740201/photo/1",
+              "media_key": "3_2027016461295013888",
+              "start": 20,
+              "url": "https://t.co/hVdiZbsqTq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027016467636740201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 965,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我吞啦普瑞巴林\n你不在乎我 我不在乎你 https://t.co/hVdiZbsqTq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 195,
+          "like_count": 3510,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 573
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我的人生都储存在这个小小的屏幕里面\n当我有天离开后\n起码还这个地方有过我存在的痕迹",
+        "id": "1472219833261772801",
+        "name": "旖旎",
+        "pinned_tweet_id": "1998847554071704055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027067181448798208/Fcxrrme-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 196,
+          "like_count": 1909,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 252
+        },
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

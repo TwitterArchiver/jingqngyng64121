@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2066710961449496631",
+    "created_at": "2026-06-16T02:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T03:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066710961449496631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2038281683636461570",
+          "start": 3,
+          "username": "Knnibal_val"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066710961449496631",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1783
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066349916159447091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Knnibal_val: Porque no me mate a los 12? \nPorque no me mate a los 12? \nPorque no me mate a los 12? \nPorque no me mate a los 12? \nPorque…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2066710961449496631",
+        "created_at": "2026-06-16T02:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066710961449496631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2038281683636461570",
+              "start": 3,
+              "username": "Knnibal_val"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066710961449496631",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1783
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066349916159447091",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Knnibal_val: Porque no me mate a los 12? \nPorque no me mate a los 12? \nPorque no me mate a los 12? \nPorque no me mate a los 12? \nPorque…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038281683636461570",
+        "conversation_id": "2066349916159447091",
+        "created_at": "2026-06-15T02:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066349916159447091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066349916159447091",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 49862,
+          "like_count": 4906,
+          "quote_count": 39,
+          "reply_count": 42,
+          "retweet_count": 1783
+        },
+        "reply_settings": "everyone",
+        "text": "Porque no me mate a los 12? \nPorque no me mate a los 12? \nPorque no me mate a los 12? \nPorque no me mate a los 12? \nPorque no me mate a los 12? \nPorque no me mate a los 12? \nPorque no me mate a los 12? \nPorque no me mate a los 12?\nPorque no me mate a los 12? \nPorque no me mate a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 415,
+          "like_count": 7712,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1597
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T15:47:07.000Z",
+        "description": "♰•𝑆𝑖 𝑢𝑛 𝑑𝑖́𝑎 𝑡𝑒 𝑝𝑖𝑒𝑟𝑑𝑒𝑠 𝑏𝑢𝑠𝑘𝑡𝑒 𝑒𝑛 𝑙𝑜 𝑘𝑒 𝑚𝑎𝑠 𝑎𝑚𝑎𝑠 #shtwt #edtwt #drugtwt\nsecond account: @x_zmbie ~♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "shtwt"
+              },
+              {
+                "end": 62,
+                "start": 56,
+                "tag": "edtwt"
+              },
+              {
+                "end": 71,
+                "start": 63,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "x_zmbie"
+              }
+            ]
+          }
+        },
+        "id": "2038281683636461570",
+        "location": "femboylandia",
+        "name": "𝑧𝑚𝑏𝑖𝑒",
+        "pinned_tweet_id": "2065449380065247648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061967954556620800/Yp-fOHQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 79,
+          "like_count": 4192,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 532
+        },
+        "username": "Knnibal_val",
+        "verified": false
+      }
+    ]
+  }
+}

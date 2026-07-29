@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2005239181430444454",
+    "created_at": "2025-12-28T11:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T12:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005239181430444454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1844199671004114955",
+          "start": 3,
+          "username": "fwuuttershyzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005239181430444454",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4931
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004741100649472175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fwuuttershyzz: i wanna kill myself\ni wanna die\ni wanna end it\ni wanna cut myself\ni wanna get high \ni wanna get drunk\ni wanna bleed out…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2005239181430444454",
+        "created_at": "2025-12-28T11:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T12:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005239181430444454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1844199671004114955",
+              "start": 3,
+              "username": "fwuuttershyzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005239181430444454",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4931
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004741100649472175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fwuuttershyzz: i wanna kill myself\ni wanna die\ni wanna end it\ni wanna cut myself\ni wanna get high \ni wanna get drunk\ni wanna bleed out…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844199671004114955",
+        "conversation_id": "2004741100649472175",
+        "created_at": "2025-12-27T02:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T03:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004741100649472175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004741100649472175",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 650,
+          "impression_count": 101175,
+          "like_count": 13226,
+          "quote_count": 55,
+          "reply_count": 84,
+          "retweet_count": 4931
+        },
+        "reply_settings": "everyone",
+        "text": "i wanna kill myself\ni wanna die\ni wanna end it\ni wanna cut myself\ni wanna get high \ni wanna get drunk\ni wanna bleed out\ni wanna cry\ni wanna slit my wrists\ni wanna slit my throat"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001251658462867457/SV9w9q-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 51
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T02:14:10.000Z",
+        "description": "ʚ sһᥱძ𝗍ᥕ𝗍 ɞ    ʚ sᥴᥱᥒᥱm᥆ ɞ    ʚ 𝗍һᥱᥡ/𝗍һᥱm ɞ    ʚ gᥕ: 90ᥣᑲs ɞ   ᥲᥣ𝗍: @funfetticakex #scenemo #bpdtwt #shedtwt #mlptwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 83,
+                "tag": "scenemo"
+              },
+              {
+                "end": 99,
+                "start": 92,
+                "tag": "bpdtwt"
+              },
+              {
+                "end": 108,
+                "start": 100,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 116,
+                "start": 109,
+                "tag": "mlptwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 68,
+                "username": "funfetticakex"
+              }
+            ]
+          }
+        },
+        "id": "1844199671004114955",
+        "location": "𝗍һᥱᥡ/𝗍һᥱm | 16 | ᑲ⍴ძ",
+        "name": "†꙰ೄ𝄞ɳιɳα𝄞ೄ†꙰",
+        "pinned_tweet_id": "1996360440012849549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996330052938547200/CkTumQll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2738,
+          "following_count": 1402,
+          "like_count": 9703,
+          "listed_count": 37,
+          "media_count": 1446,
+          "tweet_count": 4157
+        },
+        "username": "fwuuttershyzz",
+        "verified": false
+      }
+    ]
+  }
+}

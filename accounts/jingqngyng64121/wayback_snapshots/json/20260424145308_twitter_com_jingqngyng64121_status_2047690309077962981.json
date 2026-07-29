@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2047690309077962981",
+    "created_at": "2026-04-24T14:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047690309077962981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1933596840907194368",
+          "start": 3,
+          "username": "Skyrshzone"
+        },
+        {
+          "end": 24,
+          "id": "1989965282799226880",
+          "start": 16,
+          "username": "DQadopt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047690309077962981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047319294854238702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Skyrshzone: @DQadopt 性取向还要搞小团体歧视精神疾病土同你们赢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2047690309077962981",
+        "created_at": "2026-04-24T14:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047690309077962981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1933596840907194368",
+              "start": 3,
+              "username": "Skyrshzone"
+            },
+            {
+              "end": 24,
+              "id": "1989965282799226880",
+              "start": 16,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047690309077962981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047319294854238702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Skyrshzone: @DQadopt 性取向还要搞小团体歧视精神疾病土同你们赢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933596840907194368",
+        "conversation_id": "2047228585820434455",
+        "created_at": "2026-04-23T14:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047319294854238702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047319294854238702",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047228585820434455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 性取向还要搞小团体歧视精神疾病土同你们赢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 417,
+          "like_count": 6965,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1350
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T18:46:41.000Z",
+        "description": "明治一代男｜he/him｜唯一合法妻子叫作蓬莱山辉夜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/skyrshzone",
+                "end": 23,
+                "expanded_url": "https://ngl.link/skyrshzone",
+                "start": 0,
+                "url": "https://t.co/HD89N6x04G"
+              }
+            ]
+          }
+        },
+        "id": "1933596840907194368",
+        "location": "Phnom Penh",
+        "name": "冷川緒",
+        "pinned_tweet_id": "2046984409308393852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042614671589675008/QNa1Uf9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 169,
+          "like_count": 61193,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 2662
+        },
+        "url": "https://t.co/HD89N6x04G",
+        "username": "Skyrshzone",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 337,
+          "like_count": 3127,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 3751
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066235708726218752",
+        "3_2066235708738846720"
+      ],
+      "media_source_tweet_id": [
+        "2066235721472700457",
+        "2066235721472700457"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2075413935377859019",
+    "created_at": "2026-07-10T02:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T03:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075413935377859019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "985158877",
+          "start": 3,
+          "username": "germanburgos334"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SWzBZcKh3w",
+          "end": 83,
+          "expanded_url": "https://x.com/germanburgos334/status/2066235721472700457/photo/1",
+          "media_key": "3_2066235708726218752",
+          "start": 60,
+          "url": "https://t.co/SWzBZcKh3w"
+        },
+        {
+          "display_url": "pic.x.com/SWzBZcKh3w",
+          "end": 83,
+          "expanded_url": "https://x.com/germanburgos334/status/2066235721472700457/photo/1",
+          "media_key": "3_2066235708738846720",
+          "start": 60,
+          "url": "https://t.co/SWzBZcKh3w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075413935377859019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066235721472700457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @germanburgos334: 宝宝在读乖巧幼态萝莉脸，身体软敏感体质，舒服会叫爸爸👀喜欢主动入我不用怕尴尬 https://t.co/SWzBZcKh3w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 991,
+        "media_key": "3_2066235708726218752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKy-bgDakAA2H_T.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066235708738846720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKy-bgGbQAAUr0r.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066235708726218752",
+            "3_2066235708738846720"
+          ],
+          "media_source_tweet_id": [
+            "2066235721472700457",
+            "2066235721472700457"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2075413935377859019",
+        "created_at": "2026-07-10T02:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075413935377859019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "985158877",
+              "start": 3,
+              "username": "germanburgos334"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SWzBZcKh3w",
+              "end": 83,
+              "expanded_url": "https://x.com/germanburgos334/status/2066235721472700457/photo/1",
+              "media_key": "3_2066235708726218752",
+              "start": 60,
+              "url": "https://t.co/SWzBZcKh3w"
+            },
+            {
+              "display_url": "pic.x.com/SWzBZcKh3w",
+              "end": 83,
+              "expanded_url": "https://x.com/germanburgos334/status/2066235721472700457/photo/1",
+              "media_key": "3_2066235708738846720",
+              "start": 60,
+              "url": "https://t.co/SWzBZcKh3w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075413935377859019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066235721472700457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @germanburgos334: 宝宝在读乖巧幼态萝莉脸，身体软敏感体质，舒服会叫爸爸👀喜欢主动入我不用怕尴尬 https://t.co/SWzBZcKh3w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066235708726218752",
+            "3_2066235708738846720"
+          ]
+        },
+        "author_id": "985158877",
+        "conversation_id": "2066235721472700457",
+        "created_at": "2026-06-14T19:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066235721472700457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SWzBZcKh3w",
+              "end": 62,
+              "expanded_url": "https://x.com/germanburgos334/status/2066235721472700457/photo/1",
+              "media_key": "3_2066235708726218752",
+              "start": 39,
+              "url": "https://t.co/SWzBZcKh3w"
+            },
+            {
+              "display_url": "pic.x.com/SWzBZcKh3w",
+              "end": 62,
+              "expanded_url": "https://x.com/germanburgos334/status/2066235721472700457/photo/1",
+              "media_key": "3_2066235708738846720",
+              "start": 39,
+              "url": "https://t.co/SWzBZcKh3w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066235721472700457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3733,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝在读乖巧幼态萝莉脸，身体软敏感体质，舒服会叫爸爸👀喜欢主动入我不用怕尴尬 https://t.co/SWzBZcKh3w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 424,
+          "like_count": 8056,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1668
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-02T18:34:42.000Z",
+        "description": "女高/小反差/会的很多懂付出，各种游戏都会一点，入门就有送🎁哦，问问题或者坐标20r",
+        "id": "985158877",
+        "name": "稚鱼",
+        "pinned_tweet_id": "2066235721472700457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066235146895036416/G4UfGTeb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 18,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 160
+        },
+        "url": "",
+        "username": "germanburgos334",
+        "verified": false
+      }
+    ]
+  }
+}

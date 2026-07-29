@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2014383118904656217",
+    "created_at": "2026-01-23T14:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T15:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014713344943652991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2014381597328560128",
+          "start": 0,
+          "username": "NZvvSL2ioo50637"
+        },
+        {
+          "end": 26,
+          "id": "1966106364901740544",
+          "start": 17,
+          "username": "AgNo3_XQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014713344943652991",
+    "in_reply_to_user_id": "2014381597328560128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014383118904656217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NZvvSL2ioo50637 @AgNo3_XQ 老公🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014383111711473664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_SGxHcbwAA2fDj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014383111719813121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_SGxHebAAEg62J.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2014383118904656217",
+        "created_at": "2026-01-23T14:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T15:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014713344943652991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2014381597328560128",
+              "start": 0,
+              "username": "NZvvSL2ioo50637"
+            },
+            {
+              "end": 26,
+              "id": "1966106364901740544",
+              "start": 17,
+              "username": "AgNo3_XQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014713344943652991",
+        "in_reply_to_user_id": "2014381597328560128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014383118904656217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NZvvSL2ioo50637 @AgNo3_XQ 老公🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014383111711473664",
+            "3_2014383111719813121"
+          ]
+        },
+        "author_id": "2014381597328560128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014383118904656217",
+        "created_at": "2026-01-22T17:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T18:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014383118904656217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9hKGWJKfzp",
+              "end": 59,
+              "expanded_url": "https://x.com/NZvvSL2ioo50637/status/2014383118904656217/photo/1",
+              "media_key": "3_2014383111711473664",
+              "start": 36,
+              "url": "https://t.co/9hKGWJKfzp"
+            },
+            {
+              "display_url": "pic.x.com/9hKGWJKfzp",
+              "end": 59,
+              "expanded_url": "https://x.com/NZvvSL2ioo50637/status/2014383118904656217/photo/1",
+              "media_key": "3_2014383111719813121",
+              "start": 36,
+              "url": "https://t.co/9hKGWJKfzp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014383118904656217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 533,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我重生了，前世我被奸人所害，所以我重生了一妹子们来和我of❤️❤️❤️ https://t.co/9hKGWJKfzp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 24,
+          "like_count": 917,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 140
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T16:56:32.000Z",
+        "description": "🚪槛妹",
+        "id": "2014381597328560128",
+        "name": "寄人篱下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014382124426514432/-gCRJYAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 13,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "NZvvSL2ioo50637",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T11:47:50.000Z",
+        "description": "09｜双相｜istp-t｜巨蟹座｜日常频繁od｜目前已戒割｜顺女双性恋｜欢迎互fo｜精神无国籍｜骂我的人都是傻逼支那猪我就是个刻薄的人｜坐标上海带口令问问题谢谢",
+        "id": "1966106364901740544",
+        "location": "🚪52/88/188",
+        "name": "硝酸银#浅（求过门版）",
+        "pinned_tweet_id": "2013488396786700485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009482020779642885/7lEfJruW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 725,
+          "like_count": 2198,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 1945
+        },
+        "username": "AgNo3_XQ",
+        "verified": false
+      }
+    ]
+  }
+}

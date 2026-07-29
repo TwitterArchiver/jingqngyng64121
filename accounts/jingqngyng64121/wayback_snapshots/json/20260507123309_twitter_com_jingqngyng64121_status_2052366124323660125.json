@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2052366124323660125",
+    "created_at": "2026-05-07T12:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052366124323660125"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "线下"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "非绿"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "定制"
+        },
+        {
+          "end": 119,
+          "start": 115,
+          "tag": "1v1"
+        },
+        {
+          "end": 124,
+          "start": 120,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "反差"
+        },
+        {
+          "end": 133,
+          "start": 129,
+          "tag": "腰臀比"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "原味"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "971991215582330880",
+          "start": 3,
+          "username": "DGKybWHLqLKFQdR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052366124323660125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041416067692781946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DGKybWHLqLKFQdR: 这里是木木呀，这是我的新一世🥺\n\n会打游戏可陪玩，也可线下，爱聊天\n过门请私信呀，可以留言都会回复的💗\n业务在图里，如果想和我在一起的话请继续令我吧～欢迎互fo～\n#线下 #非绿 #定制 #1v1 #门槛妹 #反差 #腰臀比 #原味 h…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052366124323660125].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052366124323660125",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052366124323660125"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2041416023350693889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSRDq6b0AEbdcz.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1684,
+        "media_key": "3_2041416023363272704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSRDq9bwAAKfdJ.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041416023350693889",
+            "3_2041416023363272704"
+          ]
+        },
+        "author_id": "971991215582330880",
+        "conversation_id": "2041416067692781946",
+        "created_at": "2026-04-07T07:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041416067692781946"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "线下"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "非绿"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "定制"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "1v1"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "反差"
+            },
+            {
+              "end": 112,
+              "start": 108,
+              "tag": "腰臀比"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "原味"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NCwLUJ1Jzm",
+              "end": 140,
+              "expanded_url": "https://x.com/DGKybWHLqLKFQdR/status/2041416067692781946/photo/1",
+              "media_key": "3_2041416023350693889",
+              "start": 117,
+              "url": "https://t.co/NCwLUJ1Jzm"
+            },
+            {
+              "display_url": "pic.x.com/NCwLUJ1Jzm",
+              "end": 140,
+              "expanded_url": "https://x.com/DGKybWHLqLKFQdR/status/2041416067692781946/photo/1",
+              "media_key": "3_2041416023363272704",
+              "start": 117,
+              "url": "https://t.co/NCwLUJ1Jzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041416067692781946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11267,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "这里是木木呀，这是我的新一世🥺\n\n会打游戏可陪玩，也可线下，爱聊天\n过门请私信呀，可以留言都会回复的💗\n业务在图里，如果想和我在一起的话请继续令我吧～欢迎互fo～\n#线下 #非绿 #定制 #1v1 #门槛妹 #反差 #腰臀比 #原味 https://t.co/NCwLUJ1Jzm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 446,
+          "like_count": 7430,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1481
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-09T06:08:59.000Z",
+        "description": "问坐标20r私信只回复口令，支持验证，感谢投喂喵～",
+        "id": "971991215582330880",
+        "name": "林木木",
+        "pinned_tweet_id": "2041416067692781946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041413227133980672/nZANy3jk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 14,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 130
+        },
+        "username": "DGKybWHLqLKFQdR",
+        "verified": false
+      }
+    ]
+  }
+}

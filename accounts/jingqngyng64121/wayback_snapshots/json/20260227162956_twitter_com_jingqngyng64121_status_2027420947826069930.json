@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027353393174560768"
+      ],
+      "media_source_tweet_id": [
+        "2027353404201410750"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2027420947826069930",
+    "created_at": "2026-02-27T16:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027420947826069930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1680544465671561216",
+          "start": 3,
+          "username": "LXL0102"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zH1X8BZskA",
+          "end": 79,
+          "expanded_url": "https://x.com/LXL0102/status/2027353404201410750/photo/1",
+          "media_key": "3_2027353393174560768",
+          "start": 56,
+          "url": "https://t.co/zH1X8BZskA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027420947826069930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027353404201410750",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LXL0102: 一滴泪你以后再敢卖惨你就完了🥰当一次漫展嘉宾就能赚七万块钱怪不得这么多人起号当网红呢 https://t.co/zH1X8BZskA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2027353393174560768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKbK3JaQAAI0wQ.jpg",
+        "width": 1117
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027353393174560768"
+          ],
+          "media_source_tweet_id": [
+            "2027353404201410750"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2027420947826069930",
+        "created_at": "2026-02-27T16:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027420947826069930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1680544465671561216",
+              "start": 3,
+              "username": "LXL0102"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zH1X8BZskA",
+              "end": 79,
+              "expanded_url": "https://x.com/LXL0102/status/2027353404201410750/photo/1",
+              "media_key": "3_2027353393174560768",
+              "start": 56,
+              "url": "https://t.co/zH1X8BZskA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027420947826069930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027353404201410750",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LXL0102: 一滴泪你以后再敢卖惨你就完了🥰当一次漫展嘉宾就能赚七万块钱怪不得这么多人起号当网红呢 https://t.co/zH1X8BZskA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027353393174560768"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "2027353404201410750",
+        "created_at": "2026-02-27T12:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027353404201410750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zH1X8BZskA",
+              "end": 66,
+              "expanded_url": "https://x.com/LXL0102/status/2027353404201410750/photo/1",
+              "media_key": "3_2027353393174560768",
+              "start": 43,
+              "url": "https://t.co/zH1X8BZskA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027353404201410750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 68618,
+          "like_count": 436,
+          "quote_count": 12,
+          "reply_count": 41,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "一滴泪你以后再敢卖惨你就完了🥰当一次漫展嘉宾就能赚七万块钱怪不得这么多人起号当网红呢 https://t.co/zH1X8BZskA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 198,
+          "like_count": 3534,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 581
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 368,
+          "like_count": 1769,
+          "listed_count": 5,
+          "media_count": 640,
+          "tweet_count": 3643
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

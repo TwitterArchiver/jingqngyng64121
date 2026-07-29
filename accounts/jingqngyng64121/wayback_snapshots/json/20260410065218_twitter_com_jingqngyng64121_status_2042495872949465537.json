@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042187099257073664"
+      ],
+      "media_source_tweet_id": [
+        "2042187104768454872"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2042495872949465537",
+    "created_at": "2026-04-10T06:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042495872949465537"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 27,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 70,
+          "start": 48,
+          "tag": "needystreameroverload"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1465991974482239489",
+          "start": 3,
+          "username": "4S1JH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JB8BjsQITU",
+          "end": 94,
+          "expanded_url": "https://x.com/4S1JH/status/2042187104768454872/photo/1",
+          "media_key": "3_2042187099257073664",
+          "start": 71,
+          "url": "https://t.co/JB8BjsQITU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042495872949465537",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 409
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042187104768454872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4S1JH: Ameyameahhhhhhh\n#NEEDY_GIRL_OVERDOSE #needystreameroverload https://t.co/JB8BjsQITU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042187099257073664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdOWMgacAAc0UA.jpg",
+        "width": 1670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042187099257073664"
+          ],
+          "media_source_tweet_id": [
+            "2042187104768454872"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2042495872949465537",
+        "created_at": "2026-04-10T06:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042495872949465537"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 27,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 70,
+              "start": 48,
+              "tag": "needystreameroverload"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465991974482239489",
+              "start": 3,
+              "username": "4S1JH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JB8BjsQITU",
+              "end": 94,
+              "expanded_url": "https://x.com/4S1JH/status/2042187104768454872/photo/1",
+              "media_key": "3_2042187099257073664",
+              "start": 71,
+              "url": "https://t.co/JB8BjsQITU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042495872949465537",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 409
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042187104768454872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4S1JH: Ameyameahhhhhhh\n#NEEDY_GIRL_OVERDOSE #needystreameroverload https://t.co/JB8BjsQITU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042187099257073664"
+          ]
+        },
+        "author_id": "1465991974482239489",
+        "conversation_id": "2042187104768454872",
+        "created_at": "2026-04-09T10:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042187104768454872"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 16,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 59,
+              "start": 37,
+              "tag": "needystreameroverload"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JB8BjsQITU",
+              "end": 83,
+              "expanded_url": "https://x.com/4S1JH/status/2042187104768454872/photo/1",
+              "media_key": "3_2042187099257073664",
+              "start": 60,
+              "url": "https://t.co/JB8BjsQITU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042187104768454872",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 395,
+          "impression_count": 21490,
+          "like_count": 3647,
+          "quote_count": 12,
+          "reply_count": 1,
+          "retweet_count": 409
+        },
+        "reply_settings": "everyone",
+        "text": "Ameyameahhhhhhh\n#NEEDY_GIRL_OVERDOSE #needystreameroverload https://t.co/JB8BjsQITU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 324,
+          "like_count": 5645,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1011
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-01T10:31:50.000Z",
+        "description": "20 | 4S1JH on all platforms | using art as pfp W CREDIT OK! 🍏",
+        "id": "1465991974482239489",
+        "name": "4S",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014897577083518976/FL6ckngR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 25,
+          "like_count": 24746,
+          "listed_count": 6,
+          "media_count": 212,
+          "tweet_count": 415
+        },
+        "username": "4S1JH",
+        "verified": false
+      }
+    ]
+  }
+}

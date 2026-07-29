@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2009451020997546021",
+    "created_at": "2026-01-09T02:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T03:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009451020997546021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1976224313339777024",
+          "start": 3,
+          "username": "WinbornN94577"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009451020997546021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008877366739931524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WinbornN94577: 我就只是一个吸毒嗑药自残爱背刺反动爱慕虚荣嫌贫爱富崇洋媚外厌世的贱婊子而已。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2009451020997546021",
+        "created_at": "2026-01-09T02:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T03:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009451020997546021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1976224313339777024",
+              "start": 3,
+              "username": "WinbornN94577"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009451020997546021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008877366739931524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WinbornN94577: 我就只是一个吸毒嗑药自残爱背刺反动爱慕虚荣嫌贫爱富崇洋媚外厌世的贱婊子而已。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976224313339777024",
+        "conversation_id": "2008877366739931524",
+        "created_at": "2026-01-07T12:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T13:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008877366739931524"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008877366739931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 928,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我就只是一个吸毒嗑药自残爱背刺反动爱慕虚荣嫌贫爱富崇洋媚外厌世的贱婊子而已。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 493,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 69
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T09:52:52.000Z",
+        "description": "这里是Tulipalin Tu屠荼徒堍兎 🚪52",
+        "id": "1976224313339777024",
+        "location": "肉屠🐇",
+        "name": "屠荼徒堍兎",
+        "pinned_tweet_id": "2008877366739931524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009203275032350726/PGYv_RPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 39,
+          "like_count": 510,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 381
+        },
+        "username": "WinbornN94577",
+        "verified": false
+      }
+    ]
+  }
+}

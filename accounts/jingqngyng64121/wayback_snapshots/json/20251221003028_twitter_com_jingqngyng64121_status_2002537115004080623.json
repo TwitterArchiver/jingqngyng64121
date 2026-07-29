@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002039148602142720"
+      ],
+      "media_source_tweet_id": [
+        "2002039159222132904"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2002537115004080623",
+    "created_at": "2025-12-21T00:30:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T01:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002537115004080623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1524037192460292096",
+          "start": 3,
+          "username": "ironcooker_2030"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iy3i5qR2DV",
+          "end": 127,
+          "expanded_url": "https://x.com/ironcooker_2030/status/2002039159222132904/photo/1",
+          "media_key": "3_2002039148602142720",
+          "start": 104,
+          "url": "https://t.co/iy3i5qR2DV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002537115004080623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002039159222132904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ironcooker_2030: 到底是哪個…\n看到這台詞其實也有點哭笑不得\n\n不過先不管這個，睦喊了祥，祥子發現是睦而立刻奔向她…我記得動畫也是這樣，現在漫畫把這段分解出來了，感覺就蠻值得細品的🤤 https://t.co/iy3i5qR2DV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1526,
+        "media_key": "3_2002039148602142720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ir_5bbMAADNZj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002039148602142720"
+          ],
+          "media_source_tweet_id": [
+            "2002039159222132904"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2002537115004080623",
+        "created_at": "2025-12-21T00:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T01:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002537115004080623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1524037192460292096",
+              "start": 3,
+              "username": "ironcooker_2030"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iy3i5qR2DV",
+              "end": 127,
+              "expanded_url": "https://x.com/ironcooker_2030/status/2002039159222132904/photo/1",
+              "media_key": "3_2002039148602142720",
+              "start": 104,
+              "url": "https://t.co/iy3i5qR2DV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002537115004080623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002039159222132904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ironcooker_2030: 到底是哪個…\n看到這台詞其實也有點哭笑不得\n\n不過先不管這個，睦喊了祥，祥子發現是睦而立刻奔向她…我記得動畫也是這樣，現在漫畫把這段分解出來了，感覺就蠻值得細品的🤤 https://t.co/iy3i5qR2DV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002039148602142720"
+          ]
+        },
+        "author_id": "1524037192460292096",
+        "conversation_id": "2002039159222132904",
+        "created_at": "2025-12-19T15:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T16:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002039159222132904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iy3i5qR2DV",
+              "end": 106,
+              "expanded_url": "https://x.com/ironcooker_2030/status/2002039159222132904/photo/1",
+              "media_key": "3_2002039148602142720",
+              "start": 83,
+              "url": "https://t.co/iy3i5qR2DV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002039159222132904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1292,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "到底是哪個…\n看到這台詞其實也有點哭笑不得\n\n不過先不管這個，睦喊了祥，祥子發現是睦而立刻奔向她…我記得動畫也是這樣，現在漫畫把這段分解出來了，感覺就蠻值得細品的🤤 https://t.co/iy3i5qR2DV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001251658462867457/SV9w9q-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-10T14:42:53.000Z",
+        "description": "祈禱睦祥ing.\n喜歡Saki Mutsumi 唯一mtskmt",
+        "id": "1524037192460292096",
+        "name": "ironstar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1524037264992440321/E6qAXHLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 245,
+          "like_count": 11876,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 693
+        },
+        "username": "ironcooker_2030",
+        "verified": false
+      }
+    ]
+  }
+}

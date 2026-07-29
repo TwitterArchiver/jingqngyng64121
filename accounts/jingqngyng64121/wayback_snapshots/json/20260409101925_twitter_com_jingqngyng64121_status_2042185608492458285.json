@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2042100920209801222",
+    "created_at": "2026-04-09T10:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T11:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042185608492458285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777129646867542016",
+          "start": 0,
+          "username": "Sunset__3000"
+        },
+        {
+          "end": 27,
+          "id": "1619337971039350784",
+          "start": 14,
+          "username": "LEEROUXIMoe1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042185608492458285",
+    "in_reply_to_user_id": "1777129646867542016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042100920209801222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sunset__3000 @LEEROUXIMoe1 去死吧广州禁毒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2042100920209801222",
+        "created_at": "2026-04-09T10:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042185608492458285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777129646867542016",
+              "start": 0,
+              "username": "Sunset__3000"
+            },
+            {
+              "end": 27,
+              "id": "1619337971039350784",
+              "start": 14,
+              "username": "LEEROUXIMoe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042185608492458285",
+        "in_reply_to_user_id": "1777129646867542016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042100920209801222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sunset__3000 @LEEROUXIMoe1 去死吧广州禁毒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777129646867542016",
+        "conversation_id": "2042100920209801222",
+        "created_at": "2026-04-09T04:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042100920209801222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042100920209801222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4649,
+          "like_count": 287,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "广州禁毒还有一个搞笑的点就是，说改花刀这个称呼是在美化自伤行为😂这特么不是健全比嘲讽精神病的话吗？？什么猪肉改花刀笑了多少年了，精神病们没招了用来自嘲了，你来一句这是美化，666"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 317,
+          "like_count": 5448,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 951
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:21:51.000Z",
+        "description": "o割餐券女 | 精神病 | 家里蹲备考 | 极端悲观主义 | 爱好生化药理板绘 | 同类互fo呀♡漏回提醒我🥹",
+        "id": "1777129646867542016",
+        "location": "宛平南路600号",
+        "name": "日落三千次💊",
+        "pinned_tweet_id": "2034272198798811213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040999312478621696/QZAhsYwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 435,
+          "like_count": 2511,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 566
+        },
+        "username": "Sunset__3000",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T14:14:33.000Z",
+        "description": "=洛意 嘴贱乐子人一个 上推就是说我想说的而已蒽｜加v私信｜我是女性女孩我不是跨也不是男娘谢谢。｜男的加我🚪20",
+        "id": "1619337971039350784",
+        "name": "Shirayuki Shizuku",
+        "pinned_tweet_id": "2035990038719422471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028382947561349120/DVRvm0_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 548,
+          "like_count": 3896,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 2859
+        },
+        "username": "LEEROUXIMoe1",
+        "verified": false
+      }
+    ]
+  }
+}

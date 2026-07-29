@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2040996711112540620",
+    "created_at": "2026-04-06T12:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041125421279044083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975850232094371840",
+          "start": 0,
+          "username": "zhizi160216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041125421279044083",
+    "in_reply_to_user_id": "1975850232094371840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040996711112540620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhizi160216 太萌惹"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15065,
+        "height": 1280,
+        "media_key": "13_2040996623359291392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040996623359291392/img/fgcpt6BWRcJ57uk9.jpg",
+        "public_metrics": {
+          "view_count": 77
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040996623359291392/vid/avc1/320x568/otpwZtoWOH8uWXeN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040996623359291392/vid/avc1/480x852/gnheePgyB9C6OzO_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040996623359291392/vid/avc1/720x1280/PJBuWsPPRDWnSvls.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040996623359291392/pl/zy6bSYe3oeeIbncJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2040996711112540620",
+        "created_at": "2026-04-06T12:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041125421279044083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975850232094371840",
+              "start": 0,
+              "username": "zhizi160216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041125421279044083",
+        "in_reply_to_user_id": "1975850232094371840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040996711112540620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhizi160216 太萌惹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040996623359291392"
+          ]
+        },
+        "author_id": "1975850232094371840",
+        "conversation_id": "2040996711112540620",
+        "created_at": "2026-04-06T03:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040996711112540620"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 21,
+              "start": 7,
+              "tag": "自撮り界隈さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zEmi7MvFVT",
+              "end": 45,
+              "expanded_url": "https://x.com/zhizi160216/status/2040996711112540620/video/1",
+              "media_key": "13_2040996623359291392",
+              "start": 22,
+              "url": "https://t.co/zEmi7MvFVT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040996711112540620",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 376,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#地雷系女子 #自撮り界隈さんと繋がりたい https://t.co/zEmi7MvFVT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 315,
+          "like_count": 5383,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 928
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T09:07:43.000Z",
+        "description": "",
+        "id": "1975850232094371840",
+        "location": "距离你5.2km",
+        "name": "沫沫",
+        "pinned_tweet_id": "2027895896680370298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980630127638654976/q6sFuFBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 90,
+          "like_count": 601,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 753
+        },
+        "username": "zhizi160216",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2008851090679415053",
+    "created_at": "2026-01-07T10:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T11:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008851090679415053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2003829256238092288",
+          "start": 3,
+          "username": "FairyLilith1991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008851090679415053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008581324320501795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FairyLilith1991: 理想的家庭：\n父亲：时政，键政，国事…\n母亲：我重生了，重生在…\n儿子：姐姐可爱贴贴喵呜～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2008851090679415053",
+        "created_at": "2026-01-07T10:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T11:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008851090679415053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2003829256238092288",
+              "start": 3,
+              "username": "FairyLilith1991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008851090679415053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008581324320501795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FairyLilith1991: 理想的家庭：\n父亲：时政，键政，国事…\n母亲：我重生了，重生在…\n儿子：姐姐可爱贴贴喵呜～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003829256238092288",
+        "conversation_id": "2008581324320501795",
+        "created_at": "2026-01-06T16:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T17:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008581324320501795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008581324320501795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 19484,
+          "like_count": 248,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "理想的家庭：\n父亲：时政，键政，国事…\n母亲：我重生了，重生在…\n儿子：姐姐可爱贴贴喵呜～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001251658462867457/SV9w9q-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 481,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 66
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-24T14:05:17.000Z",
+        "description": "正在成为人类，除了药娘笑话和键政笑话什么都不会",
+        "id": "2003829256238092288",
+        "name": "Fairy Lilith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003829741741367297/8ZzkQA1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 12,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "username": "FairyLilith1991",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2078600393794420907",
+    "created_at": "2026-07-18T21:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T22:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078600393794420907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1992506703678705664",
+          "start": 3,
+          "username": "jingqngyng64121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078600393794420907",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078600177729048616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingqngyng64121: 「何もなかった。」\n間宮くんが、自分から飛び降りただけだよ。\n\np2 是亲友给我的制品喵🤲\n\n很多人都认为7.20是回归天空的日子 但其实在剧情里7.18到7.19的凌晨是卓司带着信徒从高处落下（被解释为回归天空）7.20是卓司认定的“…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078600165821476864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNir1oHbcAAyXVk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078600165582368768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNir1nOa8AAFMyr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2078600393794420907",
+        "created_at": "2026-07-18T21:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T22:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078600393794420907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1992506703678705664",
+              "start": 3,
+              "username": "jingqngyng64121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078600393794420907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078600177729048616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingqngyng64121: 「何もなかった。」\n間宮くんが、自分から飛び降りただけだよ。\n\np2 是亲友给我的制品喵🤲\n\n很多人都认为7.20是回归天空的日子 但其实在剧情里7.18到7.19的凌晨是卓司带着信徒从高处落下（被解释为回归天空）7.20是卓司认定的“…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078600165821476864",
+            "3_2078600165582368768"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2078600177729048616",
+        "created_at": "2026-07-18T21:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T22:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078600177729048616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lqpxFuVxd6",
+              "end": 148,
+              "expanded_url": "https://x.com/jingqngyng64121/status/2078600177729048616/photo/1",
+              "media_key": "3_2078600165821476864",
+              "start": 125,
+              "url": "https://t.co/lqpxFuVxd6"
+            },
+            {
+              "display_url": "pic.x.com/lqpxFuVxd6",
+              "end": 148,
+              "expanded_url": "https://x.com/jingqngyng64121/status/2078600177729048616/photo/1",
+              "media_key": "3_2078600165582368768",
+              "start": 125,
+              "url": "https://t.co/lqpxFuVxd6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078600177729048616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "「何もなかった。」\n間宮くんが、自分から飛び降りただけだよ。\n\np2 是亲友给我的制品喵🤲\n\n很多人都认为7.20是回归天空的日子 但其实在剧情里7.18到7.19的凌晨是卓司带着信徒从高处落下（被解释为回归天空）7.20是卓司认定的“世界终结日” https://t.co/lqpxFuVxd6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 442,
+          "like_count": 8217,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1718
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      }
+    ]
+  }
+}

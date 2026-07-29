@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071865579904843776"
+      ],
+      "media_source_tweet_id": [
+        "2071865589174600081"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2073059880467095991",
+    "created_at": "2026-07-03T15:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073059880467095991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2062572305243578371",
+          "start": 3,
+          "username": "dihgxjheij"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kAH7XShBFd",
+          "end": 39,
+          "expanded_url": "https://x.com/dihgxjheij/status/2071865589174600081/photo/1",
+          "media_key": "3_2071865579904843776",
+          "start": 16,
+          "url": "https://t.co/kAH7XShBFd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073059880467095991",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071865589174600081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dihgxjheij: https://t.co/kAH7XShBFd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 727,
+        "media_key": "3_2071865579904843776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMC-xIiWQAASrWp.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071865579904843776"
+          ],
+          "media_source_tweet_id": [
+            "2071865589174600081"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2073059880467095991",
+        "created_at": "2026-07-03T15:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073059880467095991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2062572305243578371",
+              "start": 3,
+              "username": "dihgxjheij"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kAH7XShBFd",
+              "end": 39,
+              "expanded_url": "https://x.com/dihgxjheij/status/2071865589174600081/photo/1",
+              "media_key": "3_2071865579904843776",
+              "start": 16,
+              "url": "https://t.co/kAH7XShBFd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073059880467095991",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071865589174600081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dihgxjheij: https://t.co/kAH7XShBFd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071865579904843776"
+          ]
+        },
+        "author_id": "2062572305243578371",
+        "conversation_id": "2071865589174600081",
+        "created_at": "2026-06-30T07:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071865589174600081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kAH7XShBFd",
+              "end": 23,
+              "expanded_url": "https://x.com/dihgxjheij/status/2071865589174600081/photo/1",
+              "media_key": "3_2071865579904843776",
+              "start": 0,
+              "url": "https://t.co/kAH7XShBFd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071865589174600081",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1126,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kAH7XShBFd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 429,
+          "like_count": 8002,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1662
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T16:30:27.000Z",
+        "description": "验证10 门费一张",
+        "id": "2062572305243578371",
+        "location": "广州",
+        "name": "小幼神",
+        "pinned_tweet_id": "2071865589174600081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062572904714477571/7hXGQ2l-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 15,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "dihgxjheij",
+        "verified": false
+      }
+    ]
+  }
+}

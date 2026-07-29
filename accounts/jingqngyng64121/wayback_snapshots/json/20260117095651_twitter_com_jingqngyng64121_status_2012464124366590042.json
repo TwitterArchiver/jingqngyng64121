@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012144227967537152"
+      ],
+      "media_source_tweet_id": [
+        "2012144239933898759"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2012464124366590042",
+    "created_at": "2026-01-17T09:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T10:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012464124366590042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "osakakira64"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GHyypkHx45",
+          "end": 40,
+          "expanded_url": "https://x.com/osakakira64/status/2012144239933898759/photo/1",
+          "media_key": "3_2012144227967537152",
+          "start": 17,
+          "url": "https://t.co/GHyypkHx45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012464124366590042",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012144239933898759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @osakakira64: https://t.co/GHyypkHx45"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2012144227967537152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ySg7jbkAA3vQW.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012144227967537152"
+          ],
+          "media_source_tweet_id": [
+            "2012144239933898759"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2012464124366590042",
+        "created_at": "2026-01-17T09:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012464124366590042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "osakakira64"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GHyypkHx45",
+              "end": 40,
+              "expanded_url": "https://x.com/osakakira64/status/2012144239933898759/photo/1",
+              "media_key": "3_2012144227967537152",
+              "start": 17,
+              "url": "https://t.co/GHyypkHx45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012464124366590042",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012144239933898759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @osakakira64: https://t.co/GHyypkHx45"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012144227967537152"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2012144239933898759",
+        "created_at": "2026-01-16T12:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T13:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012144239933898759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GHyypkHx45",
+              "end": 23,
+              "expanded_url": "https://x.com/osakakira64/status/2012144239933898759/photo/1",
+              "media_key": "3_2012144227967537152",
+              "start": 0,
+              "url": "https://t.co/GHyypkHx45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012144239933898759",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 595136,
+          "like_count": 3870,
+          "quote_count": 9,
+          "reply_count": 268,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GHyypkHx45"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 684,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 106
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "淺嘗輒止",
+        "id": "2010357366466990080",
+        "name": "emo鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010358568411967489/bBrji-ki_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 78,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 103
+        },
+        "username": "osakakira64",
+        "verified": false
+      }
+    ]
+  }
+}

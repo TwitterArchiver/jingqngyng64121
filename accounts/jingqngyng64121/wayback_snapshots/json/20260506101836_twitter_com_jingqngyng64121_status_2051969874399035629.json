@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2051969874399035629",
+    "created_at": "2026-05-06T10:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T11:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051969874399035629"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "门槛"
+        },
+        {
+          "end": 85,
+          "start": 81,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 90,
+          "start": 86,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 95,
+          "start": 91,
+          "tag": "求入门"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "女大"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "反差"
+        },
+        {
+          "end": 107,
+          "start": 104,
+          "tag": "巨乳"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "微胖"
+        },
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "线下"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "非绿"
+        },
+        {
+          "end": 125,
+          "start": 120,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 130,
+          "start": 126,
+          "tag": "求包养"
+        },
+        {
+          "end": 136,
+          "start": 131,
+          "tag": "电子女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "293340594",
+          "start": 3,
+          "username": "kaaatmontebon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051969874399035629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047989898037358931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaaatmontebon: 这里是小陈🔝\n被人骗了 欠了好多钱😭\n一直很努力的养活自己\n哥哥入🚪好不好🥺\n超级听话的！！！\n欢迎互转互fo ～\n#门槛 #门槛妹 #门槛哥 #求入门 #女大 #反差 #巨乳 #微胖 #线下 #非绿 #金主爸爸 #求包养 #电子女友 ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1556,
+        "media_key": "3_2047989885978705920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvr81lagAAS6X_.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047989885966209024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvr81ib0AAQfhI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2051969874399035629",
+        "created_at": "2026-05-06T10:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051969874399035629"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "门槛"
+            },
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "求入门"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "女大"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "反差"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "巨乳"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "微胖"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "线下"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "非绿"
+            },
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "求包养"
+            },
+            {
+              "end": 136,
+              "start": 131,
+              "tag": "电子女友"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "293340594",
+              "start": 3,
+              "username": "kaaatmontebon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051969874399035629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047989898037358931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kaaatmontebon: 这里是小陈🔝\n被人骗了 欠了好多钱😭\n一直很努力的养活自己\n哥哥入🚪好不好🥺\n超级听话的！！！\n欢迎互转互fo ～\n#门槛 #门槛妹 #门槛哥 #求入门 #女大 #反差 #巨乳 #微胖 #线下 #非绿 #金主爸爸 #求包养 #电子女友 ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047989885978705920",
+            "3_2047989885966209024"
+          ]
+        },
+        "author_id": "293340594",
+        "conversation_id": "2047989898037358931",
+        "created_at": "2026-04-25T10:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047989898037358931"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "门槛"
+            },
+            {
+              "end": 66,
+              "start": 62,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "求入门"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "女大"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "反差"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "巨乳"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "微胖"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "线下"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "非绿"
+            },
+            {
+              "end": 106,
+              "start": 101,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "求包养"
+            },
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "电子女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TtzKBpupvY",
+              "end": 141,
+              "expanded_url": "https://x.com/kaaatmontebon/status/2047989898037358931/photo/1",
+              "media_key": "3_2047989885978705920",
+              "start": 118,
+              "url": "https://t.co/TtzKBpupvY"
+            },
+            {
+              "display_url": "pic.x.com/TtzKBpupvY",
+              "end": 141,
+              "expanded_url": "https://x.com/kaaatmontebon/status/2047989898037358931/photo/1",
+              "media_key": "3_2047989885966209024",
+              "start": 118,
+              "url": "https://t.co/TtzKBpupvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047989898037358931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8838,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "这里是小陈🔝\n被人骗了 欠了好多钱😭\n一直很努力的养活自己\n哥哥入🚪好不好🥺\n超级听话的！！！\n欢迎互转互fo ～\n#门槛 #门槛妹 #门槛哥 #求入门 #女大 #反差 #巨乳 #微胖 #线下 #非绿 #金主爸爸 #求包养 #电子女友 https://t.co/TtzKBpupvY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 442,
+          "like_count": 7364,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1460
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-05T05:26:06.000Z",
+        "description": "千粉重生 哇咔咔 坐标20的 只收神秘数字 欢迎哥哥过门！欢迎互转互fo ～",
+        "id": "293340594",
+        "name": "陈陈陈（求入门版）",
+        "pinned_tweet_id": "2047989898037358931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021914040625434625/AOgQrB_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 86,
+          "like_count": 108,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 332
+        },
+        "username": "kaaatmontebon",
+        "verified": false
+      }
+    ]
+  }
+}

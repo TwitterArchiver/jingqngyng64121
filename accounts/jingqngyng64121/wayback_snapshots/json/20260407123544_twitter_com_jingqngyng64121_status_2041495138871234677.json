@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041321691926921216"
+      ],
+      "media_source_tweet_id": [
+        "2041321699225051322"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2041495138871234677",
+    "created_at": "2026-04-07T12:35:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041495138871234677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1972623872672546816",
+          "start": 3,
+          "username": "1eshine2gether"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rrq271mcAe",
+          "end": 85,
+          "expanded_url": "https://x.com/1eshine2gether/status/2041321699225051322/photo/1",
+          "media_key": "3_2041321691926921216",
+          "start": 62,
+          "url": "https://t.co/rrq271mcAe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041495138871234677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041321699225051322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1eshine2gether: 过300粉丝抽奖。3个188。\n点赞转发就行。三天后开奖（要到300粉。应该可以） https://t.co/rrq271mcAe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041321691926921216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQ7Q2-agAAgW4I.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041321691926921216"
+          ],
+          "media_source_tweet_id": [
+            "2041321699225051322"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2041495138871234677",
+        "created_at": "2026-04-07T12:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041495138871234677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1972623872672546816",
+              "start": 3,
+              "username": "1eshine2gether"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rrq271mcAe",
+              "end": 85,
+              "expanded_url": "https://x.com/1eshine2gether/status/2041321699225051322/photo/1",
+              "media_key": "3_2041321691926921216",
+              "start": 62,
+              "url": "https://t.co/rrq271mcAe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041495138871234677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041321699225051322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1eshine2gether: 过300粉丝抽奖。3个188。\n点赞转发就行。三天后开奖（要到300粉。应该可以） https://t.co/rrq271mcAe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041321691926921216"
+          ]
+        },
+        "author_id": "1972623872672546816",
+        "conversation_id": "2041321699225051322",
+        "created_at": "2026-04-07T01:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041321699225051322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rrq271mcAe",
+              "end": 65,
+              "expanded_url": "https://x.com/1eshine2gether/status/2041321699225051322/photo/1",
+              "media_key": "3_2041321691926921216",
+              "start": 42,
+              "url": "https://t.co/rrq271mcAe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041321699225051322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2799,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "过300粉丝抽奖。3个188。\n点赞转发就行。三天后开奖（要到300粉。应该可以） https://t.co/rrq271mcAe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 318,
+          "like_count": 5427,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 939
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-29T11:27:08.000Z",
+        "description": "很抱歉，成为一个破落户。虫某人的185天下海生涯",
+        "id": "1972623872672546816",
+        "location": "188🚪解锁线下验证15",
+        "name": "虫儿飞",
+        "pinned_tweet_id": "2034562477669982470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972636807151108096/3gqPnOh3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 76,
+          "like_count": 689,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 515
+        },
+        "username": "1eshine2gether",
+        "verified": false
+      }
+    ]
+  }
+}

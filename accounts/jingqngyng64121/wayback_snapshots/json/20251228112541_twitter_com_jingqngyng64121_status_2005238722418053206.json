@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2004523062985986432",
+    "created_at": "2025-12-28T11:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T12:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005238722418053206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970649523497377792",
+          "start": 0,
+          "username": "longbao520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005238722418053206",
+    "in_reply_to_user_id": "1970649523497377792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004523062985986432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longbao520 别开盒我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2004523062985986432",
+        "created_at": "2025-12-28T11:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T12:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005238722418053206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970649523497377792",
+              "start": 0,
+              "username": "longbao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005238722418053206",
+        "in_reply_to_user_id": "1970649523497377792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004523062985986432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longbao520 别开盒我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970649523497377792",
+        "conversation_id": "2004523062985986432",
+        "created_at": "2025-12-26T12:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T13:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004523062985986432"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004523062985986432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 122041,
+          "like_count": 969,
+          "quote_count": 16,
+          "reply_count": 106,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "你是说你隔着手机爱上了一个你从来没见过的人 仅仅只是因为你们每天都聊天？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "",
+        "id": "1992506703678705664",
+        "name": "kawaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001251658462867457/SV9w9q-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 48
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T00:40:41.000Z",
+        "description": "在读书 不定期上推 喜欢我可以投喂 52 ➕v 谢谢大家 问来问去的不要加我 只回复正常私信 骚扰私信直接拉黑 还有我真的不接线下 放过我",
+        "id": "1970649523497377792",
+        "name": "电子蝴蝶",
+        "pinned_tweet_id": "2004753487922692414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990353476728274944/D5L0tQ1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 2,
+          "like_count": 4,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1666
+        },
+        "username": "longbao520",
+        "verified": false
+      }
+    ]
+  }
+}

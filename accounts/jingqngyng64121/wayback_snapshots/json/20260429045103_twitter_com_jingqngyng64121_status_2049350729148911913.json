@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2049119562092945866",
+    "created_at": "2026-04-29T04:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T05:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049350729148911913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2045452240878743552",
+          "start": 0,
+          "username": "keso03111314sxh"
+        },
+        {
+          "end": 32,
+          "id": "1985250196155142145",
+          "start": 17,
+          "username": "miyngyng155125"
+        },
+        {
+          "end": 43,
+          "id": "1893580687200157696",
+          "start": 33,
+          "username": "kittsayes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049350729148911913",
+    "in_reply_to_user_id": "2045452240878743552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049119562092945866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keso03111314sxh @miyngyng155125 @kittsayes 我是你前世互fo🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2049119562092945866",
+        "created_at": "2026-04-29T04:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049350729148911913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2045452240878743552",
+              "start": 0,
+              "username": "keso03111314sxh"
+            },
+            {
+              "end": 32,
+              "id": "1985250196155142145",
+              "start": 17,
+              "username": "miyngyng155125"
+            },
+            {
+              "end": 43,
+              "id": "1893580687200157696",
+              "start": 33,
+              "username": "kittsayes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049350729148911913",
+        "in_reply_to_user_id": "2045452240878743552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049119562092945866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keso03111314sxh @miyngyng155125 @kittsayes 我是你前世互fo🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045452240878743552",
+        "conversation_id": "2049119562092945866",
+        "created_at": "2026-04-28T13:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049119562092945866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1893580687200157696",
+              "start": 0,
+              "username": "kittsayes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049119562092945866",
+        "in_reply_to_user_id": "1893580687200157696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 592,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "@kittsayes 大号又被封了宝宝们求转发。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 440,
+          "like_count": 7089,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1395
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T10:42:01.000Z",
+        "description": "一个莫名其妙的人",
+        "id": "2045452240878743552",
+        "name": "Croissant(2.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045452929780654080/6r1lqgsz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 83,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 34
+        },
+        "username": "keso03111314sxh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T07:38:39.000Z",
+        "description": "叫我死死/苦苦 非常低精力低道德猎奇xp非常之诡异 会发很多猎奇言论 恋尸癖人彘控 不要骂我不要骂我不要害我不要阴我 很怕痛又很恋痛不管是身体还是心理谢谢 脑子非常有病还有那个被害妄想症  双相精分焦虑 同类互fo 小骚骚：@Yemiy6c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 112,
+                "username": "Yemiy6c"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1ovqyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1ovqyu",
+                "start": 0,
+                "url": "https://t.co/BTKgdR25Dd"
+              }
+            ]
+          }
+        },
+        "id": "1985250196155142145",
+        "name": "死ぬ前に人の優しさに触れたい",
+        "pinned_tweet_id": "2039018996805349721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033477587151028224/hn988M7H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 124,
+          "like_count": 1487,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 904
+        },
+        "url": "https://t.co/BTKgdR25Dd",
+        "username": "miyngyng155125",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T08:36:54.000Z",
+        "description": "cn杨诺/可颂\n｜10年高一｜双相｜目前已休学｜\n｜03.11｜双鱼｜infp｜od｜自残｜碎碎念｜\n喜欢跟同类互fo 萌妹纸和萌弟子也可以来呀（查成分回 ）\n二次深空沈星回高浓度激推梦女 纸性恋已有老公\n加联系过🚪过🚪过🚪我很缺钱我妈不给钱\n所以我还是希望能有点钱。谢谢你们❗️\n欢迎提问👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant56414",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant56414",
+                "start": 0,
+                "url": "https://t.co/3pRf1TkeZk"
+              }
+            ]
+          }
+        },
+        "id": "1893580687200157696",
+        "location": "🚪52纯绿  获得一个碎碎念的我",
+        "name": "Croissant",
+        "pinned_tweet_id": "2044376056078258341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044355523835985920/3SvZJ1av_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 783,
+          "like_count": 4774,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 2264
+        },
+        "url": "https://t.co/3pRf1TkeZk",
+        "username": "kittsayes",
+        "verified": false
+      }
+    ]
+  }
+}

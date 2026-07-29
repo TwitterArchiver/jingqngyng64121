@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2038896771980828986",
+    "created_at": "2026-03-31T15:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T16:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038997635068297491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2038891863294570496",
+          "start": 0,
+          "username": "44Hitomi424"
+        },
+        {
+          "end": 29,
+          "id": "1914538987538272256",
+          "start": 13,
+          "username": "TreenTresa68970"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038997635068297491",
+    "in_reply_to_user_id": "2038891863294570496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038896771980828986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@44Hitomi424 @TreenTresa68970 请求🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2038896755023179777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEudy9DacAE-JkL.jpg",
+        "width": 1440
+      },
+      {
+        "height": 870,
+        "media_key": "3_2038896755019075585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEudy9Cb0AEL347.jpg",
+        "width": 1158
+      },
+      {
+        "height": 1368,
+        "media_key": "3_2038896755027423232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEudy9EbMAA5Gb_.jpg",
+        "width": 1026
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2038896755035742208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEudy9GaIAAzqpR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2038896771980828986",
+        "created_at": "2026-03-31T15:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038997635068297491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038891863294570496",
+              "start": 0,
+              "username": "44Hitomi424"
+            },
+            {
+              "end": 29,
+              "id": "1914538987538272256",
+              "start": 13,
+              "username": "TreenTresa68970"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038997635068297491",
+        "in_reply_to_user_id": "2038891863294570496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038896771980828986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@44Hitomi424 @TreenTresa68970 请求🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038896755023179777",
+            "3_2038896755019075585",
+            "3_2038896755027423232",
+            "3_2038896755035742208"
+          ]
+        },
+        "author_id": "2038891863294570496",
+        "conversation_id": "2038896771980828986",
+        "created_at": "2026-03-31T08:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038896771980828986"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "线下"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "纯绿"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "半绿"
+            },
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "求收养"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "求上供"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "请给我钱"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "女高"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n0v06yaCoC",
+              "end": 131,
+              "expanded_url": "https://x.com/44Hitomi424/status/2038896771980828986/photo/1",
+              "media_key": "3_2038896755023179777",
+              "start": 108,
+              "url": "https://t.co/n0v06yaCoC"
+            },
+            {
+              "display_url": "pic.x.com/n0v06yaCoC",
+              "end": 131,
+              "expanded_url": "https://x.com/44Hitomi424/status/2038896771980828986/photo/1",
+              "media_key": "3_2038896755019075585",
+              "start": 108,
+              "url": "https://t.co/n0v06yaCoC"
+            },
+            {
+              "display_url": "pic.x.com/n0v06yaCoC",
+              "end": 131,
+              "expanded_url": "https://x.com/44Hitomi424/status/2038896771980828986/photo/1",
+              "media_key": "3_2038896755027423232",
+              "start": 108,
+              "url": "https://t.co/n0v06yaCoC"
+            },
+            {
+              "display_url": "pic.x.com/n0v06yaCoC",
+              "end": 131,
+              "expanded_url": "https://x.com/44Hitomi424/status/2038896771980828986/photo/1",
+              "media_key": "3_2038896755035742208",
+              "start": 108,
+              "url": "https://t.co/n0v06yaCoC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038896771980828986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 730,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "你们好我是刀刀这是一个置顶\n求互fo互转啊啊啊许愿门槛我真的很穷\n除口令外只回女孩子 女孩子快来和我玩呀\n线下只接纯绿半绿 🚪188开放线下 #门槛妹 #线下 #纯绿 #半绿 #求收养 #求上供 #请给我钱 #女高 https://t.co/n0v06yaCoC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜🏳️‍🌈🏳️‍⚧️全包容｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜老婆@ustuYukichan｜凉席猫爪别骂我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ustuYukichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2036796263207932375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 307,
+          "like_count": 5090,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 848
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T08:12:20.000Z",
+        "description": "🚪88🚪188🚪288🚪520\n问坐标20 只回复口令",
+        "id": "2038891863294570496",
+        "name": "花一匁",
+        "pinned_tweet_id": "2038896771980828986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038892424945430528/mSHy_SVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 30,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 77
+        },
+        "username": "44Hitomi424",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T04:38:18.000Z",
+        "description": "真是无可救药的变态，你真是差劲，厚颜无耻的人渣，愚蠢至极，真是个充满污秽欲望的人，真不像样。能别这么一脸期待的看着我。好吗？真是够变态的，别一脸恶心的看着我，你这工口大色狼，胖次死宅胖次狂，你这臭老鼠赶紧找个镜子照下自己吧，没救了。这样就满足了吧，哼，咋扣咋扣",
+        "id": "1914538987538272256",
+        "name": "未满喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033078574333440001/N557VQOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 48,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 225
+        },
+        "username": "TreenTresa68970",
+        "verified": false
+      }
+    ]
+  }
+}

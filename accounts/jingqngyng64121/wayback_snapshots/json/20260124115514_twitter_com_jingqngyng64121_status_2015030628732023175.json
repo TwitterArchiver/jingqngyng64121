@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015030620091461633"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2015030628732023175",
+    "created_at": "2026-01-24T11:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T12:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015030628732023175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LbEodYggqY",
+          "end": 38,
+          "expanded_url": "https://x.com/jingqngyng64121/status/2015030628732023175/photo/1",
+          "media_key": "3_2015030620091461633",
+          "start": 15,
+          "url": "https://t.co/LbEodYggqY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015030628732023175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有老公告诉我这是什么瓜🥹 https://t.co/LbEodYggqY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015030620091461633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_bTrEIWMAEq6Iv.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015030620091461633"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2015030628732023175",
+        "created_at": "2026-01-24T11:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T12:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015030628732023175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LbEodYggqY",
+              "end": 38,
+              "expanded_url": "https://x.com/jingqngyng64121/status/2015030628732023175/photo/1",
+              "media_key": "3_2015030620091461633",
+              "start": 15,
+              "url": "https://t.co/LbEodYggqY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015030628732023175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有老公告诉我这是什么瓜🥹 https://t.co/LbEodYggqY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜强制戒o戒割中｜LGBT🏳️‍🌈🏳️‍⚧️｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️",
+        "id": "1992506703678705664",
+        "name": "kawaii✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008869906670882816/2HhH3WGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 47,
+          "like_count": 1052,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 187
+        },
+        "username": "jingqngyng64121",
+        "verified": false
+      }
+    ]
+  }
+}
