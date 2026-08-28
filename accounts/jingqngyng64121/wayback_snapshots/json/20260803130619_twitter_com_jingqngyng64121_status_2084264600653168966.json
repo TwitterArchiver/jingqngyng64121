@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2084100561972936969",
+    "created_at": "2026-08-03T13:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T14:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084264600653168966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987505337210114048",
+          "start": 0,
+          "username": "Ayana_1201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084264600653168966",
+    "in_reply_to_user_id": "1987505337210114048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084100561972936969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayana_1201 我靠好美啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084100521791459328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOw2Ye2WEAAGHXJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084100521778892800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOw2YezWUAAurF-.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2084100561972936969",
+        "created_at": "2026-08-03T13:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084264600653168966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987505337210114048",
+              "start": 0,
+              "username": "Ayana_1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084264600653168966",
+        "in_reply_to_user_id": "1987505337210114048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084100561972936969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayana_1201 我靠好美啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084100521791459328",
+            "3_2084100521778892800"
+          ]
+        },
+        "author_id": "1987505337210114048",
+        "conversation_id": "2084100561972936969",
+        "created_at": "2026-08-03T02:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084100561972936969"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 3,
+              "tag": "海猫鸣泣之时"
+            },
+            {
+              "end": 18,
+              "start": 11,
+              "tag": "海猫鳴くの時"
+            },
+            {
+              "end": 29,
+              "start": 19,
+              "tag": "うみねこなくのとき"
+            },
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "右代宮绘羽"
+            },
+            {
+              "end": 45,
+              "start": 37,
+              "tag": "夏娃贝阿朵莉切"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "cos"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "日系"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "雰囲気"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h7XxUdIsWC",
+              "end": 83,
+              "expanded_url": "https://x.com/Ayana_1201/status/2084100561972936969/photo/1",
+              "media_key": "3_2084100521791459328",
+              "start": 60,
+              "url": "https://t.co/h7XxUdIsWC"
+            },
+            {
+              "display_url": "pic.x.com/h7XxUdIsWC",
+              "end": 83,
+              "expanded_url": "https://x.com/Ayana_1201/status/2084100561972936969/photo/1",
+              "media_key": "3_2084100521778892800",
+              "start": 60,
+              "url": "https://t.co/h7XxUdIsWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084100561972936969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姑姑\n#海猫鸣泣之时 #海猫鳴くの時 #うみねこなくのとき #右代宮绘羽 #夏娃贝阿朵莉切 #cos #日系 #雰囲気 https://t.co/h7XxUdIsWC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 467,
+          "like_count": 8505,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1797
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T12:59:56.000Z",
+        "description": "精分｜双向｜od｜メンへラ|18⬆️｜直fo就是喜欢你｜绝望的管吃｜想交朋友",
+        "id": "1987505337210114048",
+        "location": "终之空",
+        "name": "早饭教_official",
+        "pinned_tweet_id": "2010948623916224529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031371697643991047/gNKyBqgw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 154,
+          "like_count": 929,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "Ayana_1201",
+        "verified": false
+      }
+    ]
+  }
+}

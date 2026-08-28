@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2088689452243992908",
+    "created_at": "2026-08-16T12:22:17.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088964561210904631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1987805389904396288",
+          "start": 0,
+          "username": "HaruYukii0421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088964561210904631",
+    "in_reply_to_user_id": "1987805389904396288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088689452243992908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaruYukii0421 真的好小众"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088689441653276672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyD-xfaQAA__Rt.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088689441649180672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyD-xebwAAeOZP.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088689441649065984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyD-xeaAAAB4Gi.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088689441699430400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyD-xqagAA2Bcv.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2088689452243992908",
+        "created_at": "2026-08-16T12:22:17.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088964561210904631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1987805389904396288",
+              "start": 0,
+              "username": "HaruYukii0421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088964561210904631",
+        "in_reply_to_user_id": "1987805389904396288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088689452243992908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaruYukii0421 真的好小众"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088689441653276672",
+            "3_2088689441649180672",
+            "3_2088689441649065984",
+            "3_2088689441699430400"
+          ]
+        },
+        "author_id": "1987805389904396288",
+        "conversation_id": "2088689452243992908",
+        "created_at": "2026-08-15T18:09:06.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T19:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088689452243992908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WGJ9TFWMgR",
+              "end": 28,
+              "expanded_url": "https://x.com/HaruYukii0421/status/2088689452243992908/photo/1",
+              "media_key": "3_2088689441653276672",
+              "start": 5,
+              "url": "https://t.co/WGJ9TFWMgR"
+            },
+            {
+              "display_url": "pic.x.com/WGJ9TFWMgR",
+              "end": 28,
+              "expanded_url": "https://x.com/HaruYukii0421/status/2088689452243992908/photo/1",
+              "media_key": "3_2088689441649180672",
+              "start": 5,
+              "url": "https://t.co/WGJ9TFWMgR"
+            },
+            {
+              "display_url": "pic.x.com/WGJ9TFWMgR",
+              "end": 28,
+              "expanded_url": "https://x.com/HaruYukii0421/status/2088689452243992908/photo/1",
+              "media_key": "3_2088689441649065984",
+              "start": 5,
+              "url": "https://t.co/WGJ9TFWMgR"
+            },
+            {
+              "display_url": "pic.x.com/WGJ9TFWMgR",
+              "end": 28,
+              "expanded_url": "https://x.com/HaruYukii0421/status/2088689452243992908/photo/1",
+              "media_key": "3_2088689441699430400",
+              "start": 5,
+              "url": "https://t.co/WGJ9TFWMgR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088689452243992908",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088689441653276672"
+          },
+          {
+            "media_key": "3_2088689441649180672"
+          },
+          {
+            "media_key": "3_2088689441649065984"
+          },
+          {
+            "media_key": "3_2088689441699430400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3741,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的很帅 https://t.co/WGJ9TFWMgR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2088964561210904631",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 473,
+          "like_count": 8550,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1826
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T08:52:10.000Z",
+        "description": "🔪💊❤️\n同类互fo喵\n提问箱：https://t.co/cnThTXnKUl\n最最爱的小狗@zhangyuKawaii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 46,
+                "username": "zhangyuKawaii"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%BF%9F%E7%B…",
+                "end": 39,
+                "expanded_url": "https://ngl.link/%E8%BF%9F%E7%BE%8A",
+                "start": 16,
+                "url": "https://t.co/cnThTXnKUl"
+              }
+            ]
+          }
+        },
+        "id": "1987805389904396288",
+        "is_identity_verified": false,
+        "location": "请输入文本",
+        "most_recent_tweet_id": "2088922446800032121",
+        "name": "迟羊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987805389904396288/1785696784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073347565870059520/NVJw553W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 424,
+          "like_count": 6165,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 476
+        },
+        "url": "",
+        "username": "HaruYukii0421",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

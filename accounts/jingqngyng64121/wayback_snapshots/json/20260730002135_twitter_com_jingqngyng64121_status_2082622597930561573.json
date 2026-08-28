@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082426322790629376"
+      ],
+      "media_source_tweet_id": [
+        "2082426338833793472"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082622597930561573",
+    "created_at": "2026-07-30T00:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T01:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082622597930561573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2062758646141054976",
+          "start": 3,
+          "username": "Chuiertu_chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1URePypm01",
+          "end": 42,
+          "expanded_url": "https://x.com/Chuiertu_chan/status/2082426338833793472/photo/1",
+          "media_key": "3_2082426322790629376",
+          "start": 19,
+          "url": "https://t.co/1URePypm01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082622597930561573",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082426338833793472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chuiertu_chan: https://t.co/1URePypm01"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1617,
+        "media_key": "3_2082426322790629376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZDtRjbwAAsDef.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082426322790629376"
+          ]
+        },
+        "author_id": "2062758646141054976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082426338833793472",
+        "created_at": "2026-07-29T11:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082426338833793472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1URePypm01",
+              "end": 23,
+              "expanded_url": "https://x.com/Chuiertu_chan/status/2082426338833793472/photo/1",
+              "media_key": "3_2082426322790629376",
+              "start": 0,
+              "url": "https://t.co/1URePypm01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082426338833793472",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 784,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1URePypm01"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082426322790629376"
+          ],
+          "media_source_tweet_id": [
+            "2082426338833793472"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082622597930561573",
+        "created_at": "2026-07-30T00:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T01:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082622597930561573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2062758646141054976",
+              "start": 3,
+              "username": "Chuiertu_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1URePypm01",
+              "end": 42,
+              "expanded_url": "https://x.com/Chuiertu_chan/status/2082426338833793472/photo/1",
+              "media_key": "3_2082426322790629376",
+              "start": 19,
+              "url": "https://t.co/1URePypm01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082622597930561573",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082426338833793472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chuiertu_chan: https://t.co/1URePypm01"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 463,
+          "like_count": 8405,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1763
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T04:50:25.000Z",
+        "description": "坏蛋世界。双子星@AkiraTT_chan \n互fo请私信呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "AkiraTT_chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Chuiertu_chan",
+                "end": 23,
+                "expanded_url": "http://t.me/Chuiertu_chan",
+                "start": 0,
+                "url": "https://t.co/og70qcUDvV"
+              }
+            ]
+          }
+        },
+        "id": "2062758646141054976",
+        "name": "Akira_晓",
+        "pinned_tweet_id": "2076665457273180666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076663312704512000/9fIpz77U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 121,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 148
+        },
+        "url": "https://t.co/og70qcUDvV",
+        "username": "Chuiertu_chan",
+        "verified": false
+      }
+    ]
+  }
+}

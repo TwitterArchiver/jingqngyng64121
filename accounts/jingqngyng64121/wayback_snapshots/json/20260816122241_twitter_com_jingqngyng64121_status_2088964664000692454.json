@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2088874163620413586",
+    "created_at": "2026-08-16T12:22:41.000Z",
+    "display_text_range": [
+      26,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088964664000692454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2037817579448807424",
+          "start": 0,
+          "username": "Yuki283113"
+        },
+        {
+          "end": 25,
+          "id": "1965246583379034117",
+          "start": 12,
+          "username": "hyunjennagua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088964664000692454",
+    "in_reply_to_user_id": "2037817579448807424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088874163620413586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki283113 @hyunjennagua 我在这里 看看我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1138,
+        "media_key": "3_2088874138798522368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0r9j-WAAATaIh.jpg",
+        "width": 1063
+      },
+      {
+        "height": 1136,
+        "media_key": "3_2088874152027459584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0r-VQXkAAU7_F.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2088874163620413586",
+        "created_at": "2026-08-16T12:22:41.000Z",
+        "display_text_range": [
+          26,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088964664000692454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2037817579448807424",
+              "start": 0,
+              "username": "Yuki283113"
+            },
+            {
+              "end": 25,
+              "id": "1965246583379034117",
+              "start": 12,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088964664000692454",
+        "in_reply_to_user_id": "2037817579448807424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088874163620413586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki283113 @hyunjennagua 我在这里 看看我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088874138798522368",
+            "3_2088874152027459584"
+          ]
+        },
+        "author_id": "2037817579448807424",
+        "conversation_id": "2088874163620413586",
+        "created_at": "2026-08-16T06:23:04.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088874163620413586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qfyl2G5PQk",
+              "end": 71,
+              "expanded_url": "https://x.com/Yuki283113/status/2088874163620413586/photo/1",
+              "media_key": "3_2088874138798522368",
+              "start": 48,
+              "url": "https://t.co/Qfyl2G5PQk"
+            },
+            {
+              "display_url": "pic.x.com/Qfyl2G5PQk",
+              "end": 71,
+              "expanded_url": "https://x.com/Yuki283113/status/2088874163620413586/photo/1",
+              "media_key": "3_2088874152027459584",
+              "start": 48,
+              "url": "https://t.co/Qfyl2G5PQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088874163620413586",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088874138798522368"
+          },
+          {
+            "media_key": "3_2088874152027459584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 835,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "遗憾的，乐子岐3.0无法与您继续互动，现在出现的是4.0\n不嫌麻烦的朋友请帮转一下🥺寻回互fo https://t.co/Qfyl2G5PQk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2088964664000692454",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 474,
+          "like_count": 8551,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1827
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T09:02:43.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n\n互fo回归，请，会微差成分，全友好\n\n这是第几个了。?",
+        "id": "2037817579448807424",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2088942639991177234",
+        "name": "岐哥，梦想跪了。4.0",
+        "pinned_tweet_id": "2088874163620413586",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037817579448807424/1785937437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084998836246700033/-ARs9g6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 105,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "Yuki283113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2088962526277218392",
+        "name": "南瓜（绝望中）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 1153,
+          "like_count": 10099,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 4480
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

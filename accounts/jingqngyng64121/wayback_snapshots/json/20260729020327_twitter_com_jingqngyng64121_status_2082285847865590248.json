@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2082103864371855610",
+    "created_at": "2026-07-29T02:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T03:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082285847865590248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062215721275551744",
+          "start": 0,
+          "username": "jlmmb4562"
+        },
+        {
+          "end": 22,
+          "id": "1813768883540725760",
+          "start": 11,
+          "username": "ye_and_yae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082285847865590248",
+    "in_reply_to_user_id": "2062215721275551744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082277136711483705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlmmb4562 @ye_and_yae 还好啦我醒了 就是碳酸锂而已 昨天我不知道怎么了 反正就是吞下去了 谢谢你的关心🥺 虽然知道死不了呵呵。 现在就是人很震颤。还好啦没事的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2082103864371855610",
+        "created_at": "2026-07-29T02:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082285847865590248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062215721275551744",
+              "start": 0,
+              "username": "jlmmb4562"
+            },
+            {
+              "end": 22,
+              "id": "1813768883540725760",
+              "start": 11,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082285847865590248",
+        "in_reply_to_user_id": "2062215721275551744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082277136711483705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlmmb4562 @ye_and_yae 还好啦我醒了 就是碳酸锂而已 昨天我不知道怎么了 反正就是吞下去了 谢谢你的关心🥺 虽然知道死不了呵呵。 现在就是人很震颤。还好啦没事的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062215721275551744",
+        "conversation_id": "2082103864371855610",
+        "created_at": "2026-07-29T01:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082277136711483705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813768883540725760",
+              "start": 0,
+              "username": "ye_and_yae"
+            },
+            {
+              "end": 28,
+              "id": "1992506703678705664",
+              "start": 12,
+              "username": "jingqngyng64121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082277136711483705",
+        "in_reply_to_user_id": "1813768883540725760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082109681338892729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye_and_yae @jingqngyng64121 才刷到的，好像，十个小时了已经，唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 456,
+          "like_count": 8367,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1756
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T16:52:55.000Z",
+        "description": "喜欢的角色是极限战士基因原体罗伯特基利曼和塔达林高阶领主阿拉纳克\n在推特刷墙内不能看的(嗯对是涩涩)\n正在苦等孤独摇滚下一季",
+        "id": "2062215721275551744",
+        "location": "中国辽宁省",
+        "name": "基利曼曼波",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082116299942141953/VWaL-Q2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 27,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "jlmmb4562",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "我是爱晔哦 \n09/01/26 炸柜26/06/09 有时含糖 喜欢航天 二次元 技术至上主义 喜欢画画 学日语\n最最最好的朋友@guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "location": "距你11.4km",
+        "name": "🍥爱晔🚀",
+        "pinned_tweet_id": "2082073672802767121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 1145,
+          "like_count": 8647,
+          "listed_count": 3,
+          "media_count": 380,
+          "tweet_count": 4024
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": false
+      }
+    ]
+  }
+}

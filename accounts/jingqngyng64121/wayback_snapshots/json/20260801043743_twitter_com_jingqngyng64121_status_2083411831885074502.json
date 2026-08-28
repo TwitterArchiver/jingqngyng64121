@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2082784233387630783",
+    "created_at": "2026-08-01T04:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T05:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083411831885074502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2064284661069520896",
+          "start": 0,
+          "username": "wtflmaotv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083411831885074502",
+    "in_reply_to_user_id": "2064284661069520896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083240623092470089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtflmaotv 你死了你要去骂他就去他私信找他啊跟我他吗有什么关系 而且你这种顺直畜男没人想理你 我的建议是你赶紧销号然后自杀去最好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2682,
+        "media_key": "3_2083240613885976577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkoTQRXIAE1jp3.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2082784233387630783",
+        "created_at": "2026-08-01T04:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083411831885074502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2064284661069520896",
+              "start": 0,
+              "username": "wtflmaotv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083411831885074502",
+        "in_reply_to_user_id": "2064284661069520896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083240623092470089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtflmaotv 你死了你要去骂他就去他私信找他啊跟我他吗有什么关系 而且你这种顺直畜男没人想理你 我的建议是你赶紧销号然后自杀去最好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083240613885976577"
+          ]
+        },
+        "author_id": "2064284661069520896",
+        "conversation_id": "2082784233387630783",
+        "created_at": "2026-07-31T17:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083240623092470089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1992506703678705664",
+              "start": 0,
+              "username": "jingqngyng64121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bE3upxLTTG",
+              "end": 72,
+              "expanded_url": "https://x.com/wtflmaotv/status/2083240623092470089/photo/1",
+              "media_key": "3_2083240613885976577",
+              "start": 49,
+              "url": "https://t.co/bE3upxLTTG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083240623092470089",
+        "in_reply_to_user_id": "1992506703678705664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082784233387630783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingqngyng64121 臭傻逼把帖子开开啊 我还要想问问文青哥他具体是得了什么精神疾病 https://t.co/bE3upxLTTG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 470,
+          "like_count": 8470,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1783
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-09T09:54:23.000Z",
+        "description": "我是来看粉红笑话的",
+        "id": "2064284661069520896",
+        "name": "逗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076330570154659841/gugfOAHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 86,
+          "like_count": 595,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 291
+        },
+        "url": "",
+        "username": "wtflmaotv",
+        "verified": false
+      }
+    ]
+  }
+}

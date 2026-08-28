@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088916189691224065",
+        "3_2088916189787672576",
+        "3_2088916189754089472",
+        "3_2088916189854765057"
+      ],
+      "media_source_tweet_id": [
+        "2088916211002429789",
+        "2088916211002429789",
+        "2088916211002429789",
+        "2088916211002429789"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2089384959215915287",
+    "created_at": "2026-08-17T16:12:47.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T17:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089384959215915287"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "入门"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1916932943513346048",
+          "start": 3,
+          "username": "mjbehrens80"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/akdPFDBFY2",
+          "end": 58,
+          "expanded_url": "https://x.com/mjbehrens80/status/2088916211002429789/photo/1",
+          "media_key": "3_2088916189691224065",
+          "start": 35,
+          "url": "https://t.co/akdPFDBFY2"
+        },
+        {
+          "display_url": "pic.x.com/akdPFDBFY2",
+          "end": 58,
+          "expanded_url": "https://x.com/mjbehrens80/status/2088916211002429789/photo/1",
+          "media_key": "3_2088916189787672576",
+          "start": 35,
+          "url": "https://t.co/akdPFDBFY2"
+        },
+        {
+          "display_url": "pic.x.com/akdPFDBFY2",
+          "end": 58,
+          "expanded_url": "https://x.com/mjbehrens80/status/2088916211002429789/photo/1",
+          "media_key": "3_2088916189754089472",
+          "start": 35,
+          "url": "https://t.co/akdPFDBFY2"
+        },
+        {
+          "display_url": "pic.x.com/akdPFDBFY2",
+          "end": 58,
+          "expanded_url": "https://x.com/mjbehrens80/status/2088916211002429789/photo/1",
+          "media_key": "3_2088916189854765057",
+          "start": 35,
+          "url": "https://t.co/akdPFDBFY2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089384959215915287",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088916189691224065"
+      },
+      {
+        "media_key": "3_2088916189787672576"
+      },
+      {
+        "media_key": "3_2088916189754089472"
+      },
+      {
+        "media_key": "3_2088916189854765057"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088916211002429789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mjbehrens80: 🔝小奈\n#爸爸活 #入门 私我了解 https://t.co/akdPFDBFY2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1141,
+        "media_key": "3_2088916189691224065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1SNPwboAE_vlk.jpg",
+        "width": 1107
+      },
+      {
+        "height": 1557,
+        "media_key": "3_2088916189787672576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1SNQHbUAAJRdH.jpg",
+        "width": 1083
+      },
+      {
+        "height": 1158,
+        "media_key": "3_2088916189754089472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1SNP_a4AANBKU.jpg",
+        "width": 1101
+      },
+      {
+        "height": 750,
+        "media_key": "3_2088916189854765057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1SNQXbEAEBwIC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088916189691224065",
+            "3_2088916189787672576",
+            "3_2088916189754089472",
+            "3_2088916189854765057"
+          ],
+          "media_source_tweet_id": [
+            "2088916211002429789",
+            "2088916211002429789",
+            "2088916211002429789",
+            "2088916211002429789"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2089384959215915287",
+        "created_at": "2026-08-17T16:12:47.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089384959215915287"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "入门"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1916932943513346048",
+              "start": 3,
+              "username": "mjbehrens80"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/akdPFDBFY2",
+              "end": 58,
+              "expanded_url": "https://x.com/mjbehrens80/status/2088916211002429789/photo/1",
+              "media_key": "3_2088916189691224065",
+              "start": 35,
+              "url": "https://t.co/akdPFDBFY2"
+            },
+            {
+              "display_url": "pic.x.com/akdPFDBFY2",
+              "end": 58,
+              "expanded_url": "https://x.com/mjbehrens80/status/2088916211002429789/photo/1",
+              "media_key": "3_2088916189787672576",
+              "start": 35,
+              "url": "https://t.co/akdPFDBFY2"
+            },
+            {
+              "display_url": "pic.x.com/akdPFDBFY2",
+              "end": 58,
+              "expanded_url": "https://x.com/mjbehrens80/status/2088916211002429789/photo/1",
+              "media_key": "3_2088916189754089472",
+              "start": 35,
+              "url": "https://t.co/akdPFDBFY2"
+            },
+            {
+              "display_url": "pic.x.com/akdPFDBFY2",
+              "end": 58,
+              "expanded_url": "https://x.com/mjbehrens80/status/2088916211002429789/photo/1",
+              "media_key": "3_2088916189854765057",
+              "start": 35,
+              "url": "https://t.co/akdPFDBFY2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089384959215915287",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088916189691224065"
+          },
+          {
+            "media_key": "3_2088916189787672576"
+          },
+          {
+            "media_key": "3_2088916189754089472"
+          },
+          {
+            "media_key": "3_2088916189854765057"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088916211002429789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mjbehrens80: 🔝小奈\n#爸爸活 #入门 私我了解 https://t.co/akdPFDBFY2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088916189691224065",
+            "3_2088916189787672576",
+            "3_2088916189754089472",
+            "3_2088916189854765057"
+          ]
+        },
+        "author_id": "1916932943513346048",
+        "conversation_id": "2088916211002429789",
+        "created_at": "2026-08-16T09:10:09.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088916211002429789"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "入门"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/akdPFDBFY2",
+              "end": 41,
+              "expanded_url": "https://x.com/mjbehrens80/status/2088916211002429789/photo/1",
+              "media_key": "3_2088916189691224065",
+              "start": 18,
+              "url": "https://t.co/akdPFDBFY2"
+            },
+            {
+              "display_url": "pic.x.com/akdPFDBFY2",
+              "end": 41,
+              "expanded_url": "https://x.com/mjbehrens80/status/2088916211002429789/photo/1",
+              "media_key": "3_2088916189787672576",
+              "start": 18,
+              "url": "https://t.co/akdPFDBFY2"
+            },
+            {
+              "display_url": "pic.x.com/akdPFDBFY2",
+              "end": 41,
+              "expanded_url": "https://x.com/mjbehrens80/status/2088916211002429789/photo/1",
+              "media_key": "3_2088916189754089472",
+              "start": 18,
+              "url": "https://t.co/akdPFDBFY2"
+            },
+            {
+              "display_url": "pic.x.com/akdPFDBFY2",
+              "end": 41,
+              "expanded_url": "https://x.com/mjbehrens80/status/2088916211002429789/photo/1",
+              "media_key": "3_2088916189854765057",
+              "start": 18,
+              "url": "https://t.co/akdPFDBFY2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088916211002429789",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088916189691224065"
+          },
+          {
+            "media_key": "3_2088916189787672576"
+          },
+          {
+            "media_key": "3_2088916189754089472"
+          },
+          {
+            "media_key": "3_2088916189854765057"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 825,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "🔝小奈\n#爸爸活 #入门 私我了解 https://t.co/akdPFDBFY2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2089384959215915287",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 477,
+          "like_count": 8604,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1834
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-28T19:10:13.000Z",
+        "description": "お兄様こんにちは、奈ちゃん。自力で生きる女の子です。\nプロフィールを見てくれたお兄様、お姉様、毎日幸せで大金を稼げますように！\nぜひ私の門へお越しください。",
+        "id": "1916932943513346048",
+        "is_identity_verified": false,
+        "location": "🇨🇳98/198/398/520/1314/5200",
+        "most_recent_tweet_id": "2089299986647527933",
+        "name": "奈ちゃん",
+        "pinned_tweet_id": "2088916211002429789",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916932943513346048/1786868882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088905416172548096/9pVu7ugG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "mjbehrens80",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

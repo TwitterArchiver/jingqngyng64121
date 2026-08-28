@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082306103367675904"
+      ],
+      "media_source_tweet_id": [
+        "2082306108115542061"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2082496081863360541",
+    "created_at": "2026-07-29T15:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082496081863360541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1789533976027426816",
+          "start": 3,
+          "username": "kyou_0207"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Iz1JeHaOUv",
+          "end": 38,
+          "expanded_url": "https://x.com/kyou_0207/status/2082306108115542061/photo/1",
+          "media_key": "3_2082306103367675904",
+          "start": 15,
+          "url": "https://t.co/Iz1JeHaOUv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082496081863360541",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1665
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082306108115542061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyou_0207: https://t.co/Iz1JeHaOUv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2082306103367675904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXWXlTbsAA8QDT.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082306103367675904"
+          ]
+        },
+        "author_id": "1789533976027426816",
+        "conversation_id": "2082306108115542061",
+        "created_at": "2026-07-29T03:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T04:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082306108115542061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iz1JeHaOUv",
+              "end": 23,
+              "expanded_url": "https://x.com/kyou_0207/status/2082306108115542061/photo/1",
+              "media_key": "3_2082306103367675904",
+              "start": 0,
+              "url": "https://t.co/Iz1JeHaOUv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082306108115542061",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1307,
+          "impression_count": 77879,
+          "like_count": 12772,
+          "quote_count": 67,
+          "reply_count": 54,
+          "retweet_count": 1665
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Iz1JeHaOUv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082306103367675904"
+          ],
+          "media_source_tweet_id": [
+            "2082306108115542061"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2082496081863360541",
+        "created_at": "2026-07-29T15:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082496081863360541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1789533976027426816",
+              "start": 3,
+              "username": "kyou_0207"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iz1JeHaOUv",
+              "end": 38,
+              "expanded_url": "https://x.com/kyou_0207/status/2082306108115542061/photo/1",
+              "media_key": "3_2082306103367675904",
+              "start": 15,
+              "url": "https://t.co/Iz1JeHaOUv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082496081863360541",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1665
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082306108115542061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyou_0207: https://t.co/Iz1JeHaOUv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 462,
+          "like_count": 8394,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1761
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T05:53:32.000Z",
+        "description": "ネットに溺れて破滅する/凍結したとき用兼平和なやつ→@ttttt2222227",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "ttttt2222227"
+              }
+            ]
+          }
+        },
+        "id": "1789533976027426816",
+        "location": "17歳",
+        "name": "景",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962134900351614977/NN4JKTQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 4,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "kyou_0207",
+        "verified": false
+      }
+    ]
+  }
+}

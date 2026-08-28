@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2082784344926802173",
+    "created_at": "2026-07-30T11:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T12:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082784344926802173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1941790403440816128",
+          "start": 3,
+          "username": "Vzn4o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082784344926802173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082420136024395899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Vzn4o: 冷知识，推特上的任何一个人你都惹得起，他们这辈子和你没任何关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2082784344926802173",
+        "created_at": "2026-07-30T11:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082784344926802173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1941790403440816128",
+              "start": 3,
+              "username": "Vzn4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082784344926802173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082420136024395899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Vzn4o: 冷知识，推特上的任何一个人你都惹得起，他们这辈子和你没任何关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941790403440816128",
+        "conversation_id": "2082420136024395899",
+        "created_at": "2026-07-29T10:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082420136024395899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082420136024395899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 42651,
+          "like_count": 710,
+          "quote_count": 4,
+          "reply_count": 56,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识，推特上的任何一个人你都惹得起，他们这辈子和你没任何关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 467,
+          "like_count": 8441,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1774
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-06T09:24:55.000Z",
+        "description": "但愿人生能常回味 而我不回头|@Shxryy778喜欢我的➕经常互动的➕比较熟悉的互关请来这里找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "Shxryy778"
+              }
+            ]
+          }
+        },
+        "id": "1941790403440816128",
+        "name": "老兵美甲店",
+        "pinned_tweet_id": "2034139306856779804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074881036320964608/bkOTszG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 180,
+          "like_count": 4392,
+          "listed_count": 4,
+          "media_count": 101,
+          "tweet_count": 4969
+        },
+        "url": "",
+        "username": "Vzn4o",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2086847707537412529",
+    "created_at": "2026-08-10T16:10:39.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T17:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086847707537412529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1922389433510461442",
+          "start": 3,
+          "username": "RieXwX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086847707537412529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086633584454991942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RieXwX: 不是不是 警察叔叔你抓错人了 我没有嗑药啊 我又不懂药理学 我以为一次性把药全吃了病就能一次性痊愈了呢 我就是想病快点好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2086847707537412529",
+        "created_at": "2026-08-10T16:10:39.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086847707537412529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1922389433510461442",
+              "start": 3,
+              "username": "RieXwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086847707537412529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086633584454991942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RieXwX: 不是不是 警察叔叔你抓错人了 我没有嗑药啊 我又不懂药理学 我以为一次性把药全吃了病就能一次性痊愈了呢 我就是想病快点好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922389433510461442",
+        "conversation_id": "2086633584454991942",
+        "created_at": "2026-08-10T01:59:48.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T02:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086633584454991942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086633584454991942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 10026,
+          "like_count": 281,
+          "quote_count": 9,
+          "reply_count": 23,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "不是不是 警察叔叔你抓错人了 我没有嗑药啊 我又不懂药理学 我以为一次性把药全吃了病就能一次性痊愈了呢 我就是想病快点好呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2086847707537412529",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 461,
+          "like_count": 8536,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1805
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-13T20:32:33.000Z",
+        "description": "而我就是一个只爱打游戏的老实人，我什么也不懂。",
+        "id": "1922389433510461442",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086633584454991942",
+        "name": "リエ様",
+        "pinned_tweet_id": "1934267577569853845",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922389433510461442/1751180665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978013469522960384/Ykrg_bKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10177,
+          "following_count": 53,
+          "like_count": 452,
+          "listed_count": 11,
+          "media_count": 398,
+          "tweet_count": 1459
+        },
+        "url": "",
+        "username": "RieXwX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
