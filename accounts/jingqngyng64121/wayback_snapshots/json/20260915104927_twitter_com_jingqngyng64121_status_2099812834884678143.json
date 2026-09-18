@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2099736297384694246",
+    "created_at": "2026-09-15T10:49:27.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T11:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099812834884678143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "876363325998678017",
+          "start": 0,
+          "username": "copymellowclip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099812834884678143",
+    "in_reply_to_user_id": "876363325998678017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099736297384694246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@copymellowclip 好可爱😍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 937,
+        "media_key": "3_2099736290250063872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPDB_ZaAAAkiUW.jpg",
+        "width": 1678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2099736297384694246",
+        "created_at": "2026-09-15T10:49:27.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099812834884678143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099812834884678143",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099736297384694246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 好可爱😍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099736290250063872"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2099736297384694246",
+        "created_at": "2026-09-15T05:45:19.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099736297384694246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r3fwxiFh4q",
+              "end": 46,
+              "expanded_url": "https://x.com/copymellowclip/status/2099736297384694246/photo/1",
+              "media_key": "3_2099736290250063872",
+              "start": 23,
+              "url": "https://t.co/r3fwxiFh4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099736297384694246",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099736290250063872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1426,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "经典场景经典角色回归，定的莫提斯的演出服到了 https://t.co/r3fwxiFh4q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2099812834884678143",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 478,
+          "like_count": 9007,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1986
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099808938535559356",
+        "name": "コピー",
+        "pinned_tweet_id": "2086035119920628043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2823,
+          "following_count": 1729,
+          "like_count": 7478,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 3975
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

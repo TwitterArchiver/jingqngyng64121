@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2097145326339830248",
+    "created_at": "2026-09-08T04:52:14.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T05:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097186225849528582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1935788566870999042",
+          "start": 0,
+          "username": "contradict277"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097186225849528582",
+    "in_reply_to_user_id": "1935788566870999042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097172157486993483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@contradict277 猫猫宝宝😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2097145326339830248",
+        "created_at": "2026-09-08T04:52:14.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T05:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097186225849528582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1935788566870999042",
+              "start": 0,
+              "username": "contradict277"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097186225849528582",
+        "in_reply_to_user_id": "1935788566870999042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097172157486993483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@contradict277 猫猫宝宝😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935788566870999042",
+        "conversation_id": "2097145326339830248",
+        "created_at": "2026-09-08T03:56:20.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097172157486993483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1992506703678705664",
+              "start": 0,
+              "username": "jingqngyng64121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097172157486993483",
+        "in_reply_to_user_id": "1992506703678705664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097145326339830248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingqngyng64121 恭喜呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2097186225849528582",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 453,
+          "like_count": 8574,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1879
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-19T19:55:52.000Z",
+        "description": "- ⩊ - \n匿名箱https://t.co/hj7bjU2WCK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/maomao30635",
+                "end": 33,
+                "expanded_url": "https://ngl.link/maomao30635",
+                "start": 10,
+                "url": "https://t.co/hj7bjU2WCK"
+              }
+            ]
+          }
+        },
+        "id": "1935788566870999042",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097172157486993483",
+        "name": "猫猫",
+        "pinned_tweet_id": "2066921887507071159",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1935788566870999042/1779548716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094005373514698752/QPfRZiW0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 182,
+          "like_count": 17626,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 2358
+        },
+        "url": "",
+        "username": "contradict277",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

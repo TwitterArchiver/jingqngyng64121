@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2097821633272819754",
+    "created_at": "2026-09-10T09:19:43.000Z",
+    "display_text_range": [
+      24,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T10:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097978314489241964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2089340554605998080",
+          "start": 0,
+          "username": "Kagami060507"
+        },
+        {
+          "end": 23,
+          "id": "2047425753227333632",
+          "start": 14,
+          "username": "YuganQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097978314489241964",
+    "in_reply_to_user_id": "2089340554605998080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097821633272819754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagami060507 @YuganQwQ 我蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2097821633272819754",
+        "created_at": "2026-09-10T09:19:43.000Z",
+        "display_text_range": [
+          24,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T10:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097978314489241964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2089340554605998080",
+              "start": 0,
+              "username": "Kagami060507"
+            },
+            {
+              "end": 23,
+              "id": "2047425753227333632",
+              "start": 14,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097978314489241964",
+        "in_reply_to_user_id": "2089340554605998080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097821633272819754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagami060507 @YuganQwQ 我蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089340554605998080",
+        "conversation_id": "2097821633272819754",
+        "created_at": "2026-09-09T22:57:07.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T23:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097821633272819754"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097821633272819754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1846,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 56,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "最近过得不是很开心☹️\n但是不妨碍我吃麦当劳😋\n抽个人依旧 19.9 穷鬼套餐 评论参与抽奖\n明天（9.11）开奖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2097978314489241964",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 469,
+          "like_count": 8681,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1921
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T13:17:35.000Z",
+        "description": "转生小号 发点碎碎念当朋友圈玩没有 偶尔爆点金币欢迎宝宝们互 fo 没有🚪没有福利看\nvx:...展开",
+        "id": "2089340554605998080",
+        "is_identity_verified": false,
+        "location": "墳墓",
+        "most_recent_tweet_id": "2097821633272819754",
+        "name": "Kagami",
+        "pinned_tweet_id": "2090806620884480418",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089340554605998080/1787480445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090345739495067648/HWZzn5xn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 85,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "Kagami060507",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2097969100815274192",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 425,
+          "like_count": 5289,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1301
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

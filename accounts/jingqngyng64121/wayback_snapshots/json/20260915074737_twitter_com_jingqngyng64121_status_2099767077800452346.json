@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2099767077800452346",
+    "created_at": "2026-09-15T07:47:37.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T08:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099767077800452346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2081634934347972608",
+          "start": 3,
+          "username": "Cinnamoroloncn"
+        },
+        {
+          "end": 30,
+          "id": "470018406",
+          "start": 20,
+          "username": "sanshunyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099767077800452346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099488442963112134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cinnamoroloncn: @sanshunyi 这怎么他妈长得这么像孙笑川"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2099767077800452346",
+        "created_at": "2026-09-15T07:47:37.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T08:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099767077800452346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2081634934347972608",
+              "start": 3,
+              "username": "Cinnamoroloncn"
+            },
+            {
+              "end": 30,
+              "id": "470018406",
+              "start": 20,
+              "username": "sanshunyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099767077800452346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099488442963112134",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cinnamoroloncn: @sanshunyi 这怎么他妈长得这么像孙笑川"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081634934347972608",
+        "conversation_id": "2099487406215073844",
+        "created_at": "2026-09-14T13:20:26.000Z",
+        "display_text_range": [
+          11,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T14:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099488442963112134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "470018406",
+              "start": 0,
+              "username": "sanshunyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099488442963112134",
+        "in_reply_to_user_id": "470018406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41212,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099487406215073844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanshunyi 这怎么他妈长得这么像孙笑川"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2099767077800452346",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 478,
+          "like_count": 8993,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1984
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-27T06:57:44.000Z",
+        "description": "",
+        "id": "2081634934347972608",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099488442963112134",
+        "name": "Cinnamoroll",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081635298723999744/G1quX8j5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 37,
+          "like_count": 1104,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "Cinnamoroloncn",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-01-21T07:25:51.000Z",
+        "description": "Bnb holder.#\nkeep building 。\n\n长沙第一深情，摄影私拍，人生导师",
+        "id": "470018406",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099740893582627119",
+        "name": "D师",
+        "pinned_tweet_id": "1527565795164884992",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/470018406/1784362688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016871745052168197/VK6n9Uvv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129436,
+          "following_count": 1967,
+          "like_count": 12496,
+          "listed_count": 1104,
+          "media_count": 5851,
+          "tweet_count": 97852
+        },
+        "url": "",
+        "username": "sanshunyi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

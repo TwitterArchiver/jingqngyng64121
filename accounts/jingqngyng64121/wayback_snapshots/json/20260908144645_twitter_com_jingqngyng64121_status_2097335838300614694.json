@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2097299041172570278",
+    "created_at": "2026-09-08T14:46:45.000Z",
+    "display_text_range": [
+      22,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T15:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097335838300614694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987402138667130881",
+          "start": 0,
+          "username": "jkiesoft"
+        },
+        {
+          "end": 21,
+          "id": "2055986818932424704",
+          "start": 10,
+          "username": "Koysov2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097335838300614694",
+    "in_reply_to_user_id": "1987402138667130881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097299041172570278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkiesoft @Koysov2022 我想看～关注你啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2097299041172570278",
+        "created_at": "2026-09-08T14:46:45.000Z",
+        "display_text_range": [
+          22,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097335838300614694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987402138667130881",
+              "start": 0,
+              "username": "jkiesoft"
+            },
+            {
+              "end": 21,
+              "id": "2055986818932424704",
+              "start": 10,
+              "username": "Koysov2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097335838300614694",
+        "in_reply_to_user_id": "1987402138667130881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097299041172570278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkiesoft @Koysov2022 我想看～关注你啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987402138667130881",
+        "conversation_id": "2097299041172570278",
+        "created_at": "2026-09-08T12:20:32.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097299041172570278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "2055986818932424704",
+              "start": 9,
+              "username": "Koysov2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097299041172570278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我可能会在二号机 @Koysov2022  里发一些不是很正常的内容，刷到了感到不适也请屏蔽静音，谢谢。\n毕竟我觉得是时候划出一块区域释放天性了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2097335838300614694",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 454,
+          "like_count": 8593,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1885
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-09T06:10:21.000Z",
+        "description": "二号机:@koysov2022\n非人哉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "koysov2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120069949",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120069949",
+                "start": 0,
+                "url": "https://t.co/MYZgVAViyV"
+              }
+            ]
+          }
+        },
+        "id": "1987402138667130881",
+        "is_identity_verified": false,
+        "location": "电波研究所",
+        "most_recent_tweet_id": "2097326077261807765",
+        "name": "kia",
+        "pinned_tweet_id": "2040333516790243786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987402138667130881/1788821751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043260826774392832/Mu52LJKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 699,
+          "like_count": 17068,
+          "listed_count": 0,
+          "media_count": 546,
+          "tweet_count": 7900
+        },
+        "url": "https://t.co/MYZgVAViyV",
+        "username": "jkiesoft",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T12:23:56.000Z",
+        "description": "主机:@jkiesoft\n初代Kia转生版，如果主机没长时间更新说明我在用这个号。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jkiesoft"
+              }
+            ]
+          }
+        },
+        "id": "2055986818932424704",
+        "is_identity_verified": false,
+        "location": "Astoria",
+        "most_recent_tweet_id": "2097299215097696641",
+        "name": "Kia2.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055986818932424704/1779021134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062404368721379329/E_7psQzI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 116,
+          "like_count": 1743,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 950
+        },
+        "url": "",
+        "username": "Koysov2022",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

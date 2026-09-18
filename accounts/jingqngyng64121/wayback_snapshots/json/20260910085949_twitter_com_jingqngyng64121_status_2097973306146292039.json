@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2097861252261577178",
+    "created_at": "2026-09-10T08:59:49.000Z",
+    "display_text_range": [
+      25,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T09:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097973306146292039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991711672684421121",
+          "start": 0,
+          "username": "pearl0812lucky"
+        },
+        {
+          "end": 24,
+          "id": "1820986559694520320",
+          "start": 16,
+          "username": "n_ne373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097973306146292039",
+    "in_reply_to_user_id": "1991711672684421121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097861252261577178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pearl0812lucky @n_ne373 我的男票是锦衣卫是我的第一本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2097861252261577178",
+        "created_at": "2026-09-10T08:59:49.000Z",
+        "display_text_range": [
+          25,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097973306146292039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            },
+            {
+              "end": 24,
+              "id": "1820986559694520320",
+              "start": 16,
+              "username": "n_ne373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097973306146292039",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097861252261577178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky @n_ne373 我的男票是锦衣卫是我的第一本"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2097861252261577178",
+        "created_at": "2026-09-10T01:34:33.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T02:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097861252261577178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097861252261577178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 41079,
+          "like_count": 1303,
+          "quote_count": 44,
+          "reply_count": 280,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "你再牛逼你当年没看过怦然心动 王牌校草 dolo命运胶囊 捡到只小狐狸 19天 朝花惜时 甜美的咬痕 吾凰在上 女巨人也要谈恋爱 我男票是锦衣卫 零分偶像 薄荷之夏 纯情丫头火辣辣 恋是樱草色 快把我哥带走 蓝翅 整容游戏 你的血很甜 西街44号 某天成为公主？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2097973306146292039",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 469,
+          "like_count": 8675,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1918
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "is_identity_verified": false,
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "most_recent_tweet_id": "2097960207448183020",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991711672684421121/1778806929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13382,
+          "following_count": 84,
+          "like_count": 9403,
+          "listed_count": 13,
+          "media_count": 203,
+          "tweet_count": 2321
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-07T00:53:34.000Z",
+        "description": "我想交朋友",
+        "id": "1820986559694520320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097954712821838131",
+        "name": "みず",
+        "pinned_tweet_id": "2064306561414283431",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820986559694520320/1755058559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030056220367917056/2nll6Kpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 179,
+          "like_count": 5736,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 1955
+        },
+        "url": "",
+        "username": "n_ne373",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2098255070508822732",
+    "created_at": "2026-09-11T03:45:07.000Z",
+    "display_text_range": [
+      10,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T04:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098256500011766004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2048401696532168704",
+          "start": 0,
+          "username": "jie520yu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098256500011766004",
+    "in_reply_to_user_id": "2048401696532168704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098255070508822732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jie520yu 我第一次75mg8t就可以了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2098255070508822732",
+        "created_at": "2026-09-11T03:45:07.000Z",
+        "display_text_range": [
+          10,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T04:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098256500011766004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2048401696532168704",
+              "start": 0,
+              "username": "jie520yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098256500011766004",
+        "in_reply_to_user_id": "2048401696532168704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098255070508822732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jie520yu 我第一次75mg8t就可以了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048401696532168704",
+        "conversation_id": "2098255070508822732",
+        "created_at": "2026-09-11T03:39:27.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T04:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098255070508822732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098255070508822732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pr第一次o大概多少t合适啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2098256500011766004",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 473,
+          "like_count": 8716,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1946
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T14:00:25.000Z",
+        "description": "我会搞砸一切 不擅长聊天",
+        "id": "2048401696532168704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098255560248373454",
+        "name": "Ꮮ Ꮺ Ꮙ Ꭼ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048401696532168704/1781460156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095340035994472448/xsYrUJfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 17,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "jie520yu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

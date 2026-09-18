@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2098011138336379080",
+    "created_at": "2026-09-10T11:30:09.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T12:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098011138336379080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1662757137997778944",
+          "start": 3,
+          "username": "six919303018180"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098011138336379080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097979357436539048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @six919303018180: 这里明明能转帖，为什么还是这么多人要复制粘贴别人的帖子，转帖很羞耻吗..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2098011138336379080",
+        "created_at": "2026-09-10T11:30:09.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098011138336379080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1662757137997778944",
+              "start": 3,
+              "username": "six919303018180"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098011138336379080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097979357436539048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @six919303018180: 这里明明能转帖，为什么还是这么多人要复制粘贴别人的帖子，转帖很羞耻吗..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662757137997778944",
+        "conversation_id": "2097979357436539048",
+        "created_at": "2026-09-10T09:23:52.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T10:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097979357436539048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097979357436539048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9343,
+          "like_count": 170,
+          "quote_count": 1,
+          "reply_count": 59,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "这里明明能转帖，为什么还是这么多人要复制粘贴别人的帖子，转帖很羞耻吗..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2098011138336379080",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 469,
+          "like_count": 8685,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1923
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-28T09:46:45.000Z",
+        "description": "不看几把 不处不约\n匿名https://t.co/T2NSTzG20a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/six919303018180",
+                "end": 35,
+                "expanded_url": "https://ngl.link/six919303018180",
+                "start": 12,
+                "url": "https://t.co/T2NSTzG20a"
+              }
+            ]
+          }
+        },
+        "id": "1662757137997778944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098010788632072513",
+        "name": "woo",
+        "pinned_tweet_id": "2096610769085628706",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662757137997778944/1770211558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097354936208252928/74E-6KTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 99,
+          "like_count": 9576,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 2763
+        },
+        "url": "",
+        "username": "six919303018180",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

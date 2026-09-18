@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2098940514968199234",
+    "created_at": "2026-09-13T01:03:09.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T02:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098940514968199234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942213637902348289",
+          "start": 3,
+          "username": "orewahara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098940514968199234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098399987545829504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @orewahara: 抑郁症患者确实更容易成瘾啊……搞不懂为什么要谴责或者拿这些开玩笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2098940514968199234",
+        "created_at": "2026-09-13T01:03:09.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T02:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098940514968199234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942213637902348289",
+              "start": 3,
+              "username": "orewahara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098940514968199234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098399987545829504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @orewahara: 抑郁症患者确实更容易成瘾啊……搞不懂为什么要谴责或者拿这些开玩笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942213637902348289",
+        "conversation_id": "2098399987545829504",
+        "created_at": "2026-09-11T13:15:18.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T14:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098399987545829504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098399987545829504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 11395,
+          "like_count": 289,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "抑郁症患者确实更容易成瘾啊……搞不懂为什么要谴责或者拿这些开玩笑"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2098940514968199234",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 476,
+          "like_count": 8816,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1959
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T13:26:36.000Z",
+        "description": "一个神秘的人｜誰も知らない私\n负能@Harasaki0\nDM禁止🚫基本不看私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Harasaki0"
+              }
+            ]
+          }
+        },
+        "id": "1942213637902348289",
+        "is_identity_verified": false,
+        "location": "原咲です",
+        "most_recent_tweet_id": "2098550148343452118",
+        "name": "はらちゃん？",
+        "pinned_tweet_id": "2078405824754721276",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942213637902348289/1782089166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074861332097298432/z6xG7fN4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 132,
+          "like_count": 708,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 551
+        },
+        "url": "",
+        "username": "orewahara",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

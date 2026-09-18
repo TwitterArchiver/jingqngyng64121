@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2100194895952838998",
+    "created_at": "2026-09-16T14:55:27.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T15:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100237134196252813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "357539288",
+          "start": 0,
+          "username": "rin917_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100237134196252813",
+    "in_reply_to_user_id": "357539288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100194895952838998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rin917_8964 明天我回来送祝福的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2100194895952838998",
+        "created_at": "2026-09-16T14:55:27.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100237134196252813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "357539288",
+              "start": 0,
+              "username": "rin917_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100237134196252813",
+        "in_reply_to_user_id": "357539288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100194895952838998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rin917_8964 明天我回来送祝福的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "357539288",
+        "conversation_id": "2100194895952838998",
+        "created_at": "2026-09-16T12:07:37.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T13:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100194895952838998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100194895952838998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 318,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天是我生日啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2100237134196252813",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 478,
+          "like_count": 9013,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1991
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-18T14:39:37.000Z",
+        "description": "我恨msk，拿了我的钱还这样我他妈的\n同类互fo🤤\n🚪52开放朋友圈不线下\n爱大家喵\n被爆大号@IiRin_00917_QwQ\n里号@yumumu_msknb\n😹🫶@woaiuai0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "IiRin_00917_QwQ"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 94,
+                "start": 82,
+                "username": "woaiuai0721"
+              }
+            ]
+          }
+        },
+        "id": "357539288",
+        "is_identity_verified": false,
+        "location": "msk身后",
+        "most_recent_tweet_id": "2100227978190000182",
+        "name": "传奇病娇18.霖",
+        "pinned_tweet_id": "2097332760834875902",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357539288/1783618658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079816271148023808/1pDQllIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 400,
+          "like_count": 2435,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1539
+        },
+        "url": "",
+        "username": "rin917_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2099117951907750095",
+    "created_at": "2026-09-13T12:48:14.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T13:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099117951907750095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2088462331332198400",
+          "start": 3,
+          "username": "AgNo3xq0719"
+        },
+        {
+          "end": 37,
+          "id": "1687876238474629120",
+          "start": 24,
+          "username": "AgNo3_xq0719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099117951907750095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097318762987049032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AgNo3xq0719: 我是硝酸银#浅@AgNo3_xq0719 四世\n求转发寻回互fo🥺\nod/双相/自伤/普瑞巴林梦女"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [AgNo3_xq0719].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "AgNo3_xq0719",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "AgNo3_xq0719"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2099117951907750095",
+        "created_at": "2026-09-13T12:48:14.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T13:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099117951907750095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2088462331332198400",
+              "start": 3,
+              "username": "AgNo3xq0719"
+            },
+            {
+              "end": 37,
+              "id": "1687876238474629120",
+              "start": 24,
+              "username": "AgNo3_xq0719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099117951907750095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097318762987049032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AgNo3xq0719: 我是硝酸银#浅@AgNo3_xq0719 四世\n求转发寻回互fo🥺\nod/双相/自伤/普瑞巴林梦女"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088462331332198400",
+        "conversation_id": "2097318762987049032",
+        "created_at": "2026-09-08T13:38:54.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T14:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097318762987049032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1687876238474629120",
+              "start": 7,
+              "username": "AgNo3_xq0719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097318762987049032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 868,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我是硝酸银#浅@AgNo3_xq0719 四世\n求转发寻回互fo🥺\nod/双相/自伤/普瑞巴林梦女"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2099117951907750095",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 477,
+          "like_count": 8847,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1961
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T03:07:40.000Z",
+        "description": "od/自伤/双相 想和女孩子互fo 同类互fo  直接关注就行看到会回 杯子@NiimiyaHoshi @llzvkeai @fngkli131022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "NiimiyaHoshi"
+              },
+              {
+                "end": 61,
+                "start": 52,
+                "username": "llzvkeai"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "fngkli131022"
+              }
+            ]
+          }
+        },
+        "id": "2088462331332198400",
+        "is_identity_verified": false,
+        "location": "普瑞巴林星球",
+        "most_recent_tweet_id": "2098949308351717446",
+        "name": "硝酸银#浅（四世）",
+        "pinned_tweet_id": "2098266637917192606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088462331332198400/1788874599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097318134680301568/re7DCVnf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 158,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "AgNo3xq0719",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2097145286074503439",
+    "created_at": "2026-09-08T05:33:11.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097196531254522030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1726637331786960896",
+          "start": 0,
+          "username": "yngn179168"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097196531254522030",
+    "in_reply_to_user_id": "1726637331786960896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097188205065871488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yngn179168 谢谢宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2097145286074503439",
+        "created_at": "2026-09-08T05:33:11.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097196531254522030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1726637331786960896",
+              "start": 0,
+              "username": "yngn179168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097196531254522030",
+        "in_reply_to_user_id": "1726637331786960896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097188205065871488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yngn179168 谢谢宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726637331786960896",
+        "conversation_id": "2097145286074503439",
+        "created_at": "2026-09-08T05:00:06.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097188205065871488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1992506703678705664",
+              "start": 0,
+              "username": "jingqngyng64121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097188205065871488",
+        "in_reply_to_user_id": "1992506703678705664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097145286074503439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingqngyng64121 恭喜你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2097196531254522030",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 453,
+          "like_count": 8578,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1880
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-20T16:23:29.000Z",
+        "description": "身高160是fw毕业家穷鬼里蹲成分是，喜欢线上贴贴，东方，喜欢交朋友，可爱的东西，玩mc，舞萌14815+，音击14.20+，大概就是这样（）",
+        "id": "1726637331786960896",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097192372379771087",
+        "name": "氡🌙♡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1726637331786960896/1788783096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096893754913550336/TWXN6zNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 22,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "yngn179168",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

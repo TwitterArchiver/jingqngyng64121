@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2098044136297554185",
+    "created_at": "2026-09-11T03:48:17.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T04:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098257294974919056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2061450593617563649",
+          "start": 0,
+          "username": "minesavior0311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098257294974919056",
+    "in_reply_to_user_id": "2061450593617563649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098044136297554185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minesavior0311 感康好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1546,
+        "media_key": "3_2098044123110584321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3AA5kaMAEQC8x.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2098044136297554185",
+        "created_at": "2026-09-11T03:48:17.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T04:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098257294974919056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2061450593617563649",
+              "start": 0,
+              "username": "minesavior0311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098257294974919056",
+        "in_reply_to_user_id": "2061450593617563649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098044136297554185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minesavior0311 感康好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098044123110584321"
+          ]
+        },
+        "author_id": "2061450593617563649",
+        "conversation_id": "2098044136297554185",
+        "created_at": "2026-09-10T13:41:16.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T14:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098044136297554185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pBY8t5iddN",
+              "end": 33,
+              "expanded_url": "https://x.com/minesavior0311/status/2098044136297554185/photo/1",
+              "media_key": "3_2098044123110584321",
+              "start": 10,
+              "url": "https://t.co/pBY8t5iddN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098044136297554185",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098044123110584321"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2301,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "抖人全都在o感康😂 https://t.co/pBY8t5iddN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2098257294974919056",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 474,
+          "like_count": 8723,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1950
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T14:15:47.000Z",
+        "description": "前世可颂\n我割我o （戒割o中。）随便发发低脂日常\n欢迎来找我玩\nlysk沈星回激推梦女 我是纸性恋\n防炸/雪兔https://t.co/oBb8b1k8Dk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/keso1314sxh?s=…",
+                "end": 79,
+                "expanded_url": "https://x.com/keso1314sxh?s=21",
+                "start": 56,
+                "url": "https://t.co/oBb8b1k8Dk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant56414",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant56414",
+                "start": 0,
+                "url": "https://t.co/uMR0QGuLvW"
+              }
+            ]
+          }
+        },
+        "id": "2061450593617563649",
+        "is_identity_verified": false,
+        "location": "提问👉🏻",
+        "most_recent_tweet_id": "2098044136297554185",
+        "name": "Choke（Croissant5.0）",
+        "pinned_tweet_id": "2062780678484394089",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061450593617563649/1784922986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094041235887730688/TtPVVCoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 178,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 491
+        },
+        "url": "https://t.co/uMR0QGuLvW",
+        "username": "minesavior0311",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

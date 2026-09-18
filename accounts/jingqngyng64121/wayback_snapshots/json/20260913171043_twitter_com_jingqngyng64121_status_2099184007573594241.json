@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2099184007573594241",
+    "created_at": "2026-09-13T17:10:43.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T18:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099184007573594241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2087523845901049856",
+          "start": 3,
+          "username": "suan4hjwnms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099184007573594241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099172731745177815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suan4hjwnms: 只是爱嗑药，仅此而已，和普通人没什么区别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2099184007573594241",
+        "created_at": "2026-09-13T17:10:43.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T18:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099184007573594241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2087523845901049856",
+              "start": 3,
+              "username": "suan4hjwnms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099184007573594241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099172731745177815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suan4hjwnms: 只是爱嗑药，仅此而已，和普通人没什么区别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087523845901049856",
+        "conversation_id": "2099172731745177815",
+        "created_at": "2026-09-13T16:25:54.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T17:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099172731745177815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099172731745177815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 619,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "只是爱嗑药，仅此而已，和普通人没什么区别"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2099184007573594241",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 475,
+          "like_count": 8876,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1966
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T12:58:00.000Z",
+        "description": "oder/bpd/pien/🩸/激进派反人类中心\n同类互fo 没回发私信给我就好\n联系不到我找@lyxz738 @T0X1C_R3B0Rn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "lyxz738"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "T0X1C_R3B0Rn"
+              }
+            ]
+          }
+        },
+        "id": "2087523845901049856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099182998415720461",
+        "name": "小酸4.0",
+        "pinned_tweet_id": "2088053477302055155",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087523845901049856/1786665438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092618861329911808/N4KIRah-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 407,
+          "like_count": 751,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 766
+        },
+        "url": "",
+        "username": "suan4hjwnms",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

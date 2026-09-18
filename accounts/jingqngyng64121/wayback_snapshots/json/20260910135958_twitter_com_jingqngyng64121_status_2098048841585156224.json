@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2097165104496492674",
+    "created_at": "2026-09-10T13:59:58.000Z",
+    "display_text_range": [
+      29,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T14:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098048841585156224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2081009888818278400",
+          "start": 0,
+          "username": "JiGuang_Lab"
+        },
+        {
+          "end": 28,
+          "id": "2043915964559835136",
+          "start": 13,
+          "username": "rain_kawaiiii1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098048841585156224",
+    "in_reply_to_user_id": "2081009888818278400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097165104496492674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiGuang_Lab @rain_kawaiiii1 等下就说你爱死死去了 健全b去死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2097165104496492674",
+        "created_at": "2026-09-10T13:59:58.000Z",
+        "display_text_range": [
+          29,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T14:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098048841585156224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2081009888818278400",
+              "start": 0,
+              "username": "JiGuang_Lab"
+            },
+            {
+              "end": 28,
+              "id": "2043915964559835136",
+              "start": 13,
+              "username": "rain_kawaiiii1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098048841585156224",
+        "in_reply_to_user_id": "2081009888818278400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097165104496492674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiGuang_Lab @rain_kawaiiii1 等下就说你爱死死去了 健全b去死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081009888818278400",
+        "conversation_id": "2097165104496492674",
+        "created_at": "2026-09-08T03:28:19.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097165104496492674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097165104496492674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2490,
+          "like_count": 116,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得老中最贱的就是不允许人有悲伤的情绪 把患有抑郁症焦虑症这种平常的精神类疾病的人 当作神经病当作异类一样对待。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2098048841585156224",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 470,
+          "like_count": 8701,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1935
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T13:33:25.000Z",
+        "description": "天黑不怕，我们有化学极乐\n我们的宗旨是收容、保护与减害。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/TdRUp527hL"
+              }
+            ]
+          }
+        },
+        "id": "2081009888818278400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098042862424486047",
+        "name": "极光实验室2026",
+        "pinned_tweet_id": "2097163301998428567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081009888818278400/1786757275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097848768402219009/Ll-1OGSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1266,
+          "like_count": 844,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 821
+        },
+        "url": "https://t.co/TdRUp527hL",
+        "username": "JiGuang_Lab",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T04:55:40.000Z",
+        "description": "线下查无此人｜不安定｜LGBTQ全友好🌈👩‍❤️‍👩｜扩列只扩互关｜欢迎同类互fo\n3.0 前世@rain_kawaii1\nbluesky：tongchan-2008 ←🔪🩸💊\n🚪8.8 仅好友位扩列纯乞讨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "rain_kawaii1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tong_u._.u_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tong_u._.u_",
+                "start": 0,
+                "url": "https://t.co/GZHx8f2s8R"
+              }
+            ]
+          }
+        },
+        "id": "2043915964559835136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2098018456595820806",
+        "name": "tong_u._.u_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043915964559835136/1776143589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043920464872148992/gUpWTpWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 146,
+          "like_count": 1661,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 732
+        },
+        "url": "https://t.co/GZHx8f2s8R",
+        "username": "rain_kawaiiii1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
