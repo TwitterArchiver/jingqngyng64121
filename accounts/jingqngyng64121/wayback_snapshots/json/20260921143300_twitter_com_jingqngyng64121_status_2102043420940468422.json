@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2102043420940468422",
+    "created_at": "2026-09-21T14:33:00.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T15:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102043420940468422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2082181614822735872",
+          "start": 3,
+          "username": "Hashi_988"
+        },
+        {
+          "end": 31,
+          "id": "1964331185590718464",
+          "start": 18,
+          "username": "breakcoreWTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102043420940468422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101338871464444044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hashi_988: 大号 @BreakcoreWTF 掉了请你们关注这个防炸好吗求转"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [breakcoreWTF].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "breakcoreWTF",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "breakcoreWTF"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2102043420940468422",
+        "created_at": "2026-09-21T14:33:00.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102043420940468422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2082181614822735872",
+              "start": 3,
+              "username": "Hashi_988"
+            },
+            {
+              "end": 31,
+              "id": "1964331185590718464",
+              "start": 18,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102043420940468422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101338871464444044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hashi_988: 大号 @BreakcoreWTF 掉了请你们关注这个防炸好吗求转"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082181614822735872",
+        "conversation_id": "2101338871464444044",
+        "created_at": "2026-09-19T15:53:22.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101338871464444044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964331185590718464",
+              "start": 3,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101338871464444044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1931,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "大号 @BreakcoreWTF 掉了请你们关注这个防炸好吗求转"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2102043435670925531",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 487,
+          "like_count": 9189,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 2037
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-28T19:11:27.000Z",
+        "description": "Never see me again\n本垢→@breakcoreWTF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "breakcoreWTF"
+              }
+            ]
+          }
+        },
+        "id": "2082181614822735872",
+        "is_identity_verified": false,
+        "location": "(:3っ )っ",
+        "most_recent_tweet_id": "2102018771561140439",
+        "name": "箸#二世",
+        "pinned_tweet_id": "2101338871464444044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082181614822735872/1788643934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099250853102444544/e2rMgwxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 133,
+          "like_count": 5856,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1215
+        },
+        "url": "",
+        "username": "Hashi_988",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

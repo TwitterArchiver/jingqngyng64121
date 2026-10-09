@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2104436164010914280",
+    "created_at": "2026-09-28T05:00:54.000Z",
+    "display_text_range": [
+      0,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T06:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104436164010914280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2094487231356710912",
+          "start": 3,
+          "username": "Nito0427ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104436164010914280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104256837189255565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nito0427ovo: 劝人不要od都劝到我头上了，魔怔了吧进入魔界了吧，劝我不要磕药的默认先死一个妈，说这种话就是ky，你没经历过我经历的，你不知道我现在下一步要干什么的，你都在那边自说自话，你想控制个陌生人，你很恐怖，老铁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2104436164010914280",
+        "created_at": "2026-09-28T05:00:54.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104436164010914280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2094487231356710912",
+              "start": 3,
+              "username": "Nito0427ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104436164010914280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104256837189255565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nito0427ovo: 劝人不要od都劝到我头上了，魔怔了吧进入魔界了吧，劝我不要磕药的默认先死一个妈，说这种话就是ky，你没经历过我经历的，你不知道我现在下一步要干什么的，你都在那边自说自话，你想控制个陌生人，你很恐怖，老铁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094487231356710912",
+        "conversation_id": "2104256837189255565",
+        "created_at": "2026-09-27T17:08:19.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T18:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104256837189255565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104256837189255565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "劝人不要od都劝到我头上了，魔怔了吧进入魔界了吧，劝我不要磕药的默认先死一个妈，说这种话就是ky，你没经历过我经历的，你不知道我现在下一步要干什么的，你都在那边自说自话，你想控制个陌生人，你很恐怖，老铁"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2104436164010914280",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 492,
+          "like_count": 9611,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 2138
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-31T18:12:59.000Z",
+        "description": "我这样死板的山，竟也会为你哗然",
+        "id": "2094487231356710912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104267052550951073",
+        "name": "Ttttw",
+        "pinned_tweet_id": "2096494610264866827",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094487231356710912/1788202828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104128220115456000/OZJ9iEun_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 66,
+          "like_count": 2948,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1358
+        },
+        "url": "",
+        "username": "Nito0427ovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

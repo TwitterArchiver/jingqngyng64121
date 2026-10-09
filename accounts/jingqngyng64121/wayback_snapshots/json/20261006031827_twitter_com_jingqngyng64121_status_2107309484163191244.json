@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2107305622698156335",
+    "created_at": "2026-10-06T03:18:27.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T04:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107309484163191244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2089102191458213888",
+          "start": 0,
+          "username": "KANRIP0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107309484163191244",
+    "in_reply_to_user_id": "2089102191458213888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107309191354601534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KANRIP0 宝宝😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2107305622698156335",
+        "created_at": "2026-10-06T03:18:27.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T04:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107309484163191244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2089102191458213888",
+              "start": 0,
+              "username": "KANRIP0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107309484163191244",
+        "in_reply_to_user_id": "2089102191458213888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107309191354601534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KANRIP0 宝宝😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089102191458213888",
+        "conversation_id": "2107305622698156335",
+        "created_at": "2026-10-06T03:17:17.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T04:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107309191354601534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1992506703678705664",
+              "start": 0,
+              "username": "jingqngyng64121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107309191354601534",
+        "in_reply_to_user_id": "1992506703678705664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107305622698156335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingqngyng64121 抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kawaiiyang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kawaiiyang",
+                "start": 0,
+                "url": "https://t.co/YBypjEJiNT"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2107309484163191244",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 521,
+          "like_count": 10394,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2372
+        },
+        "url": "https://t.co/YBypjEJiNT",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T21:33:49.000Z",
+        "description": "暂无病历-------因为没去医院\n求交友.扩列. / 喜欢二次元和游戏 \n🩸🔪 🗑ed 焦虑 讨厌自己 /几乎无雷点 \n爱魔爪.咖啡. \n可以找我倾诉. \n\n杂食党.啥都看  \n\n你可能雷： 我特别没安全感，和我交友，我可能会很烦，会一直在乎别人的信息。 \n\n颜控身材控别来，我很丑。",
+        "id": "2089102191458213888",
+        "is_identity_verified": false,
+        "location": "马来西亚",
+        "most_recent_tweet_id": "2107309191354601534",
+        "name": "K",
+        "pinned_tweet_id": "2097161229156634963",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089102191458213888/1787542516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089103906190360576/1JQwdpyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 63,
+          "like_count": 5559,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1148
+        },
+        "url": "",
+        "username": "KANRIP0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

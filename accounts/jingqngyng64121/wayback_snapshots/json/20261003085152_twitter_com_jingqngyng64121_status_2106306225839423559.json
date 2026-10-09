@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2106277307212263895",
+    "created_at": "2026-10-03T08:51:52.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T09:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106306225839423559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1979108124985561088",
+          "start": 0,
+          "username": "eguchi_egeg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106306225839423559",
+    "in_reply_to_user_id": "1979108124985561088",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106277307212263895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eguchi_egeg ➕1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2106277307212263895",
+        "created_at": "2026-10-03T08:51:52.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106306225839423559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1979108124985561088",
+              "start": 0,
+              "username": "eguchi_egeg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106306225839423559",
+        "in_reply_to_user_id": "1979108124985561088",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106277307212263895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eguchi_egeg ➕1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979108124985561088",
+        "conversation_id": "2106277307212263895",
+        "created_at": "2026-10-03T06:56:57.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T07:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106277307212263895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106277307212263895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 833,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大哥哥們我是真的會拿刀砍人啊你們可以有點安全意識嗎 地雷女真的不能泡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kawaiiyang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kawaiiyang",
+                "start": 0,
+                "url": "https://t.co/YBypjEJiNT"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2106306225839423559",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 521,
+          "like_count": 10158,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 2323
+        },
+        "url": "https://t.co/YBypjEJiNT",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-17T08:52:09.000Z",
+        "description": "=呕呕｜🇨🇳🇭🇰｜中二病｜我不是南涼｜攻擊性強 路評的時候嘴巴放乾淨點",
+        "id": "1979108124985561088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106300174083785096",
+        "name": "えぐち",
+        "pinned_tweet_id": "2094771490306900329",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1979108124985561088/1760691760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099994916797739008/oLKuB26A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 678,
+          "like_count": 4810,
+          "listed_count": 4,
+          "media_count": 154,
+          "tweet_count": 1176
+        },
+        "url": "",
+        "username": "eguchi_egeg",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

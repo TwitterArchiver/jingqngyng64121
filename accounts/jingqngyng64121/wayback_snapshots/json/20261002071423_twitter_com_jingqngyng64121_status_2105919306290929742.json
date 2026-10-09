@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2105913365449281977",
+    "created_at": "2026-10-02T07:14:23.000Z",
+    "display_text_range": [
+      8,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T08:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105919306290929742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2085457755243167744",
+          "start": 0,
+          "username": "HR3EOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105919306290929742",
+    "in_reply_to_user_id": "2085457755243167744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105913365449281977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HR3EOO 哎呀小兔你咋这么好..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1802,
+        "media_key": "3_2105913358717435904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTm1CsoaQAATKMp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2105913365449281977",
+        "created_at": "2026-10-02T07:14:23.000Z",
+        "display_text_range": [
+          8,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T08:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105919306290929742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2085457755243167744",
+              "start": 0,
+              "username": "HR3EOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105919306290929742",
+        "in_reply_to_user_id": "2085457755243167744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105913365449281977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HR3EOO 哎呀小兔你咋这么好..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105913358717435904"
+          ]
+        },
+        "author_id": "2085457755243167744",
+        "conversation_id": "2105913365449281977",
+        "created_at": "2026-10-02T06:50:46.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105913365449281977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9osSxnb4H",
+              "end": 150,
+              "expanded_url": "https://x.com/HR3EOO/status/2105913365449281977/photo/1",
+              "media_key": "3_2105913358717435904",
+              "start": 127,
+              "url": "https://t.co/D9osSxnb4H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105913365449281977",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105913358717435904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "天哪…真是……被你说中了！ヽ( ຶ▮ ຶ)ﾉ!!!\n我缺爱哦，但我不刻薄…我很温柔的！无论现实还是网络，跟我接触过的人都说我闷骚。₍ᐢ ›̥̥̥ ༝ ‹̥̥̥ ᐢ₎\n我刷存在感…刷存在感，好吧喔……我确实在刷存在感，我就喜欢这样说话呀…₊⁺♡̶♡̶₊⁺ \n其实我说话挺正常的，把颜文字去掉你再看看呢？(*ˊ˘ˋ*)｡♪:*°顶多，算个温柔的人。\n这条消息看了其实有点伤心喔…不过我喜欢你，谢谢你的评价…"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天哪…真是……被你说中了！ヽ( ຶ▮ ຶ)ﾉ!!!\n我缺爱哦，但我不刻薄…我很温柔的！无论现实还是网络，跟我接触过的人都说我闷骚。₍ᐢ ›̥̥̥ ༝ ‹̥̥̥ ᐢ₎\n我刷存在感…刷存在感，好吧喔……我确实在刷存在感，我就喜欢这样说话呀…₊⁺♡̶♡̶₊⁺ https://t.co/D9osSxnb4H"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kawaiiyang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kawaiiyang",
+                "start": 0,
+                "url": "https://t.co/YBypjEJiNT"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2105919306290929742",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 516,
+          "like_count": 10024,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 2282
+        },
+        "url": "https://t.co/YBypjEJiNT",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T20:11:53.000Z",
+        "description": "=穆穆(2.0)\n2012｜女\n发碎碎念的，可能负面帖子较多\n来找我交朋友吧☆\"˚. ⑅ ☆",
+        "id": "2085457755243167744",
+        "is_identity_verified": false,
+        "location": "Your heart♡",
+        "most_recent_tweet_id": "2105918907332870501",
+        "name": "hr3eoo",
+        "pinned_tweet_id": "2105264256971395210",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085457755243167744/1790492663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104104851718422528/ooGu9HWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 180,
+          "like_count": 4432,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 845
+        },
+        "url": "",
+        "username": "HR3EOO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

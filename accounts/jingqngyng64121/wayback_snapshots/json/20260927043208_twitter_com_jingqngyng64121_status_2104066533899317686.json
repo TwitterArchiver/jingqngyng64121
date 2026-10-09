@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2104066533899317686",
+    "created_at": "2026-09-27T04:32:08.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T05:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104066533899317686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1513985232424288258",
+          "start": 3,
+          "username": "_cattluiza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104066533899317686",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3986
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103818918393528632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_cattluiza: eu tenho NOJO NOJO de gente que zoa de gente com depressão ou de pessoas suicidas, tipo cade sua empatia caralho"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2104066533899317686",
+        "created_at": "2026-09-27T04:32:08.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T05:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104066533899317686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1513985232424288258",
+              "start": 3,
+              "username": "_cattluiza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104066533899317686",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3986
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103818918393528632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_cattluiza: eu tenho NOJO NOJO de gente que zoa de gente com depressão ou de pessoas suicidas, tipo cade sua empatia caralho"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513985232424288258",
+        "conversation_id": "2103818918393528632",
+        "created_at": "2026-09-26T12:08:11.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T13:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103818918393528632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103818918393528632",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 294,
+          "impression_count": 106542,
+          "like_count": 14253,
+          "quote_count": 84,
+          "reply_count": 64,
+          "retweet_count": 3986
+        },
+        "reply_settings": "everyone",
+        "text": "eu tenho NOJO NOJO de gente que zoa de gente com depressão ou de pessoas suicidas, tipo cade sua empatia caralho"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2104066533899317686",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 493,
+          "like_count": 9480,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 2092
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-12T21:00:11.000Z",
+        "description": "neurótica i gata",
+        "id": "1513985232424288258",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104042700378898557",
+        "name": "lua",
+        "pinned_tweet_id": "2103667963177972039",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040999010568171520/YWfJGKly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 173,
+          "like_count": 3092,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 6918
+        },
+        "url": "",
+        "username": "_cattluiza",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

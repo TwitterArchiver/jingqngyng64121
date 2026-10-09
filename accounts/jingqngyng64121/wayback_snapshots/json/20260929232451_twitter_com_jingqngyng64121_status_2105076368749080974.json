@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2104766111585861744",
+    "created_at": "2026-09-29T23:24:51.000Z",
+    "display_text_range": [
+      22,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T00:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105076368749080974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1577362467419611137",
+          "start": 0,
+          "username": "Retepa8964"
+        },
+        {
+          "end": 21,
+          "id": "1551813602553757697",
+          "start": 12,
+          "username": "mimi_VnV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105076368749080974",
+    "in_reply_to_user_id": "1577362467419611137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104766111585861744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Retepa8964 @mimi_VnV 顿顿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 774,
+        "media_key": "3_2104766105906769920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTWhny3a8AAb5hW.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2104766111585861744",
+        "created_at": "2026-09-29T23:24:51.000Z",
+        "display_text_range": [
+          22,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T00:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105076368749080974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1577362467419611137",
+              "start": 0,
+              "username": "Retepa8964"
+            },
+            {
+              "end": 21,
+              "id": "1551813602553757697",
+              "start": 12,
+              "username": "mimi_VnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105076368749080974",
+        "in_reply_to_user_id": "1577362467419611137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104766111585861744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Retepa8964 @mimi_VnV 顿顿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104766105906769920"
+          ]
+        },
+        "author_id": "1577362467419611137",
+        "conversation_id": "2104766111585861744",
+        "created_at": "2026-09-29T02:52:00.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T03:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104766111585861744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yqpTAoNc2q",
+              "end": 79,
+              "expanded_url": "https://x.com/Retepa8964/status/2104766111585861744/photo/1",
+              "media_key": "3_2104766105906769920",
+              "start": 56,
+              "url": "https://t.co/yqpTAoNc2q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104766111585861744",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104766105906769920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2375,
+          "like_count": 83,
+          "quote_count": 2,
+          "reply_count": 68,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "我被影子ban了很难过\n所以开个抽奖😿\n抽两盒齐鲁制药的绿普💚\n普瑞巴林你崛起吧\n转发+关注+评论+点赞参与哦 https://t.co/yqpTAoNc2q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2105076368749080974",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 510,
+          "like_count": 9816,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 2208
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc街机😻/都市传说/文史哲艺爱好者/生理女友好一切/后现代/神必学游客/oder/精分/数字游民?/查成分互fo\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/retepa555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/retepa555",
+                "start": 0,
+                "url": "https://t.co/i8FVzhF71c"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "is_identity_verified": false,
+        "location": "第三高原",
+        "most_recent_tweet_id": "2104963824482971834",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577362467419611137/1756231334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101293744683425792/WHovGnkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 996,
+          "like_count": 30621,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 2737
+        },
+        "url": "https://t.co/i8FVzhF71c",
+        "username": "Retepa8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-26T06:16:28.000Z",
+        "description": "天才｜舞萌 osu 喵斯｜下头屎屁尿小孩\n                                          三次绕道喵😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vnv_mimi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vnv_mimi",
+                "start": 0,
+                "url": "https://t.co/g9bldFhSZO"
+              }
+            ]
+          }
+        },
+        "id": "1551813602553757697",
+        "is_identity_verified": false,
+        "location": "雾之湖",
+        "most_recent_tweet_id": "2105018417220915340",
+        "name": "离离原上咪",
+        "pinned_tweet_id": "1999555259333497156",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1551813602553757697/1767780246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040858759883595776/ozwNkVkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 770,
+          "like_count": 32255,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 8750
+        },
+        "url": "https://t.co/g9bldFhSZO",
+        "username": "mimi_VnV",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

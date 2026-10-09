@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2106985624763052501",
+    "created_at": "2026-10-05T05:51:33.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T06:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106985624763052501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2070573717646872577",
+          "start": 3,
+          "username": "1thereaveil_4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106985624763052501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106840891931652159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1thereaveil_4: 2026年10月5日\n妈妈说再写日记倒贴那个臭男人就打断我的腿 还好不是手 还可以抱抱我最爱的哥哥 还可以把一切都交给哥哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2106985624763052501",
+        "created_at": "2026-10-05T05:51:33.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T06:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106985624763052501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2070573717646872577",
+              "start": 3,
+              "username": "1thereaveil_4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106985624763052501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106840891931652159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1thereaveil_4: 2026年10月5日\n妈妈说再写日记倒贴那个臭男人就打断我的腿 还好不是手 还可以抱抱我最爱的哥哥 还可以把一切都交给哥哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070573717646872577",
+        "conversation_id": "2106840891931652159",
+        "created_at": "2026-10-04T20:16:26.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T21:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106840891931652159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106840891931652159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "2026年10月5日\n妈妈说再写日记倒贴那个臭男人就打断我的腿 还好不是手 还可以抱抱我最爱的哥哥 还可以把一切都交给哥哥"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kawaiiyang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kawaiiyang",
+                "start": 0,
+                "url": "https://t.co/YBypjEJiNT"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2106985624763052501",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 522,
+          "like_count": 10286,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 2345
+        },
+        "url": "https://t.co/YBypjEJiNT",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T18:28:06.000Z",
+        "description": "你是我的，小天使，小宇宙，全世界。",
+        "id": "2070573717646872577",
+        "is_identity_verified": false,
+        "location": "💗",
+        "most_recent_tweet_id": "2106842489353343112",
+        "name": "只是不想那麼痛苦",
+        "pinned_tweet_id": "2073144987920060438",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070573717646872577/1782498714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070575034780045312/cKdKkqV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 24,
+          "like_count": 949,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 232
+        },
+        "url": "",
+        "username": "1thereaveil_4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

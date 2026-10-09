@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2104909310577062257",
+    "created_at": "2026-09-29T12:21:01.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T13:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104909310577062257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2068636848029630464",
+          "start": 3,
+          "username": "tozzcixixi7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104909310577062257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104170098583839052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tozzcixixi7: 我就是那种特别容易移情的傻逼，喜欢上一个人就觉得ta是天下第一好，在认识到ta和想象中不一样后又很痛苦，有时候都分不清喜欢的到底是人还是幻想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2104909310577062257",
+        "created_at": "2026-09-29T12:21:01.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T13:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104909310577062257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2068636848029630464",
+              "start": 3,
+              "username": "tozzcixixi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104909310577062257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104170098583839052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tozzcixixi7: 我就是那种特别容易移情的傻逼，喜欢上一个人就觉得ta是天下第一好，在认识到ta和想象中不一样后又很痛苦，有时候都分不清喜欢的到底是人还是幻想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068636848029630464",
+        "conversation_id": "2104170098583839052",
+        "created_at": "2026-09-27T11:23:39.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104170098583839052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104170098583839052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 453,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就是那种特别容易移情的傻逼，喜欢上一个人就觉得ta是天下第一好，在认识到ta和想象中不一样后又很痛苦，有时候都分不清喜欢的到底是人还是幻想"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2104909310577062257",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 506,
+          "like_count": 9784,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 2200
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-21T10:08:36.000Z",
+        "description": "大脑过载后会没来由的痛苦\n\n匿名提问箱👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cixixi7mo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cixixi7mo",
+                "start": 0,
+                "url": "https://t.co/cS6d1Leq5c"
+              }
+            ]
+          }
+        },
+        "id": "2068636848029630464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104886943766970420",
+        "name": "小理_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2068636848029630464/1790497951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104126815954767872/wCvSfocv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 26,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/cS6d1Leq5c",
+        "username": "tozzcixixi7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

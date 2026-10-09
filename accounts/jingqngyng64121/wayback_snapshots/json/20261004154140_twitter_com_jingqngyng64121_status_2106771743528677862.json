@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2106410177343975501",
+    "created_at": "2026-10-04T15:41:40.000Z",
+    "display_text_range": [
+      12,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T16:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106771743528677862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2082842023049216000",
+          "start": 0,
+          "username": "2_haru_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106771743528677862",
+    "in_reply_to_user_id": "2082842023049216000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106410177343975501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2_haru_ovo 我之前染挑染染完直接后悔 全头还更好看捏（只是提个意见哦...）2更好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2106410170419134464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTt448caQAAibx5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2106410177343975501",
+        "created_at": "2026-10-04T15:41:40.000Z",
+        "display_text_range": [
+          12,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T16:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106771743528677862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2082842023049216000",
+              "start": 0,
+              "username": "2_haru_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106771743528677862",
+        "in_reply_to_user_id": "2082842023049216000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106410177343975501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2_haru_ovo 我之前染挑染染完直接后悔 全头还更好看捏（只是提个意见哦...）2更好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106410170419134464"
+          ]
+        },
+        "author_id": "2082842023049216000",
+        "conversation_id": "2106410177343975501",
+        "created_at": "2026-10-03T15:44:56.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106410177343975501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iL88sCa1Ya",
+              "end": 37,
+              "expanded_url": "https://x.com/2_haru_ovo/status/2106410177343975501/photo/1",
+              "media_key": "3_2106410170419134464",
+              "start": 14,
+              "url": "https://t.co/iL88sCa1Ya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106410177343975501",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106410170419134464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我纠结这个要染什么发色呀。 https://t.co/iL88sCa1Ya"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kawaiiyang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kawaiiyang",
+                "start": 0,
+                "url": "https://t.co/YBypjEJiNT"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2106771743528677862",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 521,
+          "like_count": 10234,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2339
+        },
+        "url": "https://t.co/YBypjEJiNT",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-30T14:54:13.000Z",
+        "description": "备用@3_haru_ovo \n谢谢你喜欢我但是请你先↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "3_haru_ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/haruru66875",
+                "end": 23,
+                "expanded_url": "https://ngl.link/haruru66875",
+                "start": 0,
+                "url": "https://t.co/bqC9cQ2lgD"
+              }
+            ]
+          }
+        },
+        "id": "2082842023049216000",
+        "is_identity_verified": false,
+        "location": "长期接塔罗20一问 200包月",
+        "most_recent_tweet_id": "2106753832630030446",
+        "name": "未成椿",
+        "pinned_tweet_id": "2106408153567158634",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082842023049216000/1790053886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106736903034945536/m90DE7Rj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 102,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 747
+        },
+        "url": "https://t.co/bqC9cQ2lgD",
+        "username": "2_haru_ovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

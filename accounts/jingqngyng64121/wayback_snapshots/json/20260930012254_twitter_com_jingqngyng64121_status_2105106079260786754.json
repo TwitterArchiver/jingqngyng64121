@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2104623039426207897",
+    "created_at": "2026-09-30T01:22:54.000Z",
+    "display_text_range": [
+      21,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T02:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105106079260786754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2070179375174352897",
+          "start": 0,
+          "username": "icczoefgko"
+        },
+        {
+          "end": 20,
+          "id": "1820888981925720066",
+          "start": 12,
+          "username": "Iiya514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105106079260786754",
+    "in_reply_to_user_id": "2070179375174352897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104623039426207897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@icczoefgko @Iiya514 嘘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2104623039426207897",
+        "created_at": "2026-09-30T01:22:54.000Z",
+        "display_text_range": [
+          21,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T02:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105106079260786754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2070179375174352897",
+              "start": 0,
+              "username": "icczoefgko"
+            },
+            {
+              "end": 20,
+              "id": "1820888981925720066",
+              "start": 12,
+              "username": "Iiya514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105106079260786754",
+        "in_reply_to_user_id": "2070179375174352897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104623039426207897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icczoefgko @Iiya514 嘘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070179375174352897",
+        "conversation_id": "2104623039426207897",
+        "created_at": "2026-09-28T17:23:29.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T18:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104623039426207897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104623039426207897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 37457,
+          "like_count": 898,
+          "quote_count": 35,
+          "reply_count": 225,
+          "retweet_count": 182
+        },
+        "reply_settings": "everyone",
+        "text": "盘点每天零个人理但还在坚持狗叫的账号"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2105106079260786754",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 510,
+          "like_count": 9834,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 2212
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-25T16:17:44.000Z",
+        "description": "此账号发表的所有言论意在取悦自己，并通过文字或图片强制干预他人的思想，如果翻阅之后出现不适等症状，恭喜你，你被结扎了 /可以叫我咬咬 / 没🚪不约不卡滚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yaoyao79953",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yaoyao79953",
+                "start": 0,
+                "url": "https://t.co/iQkdIgZAnA"
+              }
+            ]
+          }
+        },
+        "id": "2070179375174352897",
+        "is_identity_verified": false,
+        "location": "我想发啥就发啥直接耍起",
+        "most_recent_tweet_id": "2104992076265840731",
+        "name": "拭尽天下少女泪",
+        "pinned_tweet_id": "2082888025571573880",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070179375174352897/1786007357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088528414726848512/KYPBVW-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 123,
+          "like_count": 2005,
+          "listed_count": 2,
+          "media_count": 259,
+          "tweet_count": 3410
+        },
+        "url": "https://t.co/iQkdIgZAnA",
+        "username": "icczoefgko",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-06T18:25:52.000Z",
+        "description": "🚪188/250｜1200",
+        "id": "1820888981925720066",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2105014421336830040",
+        "name": "水无月莹",
+        "pinned_tweet_id": "1991528316688601530",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820888981925720066/1787246487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090489395845672960/Hj9X8Xbl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 19,
+          "like_count": 578,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "Iiya514",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

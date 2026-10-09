@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2105181659503169996",
+    "created_at": "2026-09-30T07:44:27.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T08:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105202097709039964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966987715590893568",
+          "start": 0,
+          "username": "8964ssss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105202097709039964",
+    "in_reply_to_user_id": "1966987715590893568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105181659503169996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@8964ssss 恭喜呀小宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105181645255122944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTcbjXkaoAApNdH.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2105181659503169996",
+        "created_at": "2026-09-30T07:44:27.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T08:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105202097709039964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966987715590893568",
+              "start": 0,
+              "username": "8964ssss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105202097709039964",
+        "in_reply_to_user_id": "1966987715590893568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105181659503169996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@8964ssss 恭喜呀小宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105181645255122944"
+          ]
+        },
+        "author_id": "1966987715590893568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2105181659503169996",
+        "created_at": "2026-09-30T06:23:14.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T07:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105181659503169996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LrboRiiIiu",
+              "end": 142,
+              "expanded_url": "https://x.com/8964ssss/status/2105181659503169996/photo/1",
+              "media_key": "3_2105181645255122944",
+              "start": 119,
+              "url": "https://t.co/LrboRiiIiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105181659503169996",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105181645255122944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "100fo了哈哈🥰谢谢推油们\n\n我是穷学生 直接抽几个小红包吧（呃呃呃是真的小因为我真的没钱了呀😇）\n\n9.99r ×1\n6.99r ×2\n3.99r ×3\n\n抽奖条件就是必须fo我 评论这条推文就算参与了\n\n明天下午用chatGPT抽 https://t.co/LrboRiiIiu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2105202097709039964",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 510,
+          "like_count": 9885,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 2224
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-13T22:10:07.000Z",
+        "description": "以後就少鍵政了 碎碎念會多一點🥰🥰\n減肥ing。。。會把自己每天吃的食物發到推上\n左翼自由派/社會自由主義/反出生主義/ISTP/中抑重焦/中度睡眠障礙/苦逼的掛讀學生/百合騎士/互fo私信\n來世：@198964ssss 本帳號發布內容皆為紀錄生活 如引人不適請封鎖我謝謝 人身攻擊我的全家死光",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "198964ssss"
+              }
+            ]
+          }
+        },
+        "id": "1966987715590893568",
+        "is_identity_verified": false,
+        "location": "8964",
+        "most_recent_tweet_id": "2105190292379025575",
+        "name": "声声笙声",
+        "pinned_tweet_id": "2104286490159452636",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1966987715590893568/1788955581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097657807344721921/7qT-qszD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 192,
+          "like_count": 3760,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 369
+        },
+        "url": "",
+        "username": "8964ssss",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

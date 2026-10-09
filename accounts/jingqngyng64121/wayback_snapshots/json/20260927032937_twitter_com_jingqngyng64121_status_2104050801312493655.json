@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2104050801312493655",
+    "created_at": "2026-09-27T03:29:37.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T04:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104050801312493655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1804721568955912192",
+          "start": 3,
+          "username": "tart_egg25188"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104050801312493655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103993772149194909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tart_egg25188: 一个暴论：\n\n比起肉体和精神上的出轨\n\n火车的出轨更容易造成伤害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2104050801312493655",
+        "created_at": "2026-09-27T03:29:37.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104050801312493655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1804721568955912192",
+              "start": 3,
+              "username": "tart_egg25188"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104050801312493655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103993772149194909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tart_egg25188: 一个暴论：\n\n比起肉体和精神上的出轨\n\n火车的出轨更容易造成伤害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804721568955912192",
+        "conversation_id": "2103993772149194909",
+        "created_at": "2026-09-26T23:43:00.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T00:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103993772149194909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103993772149194909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7343,
+          "like_count": 228,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "一个暴论：\n\n比起肉体和精神上的出轨\n\n火车的出轨更容易造成伤害"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2104050801312493655",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 493,
+          "like_count": 9472,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 2089
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T03:42:29.000Z",
+        "description": "和我一起涨粉吧～关注我的朋友都会得到回关\n00后/商科硕士/雅思7.5/web3/萌妹/互联网该溜子",
+        "id": "1804721568955912192",
+        "is_identity_verified": false,
+        "location": "我要发好多好多好多文案",
+        "most_recent_tweet_id": "2104015414787445068",
+        "name": "egg tart（互～回～）",
+        "pinned_tweet_id": "2100048059917070714",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804721568955912192/1789077908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098170890928455680/Sm19-I1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4970,
+          "following_count": 2862,
+          "like_count": 24747,
+          "listed_count": 4,
+          "media_count": 117,
+          "tweet_count": 9972
+        },
+        "url": "",
+        "username": "tart_egg25188",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

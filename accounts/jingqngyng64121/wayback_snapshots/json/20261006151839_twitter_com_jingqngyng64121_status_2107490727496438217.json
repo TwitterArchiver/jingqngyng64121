@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2107468920974107034",
+    "created_at": "2026-10-06T15:18:39.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T16:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107490727496438217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1505522560384978944",
+          "start": 0,
+          "username": "olinsuwini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107490727496438217",
+    "in_reply_to_user_id": "1505522560384978944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107468920974107034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@olinsuwini 来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2107468920974107034",
+        "created_at": "2026-10-06T15:18:39.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T16:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107490727496438217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1505522560384978944",
+              "start": 0,
+              "username": "olinsuwini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107490727496438217",
+        "in_reply_to_user_id": "1505522560384978944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107468920974107034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@olinsuwini 来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505522560384978944",
+        "conversation_id": "2107468920974107034",
+        "created_at": "2026-10-06T13:52:00.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T14:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107468920974107034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107468920974107034",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想有人赞我。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kawaiiyang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kawaiiyang",
+                "start": 0,
+                "url": "https://t.co/YBypjEJiNT"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2107490727496438217",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 529,
+          "like_count": 10455,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 2386
+        },
+        "url": "https://t.co/YBypjEJiNT",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-20T12:32:25.000Z",
+        "description": "満たされない真っ暗、満たされない空しさ、満たされないわたし……\n\n提问箱在这里，欢迎提问哦↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/makkura",
+                "end": 23,
+                "expanded_url": "https://ngl.link/makkura",
+                "start": 0,
+                "url": "https://t.co/JM3zwlFios"
+              }
+            ]
+          }
+        },
+        "id": "1505522560384978944",
+        "is_identity_verified": false,
+        "location": "✨Universe✨",
+        "most_recent_tweet_id": "2107489918649831586",
+        "name": "Makkura",
+        "pinned_tweet_id": "2104821606262399374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1505522560384978944/1778779786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054977057608900608/_nnDw_2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 237,
+          "like_count": 6323,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 748
+        },
+        "url": "https://t.co/JM3zwlFios",
+        "username": "olinsuwini",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

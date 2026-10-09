@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2104431939205914725",
+    "created_at": "2026-09-28T04:44:07.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T05:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104431939205914725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2094562446279426048",
+          "start": 3,
+          "username": "roTlqToRl0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104431939205914725",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1270
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104140089366556965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @roTlqToRl0: 멍청해서 미안해\n못생겨서 미안해\n뚱뚱해서 미안해\n한심해서 미안해\n우울해서 미안해\n무기력해서 미안해\n너무 못나서 미안해\n병신이라서 미안해\n좋은 사람이 아니라서 미안해\n다 망쳐서 미안해\n태어나서 미안해\n살아있어서 미안해\n정신…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2104431939205914725",
+        "created_at": "2026-09-28T04:44:07.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T05:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104431939205914725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2094562446279426048",
+              "start": 3,
+              "username": "roTlqToRl0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104431939205914725",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1270
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104140089366556965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @roTlqToRl0: 멍청해서 미안해\n못생겨서 미안해\n뚱뚱해서 미안해\n한심해서 미안해\n우울해서 미안해\n무기력해서 미안해\n너무 못나서 미안해\n병신이라서 미안해\n좋은 사람이 아니라서 미안해\n다 망쳐서 미안해\n태어나서 미안해\n살아있어서 미안해\n정신…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094562446279426048",
+        "conversation_id": "2104140089366556965",
+        "created_at": "2026-09-27T09:24:24.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104140089366556965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104140089366556965",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 227,
+          "impression_count": 72439,
+          "like_count": 3512,
+          "quote_count": 110,
+          "reply_count": 30,
+          "retweet_count": 1270
+        },
+        "reply_settings": "everyone",
+        "text": "멍청해서 미안해\n못생겨서 미안해\n뚱뚱해서 미안해\n한심해서 미안해\n우울해서 미안해\n무기력해서 미안해\n너무 못나서 미안해\n병신이라서 미안해\n좋은 사람이 아니라서 미안해\n다 망쳐서 미안해\n태어나서 미안해\n살아있어서 미안해\n정신병자라서 미안해\n나를 사랑하지 못해서 미안해\n내가 다 미안해"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2104431939205914725",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 492,
+          "like_count": 9592,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 2130
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-31T23:09:46.000Z",
+        "description": "현실도피",
+        "id": "2094562446279426048",
+        "is_identity_verified": false,
+        "location": "개씹쌔끼",
+        "most_recent_tweet_id": "2104427323131105477",
+        "name": "개씹쌔끼",
+        "pinned_tweet_id": "2095486606547595580",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 8,
+          "like_count": 1379,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 232
+        },
+        "url": "",
+        "username": "roTlqToRl0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

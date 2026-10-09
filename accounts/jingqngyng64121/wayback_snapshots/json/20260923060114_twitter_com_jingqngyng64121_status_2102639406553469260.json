@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102308157863374848"
+      ],
+      "media_source_tweet_id": [
+        "2102308169544602045"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2102639406553469260",
+    "created_at": "2026-09-23T06:01:14.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T07:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102639406553469260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2059149411007991808",
+          "start": 3,
+          "username": "wndsfefoumxlw6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6kT8a72b3o",
+          "end": 47,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2102308169544602045/photo/1",
+          "media_key": "3_2102308157863374848",
+          "start": 24,
+          "url": "https://t.co/6kT8a72b3o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102639406553469260",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2102308157863374848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102308169544602045",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wndsfefoumxlw6: 推特： https://t.co/6kT8a72b3o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 741,
+        "media_key": "3_2102308157863374848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSzmIY3aMAAY-Lt.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102308157863374848"
+          ],
+          "media_source_tweet_id": [
+            "2102308169544602045"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2102639406553469260",
+        "created_at": "2026-09-23T06:01:14.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T07:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102639406553469260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2059149411007991808",
+              "start": 3,
+              "username": "wndsfefoumxlw6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6kT8a72b3o",
+              "end": 47,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2102308169544602045/photo/1",
+              "media_key": "3_2102308157863374848",
+              "start": 24,
+              "url": "https://t.co/6kT8a72b3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102639406553469260",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102308157863374848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102308169544602045",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wndsfefoumxlw6: 推特： https://t.co/6kT8a72b3o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102308157863374848"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2102308169544602045",
+        "created_at": "2026-09-22T08:05:01.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102308169544602045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6kT8a72b3o",
+              "end": 27,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2102308169544602045/photo/1",
+              "media_key": "3_2102308157863374848",
+              "start": 4,
+              "url": "https://t.co/6kT8a72b3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102308169544602045",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102308157863374848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 17262,
+          "like_count": 688,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "推特： https://t.co/6kT8a72b3o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2102639406553469260",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 485,
+          "like_count": 9207,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 2045
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWiflqis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 54,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 31,
+                "url": "https://t.co/89bWiflqis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CutUo"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102443042187981016",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 346,
+          "like_count": 8569,
+          "listed_count": 4,
+          "media_count": 514,
+          "tweet_count": 3920
+        },
+        "url": "https://t.co/nSeU2CutUo",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

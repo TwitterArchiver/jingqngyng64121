@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2098533033167015937"
+      ],
+      "media_source_tweet_id": [
+        "2098819427290792420"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2105184017247293488",
+    "created_at": "2026-09-30T06:32:36.000Z",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T07:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105184017247293488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1748754518853009410",
+          "start": 3,
+          "username": "izkikimf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eevGQAa7qb",
+          "end": 107,
+          "expanded_url": "https://x.com/tomiezequiel15/status/2098819427290792420/video/1",
+          "media_key": "13_2098533033167015937",
+          "start": 84,
+          "url": "https://t.co/eevGQAa7qb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105184017247293488",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "13_2098533033167015937"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6073
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104946828387013035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @izkikimf: To passando por uma mistura de depressão e tesão\nVou gozar e me matar https://t.co/eevGQAa7qb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19156,
+        "height": 480,
+        "media_key": "13_2098533033167015937",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098533033167015937/img/JvBIsPfHhDbat__x.jpg",
+        "public_metrics": {
+          "view_count": 1623549
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098533033167015937/vid/avc1/360x270/i2P6_t4_xjcJa3xO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098533033167015937/vid/avc1/480x360/-Nh2cnuLRLT2-e2M.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098533033167015937/vid/avc1/640x480/wBNmaABYfhKXgPfX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098533033167015937/pl/EIcZuRRBTXZtSYNG.m3u8?v=cfc"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098533033167015937"
+          ],
+          "media_source_tweet_id": [
+            "2098819427290792420"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2105184017247293488",
+        "created_at": "2026-09-30T06:32:36.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T07:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105184017247293488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1748754518853009410",
+              "start": 3,
+              "username": "izkikimf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eevGQAa7qb",
+              "end": 107,
+              "expanded_url": "https://x.com/tomiezequiel15/status/2098819427290792420/video/1",
+              "media_key": "13_2098533033167015937",
+              "start": 84,
+              "url": "https://t.co/eevGQAa7qb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105184017247293488",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2098533033167015937"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6073
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104946828387013035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @izkikimf: To passando por uma mistura de depressão e tesão\nVou gozar e me matar https://t.co/eevGQAa7qb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098533033167015937"
+          ],
+          "media_source_tweet_id": [
+            "2098819427290792420"
+          ]
+        },
+        "author_id": "1748754518853009410",
+        "conversation_id": "2104946828387013035",
+        "created_at": "2026-09-29T14:50:06.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T15:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104946828387013035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eevGQAa7qb",
+              "end": 93,
+              "expanded_url": "https://x.com/tomiezequiel15/status/2098819427290792420/video/1",
+              "media_key": "13_2098533033167015937",
+              "start": 70,
+              "url": "https://t.co/eevGQAa7qb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104946828387013035",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2098533033167015937"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 895,
+          "impression_count": 184359,
+          "like_count": 19607,
+          "quote_count": 176,
+          "reply_count": 83,
+          "retweet_count": 6073
+        },
+        "reply_settings": "everyone",
+        "text": "To passando por uma mistura de depressão e tesão\nVou gozar e me matar https://t.co/eevGQAa7qb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098533033167015937"
+          ]
+        },
+        "author_id": "2172799250",
+        "conversation_id": "2098819427290792420",
+        "created_at": "2026-09-12T17:02:00.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098819427290792420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ANgyU7Uo80",
+              "end": 78,
+              "expanded_url": "https://x.com/tomiezequiel15/status/2098819427290792420/video/1",
+              "media_key": "13_2098533033167015937",
+              "start": 55,
+              "url": "https://t.co/ANgyU7Uo80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098819427290792420",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2098533033167015937"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1249,
+          "impression_count": 2124589,
+          "like_count": 18049,
+          "quote_count": 112,
+          "reply_count": 20,
+          "retweet_count": 4599
+        },
+        "reply_settings": "everyone",
+        "text": "la vida cuando aceptas que no perteneces a ningún lado https://t.co/ANgyU7Uo80"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2105184017247293488",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 510,
+          "like_count": 9871,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 2220
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:09:13.000Z",
+        "description": "Meio esquisita do cabelo vermelho \n19y\n⋆˚꩜｡Sweet cherry pie",
+        "id": "1748754518853009410",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105152878557925399",
+        "name": "É Kiki 𖦹",
+        "pinned_tweet_id": "2102807094403424757",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748754518853009410/1789793536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101172499975180288/o1ycsj1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 106,
+          "like_count": 760,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 536
+        },
+        "url": "",
+        "username": "izkikimf",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

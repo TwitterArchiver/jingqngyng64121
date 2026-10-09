@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2105108404041863431",
+    "created_at": "2026-09-30T01:32:09.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T02:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105108404041863431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1336507280867479554",
+          "start": 3,
+          "username": "judsan12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105108404041863431",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3199
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104798330026946771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @judsan12: トイレで泣いたことのある人\n食べながら泣いたことのある人\nお風呂の中で泣いたことのある人\nベッドの中で泣いたことのある人\n人混みから離れて泣いたことのある人\n怒られた後一人で泣いたことのある人\n帰りの玄関で泣いたことのある人\n友達と話してて泣いたこと…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2105108404041863431",
+        "created_at": "2026-09-30T01:32:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T02:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105108404041863431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1336507280867479554",
+              "start": 3,
+              "username": "judsan12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105108404041863431",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3199
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104798330026946771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @judsan12: トイレで泣いたことのある人\n食べながら泣いたことのある人\nお風呂の中で泣いたことのある人\nベッドの中で泣いたことのある人\n人混みから離れて泣いたことのある人\n怒られた後一人で泣いたことのある人\n帰りの玄関で泣いたことのある人\n友達と話してて泣いたこと…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1336507280867479554",
+        "conversation_id": "2104798330026946771",
+        "created_at": "2026-09-29T05:00:01.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104798330026946771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104798330026946771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1194,
+          "impression_count": 447589,
+          "like_count": 24363,
+          "quote_count": 440,
+          "reply_count": 121,
+          "retweet_count": 3199
+        },
+        "reply_settings": "everyone",
+        "text": "トイレで泣いたことのある人\n食べながら泣いたことのある人\nお風呂の中で泣いたことのある人\nベッドの中で泣いたことのある人\n人混みから離れて泣いたことのある人\n怒られた後一人で泣いたことのある人\n帰りの玄関で泣いたことのある人\n友達と話してて泣いたことのある人\nみんなみんな幸せになれ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2105108404041863431",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 511,
+          "like_count": 9846,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 2217
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-09T03:07:44.000Z",
+        "description": "ちょっとした気付きやおっさんの生き様をツイートしてます。幸せと優しさが人生のテーマ。僕の言葉が誰かの癒しになればいいな！ うつ病と闘いながら、父を自宅で看取り、認知症の母はグループホームに入りました。保護猫のコテツと暮らしています。みんなが互いを尊重しながら障害者も健常者も幸せを感じられる世の中になることが目標です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/22ACQ79DP88CA?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/65rDGvd9Lo"
+              }
+            ]
+          }
+        },
+        "id": "1336507280867479554",
+        "is_identity_verified": true,
+        "location": "欲しいものリスト↓",
+        "most_recent_tweet_id": "2104961107912008169",
+        "name": "じゃどさん",
+        "pinned_tweet_id": "1983692829995008127",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1336507280867479554/1625123867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1409920149897940995/i5cb_8Qt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90296,
+          "following_count": 16873,
+          "like_count": 136671,
+          "listed_count": 372,
+          "media_count": 7544,
+          "tweet_count": 95339
+        },
+        "url": "https://t.co/65rDGvd9Lo",
+        "username": "judsan12",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

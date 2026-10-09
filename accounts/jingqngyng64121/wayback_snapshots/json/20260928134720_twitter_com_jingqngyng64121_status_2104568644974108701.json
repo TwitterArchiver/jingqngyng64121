@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2104568644974108701",
+    "created_at": "2026-09-28T13:47:20.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104568644974108701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "839543419072499712",
+          "start": 3,
+          "username": "xYsfknBXPT6M0jo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104568644974108701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 176
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990424209328349606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xYsfknBXPT6M0jo: 科学家刚刚证明，你可以在4小时内逆转大脑年龄\n\n2025年11月发生的事情将改写人类的寿命。\n\n单次服用25毫克裸盖菇素不仅改变了意识状态，它还能使人脑物理性地逆转至年轻状态。效果可测量、可重复、持久。\n\n改变一切的数据：… https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1990424195369783296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G59oQo1b0AAIXlw.jpg",
+        "width": 576
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1990424195357159424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G59oQoybMAAT76H.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2104568644974108701",
+        "created_at": "2026-09-28T13:47:20.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104568644974108701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "839543419072499712",
+              "start": 3,
+              "username": "xYsfknBXPT6M0jo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104568644974108701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 176
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990424209328349606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xYsfknBXPT6M0jo: 科学家刚刚证明，你可以在4小时内逆转大脑年龄\n\n2025年11月发生的事情将改写人类的寿命。\n\n单次服用25毫克裸盖菇素不仅改变了意识状态，它还能使人脑物理性地逆转至年轻状态。效果可测量、可重复、持久。\n\n改变一切的数据：… https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990424195369783296",
+            "3_1990424195357159424"
+          ]
+        },
+        "author_id": "839543419072499712",
+        "conversation_id": "1990424209328349606",
+        "created_at": "2025-11-17T14:18:06.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2025-11-17T15:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990424209328349606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oaHqC9QiB3",
+              "end": 135,
+              "expanded_url": "https://x.com/xYsfknBXPT6M0jo/status/1990424209328349606/photo/1",
+              "media_key": "3_1990424195369783296",
+              "start": 112,
+              "url": "https://t.co/oaHqC9QiB3"
+            },
+            {
+              "display_url": "pic.x.com/oaHqC9QiB3",
+              "end": 135,
+              "expanded_url": "https://x.com/xYsfknBXPT6M0jo/status/1990424209328349606/photo/1",
+              "media_key": "3_1990424195357159424",
+              "start": 112,
+              "url": "https://t.co/oaHqC9QiB3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990424209328349606",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1990424195369783296"
+          },
+          {
+            "media_key": "3_1990424195357159424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "科学家刚刚证明，你可以在4小时内逆转大脑年龄\n\n2025年11月发生的事情将改写人类的寿命。\n\n单次服用25毫克裸盖菇素不仅改变了意识状态，它还能使人脑物理性地逆转至年轻状态。效果可测量、可重复、持久。\n\n改变一切的数据：\n\n你大脑的默认模式网络……也就是控制你思维的僵化自动驾驶系统……崩溃了40%。熵值飙升了25%。几个小时内，就出现了与儿童大脑完全相同的神经模式。这种灵活性持续了数天。\n\n这不是理论，这是测量。\n\n《自然》杂志发表了这项研究。布莱恩·约翰逊进行了现场记录。功能磁共振成像扫描证实了看似不可能的事情：通过单一分子实现大脑的暂时性再生。\n\n现在，请把这些点连接起来，它们会让你心跳停止：\n\n历时十五年、追踪七万余人的研究表明，幸福感能降低22%的死亡风险。乐观情绪能降低35%的心脏病发作风险。目标感和幸福感——这些正是裸盖菇素作用下产生的状态——比胆固醇更能预测死亡率。\n\n氯胺酮已使表观遗传时钟上的生物年龄逆转了3年。该研究于2025年发表，经过同行评审，且结果可重复。\n\n算算账：\n\n一次督导疗程。四小时大脑状态转变。四周可塑性窗口期。相当于缩短一到三年的生理年龄。通过持续的健康状态，死亡风险降低16%到35%。\n\n对于十亿老年人来说，这意味着避免了三千亿例死亡，节省了三万亿美元的医疗保健费用，并将功能性寿命延长了百分之十到百分之二十。\n\n该机制简单得残酷：\n\n5-HT2A受体大量涌现。前额叶僵化消散。感觉统合爆发式增长。你的大脑重新找回了年轻时的模样。熵值峰值促使神经回路重塑。余晖巩固了新的模式。\n\n第三阶段试验将于90天后启动。\n\n如果熵值没有超过10%，或者寿命增益低于5%，那么这个假设就站不住脚了。如果炎症达到20%，我们就立即停止研究。\n\n但如果情况属实呢？\n\n衰老变成了一种可选项。\n\n从验证到制定方案，时间线被压缩到18个月。医学与进化之间的界限变得模糊不清。\n\n一个分子。四个小时。一切都改变了。\n\n这是转折点。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 540,
+          "impression_count": 128845,
+          "like_count": 564,
+          "quote_count": 4,
+          "reply_count": 30,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "科学家刚刚证明，你可以在4小时内逆转大脑年龄\n\n2025年11月发生的事情将改写人类的寿命。\n\n单次服用25毫克裸盖菇素不仅改变了意识状态，它还能使人脑物理性地逆转至年轻状态。效果可测量、可重复、持久。\n\n改变一切的数据： https://t.co/oaHqC9QiB3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2104568644974108701",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 500,
+          "like_count": 9673,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 2159
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-08T18:28:43.000Z",
+        "description": "我自悠悠立清格",
+        "id": "839543419072499712",
+        "is_identity_verified": false,
+        "location": "East Region, Singapore",
+        "most_recent_tweet_id": "2104555328503476608",
+        "name": "宇峒",
+        "pinned_tweet_id": "1618857040704864256",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690945607844900864/NXyXyBYn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40786,
+          "following_count": 5943,
+          "like_count": 70111,
+          "listed_count": 151,
+          "media_count": 7992,
+          "tweet_count": 53240
+        },
+        "url": "",
+        "username": "xYsfknBXPT6M0jo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

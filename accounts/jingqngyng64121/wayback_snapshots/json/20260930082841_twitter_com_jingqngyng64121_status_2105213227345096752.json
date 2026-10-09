@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104908629300445184",
+        "3_2104908629266886656"
+      ],
+      "media_source_tweet_id": [
+        "2104908643842031957",
+        "2104908643842031957"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2105213227345096752",
+    "created_at": "2026-09-30T08:28:41.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T09:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105213227345096752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452779079241728",
+          "start": 3,
+          "username": "ES08107188"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xpbs308YLw",
+          "end": 99,
+          "expanded_url": "https://x.com/ES08107188/status/2104908643842031957/photo/1",
+          "media_key": "3_2104908629300445184",
+          "start": 76,
+          "url": "https://t.co/Xpbs308YLw"
+        },
+        {
+          "display_url": "pic.x.com/Xpbs308YLw",
+          "end": 99,
+          "expanded_url": "https://x.com/ES08107188/status/2104908643842031957/photo/1",
+          "media_key": "3_2104908629266886656",
+          "start": 76,
+          "url": "https://t.co/Xpbs308YLw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105213227345096752",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104908629300445184"
+      },
+      {
+        "media_key": "3_2104908629266886656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104908643842031957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ES08107188: おばあちゃん認知症になったからロリィタとかLIZLISA着てるときじゃないと孫だって思い出してくれなくて毎回会う時これ https://t.co/Xpbs308YLw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3052,
+        "media_key": "3_2104908629300445184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYjPv4bgAArRkC.jpg",
+        "width": 2323
+      },
+      {
+        "height": 3380,
+        "media_key": "3_2104908629266886656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYjPvwbcAAtSZP.jpg",
+        "width": 2722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104908629300445184",
+            "3_2104908629266886656"
+          ],
+          "media_source_tweet_id": [
+            "2104908643842031957",
+            "2104908643842031957"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2105213227345096752",
+        "created_at": "2026-09-30T08:28:41.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T09:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105213227345096752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452779079241728",
+              "start": 3,
+              "username": "ES08107188"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xpbs308YLw",
+              "end": 99,
+              "expanded_url": "https://x.com/ES08107188/status/2104908643842031957/photo/1",
+              "media_key": "3_2104908629300445184",
+              "start": 76,
+              "url": "https://t.co/Xpbs308YLw"
+            },
+            {
+              "display_url": "pic.x.com/Xpbs308YLw",
+              "end": 99,
+              "expanded_url": "https://x.com/ES08107188/status/2104908643842031957/photo/1",
+              "media_key": "3_2104908629266886656",
+              "start": 76,
+              "url": "https://t.co/Xpbs308YLw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105213227345096752",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104908629300445184"
+          },
+          {
+            "media_key": "3_2104908629266886656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104908643842031957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ES08107188: おばあちゃん認知症になったからロリィタとかLIZLISA着てるときじゃないと孫だって思い出してくれなくて毎回会う時これ https://t.co/Xpbs308YLw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104908629300445184",
+            "3_2104908629266886656"
+          ]
+        },
+        "author_id": "1986452779079241728",
+        "conversation_id": "2104908643842031957",
+        "created_at": "2026-09-29T12:18:22.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T13:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104908643842031957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xpbs308YLw",
+              "end": 83,
+              "expanded_url": "https://x.com/ES08107188/status/2104908643842031957/photo/1",
+              "media_key": "3_2104908629300445184",
+              "start": 60,
+              "url": "https://t.co/Xpbs308YLw"
+            },
+            {
+              "display_url": "pic.x.com/Xpbs308YLw",
+              "end": 83,
+              "expanded_url": "https://x.com/ES08107188/status/2104908643842031957/photo/1",
+              "media_key": "3_2104908629266886656",
+              "start": 60,
+              "url": "https://t.co/Xpbs308YLw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104908643842031957",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104908629300445184"
+          },
+          {
+            "media_key": "3_2104908629266886656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5750,
+          "impression_count": 7317300,
+          "like_count": 162627,
+          "quote_count": 519,
+          "reply_count": 133,
+          "retweet_count": 7107
+        },
+        "reply_settings": "everyone",
+        "text": "おばあちゃん認知症になったからロリィタとかLIZLISA着てるときじゃないと孫だって思い出してくれなくて毎回会う時これ https://t.co/Xpbs308YLw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2105213227345096752",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 511,
+          "like_count": 9913,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 2233
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:17:23.000Z",
+        "description": "レオくんに垢管理してもらってるので男と絡めません",
+        "id": "1986452779079241728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105195027442135286",
+        "name": "♥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452779079241728/1786003144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103904497756250112/ozda1ImY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 42,
+          "like_count": 1118,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "ES08107188",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

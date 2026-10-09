@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2107305549222326782",
+    "created_at": "2026-10-06T03:02:49.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T04:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107305549222326782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2030535073284624384",
+          "start": 3,
+          "username": "ZhangQingd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107305549222326782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107075417278709965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZhangQingd: 就在刚刚 我的精神分裂症分裂情感性障碍偏执性精神障碍急性短暂性精神病性障碍抑郁症恶劣心境障碍双相情感情感障碍环性心境障碍焦虑症恐惧症强迫症创伤后应激障碍适应障碍急性应激障碍进食障碍睡眠觉醒障碍分离性障碍躯体症状及相关障碍人格障碍注意缺陷多动障碍抽…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2107305549222326782",
+        "created_at": "2026-10-06T03:02:49.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T04:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107305549222326782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2030535073284624384",
+              "start": 3,
+              "username": "ZhangQingd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107305549222326782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107075417278709965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZhangQingd: 就在刚刚 我的精神分裂症分裂情感性障碍偏执性精神障碍急性短暂性精神病性障碍抑郁症恶劣心境障碍双相情感情感障碍环性心境障碍焦虑症恐惧症强迫症创伤后应激障碍适应障碍急性应激障碍进食障碍睡眠觉醒障碍分离性障碍躯体症状及相关障碍人格障碍注意缺陷多动障碍抽…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030535073284624384",
+        "conversation_id": "2107075417278709965",
+        "created_at": "2026-10-05T11:48:21.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T12:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107075417278709965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107075417278709965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5312,
+          "like_count": 169,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "就在刚刚 我的精神分裂症分裂情感性障碍偏执性精神障碍急性短暂性精神病性障碍抑郁症恶劣心境障碍双相情感情感障碍环性心境障碍焦虑症恐惧症强迫症创伤后应激障碍适应障碍急性应激障碍进食障碍睡眠觉醒障碍分离性障碍躯体症状及相关障碍人格障碍注意缺陷多动障碍抽动障碍孤独症谱系障碍全部发作"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kawaiiyang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kawaiiyang",
+                "start": 0,
+                "url": "https://t.co/YBypjEJiNT"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2107305549222326782",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 521,
+          "like_count": 10383,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2369
+        },
+        "url": "https://t.co/YBypjEJiNT",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-08T06:44:32.000Z",
+        "description": "只是一只普通小猫\n只是一只想吃优质猫条的小猫\n只是一只不想依靠猫妈妈、猫爸爸的小猫......",
+        "id": "2030535073284624384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107292277060313563",
+        "name": "一只小猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2030535073284624384/1789376305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098092890207752192/cHXVF3qh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 1701,
+          "like_count": 7888,
+          "listed_count": 3,
+          "media_count": 240,
+          "tweet_count": 5892
+        },
+        "url": "",
+        "username": "ZhangQingd",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

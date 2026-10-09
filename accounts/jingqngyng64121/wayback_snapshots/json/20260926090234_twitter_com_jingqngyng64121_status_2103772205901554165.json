@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2103772205901554165",
+    "created_at": "2026-09-26T09:02:34.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T10:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103772205901554165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1879184489940938752",
+          "start": 3,
+          "username": "wanyulliu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103772205901554165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103334474872479994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wanyulliu: 985＞211＞一本＞二本＞三本&gt;公办大专＞民办大专&gt;高中&gt;民办高中&gt;公办职高&gt;中专&gt;技校&gt;民办职高&gt;初中&gt;小学&gt;学龄前&gt;文盲&gt;糖人&gt;老傻子&gt;死人&gt;狗&gt;我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2103772205901554165",
+        "created_at": "2026-09-26T09:02:34.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103772205901554165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879184489940938752",
+              "start": 3,
+              "username": "wanyulliu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103772205901554165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103334474872479994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wanyulliu: 985＞211＞一本＞二本＞三本&gt;公办大专＞民办大专&gt;高中&gt;民办高中&gt;公办职高&gt;中专&gt;技校&gt;民办职高&gt;初中&gt;小学&gt;学龄前&gt;文盲&gt;糖人&gt;老傻子&gt;死人&gt;狗&gt;我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879184489940938752",
+        "conversation_id": "2103334474872479994",
+        "created_at": "2026-09-25T04:03:11.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T05:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103334474872479994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103334474872479994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11739,
+          "like_count": 284,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "985＞211＞一本＞二本＞三本&gt;公办大专＞民办大专&gt;高中&gt;民办高中&gt;公办职高&gt;中专&gt;技校&gt;民办职高&gt;初中&gt;小学&gt;学龄前&gt;文盲&gt;糖人&gt;老傻子&gt;死人&gt;狗&gt;我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2103772205901554165",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 493,
+          "like_count": 9377,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 2071
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-14T15:11:24.000Z",
+        "description": "燝\n🇨🇳｜CN/EN｜左翼自由派｜双相重抑\n叫我Feather/祁燝/小燝就好\n留学ing……",
+        "id": "1879184489940938752",
+        "is_identity_verified": false,
+        "location": "89.64km",
+        "most_recent_tweet_id": "2103764749188317559",
+        "name": "雪Yuki",
+        "pinned_tweet_id": "2044575374382952664",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1879184489940938752/1749102957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930503792291962880/OO5-6IXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 117,
+          "like_count": 3018,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 569
+        },
+        "url": "",
+        "username": "wanyulliu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

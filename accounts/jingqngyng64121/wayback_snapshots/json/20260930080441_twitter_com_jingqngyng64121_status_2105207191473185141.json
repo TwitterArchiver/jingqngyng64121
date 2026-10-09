@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2105207191473185141",
+    "created_at": "2026-09-30T08:04:41.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T09:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105207191473185141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hh0715kb/statu…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/hh0715kb/status/2105196593888846193",
+          "start": 38,
+          "url": "https://t.co/qFm7KdyUmk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105207191473185141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105196593888846193",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想象一下，我是你的山东老公，每天家暴你最后来一句satisfaction。 https://t.co/qFm7KdyUmk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2105207191473185141",
+        "created_at": "2026-09-30T08:04:41.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T09:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105207191473185141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hh0715kb/statu…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/hh0715kb/status/2105196593888846193",
+              "start": 38,
+              "url": "https://t.co/qFm7KdyUmk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105207191473185141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105196593888846193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想象一下，我是你的山东老公，每天家暴你最后来一句satisfaction。 https://t.co/qFm7KdyUmk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905456549449138178",
+        "conversation_id": "2105196593888846193",
+        "created_at": "2026-09-30T07:22:35.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T08:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105196593888846193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105196593888846193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下，我是你的河南老婆，每天带着你去偷井盖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2105207191473185141",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 510,
+          "like_count": 9902,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 2228
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-28T03:07:02.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/kb0715hh",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/kb0715hh",
+                "start": 0,
+                "url": "https://t.co/yyh0lqHlDD"
+              }
+            ]
+          }
+        },
+        "id": "1905456549449138178",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105205555312967710",
+        "name": "空白4.0",
+        "pinned_tweet_id": "2104433934104760536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905456549449138178/1789267876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104846454447595520/iKExLmN__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 89,
+          "like_count": 996,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/yyh0lqHlDD",
+        "username": "hh0715kb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

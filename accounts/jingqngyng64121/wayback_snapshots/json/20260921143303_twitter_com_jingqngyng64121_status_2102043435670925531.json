@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2102043435670925531",
+    "created_at": "2026-09-21T14:33:03.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T15:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102043435670925531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2100572249082540032",
+          "start": 3,
+          "username": "sb_sickwanderer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102043435670925531",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5776
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101579141476921773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sb_sickwanderer: 2023: 작년에 나 스스로 목숨을 끊었어야 했어\n2024: 작년에 나 스스로 목숨을 끊었어야 했어\n2025: 작년에 나 스스로 목숨을 끊었어야 했어\n2026: 작년에 나 스스로 목숨을 끊었어야 했어\n2027:…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2102043435670925531",
+        "created_at": "2026-09-21T14:33:03.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102043435670925531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2100572249082540032",
+              "start": 3,
+              "username": "sb_sickwanderer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102043435670925531",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5776
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101579141476921773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sb_sickwanderer: 2023: 작년에 나 스스로 목숨을 끊었어야 했어\n2024: 작년에 나 스스로 목숨을 끊었어야 했어\n2025: 작년에 나 스스로 목숨을 끊었어야 했어\n2026: 작년에 나 스스로 목숨을 끊었어야 했어\n2027:…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2100572249082540032",
+        "conversation_id": "2101579141476921773",
+        "created_at": "2026-09-20T07:48:07.000Z",
+        "display_text_range": [
+          0,
+          167
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T08:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101579141476921773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101579141476921773",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 636,
+          "impression_count": 360085,
+          "like_count": 19999,
+          "quote_count": 169,
+          "reply_count": 29,
+          "retweet_count": 5776
+        },
+        "reply_settings": "everyone",
+        "text": "2023: 작년에 나 스스로 목숨을 끊었어야 했어\n2024: 작년에 나 스스로 목숨을 끊었어야 했어\n2025: 작년에 나 스스로 목숨을 끊었어야 했어\n2026: 작년에 나 스스로 목숨을 끊었어야 했어\n2027: 작년에 나 스스로 목숨을 끊었어야 했어\n2028: 작년에 나 스스로 목숨을 끊었어야 했어"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2102043435670925531",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 487,
+          "like_count": 9189,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 2037
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-17T13:08:03.000Z",
+        "description": "꿈이 현실이 될 때까지",
+        "id": "2100572249082540032",
+        "is_identity_verified": false,
+        "location": "치사량",
+        "most_recent_tweet_id": "2101991137993241060",
+        "name": "tlqkf",
+        "pinned_tweet_id": "2101579141476921773",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 0,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "sb_sickwanderer",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

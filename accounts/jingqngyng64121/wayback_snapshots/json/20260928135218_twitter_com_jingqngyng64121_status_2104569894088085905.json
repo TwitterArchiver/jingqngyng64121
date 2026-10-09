@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2104569894088085905",
+    "created_at": "2026-09-28T13:52:18.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104569894088085905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1804721568955912192",
+          "start": 3,
+          "username": "tart_egg25188"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104569894088085905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104446756637589729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tart_egg25188: 医生说频繁打✈️记忆力会变差，于是我对着你照片一天500发，试图忘记你 。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2104569894088085905",
+        "created_at": "2026-09-28T13:52:18.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104569894088085905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1804721568955912192",
+              "start": 3,
+              "username": "tart_egg25188"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104569894088085905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104446756637589729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tart_egg25188: 医生说频繁打✈️记忆力会变差，于是我对着你照片一天500发，试图忘记你 。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804721568955912192",
+        "conversation_id": "2104446756637589729",
+        "created_at": "2026-09-28T05:43:00.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104446756637589729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104446756637589729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9216,
+          "like_count": 127,
+          "quote_count": 1,
+          "reply_count": 61,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "医生说频繁打✈️记忆力会变差，于是我对着你照片一天500发，试图忘记你 。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2104569894088085905",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 500,
+          "like_count": 9683,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 2163
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T03:42:29.000Z",
+        "description": "和我一起涨粉吧～关注我的朋友都会得到回关\n00后/商科硕士/雅思7.5/web3/萌妹/互联网该溜子",
+        "id": "1804721568955912192",
+        "is_identity_verified": false,
+        "location": "我要发好多好多好多文案",
+        "most_recent_tweet_id": "2104569262853791996",
+        "name": "egg tart（互～回～）",
+        "pinned_tweet_id": "2100048059917070714",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804721568955912192/1789077908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098170890928455680/Sm19-I1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5442,
+          "following_count": 3112,
+          "like_count": 27072,
+          "listed_count": 7,
+          "media_count": 119,
+          "tweet_count": 11463
+        },
+        "url": "",
+        "username": "tart_egg25188",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

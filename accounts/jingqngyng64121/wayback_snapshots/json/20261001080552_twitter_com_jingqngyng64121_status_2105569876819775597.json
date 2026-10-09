@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105569869748228096",
+        "3_2105569869731422208",
+        "3_2105569869685284864"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2105569876819775597",
+    "created_at": "2026-10-01T08:05:52.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T09:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105569876819775597"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9enDYwITuE",
+          "end": 53,
+          "expanded_url": "https://x.com/jingqngyng64121/status/2105569876819775597/photo/1",
+          "media_key": "3_2105569869748228096",
+          "start": 30,
+          "url": "https://t.co/9enDYwITuE"
+        },
+        {
+          "display_url": "pic.x.com/9enDYwITuE",
+          "end": 53,
+          "expanded_url": "https://x.com/jingqngyng64121/status/2105569876819775597/photo/1",
+          "media_key": "3_2105569869731422208",
+          "start": 30,
+          "url": "https://t.co/9enDYwITuE"
+        },
+        {
+          "display_url": "pic.x.com/9enDYwITuE",
+          "end": 53,
+          "expanded_url": "https://x.com/jingqngyng64121/status/2105569876819775597/photo/1",
+          "media_key": "3_2105569869685284864",
+          "start": 30,
+          "url": "https://t.co/9enDYwITuE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105569876819775597",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105569869748228096"
+      },
+      {
+        "media_key": "3_2105569869731422208"
+      },
+      {
+        "media_key": "3_2105569869685284864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.好的我会坚持住的！\n2.😡😡😡你关我就关\n3.给我爆米 https://t.co/9enDYwITuE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105569869748228096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTh8pAgb0AAW_m4.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105569869731422208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTh8pAcbYAAW8Bf.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105569869685284864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTh8pARbYAAsiSw.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105569869748228096",
+            "3_2105569869731422208",
+            "3_2105569869685284864"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2105569876819775597",
+        "created_at": "2026-10-01T08:05:52.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T09:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105569876819775597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9enDYwITuE",
+              "end": 53,
+              "expanded_url": "https://x.com/jingqngyng64121/status/2105569876819775597/photo/1",
+              "media_key": "3_2105569869748228096",
+              "start": 30,
+              "url": "https://t.co/9enDYwITuE"
+            },
+            {
+              "display_url": "pic.x.com/9enDYwITuE",
+              "end": 53,
+              "expanded_url": "https://x.com/jingqngyng64121/status/2105569876819775597/photo/1",
+              "media_key": "3_2105569869731422208",
+              "start": 30,
+              "url": "https://t.co/9enDYwITuE"
+            },
+            {
+              "display_url": "pic.x.com/9enDYwITuE",
+              "end": 53,
+              "expanded_url": "https://x.com/jingqngyng64121/status/2105569876819775597/photo/1",
+              "media_key": "3_2105569869685284864",
+              "start": 30,
+              "url": "https://t.co/9enDYwITuE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105569876819775597",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105569869748228096"
+          },
+          {
+            "media_key": "3_2105569869731422208"
+          },
+          {
+            "media_key": "3_2105569869685284864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.好的我会坚持住的！\n2.😡😡😡你关我就关\n3.给我爆米 https://t.co/9enDYwITuE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kawaiiyang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kawaiiyang",
+                "start": 0,
+                "url": "https://t.co/YBypjEJiNT"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2105569876819775597",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 510,
+          "like_count": 9972,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 2268
+        },
+        "url": "https://t.co/YBypjEJiNT",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

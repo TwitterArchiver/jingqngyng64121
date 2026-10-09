@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102445700961402880"
+      ],
+      "media_source_tweet_id": [
+        "2102445716018782556"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2102956752245502192",
+    "created_at": "2026-09-24T03:02:15.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T04:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102956752245502192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1824973327208747008",
+          "start": 3,
+          "username": "DokiSaudemental"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vzAcdcA0JT",
+          "end": 80,
+          "expanded_url": "https://x.com/DokiSaudemental/status/2102445716018782556/photo/1",
+          "media_key": "3_2102445700961402880",
+          "start": 57,
+          "url": "https://t.co/vzAcdcA0JT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102956752245502192",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "3_2102445700961402880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3811
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102445716018782556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DokiSaudemental: Vamo fazer um teste\n\nQual a melhor? https://t.co/vzAcdcA0JT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2102445700961402880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS1jOc1aAAALRVW.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102445700961402880"
+          ],
+          "media_source_tweet_id": [
+            "2102445716018782556"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102956752245502192",
+        "created_at": "2026-09-24T03:02:15.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T04:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102956752245502192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1824973327208747008",
+              "start": 3,
+              "username": "DokiSaudemental"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vzAcdcA0JT",
+              "end": 80,
+              "expanded_url": "https://x.com/DokiSaudemental/status/2102445716018782556/photo/1",
+              "media_key": "3_2102445700961402880",
+              "start": 57,
+              "url": "https://t.co/vzAcdcA0JT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102956752245502192",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2102445700961402880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3811
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102445716018782556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DokiSaudemental: Vamo fazer um teste\n\nQual a melhor? https://t.co/vzAcdcA0JT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102445700961402880"
+          ]
+        },
+        "author_id": "1824973327208747008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102445716018782556",
+        "created_at": "2026-09-22T17:11:34.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T18:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102445716018782556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vzAcdcA0JT",
+              "end": 59,
+              "expanded_url": "https://x.com/DokiSaudemental/status/2102445716018782556/photo/1",
+              "media_key": "3_2102445700961402880",
+              "start": 36,
+              "url": "https://t.co/vzAcdcA0JT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102445716018782556",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2102445700961402880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1006,
+          "impression_count": 725172,
+          "like_count": 16882,
+          "quote_count": 428,
+          "reply_count": 1019,
+          "retweet_count": 3811
+        },
+        "reply_settings": "everyone",
+        "text": "Vamo fazer um teste\n\nQual a melhor? https://t.co/vzAcdcA0JT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2102956752245502192",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 487,
+          "like_count": 9255,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 2057
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-18T00:55:48.000Z",
+        "description": "todos os ADMs tão com a corda na mão / icon: @ForgottenFH / Banner:@sunnyydiary",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "ForgottenFH"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "sunnyydiary"
+              }
+            ]
+          }
+        },
+        "id": "1824973327208747008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102955462794600505",
+        "name": "Doki Doki Mas Sem (com) Saúde Mental 🇧🇷",
+        "pinned_tweet_id": "2061685355397464328",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1824973327208747008/1770167465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013064758946058241/q4QD1Oyr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8125,
+          "following_count": 141,
+          "like_count": 10424,
+          "listed_count": 6,
+          "media_count": 994,
+          "tweet_count": 2933
+        },
+        "url": "",
+        "username": "DokiSaudemental",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

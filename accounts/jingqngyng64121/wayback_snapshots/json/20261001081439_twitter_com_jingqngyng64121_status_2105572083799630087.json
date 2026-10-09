@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105572075520081920"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2105572083799630087",
+    "created_at": "2026-10-01T08:14:39.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T09:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105572083799630087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MZyJQRefFs",
+          "end": 29,
+          "expanded_url": "https://x.com/jingqngyng64121/status/2105572083799630087/photo/1",
+          "media_key": "3_2105572075520081920",
+          "start": 6,
+          "url": "https://t.co/MZyJQRefFs"
+        },
+        {
+          "display_url": "x.com/jkiesoft/statu…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/jkiesoft/status/2105555836475203621",
+          "start": 30,
+          "url": "https://t.co/S8xs3N1tAS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105572083799630087",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2105572075520081920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105555836475203621",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我靠我怕了 https://t.co/MZyJQRefFs https://t.co/S8xs3N1tAS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105572075520081920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTh-pZpbQAAB5jD.jpg",
+        "width": 946
+      },
+      {
+        "height": 1866,
+        "media_key": "3_2105555829462384640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HThv3wXbwAA6dfj.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105572075520081920"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2105572083799630087",
+        "created_at": "2026-10-01T08:14:39.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T09:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105572083799630087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MZyJQRefFs",
+              "end": 29,
+              "expanded_url": "https://x.com/jingqngyng64121/status/2105572083799630087/photo/1",
+              "media_key": "3_2105572075520081920",
+              "start": 6,
+              "url": "https://t.co/MZyJQRefFs"
+            },
+            {
+              "display_url": "x.com/jkiesoft/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/jkiesoft/status/2105555836475203621",
+              "start": 30,
+              "url": "https://t.co/S8xs3N1tAS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105572083799630087",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105572075520081920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105555836475203621",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠我怕了 https://t.co/MZyJQRefFs https://t.co/S8xs3N1tAS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105555829462384640"
+          ]
+        },
+        "author_id": "1987402138667130881",
+        "conversation_id": "2105555836475203621",
+        "created_at": "2026-10-01T07:10:05.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T08:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105555836475203621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MSKZKYSQAQ",
+              "end": 43,
+              "expanded_url": "https://x.com/jkiesoft/status/2105555836475203621/photo/1",
+              "media_key": "3_2105555829462384640",
+              "start": 20,
+              "url": "https://t.co/MSKZKYSQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105555836475203621",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105555829462384640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根本就不存在这样的测试😡😡😡😡😭😭😭😭 https://t.co/MSKZKYSQAQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kawaiiyang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kawaiiyang",
+                "start": 0,
+                "url": "https://t.co/YBypjEJiNT"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2105572083799630087",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 510,
+          "like_count": 9978,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 2270
+        },
+        "url": "https://t.co/YBypjEJiNT",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-09T06:10:21.000Z",
+        "description": "二号机:@koysov2022\n非人哉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "koysov2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120069949",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120069949",
+                "start": 0,
+                "url": "https://t.co/MYZgVAViyV"
+              }
+            ]
+          }
+        },
+        "id": "1987402138667130881",
+        "is_identity_verified": false,
+        "location": "电波研究所",
+        "most_recent_tweet_id": "2105563306954252591",
+        "name": "kia",
+        "pinned_tweet_id": "2040333516790243786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987402138667130881/1790495636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043260826774392832/Mu52LJKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 751,
+          "like_count": 21453,
+          "listed_count": 0,
+          "media_count": 695,
+          "tweet_count": 10242
+        },
+        "url": "https://t.co/MYZgVAViyV",
+        "username": "jkiesoft",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

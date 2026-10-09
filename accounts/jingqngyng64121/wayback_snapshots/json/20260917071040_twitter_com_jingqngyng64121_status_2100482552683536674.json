@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2100482552683536674",
+    "created_at": "2026-09-17T07:10:40.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T08:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100482552683536674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1036167674470879232",
+          "start": 3,
+          "username": "LMing233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100482552683536674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100238973406978220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LMing233: 好爱家妻，想被她捅死，想被她一刀一刀剁碎，想被她剁碎后吃掉。好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2100482552683536674",
+        "created_at": "2026-09-17T07:10:40.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T08:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100482552683536674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1036167674470879232",
+              "start": 3,
+              "username": "LMing233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100482552683536674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100238973406978220",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LMing233: 好爱家妻，想被她捅死，想被她一刀一刀剁碎，想被她剁碎后吃掉。好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "2100238973406978220",
+        "created_at": "2026-09-16T15:02:46.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100238973406978220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100238973406978220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好爱家妻，想被她捅死，想被她一刀一刀剁碎，想被她剁碎后吃掉。好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她好想她"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2100482552683536674",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 481,
+          "like_count": 9096,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 2009
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我叫椰子 一个乐子餐券弟 精神病 我割我o 喜欢会直fo 不和健全b互fo\n家妻 @naariisaawaa_19",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "naariisaawaa_19"
+              }
+            ]
+          }
+        },
+        "id": "1036167674470879232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100248445013635439",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "2080490232533909885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1036167674470879232/1779239454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 216,
+          "like_count": 2301,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "LMing233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

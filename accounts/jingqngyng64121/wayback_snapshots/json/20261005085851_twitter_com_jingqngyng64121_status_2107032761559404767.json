@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107032755620261889"
+      ]
+    },
+    "author_id": "1992506703678705664",
+    "conversation_id": "2107017013285564919",
+    "created_at": "2026-10-05T08:58:51.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T09:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107032761559404767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2047425753227333632",
+          "start": 0,
+          "username": "YuganQwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mCxtv3keCK",
+          "end": 37,
+          "expanded_url": "https://x.com/jingqngyng64121/status/2107032761559404767/photo/1",
+          "media_key": "3_2107032755620261889",
+          "start": 14,
+          "url": "https://t.co/mCxtv3keCK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107032761559404767",
+    "in_reply_to_user_id": "2047425753227333632",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107032755620261889"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107017013285564919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuganQwQ 谢谢🙏 https://t.co/mCxtv3keCK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1398,
+        "media_key": "3_2107032755620261889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT2vILDbsAEbn4O.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107032755620261889"
+          ]
+        },
+        "author_id": "1992506703678705664",
+        "conversation_id": "2107017013285564919",
+        "created_at": "2026-10-05T08:58:51.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T09:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107032761559404767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mCxtv3keCK",
+              "end": 37,
+              "expanded_url": "https://x.com/jingqngyng64121/status/2107032761559404767/photo/1",
+              "media_key": "3_2107032755620261889",
+              "start": 14,
+              "url": "https://t.co/mCxtv3keCK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107032761559404767",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107032755620261889"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107017013285564919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ 谢谢🙏 https://t.co/mCxtv3keCK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2107017013285564919",
+        "created_at": "2026-10-05T07:56:17.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T08:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107017013285564919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107017013285564919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 621,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天是今年最后一次嗑药了。我已经答应我好朋友他们要戒药3个月了！等到二七年的时候，如果我还没破戒我将获得我将获得800块钱ᜊ⸝⸝᳐·⸝⸝᳐ᜊ​太好了，这样子我再加上我的压岁钱，我可以换一个新的小手机了，不用用这个超级旧的苹果12了啦啦啦啦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kawaiiyang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kawaiiyang",
+                "start": 0,
+                "url": "https://t.co/YBypjEJiNT"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2107032761559404767",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 522,
+          "like_count": 10323,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2351
+        },
+        "url": "https://t.co/YBypjEJiNT",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2107026557403558038",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2105458187768131727",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 540,
+          "like_count": 7010,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1680
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

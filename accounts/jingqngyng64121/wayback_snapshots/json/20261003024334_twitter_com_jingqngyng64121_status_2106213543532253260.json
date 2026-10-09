@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2106206966502842509",
+    "created_at": "2026-10-03T02:43:34.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T03:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106213543532253260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1905456549449138178",
+          "start": 0,
+          "username": "hh0715kb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106213543532253260",
+    "in_reply_to_user_id": "1905456549449138178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106206966502842509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hh0715kb 可爱喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11392,
+        "height": 1280,
+        "media_key": "13_2106206851394359296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106206851394359296/img/Rg5_gfG62_EoZbCe.jpg",
+        "public_metrics": {
+          "view_count": 25
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106206851394359296/vid/avc1/320x568/iWTpbIT6mYAggPS7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106206851394359296/vid/avc1/480x852/TFFSs6A_HcWQC9FO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106206851394359296/vid/avc1/720x1280/Z5lWR9vh4gJ19WEe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106206851394359296/pl/C7MaJWMi1bWbZYQW.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2106206966502842509",
+        "created_at": "2026-10-03T02:43:34.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T03:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106213543532253260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1905456549449138178",
+              "start": 0,
+              "username": "hh0715kb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106213543532253260",
+        "in_reply_to_user_id": "1905456549449138178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106206966502842509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hh0715kb 可爱喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106206851394359296"
+          ]
+        },
+        "author_id": "1905456549449138178",
+        "conversation_id": "2106206966502842509",
+        "created_at": "2026-10-03T02:17:26.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T03:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106206966502842509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ELk118UgT",
+              "end": 47,
+              "expanded_url": "https://x.com/hh0715kb/status/2106206966502842509/video/1",
+              "media_key": "13_2106206851394359296",
+              "start": 24,
+              "url": "https://t.co/3ELk118UgT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106206966502842509",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2106206851394359296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇，你们快看，这个是我翻相册翻到的，去年的视频 https://t.co/3ELk118UgT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kawaiiyang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kawaiiyang",
+                "start": 0,
+                "url": "https://t.co/YBypjEJiNT"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2106213543532253260",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 519,
+          "like_count": 10081,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 2306
+        },
+        "url": "https://t.co/YBypjEJiNT",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-28T03:07:02.000Z",
+        "description": "@0715kbhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "0715kbhh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/kb0715hh",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/kb0715hh",
+                "start": 0,
+                "url": "https://t.co/yyh0lqHlDD"
+              }
+            ]
+          }
+        },
+        "id": "1905456549449138178",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106206966502842509",
+        "name": "空白4.0",
+        "pinned_tweet_id": "2104433934104760536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905456549449138178/1789267876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104846454447595520/iKExLmN__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 94,
+          "like_count": 1087,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 187
+        },
+        "url": "https://t.co/yyh0lqHlDD",
+        "username": "hh0715kb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

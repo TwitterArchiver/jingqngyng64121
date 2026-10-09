@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1992506703678705664",
+    "conversation_id": "2107310674695291084",
+    "created_at": "2026-10-06T05:12:52.000Z",
+    "display_text_range": [
+      7,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T06:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107338275807809623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2067799247349792768",
+          "start": 0,
+          "username": "q1lwm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107338275807809623",
+    "in_reply_to_user_id": "2067799247349792768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107310674695291084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q1lwm 我怕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9311,
+        "height": 1280,
+        "media_key": "13_2107310647247831041",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107310647247831041/img/G4x7pvuANZtaDKHj.jpg",
+        "public_metrics": {
+          "view_count": 490
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107310647247831041/vid/avc1/320x568/axv1VtVGHCp3lQ4z.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107310647247831041/vid/avc1/480x852/iavQKzgQJ0ugaQRH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107310647247831041/vid/avc1/720x1280/uWXab7n43VE7lrFq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107310647247831041/pl/ilHqWmsajJ_Z_dgN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2107310674695291084",
+        "created_at": "2026-10-06T05:12:52.000Z",
+        "display_text_range": [
+          7,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107338275807809623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2067799247349792768",
+              "start": 0,
+              "username": "q1lwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107338275807809623",
+        "in_reply_to_user_id": "2067799247349792768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107310674695291084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q1lwm 我怕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107310647247831041"
+          ]
+        },
+        "author_id": "2067799247349792768",
+        "conversation_id": "2107310674695291084",
+        "created_at": "2026-10-06T03:23:11.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T04:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107310674695291084"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "官宣"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0H6OO9Pqtq",
+              "end": 27,
+              "expanded_url": "https://x.com/q1lwm/status/2107310674695291084/video/1",
+              "media_key": "13_2107310647247831041",
+              "start": 4,
+              "url": "https://t.co/0H6OO9Pqtq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107310674695291084",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2107310647247831041"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 977,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#官宣 https://t.co/0H6OO9Pqtq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kawaiiyang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kawaiiyang",
+                "start": 0,
+                "url": "https://t.co/YBypjEJiNT"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "is_identity_verified": false,
+        "location": "距离你0.01km",
+        "most_recent_tweet_id": "2107338275807809623",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2082495107966943510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1992506703678705664/1767786895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 521,
+          "like_count": 10397,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2373
+        },
+        "url": "https://t.co/YBypjEJiNT",
+        "username": "jingqngyng64121",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-19T02:39:48.000Z",
+        "description": "消肿博主｜love（哈基米 耍起 屌丝大水 ） ｜互fo｜不（抽因 喝九 欧弟 歌手 mtf 可要 ）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chucaoji",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chucaoji",
+                "start": 0,
+                "url": "https://t.co/G5Df3Tr4t3"
+              }
+            ]
+          }
+        },
+        "id": "2067799247349792768",
+        "is_identity_verified": false,
+        "location": "11.4km",
+        "most_recent_tweet_id": "2107331458218258919",
+        "name": "quan",
+        "pinned_tweet_id": "2105677025545732457",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067799247349792768/1790412325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100920993204289536/RK_AH76z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 829,
+          "like_count": 96,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 410
+        },
+        "url": "https://t.co/G5Df3Tr4t3",
+        "username": "q1lwm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
